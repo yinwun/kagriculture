@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# 提交包（二进制产物）
+pkg/*.tar.gz
+pkg/*.zip
+
+# 训练日志
+log/
+log-session/*.md
+
+# Replay 文件（过大，按需单独下载）
+replays/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
