@@ -604,3 +604,47 @@ reward = roi + roi_relative
 - 已将 `/data/app/sandbox/kaggle/kg-rl/eval_reports/` 同步到本地
 - 本地路径：`/Users/nickyl/Developer/Sandbox/kagriculture/eval_reports/`
 - 包含 20 个 iteration 的完整评估报告（replay.html、summary.json 等）
+
+---
+
+## 2026-08-11 晚间 — 评估结果修正与补充
+
+### 重要修正：eval 目录区分
+
+**错误**：`iter_01_20260811_075528` 是 **旧 reward + random 对手**的训练结果，不代表 ROI reward 验证。
+
+**正确**：`eval_reports/train_roi_val_250k/` 是真正的 ROI reward 验证训练（`train.py`，`opponent=trained`）。
+
+| 目录 | 对手 | Reward | 结论 |
+|------|------|--------|------|
+| `iter_01_20260811_075528` | **random** | 旧 reward（改动前） | SELL 100%，vs random 胜率无参考价值 |
+| `train_roi_val_250k/` | **trained RF** | **ROI reward** | trade_frac=97%，mean_r=43，vs RF 仍败 |
+
+### 评估结果（eval_models.py，10 episodes）
+
+#### vs trained RF
+- Trade: **97.5%**（BUY:7010, PASS:180）
+- Win rate: **0%**（0/10）
+
+#### vs random
+- Trade: **100%**（BUY:7190）
+- Win rate: **100%**（10/10）
+
+### 结论
+
+- ✅ ROI Reward 有效：trade_frac 从 0% → 97%
+- ✅ mean_reward 43.2（vs RF），远超随机基线
+- ❌ 策略退化：100% BUY，从不 SELL；vs trained RF 仍 0% 胜率
+- **核心问题**：Phase 1 仅 5 个动作，模型选择空间受限；MaskablePPO + Phase 2 是下一步
+
+### 本地同步路径
+
+```
+/Users/nickyl/Developer/Sandbox/kagriculture/eval_reports/train_roi_val_250k/
+├── train_roi_val.stdout        ← 完整训练日志
+├── train_roi_val_eval.csv      ← eval 曲线
+├── roi_reward_val_eval.md      ← vs trained RF 报告
+├── roi_reward_val_vs_random.md ← vs random 报告
+├── eval_summary.md            ← 本次评估摘要
+└── model.zip / best_model.zip
+```
