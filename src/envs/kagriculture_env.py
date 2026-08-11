@@ -205,8 +205,13 @@ class KagricultureEnv(gym.Env):
         # Phase 2 reward state
         self._consecutive_safe = 0   # counter for inactivity penalty
         self._prev_opp_money = None   # opponent money for relative reward
-        # Phase 2 (Gemini-corrected) Iter 2: track wheat for "real effect" check
+        # Iter 2: track wheat for "real effect" check
         self._prev_wheat = None
+        # ROI reward state: track net worth (cash + inventory value)
+        self._initial_W = None        # initial net worth at episode start
+        self._prev_W = None           # previous step net worth
+        self._prev_W_opp = None       # opponent previous step net worth
+        self._consecutive_idle = 0    # consecutive non-trade steps
         
     def _init_kaggle_env(self):
         """初始化 Kaggle 环境"""
@@ -239,10 +244,31 @@ class KagricultureEnv(gym.Env):
         self._prev_opp_money = None
         # Iter 2: reset wheat tracker
         self._prev_wheat = None
+        # ROI reward: reset net worth trackers
+        self._consecutive_idle = 0
+        self._prev_W = None
+        self._prev_W_opp = None
+        self._initial_W = None
 
         # 获取玩家信息
         farm = raw_obs.farms[self._player_id]
         self._prev_money = farm.get("money", 0)
+
+        # ── ROI reward: 计算初始净资产 W_0 ──
+        market = raw_obs.market
+        prices = market.get("prices", {})
+        shed = raw_obs.private.shed if isinstance(raw_obs.private.shed, dict) else {}
+        inventory_value = sum(count * prices.get(crop, 0) for crop, count in shed.items())
+        self._initial_W = self._prev_money + inventory_value
+        self._prev_W = self._initial_W
+
+        # 对手初始净资产
+        opp_id = 1 - self._player_id
+        opp_farm = raw_obs.farms[opp_id]
+        opp_money = opp_farm.get("money", 0)
+        opp_shed = raw_obs.private.shed if isinstance(raw_obs.private.shed, dict) else {}
+        opp_inventory_value = sum(count * prices.get(crop, 0) for crop, count in opp_shed.items())
+        self._prev_W_opp = opp_money + opp_inventory_value
 
         # 处理 observation
         processed_obs = self._process_observation(raw_obs)
@@ -363,17 +389,19 @@ class KagricultureEnv(gym.Env):
         done = terminated or truncated
 
         if terminated:
-            # Game ended naturally — apply win/loss bonus.
-            # Phase 2: scaled down (±8 / ±4) from old (±10 / ±5) so the
-            # new trade bonus / inactivity penalty / relative reward don't
-            # get drowned out by terminal signal.
-            p0_money = new_raw_obs.farms[0].get("money", 0)
-            p1_money = new_raw_obs.farms[1].get("money", 0)
-            self._won = p0_money > p1_money
-            if self._won:
-                reward += 8.0
-            else:
-                reward -= 4.0
+            # ROI-driven terminal reward:
+            # sign * 1.5 + max(0, final_roi * 5.0)
+            # - 躺赢 (win but roi≈0): only ~+1.5
+            # - 翻倍 (roi=1.0, win): +1.5 + 5.0 = +6.5
+            # - 大幅亏损 (lose): negative sign + negative roi
+            W_t, W_opp_t = self._compute_net_worth(new_raw_obs)
+            W_0 = self._initial_W if self._initial_W is not None else W_t
+            W_0_safe = max(W_0, 1.0)
+            final_roi = (W_t - W_0) / W_0_safe
+            self._won = W_t > W_opp_t
+            sign = 1.0 if self._won else -1.0
+            terminal_reward = sign * 1.5 + max(0.0, final_roi * 5.0)
+            reward += terminal_reward
         elif truncated:
             # Hit MAX_STEPS but the game is still going. Mark _won=False
             # (don't carry over from prior episode; reset() already handles
@@ -577,35 +605,55 @@ class KagricultureEnv(gym.Env):
         """
         return self._kaggle_env.state[1].observation
 
-    def _compute_reward(self, raw_obs, action, is_valid) -> Tuple[float, Dict]:
-        """Phase 2 + Iter 2 reward: real-effect gated counter reset.
+    def _compute_net_worth(self, raw_obs) -> Tuple[float, float]:
+        """计算当前净资产 W_t 和对手净资产 W_opp_t.
 
-        See docs/CHANGE_SPEC-phase2-reward-shaping-20260811.md and
-        docs/CHANGE_SPEC-iter2-null-trade-fix-20260811.md for rationale.
+        W_t = cash + Σ(inventory_i × price_i)
+        避免重复计算，提取公共逻辑供 _compute_reward 和 reset 共用。
+        """
+        farm = raw_obs.farms[self._player_id]
+        cash = farm.get("money", 0)
+        market = raw_obs.market
+        prices = market.get("prices", {})
+        shed = raw_obs.private.shed if isinstance(raw_obs.private.shed, dict) else {}
+        inventory_value = sum(count * prices.get(crop, 0) for crop, count in shed.items())
+        W_t = cash + inventory_value
+
+        opp_id = 1 - self._player_id
+        opp_farm = raw_obs.farms[opp_id]
+        opp_cash = opp_farm.get("money", 0)
+        opp_shed = raw_obs.private.shed if isinstance(raw_obs.private.shed, dict) else {}
+        opp_inventory_value = sum(count * prices.get(crop, 0) for crop, count in opp_shed.items())
+        W_opp_t = opp_cash + opp_inventory_value
+
+        return W_t, W_opp_t
+
+    def _compute_reward(self, raw_obs, action, is_valid) -> Tuple[float, Dict]:
+        """ROI 驱动 reward: 基于净资产变化率而非固定终止奖励.
+
+        See docs/CHANGE_SPEC-roi-reward-20260811.md.
 
         Components:
-        1. Relative wealth: (Δagent - 0.4*Δopp) / 10000
-        2. Trade bonus: +0.01 ONLY if action was executed (real money/wheat change)
-           [Iter 2: guards against null-trade exploits from action-format bugs]
-        3. Empty-trade penalty: -0.01 if action was trade-class but no effect
+        1. ROI reward: roi × 10.0 + relative_roi × 5.0
+        2. Trade bonus: +0.02 for real net-worth effect
+        3. Empty-trade penalty: -0.01 for trade-class action with no effect
         4. Inactivity penalty: -0.01*(n-5) capped at -0.10/step
-           Counter resets ONLY on real execution (Iter 2) or is_valid trade (Phase 2)
-        5. Clip: np.clip(reward, -3.0, 3.0)
-        6. Terminal bonus (±8 / ±4) added separately in step()
+        5. Clip: np.clip(reward, -2.0, 2.0)
+        6. Terminal bonus (sign × 1.5 + max(0, final_roi × 5.0)) added in step()
         """
         farm = raw_obs.farms[self._player_id]
         current_money = farm.get("money", 0)
         agent_d = current_money - self._prev_money
         self._prev_money = current_money
 
-        # Iter 2: track wheat inventory for "real effect" detection
+        # Iter 2: track wheat for "real effect" detection
         current_wheat = raw_obs.private.shed.get("WHEAT", 0) if isinstance(raw_obs.private.shed, dict) else 0
         if self._prev_wheat is None:
             self._prev_wheat = current_wheat
         wheat_d = current_wheat - self._prev_wheat
         self._prev_wheat = current_wheat
 
-        # Opponent money for relative reward (Gemini bug 4 fix: dynamic ID)
+        # Opponent money for relative reward
         opp_id = 1 - self._player_id
         opp_money_now = raw_obs.farms[opp_id].get("money", 0)
         if self._prev_opp_money is None:
@@ -617,35 +665,60 @@ class KagricultureEnv(gym.Env):
             return 0.0, {"money_delta": agent_d, "opp_money_delta": opp_d,
                          "wheat_delta": wheat_d}
 
-        # Real effect: money OR wheat actually moved (Iter 2)
-        has_real_trade_effect = (abs(agent_d) > 1e-5) or (abs(wheat_d) > 1e-5)
+        # ── ROI reward computation ──
+        W_t, W_opp_t = self._compute_net_worth(raw_obs)
 
-        # 1. Relative wealth
-        reward = (agent_d - 0.4 * opp_d) / 10000.0
+        if self._prev_W is None:
+            self._prev_W = W_t
+        W_delta = W_t - self._prev_W
+        self._prev_W = W_t
 
-        # 2 & 3. Trade bonus + inactivity counter (Iter 2: gated on real effect)
+        if self._prev_W_opp is None:
+            self._prev_W_opp = W_opp_t
+        W_opp_delta = W_opp_t - self._prev_W_opp
+        self._prev_W_opp = W_opp_t
+
+        # Guard: if _initial_W is None (should not happen after reset), use W_t
+        W_0 = self._initial_W if self._initial_W is not None else W_t
+        W_0_safe = max(W_0, 1.0)  # avoid division by zero
+
+        roi = W_delta / W_0_safe
+        roi_relative = (W_delta - 0.4 * W_opp_delta) / W_0_safe
+
+        # Real effect: net worth actually moved
+        has_real_trade_effect = abs(W_delta) > 1e-5
+
+        # 1. ROI reward (核心信号)
+        reward = roi * 10.0 + roi_relative * 5.0
+
+        # 2 & 3. Trade bonus + empty-trade penalty
         is_trade_action = action in [1, 2, 3]
-        if is_valid and has_real_trade_effect:
-            # Only executed trades clear the inactivity counter
-            self._consecutive_safe = 0
-            reward += 0.01  # bumped from 0.008 (still ≤ HIRE money cost 0.01)
+        if is_trade_action and is_valid:
+            if has_real_trade_effect:
+                # Only executed trades clear the inactivity counter
+                self._consecutive_idle = 0
+                reward += 0.02
+            else:
+                # Null trade: format bug or market reject
+                reward -= 0.01
         else:
-            # HOLD, PASS, illegal, OR zero-effect trade → counter increments
-            self._consecutive_safe += 1
+            # HOLD, PASS, illegal → idle counter increments
+            self._consecutive_idle += 1
             if is_trade_action and is_valid:
-                # Iter 2: punish null trades (action format bug or market reject)
+                # Trade-class action but invalid → extra penalty
                 reward -= 0.01
 
-        # Inactivity penalty with cap (Gemini bug 3 fix)
-        if self._consecutive_safe > 5 and self._has_tradeable_state(raw_obs):
-            penalty = min(0.10, 0.01 * (self._consecutive_safe - 5))
+        # 4. Inactivity penalty (gated on tradeable state)
+        if self._consecutive_idle > 5 and self._has_tradeable_state(raw_obs):
+            penalty = min(0.10, 0.01 * (self._consecutive_idle - 5))
             reward -= penalty
 
-        # 4. Clip
-        reward = float(np.clip(reward, -3.0, 3.0))
+        # 5. Clip
+        reward = float(np.clip(reward, -2.0, 2.0))
 
-        return reward, {"money_delta": agent_d, "opp_money_delta": opp_d,
-                        "wheat_delta": wheat_d}
+        return reward, {"W_delta": W_delta, "W_opp_delta": W_opp_delta,
+                        "roi": roi, "money_delta": agent_d,
+                        "opp_money_delta": opp_d, "wheat_delta": wheat_d}
 
     def _has_tradeable_state(self, raw_obs) -> bool:
         """True if agent CAN make a valid trade (has money ≥ HIRE cost OR wheat in shed).
