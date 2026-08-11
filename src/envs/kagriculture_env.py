@@ -236,6 +236,9 @@ class KagricultureEnv(gym.Env):
         # 获取初始 observation
         raw_obs = self._kaggle_env.state[0].observation
 
+        # Curriculum Learning: 清空初始库存，强迫模型学习 BUY 而不是"卖老本"
+        raw_obs.private.shed = {} if isinstance(raw_obs.private.shed, dict) else []
+
         self._step_count = 0
         self._episode_reward = 0.0
         self._won = False  # fixed issue: stale state leak across episodes
@@ -320,7 +323,7 @@ class KagricultureEnv(gym.Env):
         """
         self._init_kaggle_env()
         raw_obs = self._kaggle_env.state[0].observation
-        mask = np.ones(self.action_space.n, dtype=np.int8)
+        mask = np.ones(self.action_space.n, dtype=bool)
         for a in range(self.action_space.n):
             if not self._is_action_valid(a, raw_obs):
                 mask[a] = 0
@@ -389,21 +392,22 @@ class KagricultureEnv(gym.Env):
         done = terminated or truncated
 
         if terminated:
-            # ROI-driven terminal reward:
-            # sign * 1.5 + max(0, final_roi * 5.0)
-            # - 躺赢 (win but roi≈0): only ~+1.5
-            # - 翻倍 (roi=1.0, win): +1.5 + 5.0 = +6.5
-            # - 大幅亏损 (lose): negative sign + negative roi
+            # Terminal reward: Win/Loss determines sign, relative ROI gap determines bonus
             W_t, W_opp_t = self._compute_net_worth(new_raw_obs)
             W_0 = self._initial_W if self._initial_W is not None else W_t
             W_0_safe = max(W_0, 1.0)
             final_roi = (W_t - W_0) / W_0_safe
+            opp_final_roi = (W_opp_t - W_0) / W_0_safe
+            roi_gap = final_roi - opp_final_roi
             self._won = W_t > W_opp_t
-            sign = 1.0 if self._won else -1.0
-            terminal_reward = sign * 1.5 + max(0.0, final_roi * 5.0)
+            if self._won:
+                terminal_reward = 2.0 + max(0.0, roi_gap * 3.0)
+            else:
+                terminal_reward = -2.0 - max(0.0, -roi_gap * 3.0)
             reward += terminal_reward
         elif truncated:
             # Hit MAX_STEPS but the game is still going. Mark _won=False
+            self._won = False
             # (don't carry over from prior episode; reset() already handles
             # the start-of-episode case).
             self._won = False
@@ -685,35 +689,10 @@ class KagricultureEnv(gym.Env):
         roi = W_delta / W_0_safe
         roi_relative = (W_delta - W_opp_delta) / W_0_safe
 
-        # Real effect: net worth actually moved
-        has_real_trade_effect = abs(W_delta) > 1e-5
+        # Pure ROI signal only - no action bias rewards
+        reward = roi * 30.0 + roi_relative * 10.0
 
-        # 1. ROI reward (核心信号)
-        reward = roi * 300.0 + roi_relative * 3.0
-
-        # 2 & 3. Trade bonus + empty-trade penalty
-        is_trade_action = action in [1, 2, 3]
-        if is_trade_action and is_valid:
-            if has_real_trade_effect:
-                # Only executed trades clear the inactivity counter
-                self._consecutive_idle = 0
-                reward += 0.02
-            else:
-                # Null trade: format bug or market reject
-                reward -= 0.01
-        else:
-            # HOLD, PASS, illegal → idle counter increments
-            self._consecutive_idle += 1
-            if is_trade_action and is_valid:
-                # Trade-class action but invalid → extra penalty
-                reward -= 0.01
-
-        # 4. Inactivity penalty (gated on tradeable state)
-        if self._consecutive_idle > 5 and self._has_tradeable_state(raw_obs):
-            penalty = min(0.10, 0.01 * (self._consecutive_idle - 5))
-            reward -= penalty
-
-        # 5. Clip
+        # Clip to prevent extreme values
         reward = float(np.clip(reward, -5.0, 5.0))
 
         return reward, {"W_delta": W_delta, "W_opp_delta": W_opp_delta,

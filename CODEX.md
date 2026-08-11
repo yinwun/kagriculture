@@ -80,6 +80,7 @@
 | IP 地址 | `192.168.1.101` |
 | SSH 命令 | `ssh nlv100` 或 `ssh 192.168.1.101` |
 | Conda 环境 | `kaggle` |
+| Conda 激活脚本（远程） | `source /data/app/miniconda3/etc/profile.d/conda.sh && conda activate kaggle` |
 | 工作目录 | `/data/app/sandbox/kaggle/kg-rl` |
 
 ## 远程目录结构
@@ -176,6 +177,7 @@ rsync -av --progress \
 
 ## 每个 eval 目录的结构
 
+/data/app/sandbox/kaggle/kg-rl/docs/EVAL_CODE.md
 ```
 iter_01_20260811_075528/     ← iteration 目录
 ├── summary.json               ← trade_frac, win_rate, action_counts

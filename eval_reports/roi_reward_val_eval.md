@@ -10,7 +10,7 @@ Opponent: `trained`  ·  Episodes per model: 10  ·  Action space: 5
 | `roi_reward_val.zip` | **97.50%** | 2.50% | 0.00% | 0/10 |
 
 ## Detailed action counts
-
+[roi_reward_val_vs_random](roi_reward_val_vs_random.md)
 | Model | HOLD | HIRE | SELL | BUY | PASS | OTHER | Total |
 |---|---|---|---|---|---|---|---|
 | `roi_reward_val.zip` | 0 | 0 | 0 | 7010 | 180 | 0 | 7190 |

@@ -20,7 +20,7 @@ import os
 import sys
 import time
 import argparse
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -29,6 +29,10 @@ from stable_baselines3.common.callbacks import (
     BaseCallback,
     CheckpointCallback,
 )
+from stable_baselines3.common.vec_env import SubprocVecEnv
+from sb3_contrib import MaskablePPO
+from sb3_contrib.common.maskable.policies import MaskableActorCriticPolicy
+from sb3_contrib.common.wrappers import ActionMasker
 
 from src.envs.kagriculture_env import KagricultureEnv
 
@@ -45,9 +49,12 @@ class DualLogger:
         self.path = path
         self._fh = open(path, "a", buffering=1)  # line-buffered
 
+    def _ts(self) -> str:
+        return datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")
+
     def log(self, msg: str = "") -> None:
-        print(msg)
-        self._fh.write(msg + "\n")
+        ts = self._ts(); print(f"[{ts}] {msg}")
+        self._fh.write(f"[{ts}] {msg}" + "\n")
 
     def close(self) -> None:
         self._fh.close()
@@ -123,6 +130,9 @@ class WinRateEvalCallback(BaseCallback):
         else:
             self._log_fh = None
 
+    def _ts(self) -> str:
+        return datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")
+
     def _on_step(self) -> bool:
         if self._start_time is None:
             self._start_time = time.time()
@@ -136,21 +146,20 @@ class WinRateEvalCallback(BaseCallback):
         wins = 0
         total_reward = 0.0
         for _ in range(self.n_eval_episodes):
-            obs, _ = self.eval_env.reset()
+            obs = self.eval_env.reset()
             done = False
-            truncated = False
             ep_reward = 0.0
             last_info: dict = {}
-            while not (done or truncated):
+            while not done:
                 action, _ = self.model.predict(obs, deterministic=True)
-                obs, reward, done, truncated, last_info = self.eval_env.step(action)
-                ep_reward += reward
+                obs, reward, done, last_info = self.eval_env.step(action)
+                ep_reward += float(reward[0]) if hasattr(reward, "__len__") else float(reward)
             total_reward += ep_reward
-            if last_info.get("won", False):
+            if last_info[0].get("won", False):
                 wins += 1
 
-        win_rate = wins / self.n_eval_episodes
-        mean_reward = total_reward / self.n_eval_episodes
+        win_rate = float(wins) / float(self.n_eval_episodes)
+        mean_reward = float(total_reward) / float(self.n_eval_episodes)
 
         # Wall-clock FPS anchored at first step (more reliable than SB3's
         # `time/fps` logger, which is updated per-rollout, not per-step).
@@ -163,7 +172,7 @@ class WinRateEvalCallback(BaseCallback):
             f"mean_reward={mean_reward:.4f}  "
             f"fps={fps}"
         )
-        print(msg)
+        ts = self._ts(); print(f"[{ts}] {msg}")
         if self._log_fh is not None:
             self._log_fh.write(
                 f"{self.num_timesteps},{win_rate:.6f},{mean_reward:.6f},{fps}\n"
@@ -234,21 +243,20 @@ def final_eval(model, env, n_episodes: int, logger: DualLogger) -> tuple[float, 
     wins = 0
     total_reward = 0.0
     for ep in range(n_episodes):
-        obs, _ = env.reset()
+        obs = env.reset()
         done = False
-        truncated = False
         ep_reward = 0.0
         last_info: dict = {}
-        while not (done or truncated):
+        while not done:
             action, _ = model.predict(obs, deterministic=True)
-            obs, reward, done, truncated, last_info = env.step(action)
-            ep_reward += reward
+            obs, reward, done, last_info = env.step(action)
+            ep_reward += float(reward[0]) if hasattr(reward, "__len__") else float(reward)
         total_reward += ep_reward
-        if last_info.get("won", False):
+        if last_info[0].get("won", False):
             wins += 1
         if (ep + 1) % 10 == 0:
             logger.log(f"  eval progress: {ep + 1}/{n_episodes}")
-    return wins / n_episodes, total_reward / n_episodes
+    return float(wins) / float(n_episodes), float(total_reward) / float(n_episodes)
 
 
 # ----------------------------------------------------------------------
@@ -303,29 +311,31 @@ def _run(args: argparse.Namespace, logger: DualLogger, checkpoint_dir: str) -> N
     from kaggle_environments import make as _kaggle_make
     shared_kaggle_env = _kaggle_make("kagriculture", debug=False)
 
+    def _make_env(opponent, kaggle_env):
+        def _init():
+            env = KagricultureEnv(
+                opponent=opponent,
+                reward_type="dense",
+                opponent_model_path=args.opponent_model_path,
+                kaggle_env=kaggle_env,
+            )
+            env = ActionMasker(env, lambda e: e.action_masks())
+            return env
+        return _init
+
     logger.log(f"[setup] creating train env (opponent={args.opponent})")
-    train_env = KagricultureEnv(
-        opponent=args.opponent,
-        reward_type="dense",
-        opponent_model_path=args.opponent_model_path,
-        kaggle_env=shared_kaggle_env,
-    )
+    train_env = SubprocVecEnv([_make_env(args.opponent, shared_kaggle_env) for _ in range(16)])
     logger.log(f"[setup] creating eval env (sharing kaggle_env)")
-    eval_env = KagricultureEnv(
-        opponent=args.opponent,
-        reward_type="dense",
-        opponent_model_path=args.opponent_model_path,
-        kaggle_env=shared_kaggle_env,
-    )
+    eval_env = SubprocVecEnv([_make_env(args.opponent, shared_kaggle_env)])
 
     # Model
     if args.resume_from:
-        logger.log(f"[setup] resuming PPO from {args.resume_from}")
-        model = PPO.load(args.resume_from, env=train_env, device=args.device)
+        logger.log(f"[setup] resuming MaskablePPO from {args.resume_from}")
+        model = MaskablePPO.load(args.resume_from, env=train_env, device=args.device)
     else:
-        logger.log(f"[setup] creating fresh PPO (MlpPolicy)")
-        model = PPO(
-            policy="MlpPolicy",
+        logger.log(f"[setup] creating fresh MaskablePPO (MaskableActorCriticPolicy)")
+        model = MaskablePPO(
+            policy=MaskableActorCriticPolicy,
             env=train_env,
             device=args.device,
             verbose=1,

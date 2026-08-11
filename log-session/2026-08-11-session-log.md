@@ -690,3 +690,119 @@ action_dist = {3: 6610 BUY, 4: 580 PASS}
 ├── episodes.json
 └── replays/                ← Kaggle 格式 JSON
 ```
+
+---
+
+## 2026-08-11 下午 — MaskablePPO + Reward Fix + Curriculum Learning
+
+### 时间
+- 2026-08-11 14:00 : MaskablePPO 验证训练完成
+- 2026-08-11 14:30 : Reward Fix v1 训练完成（ROI权重 300→10）
+- 2026-08-11 15:00 : Reward Fix v2 训练完成（移除idle惩罚）
+- 2026-08-11 15:30 : 发现评估管道 Bug（action_masks 未传递）
+- 2026-08-11 16:00 : Curriculum Learning + Random 对手训练启动
+
+### 1. MaskablePPO 改造完成
+
+代码改动：
+- `src/envs/kagriculture_env.py`: `action_masks()` dtype 改为 `bool`
+- `scripts/train.py`: `DummyVecEnv` → `SubprocVecEnv(16进程)`, `PPO` → `MaskablePPO`
+- 修复了 `DummyVecEnv.step()` 返回值解包问题（4值 vs 5值）
+- 修复了 `reward.item()` numpy 标量问题
+
+训练结果：
+- FPS: 200 → 810（提升4倍）
+- trade_frac: 100% (SELL 100%)
+- win_rate vs trained RF: 0%
+
+### 2. Reward Function 修复历史
+
+#### Fix v1 (ROI 权重调整)
+| 修改 | 原值 | 新值 |
+|------|------|------|
+| ROI 权重 | 300.0 | 10.0 |
+| 相对 ROI 权重 | 3.0 | 5.0 |
+| has_real_trade_effect | `abs(W_delta) > 1e-5` | `abs(cash_delta) > 1e-5 or abs(wheat_d) > 0` |
+| 终局奖励 | `sign×1.5 + max(0, roi×5)` | **Win: +2 + gap×3 / Loss: -2 - gap×3** |
+
+结果：mean_reward -108.9 → -37.95（改善），但仍是 100% SELL
+
+#### Fix v2 (移除动作贿赂)
+| 修改 | 原值 | 新值 |
+|------|------|------|
+| ROI 权重 | 10.0 | **30.0** |
+| 相对 ROI 权重 | 5.0 | **10.0** |
+| 交易奖励 (+0.02) | ✅ 有 | ❌ **移除** |
+| 空交易惩罚 (-0.01) | ✅ 有 | ❌ **移除** |
+| Idle 惩罚 | ✅ 有 | ❌ **移除** |
+
+结果：mean_reward -37.95，仍是 100% SELL
+
+### 3. 评估管道 Bug 发现与修复
+
+**问题**：eval_loop.py 调用 `main.agent()` 返回动作后没有验证有效性
+
+**发现过程**：
+- 评估结果：7190 次 SELL（100%占比）
+- 原因：`_is_action_valid` 正确检查库存=0时返回False，但评估代码没有使用 mask
+
+**修复**：在 eval_loop.py 添加 `_get_valid_action()` 函数
+```python
+def _get_valid_action(model_action, obs):
+    action_idx = _action_to_index(model_action)
+    if _is_action_valid_for_state(action_idx, obs):
+        return model_action
+    # Fallback: find first valid action
+    for idx in [0, 4, 3, 1, 2]:
+        if _is_action_valid_for_state(idx, obs):
+            return action_from_index(idx)
+    return []
+```
+
+**修复后结果**：SELL 100% → **HOLD 100%**
+
+验证了：
+- ✅ 掩码验证逻辑生效
+- ✅ 无效动作被正确替换
+- ❌ 模型策略仍是"清仓后死等"
+
+### 4. Curriculum Learning + Random 对手
+
+**问题根因**：初始库存让模型养成"卖老本"习惯，清仓后无法开仓
+
+**修复方案**：
+```python
+# reset() 中清空初始库存
+raw_obs.private.shed = {}
+```
+
+**新训练配置**：
+- 初始库存：清零
+- 对手：random（让市场有波动空间）
+- 模型：MaskablePPO
+- Steps: 250K
+- 日志：`log/train_curriculum.stdout`
+
+### 5. 文件变更
+
+| 文件 | 变更 |
+|------|------|
+| `src/envs/kagriculture_env.py` | Reward fix v2 + Curriculum learning |
+| `scripts/train.py` | MaskablePPO + SubprocVecEnv + 时间戳 |
+| `scripts/eval_loop.py` | `_get_valid_action()` 动作验证 |
+
+### 6. 待验证
+
+- [ ] Curriculum Learning 训练完成后检查动作分布
+- [ ] 预期：BUY/HOLD/SELL 混合出现
+- [ ] 对手换回 trained RF 验证胜率
+
+### 7. 下一步
+
+| 优先级 | 任务 |
+|--------|------|
+| P0 | 等待 Curriculum Learning 训练完成 |
+| P1 | 评估结果检查动作分布 |
+| P2 | 对手换回 trained RF 验证 |
+| P3 | 推送代码到 GitHub |
+

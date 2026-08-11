@@ -30,6 +30,84 @@ from datetime import datetime, timedelta
 
 import numpy as np
 
+
+def _action_to_index(action_dict):
+    """Convert Kaggle action dict to action index (0-4)."""
+    if not action_dict or action_dict == []:
+        return 0  # HOLD
+    if isinstance(action_dict, list) and len(action_dict) > 0:
+        action_dict = action_dict[0]
+    if isinstance(action_dict, dict):
+        if "market" in action_dict:
+            market = action_dict["market"]
+            if isinstance(market, list) and len(market) > 0:
+                cmd = market[0]
+                if isinstance(cmd, list) and len(cmd) > 0:
+                    if cmd[0] == "HIRE":
+                        return 1
+                    elif cmd[0] == "SELL":
+                        return 2
+                    elif cmd[0] == "BUY_PRODUCT":
+                        return 3
+        if "farmer" in action_dict:
+            farmer = action_dict["farmer"]
+            if isinstance(farmer, list) and len(farmer) > 0:
+                if farmer[0] == "PASS":
+                    return 4
+    return 0  # default to HOLD
+
+
+def _is_action_valid_for_state(action_idx, obs):
+    """Check if action is valid given current observation state."""
+    farm = obs.farms[0]
+    private = obs.private
+    shed = private.shed if isinstance(private.shed, dict) else {}
+    market = obs.market
+    market_inv = market.get("inventory", {})
+    market_prices = market.get("prices", {})
+    money = farm.get("money", 0)
+
+    # 0: HOLD, 4: PASS always valid
+    if action_idx in [0, 4]:
+        return True
+    # 1: HIRE
+    if action_idx == 1:
+        hires_left = farm.get("hires_today", 0)
+        return hires_left > 0 and money >= 100
+    # 2: SELL_WHEAT
+    if action_idx == 2:
+        wheat_count = shed.get("WHEAT", 0)
+        return wheat_count > 0
+    # 3: BUY_PRODUCT_WHEAT
+    if action_idx == 3:
+        wheat_price = market_prices.get("WHEAT", 0)
+        market_wheat = market_inv.get("WHEAT", 0)
+        return money >= wheat_price and wheat_price > 0 and market_wheat > 0
+    return False
+
+
+def _get_valid_action(model_action, obs):
+    """Ensure model action is valid; return model_action or fallback to valid action."""
+    action_idx = _action_to_index(model_action)
+    if _is_action_valid_for_state(action_idx, obs):
+        return model_action
+    # Fallback: find first valid action
+    for idx in [0, 4, 3, 1, 2]:  # Prefer HOLD, PASS, then trades
+        if _is_action_valid_for_state(idx, obs):
+            print(f"[DEBUG] Action {action_idx} invalid, falling back to {idx}")
+            if idx == 0:
+                return []
+            elif idx == 1:
+                return [{"market": [["HIRE"]]}]
+            elif idx == 2:
+                return [{"market": [["SELL", "WHEAT", 1]]}]
+            elif idx == 3:
+                return [{"market": [["BUY_PRODUCT", "WHEAT", 1]]}]
+            elif idx == 4:
+                return [{"farmer": ["PASS"]}]
+    return []  # ultimate fallback
+
+
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 
@@ -177,7 +255,7 @@ def eval_local(npz_path, num_episodes, opponent, max_steps=720):
                     if env.done:
                         break
                     obs = env.state[0].observation
-                    action = main.agent(obs, env.configuration)
+                    action = _get_valid_action(main.agent(obs, env.configuration), obs)
                     action_log.append(action)
 
                     if opponent == "random":
