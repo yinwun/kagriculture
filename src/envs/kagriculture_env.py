@@ -638,7 +638,7 @@ class KagricultureEnv(gym.Env):
         2. Trade bonus: +0.02 for real net-worth effect
         3. Empty-trade penalty: -0.01 for trade-class action with no effect
         4. Inactivity penalty: -0.01*(n-5) capped at -0.10/step
-        5. Clip: np.clip(reward, -2.0, 2.0)
+        5. Clip: np.clip(reward, -5.0, 5.0)
         6. Terminal bonus (sign × 1.5 + max(0, final_roi × 5.0)) added in step()
         """
         farm = raw_obs.farms[self._player_id]
@@ -683,13 +683,13 @@ class KagricultureEnv(gym.Env):
         W_0_safe = max(W_0, 1.0)  # avoid division by zero
 
         roi = W_delta / W_0_safe
-        roi_relative = (W_delta - 0.4 * W_opp_delta) / W_0_safe
+        roi_relative = (W_delta - W_opp_delta) / W_0_safe
 
         # Real effect: net worth actually moved
         has_real_trade_effect = abs(W_delta) > 1e-5
 
         # 1. ROI reward (核心信号)
-        reward = roi * 10.0 + roi_relative * 5.0
+        reward = roi * 300.0 + roi_relative * 3.0
 
         # 2 & 3. Trade bonus + empty-trade penalty
         is_trade_action = action in [1, 2, 3]
@@ -714,7 +714,7 @@ class KagricultureEnv(gym.Env):
             reward -= penalty
 
         # 5. Clip
-        reward = float(np.clip(reward, -2.0, 2.0))
+        reward = float(np.clip(reward, -5.0, 5.0))
 
         return reward, {"W_delta": W_delta, "W_opp_delta": W_opp_delta,
                         "roi": roi, "money_delta": agent_d,

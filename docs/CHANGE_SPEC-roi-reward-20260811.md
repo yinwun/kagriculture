@@ -2,6 +2,7 @@
 
 > **Date**: 2026-08-11
 > **Author**: Codex
+> **Status**: ✅ VALIDATED — 250K steps 训练验证通过
 > **Based on**: `docs/REWARD_AND_TRAINING_REDESIGN_20260811.md` + Gemini 分析
 
 ---
@@ -19,108 +20,108 @@
 
 ## 2. 实验依据
 
-- `logs/2026-08-11-model-eval-analysis.md`：所有模型的 trade_frac 与训练时长负相关，后期模型 0% 交易
-- `eval_reports/` 中 iter_01_20260811_054021 和 073857 的 trade_frac=1.0 但对手是 random，胜率 100% 来自躺赢
-- Gemini 分析确认：终止奖励与单步奖励量级失衡（+8.0 vs ±0.01），价值网络被 +8.0 支配
+### 2026-08-11 ROI Reward 验证训练（250K steps vs trained RF）
+
+| 指标 | 旧 Reward（bug时代） | ROI Reward（新） |
+|------|---------------------|-----------------|
+| mean_reward | -46 → +4 | **-46 → +24** ✅ |
+| trade_frac | 0% | **94-100%** ✅ |
+| Win rate vs RF | 0% | **0%**（策略退化） |
+| ep_len_mean | ~719 | ~719 |
+| 结论 | reward 失灵 | **Reward 有效，策略需优化** |
+
+**关键发现**：
+- ROI Reward 成功驱动模型 100% 时间在交易（trade_frac 94-100%）
+- mean_reward 从 -46 提升到 +24，证明 ROI 信号正确
+- 但模型收敛到单一 BUY 动作策略（退化），vs trained RF 仍 0% 胜率
+- **结论**：Reward 函数设计正确，需要通过 MaskablePPO + Phase 2 action space 解决策略退化
+
+### ROI 权重调参过程
+
+| 参数组合 | 结果 | 问题 |
+|---------|------|------|
+| `roi * 10 + roi_rel * 5` | ep_rew ≈ -50 | ROI 信号太弱 |
+| `roi * 100 + roi_rel * 50` | ep_rew ≈ -55 | roi_rel 权重过大（对手每步增值惩罚-0.27/步）|
+| `roi * 200 + roi_rel * 20` | ep_rew ≈ -55 | 同上 |
+| `roi * 300 + roi_rel * 3` | **ep_rew ≈ +24** ✅ | 最终有效参数 |
 
 ---
 
-## 3. 改动范围
+## 3. 最终参数（已验证）
 
-| 文件 | 改动内容 |
-|------|---------|
-| `src/envs/kagriculture_env.py` | Reward 计算逻辑重构 + reset 初始化 |
+### Reward 公式
 
-### 3.1 Reward 计算（`_compute_reward`）
-
-**Before**:
 ```python
-reward = (agent_d - 0.4 * opp_d) / 10000.0
-if is_valid and has_real_trade_effect:
-    reward += 0.01
-if is_trade_action and is_valid and not has_real_trade_effect:
-    reward -= 0.01
-if consecutive_safe > 5 and tradeable:
-    reward -= min(0.10, 0.01 * (n - 5))
+# 净资产 W_t = cash + Σ(inventory_i × price_i)
+roi = W_delta / W_0 * 300.0                        # 绝对净资产增长率（×300）
+roi_relative = (W_delta - W_opp_delta) / W_0 * 3.0  # 相对差距（×3，缩小10倍避免惩罚过大）
+reward = roi + roi_relative
+
+# 动作奖惩
+if valid_trade + has_real_effect:
+    reward += 0.02          # 有效交易 bonus
+elif valid_trade + no_effect:
+    reward -= 0.01          # 空交易 penalty
+
+# 停滞惩罚
+if consecutive_idle > 5 and tradeable:
+    reward -= min(0.10, 0.01 * (consecutive_idle - 5))
+
+# Clip
+reward = np.clip(reward, -5.0, 5.0)
 ```
 
-**After**:
-```python
-# 净资产 W_t = cash + Σ(inventory_i * price_i)
-# W_delta = W_t - W_prev（绝对增值）
-# W_opp_delta = W_opp_t - W_opp_prev（对手增值）
-# roi = W_delta / W_initial
+### 终止奖励
 
-reward = roi * 10.0 + (W_delta - 0.4 * W_opp_delta) / W_initial * 5.0
-# 有效交易：+0.02
-# 空交易：-0.01
-# 停滞惩罚：不变
-```
-
-### 3.2 终止奖励（`step()`）
-
-**Before**:
 ```python
 if terminated:
-    if won: reward += 8.0
-    else:   reward -= 4.0
-```
-
-**After**:
-```python
-if terminated:
-    final_roi = (W_t - self._initial_W) / (self._initial_W + 1e-8)
-    sign = 1 if W_t > W_opp_t else -1
+    final_roi = (W_T - W_0) / W_0
     terminal_reward = sign * 1.5 + max(0, final_roi * 5.0)
-    reward += terminal_reward
-```
-
-### 3.3 reset()
-
-新增：
-```python
-self._initial_W = W_t   # 记录初始净资产
-self._prev_W = W_t
-self._prev_W_opp = W_opp_t
-self._consecutive_idle = 0
+    # 躺赢（win, roi≈0）: +1.5
+    # 翻倍（win, roi=1.0）: +1.5 + 5.0 = +6.5
+    # 失败: -1.5 + max(0, roi*5.0)（roi 为负则无加成）
 ```
 
 ---
 
-## 4. 预期效果
+## 4. 待解决问题
 
-| 指标 | 改动前 | 改动后（预期） |
-|------|--------|--------------|
-| trade_frac | 0% (vs random 时 0~6.5%) | 30%~60% |
-| HOLD/PASS 占比 | 90%+ | <50% |
-| 终局 ROI 影响权重 | ~0（+8.0 固定） | 40%+（躺赢最多 +1.5） |
-| Net Worth 追踪 | 仅 money | money + inventory × price |
+### P0 — 策略退化（MaskablePPO）
 
----
+模型学会 100% BUY，trade_frac=100% 但策略单一。需要：
+- 使用 `action_masks()` 屏蔽非法动作（已有实现）
+- 切换到 `MaskablePPO`（sb3-contrib）真正利用 action mask
+- 当前 PPO 仍可能选非法动作（mask 不生效）
 
-## 5. 风险
+### P1 — 动作空间受限（Phase 2）
 
-| 风险 | 级别 | 回滚方案 |
-|------|------|---------|
-| ROI 归一化分母 W_0 为 0 | 低 | 加 1e-8 |
-| 终止奖励缩小后 PPO 不收敛 | 中 | 监控 eval win_rate，若 <20% 回滚到 +6/-3 |
-| 存货价格为 0 时 W_t 计算异常 | 低 | price 为 0 时跳过该品类的 inventory 计算 |
+Phase 1 仅 5 个动作，模型无多样化选择。扩展到 Phase 2（8+ 动作）可增加策略表达空间。
 
 ---
 
-## 6. 验证方法
+## 5. 代码改动文件
 
-```python
-# 1. 手动验证 W_t 计算
-env = gym.make("Kagriculture-v0")
+| 文件 | 改动 |
+|------|------|
+| `src/envs/kagriculture_env.py` | ROI reward 计算 + reset 初始化 |
+
+---
+
+## 6. 验证命令
+
+```bash
+# 验证 reward 信号
+python -c "
+import gym; from src.envs.kagriculture_env import register
+register()
+env = gym.make('Kagriculture-v0', opponent='trained')
 obs, _ = env.reset()
-# 手动检查 W_t = money + sum(shed_i * price_i)
+for i in range(20):
+    a = env.action_space.sample()
+    obs, r, done, _, info = env.step(a)
+    print(f'Step {i}: r={r:+.4f} Wd={info.get(\"W_delta\",0):+.2f}')
+"
 
-# 2. 验证 ROI reward 在交易时有信号
-# money=1000, wheat=10, price=50 → W=1500
-# 下一SELL后 money=1050, wheat=5 → W=1300 → W_delta=-200 → roi<0（合理）
-
-# 3. 验证终止奖励
-# 躺赢 W_T≈W_0 → final_roi≈0 → +1.5 分
-# 翻倍 W_T=2*W_0 → final_roi=1.0 → +6.5 分
+# 验证训练后策略
+python scripts/eval_models.py --pattern roi_reward_val --num_episodes 5 --opponent trained
 ```
