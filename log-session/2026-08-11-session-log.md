@@ -648,3 +648,45 @@ reward = roi + roi_relative
 ├── eval_summary.md            ← 本次评估摘要
 └── model.zip / best_model.zip
 ```
+
+---
+
+## 2026-08-11 晚间补充 — HTML 报告生成
+
+### 评估结果（eval_loop.py，10 episodes vs trained RF）
+
+```
+iter: iter_01_20260811_095726
+trade_frac = 91.93% ✅ (>= threshold 5%)
+win_rate   = 0.00% ❌
+action_dist = {3: 6610 BUY, 4: 580 PASS}
+```
+
+### 报告文件
+
+| 文件 | 内容 |
+|------|------|
+| `report.html` | Verdict + Action 表 + Money 轨迹 |
+| `replay.html` | Per-step 时间线（颜色标记） |
+| `animated_vs_random.html` | 棋盘动画（1 episode vs random）|
+| `episodes.json` | 每局详细动作/奖励序列 |
+| `summary.json` | trade_frac, win_rate 等指标 |
+
+### 关键发现
+
+- animated vs random: P0=43 **P1(random)=2030** → random 胜！
+- 模型 BUY 策略在 random 对手下仍然亏钱（buy 进来后价格可能下跌）
+- trade_frac=91.9% 确认模型在持续交易（非躺平）
+- vs trained RF：win_rate=0%，策略仍不够强
+
+### 本地同步路径
+
+```
+/Users/nickyl/Developer/Sandbox/kagriculture/eval_reports/iter_01_20260811_095726/
+├── report.html              ← 主要报告（给 Gemini 看）
+├── replay.html             ← Step-by-step 时间线
+├── animated_vs_random.html  ← 棋盘动画 vs random
+├── summary.json
+├── episodes.json
+└── replays/                ← Kaggle 格式 JSON
+```

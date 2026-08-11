@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Eval Report — Iter 1</title>
+<style>
+  body { font-family: -apple-system, "Segoe UI", Roboto, sans-serif;
+         max-width: 1100px; margin: 24px auto; padding: 0 16px;
+         color: #222; background: #fafafa; }
+  h1 { margin-bottom: 4px; }
+  .meta { color: #666; font-size: 14px; margin-bottom: 24px; }
+  .card { background: white; border: 1px solid #ddd; border-radius: 6px;
+          padding: 18px 22px; margin-bottom: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
+  .card h2 { margin-top: 0; font-size: 18px; color: #333; }
+  .verdict { font-size: 22px; font-weight: 600; padding: 12px 18px;
+              border-radius: 4px; display: inline-block; }
+  .learned { background: #d4edda; color: #155724; border: 1px solid #c3e6cb; }
+  .not-learned { background: #f8d7da; color: #721c24; border: 1px solid #f5c6cb; }
+  table { border-collapse: collapse; width: 100%; font-size: 14px; }
+  th, td { padding: 6px 10px; text-align: left; border-bottom: 1px solid #eee; }
+  th { background: #f5f5f5; font-weight: 600; }
+  td.num { text-align: right; font-family: monospace; }
+  .bar { display: inline-block; padding: 3px 8px; color: white;
+          font-family: monospace; font-size: 12px; min-width: 40px; }
+  .money-chart { font-family: monospace; font-size: 11px; line-height: 1.4;
+                  white-space: pre; background: #fafafa; padding: 12px;
+                  border: 1px solid #eee; overflow-x: auto; }
+  .episode-block { border-left: 3px solid #ddd; padding-left: 12px;
+                    margin: 12px 0; }
+  .episode-block.won { border-left-color: #28a745; }
+  .episode-block.lost { border-left-color: #dc3545; }
+  .actions-table th { background: #e8e8e8; }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 10px;
+            font-size: 12px; font-weight: 600; margin-left: 8px; }
+  .badge-ok { background: #28a745; color: white; }
+  .badge-fail { background: #dc3545; color: white; }
+  .legend { font-size: 13px; color: #555; }
+  .footer { color: #888; font-size: 12px; margin-top: 32px;
+             border-top: 1px solid #ddd; padding-top: 12px; }
+</style>
+</head>
+<body>
+
+<h1>Eval Report — Iteration 1</h1>
+<div class="meta">
+  Generated: 2026-08-11 09:57:39 &middot;
+  Training: 0.0s &middot;
+  Episodes: 10 &middot;
+  Total steps: 7190 &middot;
+  Model: <code>model.zip</code>
+</div>
+
+<div class="card">
+  <h2>Verdict</h2>
+  <div class="verdict learned">
+    ✓ LEARNED — Trade-action fraction 91.9% ≥ threshold 5%
+  </div>
+  <p style="margin-top: 12px;">
+    Trade-action fraction: <b>91.93%</b>
+    (HIRE + SELL_WHEAT + BUY_WHEAT, threshold 5%)<br>
+    Win rate: <b>0.00%</b> (0/10 episodes won)
+  </p>
+</div>
+
+<div class="card">
+  <h2>Action distribution <span style="font-weight: normal; font-size: 13px; color: #666;">(across all 7190 actions)</span></h2>
+  <table class="actions-table">
+    <thead>
+      <tr><th>Action</th><th>Idx</th><th>Count</th><th>%</th><th>Visual</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>OTHER</td><td class='num'>-</td><td class='num'>0</td><td class='num'>0.0%</td><td><div class='bar' style='background:#888888; width: 6.0px;'>&nbsp;</div></td></tr><tr><td>HOLD</td><td class='num'>0</td><td class='num'>0</td><td class='num'>0.0%</td><td><div class='bar' style='background:#1f77b4; width: 6.0px;'>&nbsp;</div></td></tr><tr><td>HIRE <span class='badge badge-ok'>TRADE</span></td><td class='num'>1</td><td class='num'>0</td><td class='num'>0.0%</td><td><div class='bar' style='background:#2ca02c; width: 6.0px;'>&nbsp;</div></td></tr><tr><td>SELL_WHEAT <span class='badge badge-ok'>TRADE</span></td><td class='num'>2</td><td class='num'>0</td><td class='num'>0.0%</td><td><div class='bar' style='background:#ff7f0e; width: 6.0px;'>&nbsp;</div></td></tr><tr><td>BUY_WHEAT <span class='badge badge-ok'>TRADE</span></td><td class='num'>3</td><td class='num'>6610</td><td class='num'>91.9%</td><td><div class='bar' style='background:#d62728; width: 367.7329624478442px;'>&nbsp;</div></td></tr><tr><td>PASS</td><td class='num'>4</td><td class='num'>580</td><td class='num'>8.1%</td><td><div class='bar' style='background:#9467bd; width: 32.26703755215577px;'>&nbsp;</div></td></tr>
+    </tbody>
+  </table>
+  <p class="legend">
+    HOLD (idx 0, <code>[]</code>) and PASS (idx 4, <code>farmer:PASS</code>) are
+    <i>always legal</i>. HIRE / SELL_WHEAT / BUY_WHEAT need valid game state.
+    <b>If HOLD+PASS &gt; 90%, the agent has not learned to trade.</b>
+  </p>
+</div>
+
+<div class="card">
+  <h2>Money trajectory</h2>
+  <p><b>Episode 0</b> (LOST, terminated, 719 steps)</p><div class='money-chart'>min=  10.0  max=2974.0  final=  10.0
+█▇▆▅▄▃▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</div><p><b>Episode 1</b> (LOST, terminated, 719 steps)</p><div class='money-chart'>min=  10.0  max=2974.0  final=  10.0
+█▇▆▅▄▃▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</div><p><b>Episode 2</b> (LOST, terminated, 719 steps)</p><div class='money-chart'>min=  10.0  max=2974.0  final=  10.0
+█▇▆▅▄▃▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</div><p><b>Episode 3</b> (LOST, terminated, 719 steps)</p><div class='money-chart'>min=  10.0  max=2974.0  final=  10.0
+█▇▆▅▄▃▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</div><p><b>Episode 4</b> (LOST, terminated, 719 steps)</p><div class='money-chart'>min=  10.0  max=2974.0  final=  10.0
+█▇▆▅▄▃▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</div><p><b>Episode 5</b> (LOST, terminated, 719 steps)</p><div class='money-chart'>min=  10.0  max=2974.0  final=  10.0
+█▇▆▅▄▃▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</div><p><b>Episode 6</b> (LOST, terminated, 719 steps)</p><div class='money-chart'>min=  10.0  max=2974.0  final=  10.0
+█▇▆▅▄▃▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</div><p><b>Episode 7</b> (LOST, terminated, 719 steps)</p><div class='money-chart'>min=  10.0  max=2974.0  final=  10.0
+█▇▆▅▄▃▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</div><p><b>Episode 8</b> (LOST, terminated, 719 steps)</p><div class='money-chart'>min=  10.0  max=2974.0  final=  10.0
+█▇▆▅▄▃▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</div><p><b>Episode 9</b> (LOST, terminated, 719 steps)</p><div class='money-chart'>min=  10.0  max=2974.0  final=  10.0
+█▇▆▅▄▃▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</div>
+</div>
+
+<div class="card">
+  <h2>Per-episode detail</h2>
+  <div class='episode-block lost'><b>Episode 0</b> <span class="badge badge-fail">LOST</span> &middot; 719 steps &middot; terminated<br><table style='width:auto; margin-top:8px;'><tr><td>BUY_WHEAT</td><td class='num'>661</td></tr><tr><td>PASS</td><td class='num'>58</td></tr></table></div><div class='episode-block lost'><b>Episode 1</b> <span class="badge badge-fail">LOST</span> &middot; 719 steps &middot; terminated<br><table style='width:auto; margin-top:8px;'><tr><td>BUY_WHEAT</td><td class='num'>661</td></tr><tr><td>PASS</td><td class='num'>58</td></tr></table></div><div class='episode-block lost'><b>Episode 2</b> <span class="badge badge-fail">LOST</span> &middot; 719 steps &middot; terminated<br><table style='width:auto; margin-top:8px;'><tr><td>BUY_WHEAT</td><td class='num'>661</td></tr><tr><td>PASS</td><td class='num'>58</td></tr></table></div><div class='episode-block lost'><b>Episode 3</b> <span class="badge badge-fail">LOST</span> &middot; 719 steps &middot; terminated<br><table style='width:auto; margin-top:8px;'><tr><td>BUY_WHEAT</td><td class='num'>661</td></tr><tr><td>PASS</td><td class='num'>58</td></tr></table></div><div class='episode-block lost'><b>Episode 4</b> <span class="badge badge-fail">LOST</span> &middot; 719 steps &middot; terminated<br><table style='width:auto; margin-top:8px;'><tr><td>BUY_WHEAT</td><td class='num'>661</td></tr><tr><td>PASS</td><td class='num'>58</td></tr></table></div><div class='episode-block lost'><b>Episode 5</b> <span class="badge badge-fail">LOST</span> &middot; 719 steps &middot; terminated<br><table style='width:auto; margin-top:8px;'><tr><td>BUY_WHEAT</td><td class='num'>661</td></tr><tr><td>PASS</td><td class='num'>58</td></tr></table></div><div class='episode-block lost'><b>Episode 6</b> <span class="badge badge-fail">LOST</span> &middot; 719 steps &middot; terminated<br><table style='width:auto; margin-top:8px;'><tr><td>BUY_WHEAT</td><td class='num'>661</td></tr><tr><td>PASS</td><td class='num'>58</td></tr></table></div><div class='episode-block lost'><b>Episode 7</b> <span class="badge badge-fail">LOST</span> &middot; 719 steps &middot; terminated<br><table style='width:auto; margin-top:8px;'><tr><td>BUY_WHEAT</td><td class='num'>661</td></tr><tr><td>PASS</td><td class='num'>58</td></tr></table></div><div class='episode-block lost'><b>Episode 8</b> <span class="badge badge-fail">LOST</span> &middot; 719 steps &middot; terminated<br><table style='width:auto; margin-top:8px;'><tr><td>BUY_WHEAT</td><td class='num'>661</td></tr><tr><td>PASS</td><td class='num'>58</td></tr></table></div><div class='episode-block lost'><b>Episode 9</b> <span class="badge badge-fail">LOST</span> &middot; 719 steps &middot; terminated<br><table style='width:auto; margin-top:8px;'><tr><td>BUY_WHEAT</td><td class='num'>661</td></tr><tr><td>PASS</td><td class='num'>58</td></tr></table></div>
+</div>
+
+
+
+<div class="footer">
+  Auto-generated by scripts/eval_loop.py &middot;
+  iter_dir: <code>iter_01_20260811_095726</code>
+</div>
+
+</body>
+</html>

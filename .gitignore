@@ -79,3 +79,6 @@ eval_reports/
 !eval_reports/train_roi_val_250k/
 !eval_reports/roi_reward_val_eval.md
 !eval_reports/roi_reward_val_vs_random.md
+
+# Large animated HTML files
+*.html

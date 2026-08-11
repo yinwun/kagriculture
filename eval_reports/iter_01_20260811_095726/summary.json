@@ -1,0 +1,18 @@
+{
+  "total_actions": 7190,
+  "action_counts": {
+    "-1": 0,
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 6610,
+    "4": 580
+  },
+  "trade_count": 6610,
+  "trade_frac": 0.9193324061196105,
+  "wins": 0,
+  "episodes": 10,
+  "win_rate": 0.0,
+  "_current_trade_frac": 0.9193324061196105,
+  "_current_win_rate": 0.0
+}

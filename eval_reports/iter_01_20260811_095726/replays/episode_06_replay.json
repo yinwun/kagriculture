@@ -1,0 +1,9846 @@
+{
+  "id": "iter-iter_01_20260811_095726-ep-6",
+  "rewards": [
+    10.0,
+    0
+  ],
+  "steps": [
+    [
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "market": [
+            [
+              "BUY_PRODUCT",
+              "WHEAT",
+              1
+            ]
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      },
+      {
+        "action": {
+          "farmer": [
+            "PASS"
+          ]
+        },
+        "reward": 0,
+        "info": {},
+        "observation": {}
+      }
+    ],
+    []
+  ]
+}
