@@ -1,22 +1,55 @@
 # macOS
 .DS_Store
 
-# 提交包（二进制产物）
+# Kaggle submission packages
 pkg/*.tar.gz
-pkg/*.zip
+*.tar.gz
 
-# 训练日志
+# Model weights (large binary files)
+models/*.zip
+models/*.eval.txt
+models/policy.pth
+models/policy_np.npz
+models/opponent_model.joblib
+
+# Training logs
 log/
 log-session/*.md
+log-session.md
+logs/
 
-# Replay 文件（过大，按需单独下载）
+# Eval reports (generated HTML/JSON)
+eval_reports/
+
+# Training checkpoints
+*_best/
+*_checkpoints/
+
+# Data files
+data/extracted/
+data/replay/
+data/replay_latest/
+data/kaggriculture-episodes-*.zip
+data/opponent_dataset*.npz
+
+# Replay files (large JSON)
 replays/
 
-# Python
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
 *.egg-info/
+src/__pycache__/
+src/envs/__pycache__/
+src/algos/__pycache__/
+src/models/__pycache__/
+src/opponent/__pycache__/
+src/utils/__pycache__/
+scripts/__pycache__/
+
+# Backup files
+*.bak
 
 # Jupyter
 .ipynb_checkpoints/
@@ -26,3 +59,20 @@ __pycache__/
 .vscode/
 *.swp
 *.swo
+
+# Claude settings (local machine specific)
+.claude/
+
+# Local scripts / experiments
+main.py
+run_train.py
+test_sb3.py
+train_final.sh
+quick_train.sh
+src/main.py
+src/train.py
+src/train_simple.py
+src/policy_np.npz
+
+# Local CODEX overrides (server has its own)
+CODEX_local.md

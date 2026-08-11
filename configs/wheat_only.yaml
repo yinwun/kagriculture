@@ -1,0 +1,49 @@
+# Kagriculture RL — Wheat-only Phase 1 Config
+
+# 模型配置
+model:
+  name: "ppo_wheat_only"
+  version: "v1"
+  
+# 环境配置
+env:
+  opponent: "random"
+  reward_type: "dense"  # dense or sparse
+  max_steps: 720
+
+# Action space (Phase 1: 4 actions)
+action_space:
+  phase: 1
+  n_actions: 4
+  actions:
+    - "HOLD"
+    - "HIRE"
+    - "SELL_WHEAT"
+    - "BUY_PRODUCT_WHEAT"
+
+# PPO 超参数
+ppo:
+  learning_rate: 3.0e-4
+  n_steps: 2048
+  batch_size: 64
+  n_epochs: 10
+  gamma: 0.99
+  gae_lambda: 0.95
+  clip_range: 0.2
+  ent_coef: 0.01
+  vf_coef: 0.5
+  max_grad_norm: 0.5
+
+# 训练配置
+training:
+  total_steps: 10000000  # 10M steps
+  eval_freq: 10000
+  eval_episodes: 10
+  save_freq: 100000
+  log_freq: 1000
+
+# 评估标准 (Gate 3)
+evaluation:
+  win_rate_vs_random: 0.50  # 50%
+  win_rate_vs_heuristic: 0.40  # 40%
+  win_rate_vs_v22: 0.30  # 30% (optional)
