@@ -1,0 +1,23 @@
+[17 configs x 24 seeds in 123s]
+config                reward  cover  idle%  move% plants10 anim10 plants15  water   harv err bad
+plant1.2              57,377   0.89    7.4   53.9     38.2    3.0     32.1    930    228   0   0
+apprio4               57,368   0.88    6.7   53.9     38.0    3.0     35.1    918    224   0   0
+newbase               56,940   0.89    7.0   53.7     38.2    3.0     32.1    926    225   0   0
+anim1.0               56,940   0.89    7.0   53.7     38.2    3.0     32.1    926    225   0   0
+land5                 56,940   0.89    7.0   53.7     38.2    3.0     32.1    926    225   0   0
+plant1.4              56,671   0.89    7.4   53.5     38.2    3.0     32.1    927    225   0   0
+hire3.8               55,894   0.91   12.1   50.4     49.9    3.0     34.2   1072    271   0   0
+apprio0               54,912   0.88    6.2   54.3     38.7    3.0     32.2    931    227   0   0
+land8                 54,702   0.88    6.8   53.0     38.8    3.0     36.2    920    225   0   0
+hire3.2               53,431   0.90    9.0   52.4     50.0    3.0     38.0   1043    263   0   0
+sell20                52,185   0.88    5.3   53.1     43.5    3.0     33.6    902    223   0   0
+sell30                51,560   0.88    5.3   53.5     44.1    3.0     33.3    906    222   0   0
+anim1.6_hire3.2       26,011   0.93   17.8   49.6     34.1    1.0     28.1    825    194   0   0
+anim1.6               25,644   0.90   13.9   49.0     33.2    1.0     24.7    768    171   0   0
+anim1.6_plant1.2      25,227   0.89   13.7   49.5     33.2    1.0     24.7    767    168   0   0
+anim2.0                    0   0.00   61.7    1.7      0.0    0.0      0.0      0      0   0   0
+anim2.0_hire3.2_plant1.2         0   0.00   61.7    1.7      0.0    0.0      0.0      0      0   0   0
+wrote data/plan-sweep-6.json
+  A_v42baseline: 2 games  W/L/T 2/0/0  win 100.0%  margin +100,808 (median +100,808)  opp mean score 581
+  B_rgcs: 3 games  W/L/T 3/0/0  win 100.0%  margin +65,094 (median +59,098)  opp mean score 714
+snapshot stored in /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/submission_track.json

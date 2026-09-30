@@ -1,0 +1,15 @@
+tg_inbox: polling as chat_id=8513465865, starting offset=758383095
+[in] 2026-09-28T22:42:26Z nickyl: 测试通道，收到回复收到
+[in] 2026-09-28T22:42:56Z nickyl: 查一下现在最新的排名
+[in] 2026-09-28T23:14:38Z nickyl: 测试连接性，看下telegram
+[in] 2026-09-28T23:15:01Z nickyl: 看下telegram
+[in] 2026-09-29T00:25:37Z nickyl: 数据分析回来了吗
+[in] 2026-09-29T00:26:29Z nickyl: 看一下telegram
+tg_inbox: polling as chat_id=8513465865, starting offset=758383101
+tg_inbox HTTPError 502; backoff 2s
+tg_inbox TimeoutError: The read operation timed out; backoff 4s
+[in] 2026-09-29T01:24:10Z nickyl: 今天不需要再发版本，直接等待结束
+[in] 2026-09-29T01:24:39Z nickyl: 看一下telegram
+  -> status query, running push_live.py
+  push_live rc=0: verdict: 2200+ band samples <20 -> UNDECIDED
+tg_inbox TimeoutError: The read operation timed out; backoff 2s

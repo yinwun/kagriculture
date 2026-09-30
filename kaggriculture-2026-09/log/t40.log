@@ -1,0 +1,63 @@
+=== PROVENANCE (newest 20) ===
+  haodou092/kaggriculture-harvest-ledger               no-blob
+  flexonafft/kaggriculture-multi-route-farming-agent   no-blob
+      extract: [kaggriculture-multi-route-farming-agent.ipynb] chars 234,111 -> data/cand/kaggriculture-multi-route-farming-agent-extra
+  leoprovorov/a-song-of-ice-and-fire-fixed-flexible    no-blob
+  leoprovorov/god-s-mode-hacked-stores                 no-blob
+  guruprasaathas111/kaggriculture-master-engine-v53e01 no-blob OTHER {'5df1c84699004845': "dict keys=['base', 'patches']"}
+      extract: [kaggriculture-master-engine-v53e01d74d8f.ipynb] chars 311,246 -> data/cand/kaggriculture-master-engine-v53e01d74d8f-ext
+  haideptry/the-2965-master-hybrid-engine              OURS
+  destbreso/x-ray-your-agent                           no-blob
+  ashok205/top10-replay-dataset-archive                no-blob
+  georgymamarin/kaggriculture-what-2600-farms-do-diffe no-blob
+  guruprasaathas111/kaggriculture-top-2-master-engine- OURS
+  leoprovorov/3141592653589793238462643383279505820288 OURS
+  haideptry/the-shepherds-ledger-herd-safe-sovereign   OURS
+  evgendvorkin/kaggriculture-version-31-26-09-bronze-g no-blob OTHER {'5df1c84699004845': "dict keys=['base', 'patches']"}
+  kunaldesale2408/kaggriculture-ttv1                   no-blob
+  lynnsakurai/farmer-john-and-the-idle-seller          no-blob
+  tetsutani/demand-preserving-turn-sale-timing         OURS
+  degnonguidi/kaggriculture-utils-v1                   no-blob
+      extract: [kaggriculture-utils-v1.ipynb] chars 332,922 -> data/cand/kaggriculture-utils-v1-extracted-main.py
+  leoprovorov/kaggricult-man-reverse-engineering       no-blob
+  kunaldesale2408/kaggriculture-2026-v1                no-blob OTHER {'5df1c84699004845': "dict keys=['base', 'patches']"}
+      extract: [kaggriculture-2026-v1.ipynb] chars 299,347 -> data/cand/kaggriculture-2026-v1-extracted-main.py
+  lynnsakurai/farmer-john-and-the-wheat-seller         no-blob
+
+DIFFERENT PAYLOADS: [('guruprasaathas111/kaggriculture-master-engine-v53e01d74d8f', {'5df1c84699004845': "dict keys=['base', 'patches']"}), ('evgendvorkin/kaggriculture-version-31-26-09-bronze-going-up', {'5df1c84699004845': "dict keys=['base', 'patches']"}), ('kunaldesale2408/kaggriculture-2026-v1', {'5df1c84699004845': "dict keys=['base', 'patches']"})]
+runnable extracted: 9
+
+=== SMOKE + DUELS vs cap24 ===
+  flexonafft/kaggriculture-multi-route-farming-a submission.tar.gz: PASS
+  guruprasaathas111/kaggriculture-master-engine- OK [65239.0, 65239.0]
+      p1 d=-3,341 t=-5.86 W-L 2-58 exc=0 err=0
+      p2 d=-4,447 t=-8.65 W-L 2-58 exc=0 err=0
+  haideptry/the-2965-master-hybrid-engine        OK [65921.0, 65921.0]
+      p1 d=-410 t=-2.77 W-L 12-48 exc=0 err=0
+      p2 d=-495 t=-4.88 W-L 18-42 exc=0 err=0
+  guruprasaathas111/kaggriculture-top-2-master-e OK [65488.0, 65488.0]
+      p1 d=-537 t=-3.37 W-L 8-52 exc=0 err=0
+      p2 d=-522 t=-4.02 W-L 16-44 exc=0 err=0
+  leoprovorov/3141592653589793238462643383279505 OK [66301.0, 66301.0]
+      p1 d=+1,142 t=+8.78 W-L 60-0 exc=0 err=0
+      p2 d=+1,071 t=+6.28 W-L 56-4 exc=0 err=0
+  haideptry/the-shepherds-ledger-herd-safe-sover OK [66199.0, 66199.0]
+      p1 d=-155 t=-2.05 W-L 17-43 exc=0 err=0
+      p2 d=-91 t=-0.94 W-L 20-40 exc=0 err=0
+  tetsutani/demand-preserving-turn-sale-timing   OK [65734.0, 65734.0]
+      p1 d=-544 t=-5.80 W-L 6-54 exc=0 err=0
+      p2 d=-355 t=-3.21 W-L 14-46 exc=0 err=0
+  degnonguidi/kaggriculture-utils-v1             NameError: name 'WORKDIR' is not defined
+  kunaldesale2408/kaggriculture-2026-v1          OK [64699.0, 64699.0]
+      p1 d=-3,663 t=-6.21 W-L 2-58 exc=0 err=0
+      p2 d=-4,907 t=-9.13 W-L 2-58 exc=0 err=0
+
+=== BAR (delta>0, t>=3 both panels) vs cap24 ===
+  guruprasaathas111/kaggriculture-master-engine- no-go  p1 -3,341 (t=-5.86)  p2 -4,447 (t=-8.65)
+  haideptry/the-2965-master-hybrid-engine        no-go  p1 -410 (t=-2.77)  p2 -495 (t=-4.88)
+  guruprasaathas111/kaggriculture-top-2-master-e no-go  p1 -537 (t=-3.37)  p2 -522 (t=-4.02)
+  leoprovorov/3141592653589793238462643383279505 GO  p1 +1,142 (t=+8.78)  p2 +1,071 (t=+6.28)
+  haideptry/the-shepherds-ledger-herd-safe-sover no-go  p1 -155 (t=-2.05)  p2 -91 (t=-0.94)
+  tetsutani/demand-preserving-turn-sale-timing   no-go  p1 -544 (t=-5.80)  p2 -355 (t=-3.21)
+  kunaldesale2408/kaggriculture-2026-v1          no-go  p1 -3,663 (t=-6.21)  p2 -4,907 (t=-9.13)
+WINNER: leoprovorov/31415926535897932384626433832795058202884197169399

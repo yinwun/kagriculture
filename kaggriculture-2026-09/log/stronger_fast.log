@@ -1,0 +1,16 @@
+
+3 candidates to duel vs the champion on 30 towns
+duelling kaggriculture-c68-thunder-adaptive ...
+  kaggriculture-c68-thunder-adaptive: delta -38,610 t=-21.34 W/L 0/60
+duelling 40-40-early-floor-39-46-top-10-v48-fast-routes ...
+  40-40-early-floor-39-46-top-10-v48-fast-routes: delta -25,346 t=-13.50 W/L 0/60
+duelling kaggriculture-2900 ...
+  kaggriculture-2900: delta -30,197 t=-14.85 W/L 0/60
+
+=== summary (delta vs our champion; positive = stronger) ===
+  40-40-early-floor-39-46-top-10-v48-fast-routes             -25,346 t=-13.50 W/L 0/60
+  kaggriculture-2900                                         -30,197 t=-14.85 W/L 0/60
+  kaggriculture-c68-thunder-adaptive                         -38,610 t=-21.34 W/L 0/60
+
+wrote data/stronger-check.json
+EXIT=0

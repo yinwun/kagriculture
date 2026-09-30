@@ -1,0 +1,6 @@
+### milk vs straw, HIGH POWER panel A (9700-9759 = 60 towns = 120 games)
+milk_hi_A              vs comp_straw     delta      +106  t=+2.58  W/L 80/36  wallet    99,576 vs    99,470  err=0
+### milk vs straw, HIGH POWER panel B (9800-9859 = 60 towns = 120 games)
+milk_hi_B              vs comp_straw     delta       +51  t=+1.18  W/L 71/49  wallet   100,185 vs   100,134  err=0
+MILKPOW_DONE
+EXIT=0

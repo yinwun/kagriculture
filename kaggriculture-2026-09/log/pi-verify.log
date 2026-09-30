@@ -1,0 +1,24 @@
+usage: ab_duel.py [-h] --cand CAND --base BASE [--seeds SEEDS] [--procs PROCS]
+                  [--out OUT] [--label LABEL]
+ab_duel.py: error: argument --cand: expected one argument
+[120 games in 1349s = 320 games/hour]
+pi_stack_raceonly vs pi_base vs cand           delta      +152  t=+8.99  W/L 110/4  wallet    96,144 vs    95,992  err=0
+   PASS                    64320 vs    64320  (+0)
+   WATER                  133257 vs   133257  (+0)
+   HARVEST                 58812 vs    58812  (+0)
+   PLANT                   28875 vs    28875  (+0)
+   FEED                    40121 vs    40121  (+0)
+   CARE                    47359 vs    47359  (+0)
+   COLLECT_FERTILIZER      46573 vs    46573  (+0)
+   FERTILIZE               13799 vs    13799  (+0)
+   PICKUP                  23652 vs    23652  (+0)
+   PLACE                   12370 vs    12370  (+0)
+   DIG                      4483 vs     4483  (+0)
+   DROP                     5824 vs     5824  (+0)
+   BUILD_PASTURE            1865 vs     1865  (+0)
+   BUILD_COOP                462 vs      462  (+0)
+   MOVE                   353906 vs   353906  (+0)
+   CMD                    481772 vs   481772  (+0)
+   idle share             7.70% vs   7.70%
+   internal counters    cand={'race_tried': 125801, 'race_eval': 131010, 'race_implied': 106222, 'race_considered': 5209, 'race_reorders': 1330, 'race_gain': 75648, 'RACE_race_clone_turns': 57120, 'RACE_race_horizon_turns': 57120, 'RACE_cs_rewrites': 36, 'RACE_cs_credit': 332, 'RACE_cs_sold': 258, 'RACE_race_mirror': 120} base={'RACE_race_clone_turns': 57120, 'RACE_race_horizon_turns': 57120, 'RACE_cs_rewrites': 36, 'RACE_cs_credit': 332, 'RACE_cs_sold': 258, 'RACE_race_mirror': 120}
+wrote data/candidate/duel-pi-layer-p3.json

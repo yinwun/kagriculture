@@ -1,0 +1,25 @@
+game 0: A bank 110,328  B bank 110,473  A orders 323  B orders 470
+game 1: A bank 109,100  B bank 107,629  A orders 333  B orders 467
+game 2: A bank 73,144  B bank 75,158  A orders 348  B orders 525
+game 3: A bank 71,999  B bank 67,857  A orders 309  B orders 467
+
+=== sell-order statistics (per agent, all games) ===
+
+A: orders 1313  qty mean 7.67 median 4 max 90
+   step%4 distribution (count, qty): 0:256/1417  1:317/1793  2:483/5790  3:257/1066
+   units sold: WHEAT=5301  FERTILIZER=1335  STRAWBERRY=999  MILK=802  EGG=464  WOOL=427
+     WHEAT       n= 296 mean   17.91 median      7 max   90
+     FERTILIZER  n= 373 mean    3.58 median      2 max   17
+     STRAWBERRY  n= 173 mean    5.77 median      6 max   20
+     MILK        n= 172 mean    4.66 median      3 max   18
+
+B: orders 1929  qty mean 180.16 median 5 max 1000
+   step%4 distribution (count, qty): 0:391/77402  1:409/90779  2:743/101993  3:386/77362
+   units sold: WHEAT=73286  CARROT=68203  FERTILIZER=41386  MILK=33378  EGG=32513  STRAWBERRY=25448
+     WHEAT       n= 370 mean  198.07 median      9 max 1000
+     CARROT      n= 101 mean  675.28 median   1000 max 1000
+     FERTILIZER  n= 434 mean   95.36 median      2 max 1000
+     MILK        n= 312 mean  106.98 median      6 max 1000
+
+wrote data/sell-probe.json
+EXIT=0

@@ -1,0 +1,19 @@
+running p3 (10200-10259)...
+running p4 (10300-10359)...
+
+=== PER-PANEL (candidate vs comp_straw) ===
+p1 9900-9929    n_towns  30 games  60 d=    +360 (+0.39%) t= +1.38 W-L 40-20 wallet 92358/91999 pos 20/30 exc 0/0 err 0
+p2 10100-10129  n_towns  30 games  60 d=    +239 (+0.25%) t= +1.48 W-L 34-26 wallet 97122/96883 pos 17/30 exc 0/0 err 0
+p3 10200-10259  n_towns  60 games 120 d=    +409 (+0.39%) t= +3.26 W-L 81-39 wallet 104325/103916 pos 41/60 exc 0/0 err 0
+p4 10300-10359  n_towns  60 games 120 d=    +379 (+0.38%) t= +3.44 W-L 75-45 wallet 99651/99272 pos 37/60 exc 0/0 err 0
+
+=== POOLED four panels ===
+  towns 180  delta +363  t +4.84  positive towns 115/180 (63.9%)  median +264  min -3,468  max +4,937
+  BAR (d>0, t>=3 on BOTH new panels): CLEARED
+
+=== action-mix diff (candidate - base), pooled over the last panel ===
+  DROP                       5862 vs     5722  (+140)
+  FERTILIZE                 14028 vs    14370  (-342)
+  MKT_SELL                  41110 vs    46918  (-5808)
+  PASS                      60123 vs    61949  (-1826)
+  counters: cand={'RACE_race_clone_turns': 52420, 'RACE_race_horizon_turns': 52420, 'RACE_race_lost_races': 118, 'RACE_race_escalations': 118, 'RACE_cs_rewrites': 92, 'RACE_cs_credit': 944, 'RACE_cs_sold': 682} base={'race_tried': 108087, 'race_eval': 110186, 'race_implied': 102637, 'forward_orders': 22911, 'forward_units': 23759, 'race_considered': 2099, 'race_reorders': 323, 'race_gain': 13120, 'RACE_race_clone_turns': 52420, 'RACE_race_horizon_turns': 52420, 'RACE_race_lost_races': 120, 'RACE_race_escalations': 120, 'RACE_cs_rewrites': 92, 'RACE_cs_credit': 944, 'RACE_cs_sold': 690}

@@ -1,0 +1,8 @@
+=== f85h12 ===
+spread_f85h12          vs rgcs           delta    -2,815  t=-6.65  W/L 1/59  wallet   100,589 vs   103,404  err=0
+=== f70h24 ===
+spread_f70h24          vs rgcs           delta   -11,431  t=-12.94  W/L 1/59  wallet    96,554 vs   107,985  err=0
+=== f70shed70 ===
+spread_f70shed70       vs rgcs           delta    -6,624  t=-14.75  W/L 1/59  wallet    99,309 vs   105,933  err=0
+ALLDONE
+EXIT=0

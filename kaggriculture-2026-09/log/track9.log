@@ -1,0 +1,6 @@
+  retry 0: ConnectionError
+  retry 1: ConnectionError
+  retry 2: ConnectionError
+  A_v42baseline: 14 games  W/L/T 14/0/0  win 100.0%  margin +35,857 (median +25,279)  opp mean score 1260
+  B_rgcs: 13 games  W/L/T 13/0/0  win 100.0%  margin +27,828 (median +17,461)  opp mean score 1302
+snapshot stored in /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/submission_track.json

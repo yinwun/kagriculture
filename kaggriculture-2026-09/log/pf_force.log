@@ -1,0 +1,6 @@
+[2 configs x 12 seeds (paired) in 210s]
+config                          delta        t       W/L     cand$      opp$  water   harv  feed  care  coll plant  idle%  pl10  an10 err
+pf_off                        -89,936   -17.11      0/12    28,902   118,838    774    270   337   330   336   288    3.0  32.2   8.3   0
+pf_force_premium_d1          -101,871   -28.52      0/12    27,196   129,066    804    260   321   318   322   208    3.3  32.0   8.6   0
+wrote data/pf-force.json
+EXIT=0

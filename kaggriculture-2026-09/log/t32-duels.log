@@ -1,0 +1,20 @@
+=== SMOKE (720-step mirror; DEAD = wallet stuck at 3,000) ===
+kaggriculture-utils-v1                         FAIL NameError: name 'WORKDIR' is not defined
+cha22-agent                                    FAIL NameError: name 'WORKDIR' is not defined
+graph-reinforcement-learning                   FAIL KeyError: 'agent'
+the-shepherds-ledger-herd-safe-sovereign       OK [93574.0, 93574.0]
+kaggriculture-thomas-2944-candidate            FAIL PermissionError: [Errno 1] Operation not permitted: '/kaggle'
+kaggriculture-herd-safe-sale-window-race-ca25  OK [94039.0, 94039.0]
+
+2 candidates alive: ['the-shepherds-ledger-herd-safe-sovereign', 'kaggriculture-herd-safe-sale-window-race-ca25']
+
+=== DUELS vs comp_straw ===
+candidate                                      panel    delta       t      W-L     wallet cand/base   exc verdict
+the-shepherds-ledger-herd-safe-sovereign       is       +360   +1.38    40-20          92358/91999     0 no-go
+the-shepherds-ledger-herd-safe-sovereign       oos      +239   +1.48    34-26          97122/96883     0 no-go
+kaggriculture-herd-safe-sale-window-race-ca25  is       -280   -1.10    22-38          92102/92383     0 no-go
+kaggriculture-herd-safe-sale-window-race-ca25  oos      -275   -1.67    20-40          96884/97159     0 no-go
+
+=== BAR: delta>0 and t>=3 on BOTH panels ===
+  the-shepherds-ledger-herd-safe-sovereign       no-go  IS +360 (t=+1.38)  OOS +239 (t=+1.48)
+  kaggriculture-herd-safe-sale-window-race-ca25  no-go  IS -280 (t=-1.10)  OOS -275 (t=-1.67)

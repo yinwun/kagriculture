@@ -1,0 +1,8 @@
+[4 configs x 20 seeds (paired) in 279s]
+config                          delta        t       W/L     cand$      opp$  water   harv  feed  care  coll plant  idle%  pl10  an10 err
+m2b_base                      -93,438   -25.26      0/20    31,689   125,127    766    270   339   332   339   285    2.9  33.5   8.1   0
+m2b_geese4                    -99,710   -27.53      0/20    26,688   126,398    746    251   331   324   328   257    3.1  53.8   4.3   0
+m2b_geese2                   -101,192   -40.83      0/20    35,861   137,053    792    259   327   321   323   275    3.6  55.0   4.7   0
+m2b_geese2_plant0.8          -118,233   -38.09      0/20    31,381   149,614    633    208   288   282   282   373    8.3  22.9   1.0   0
+wrote data/m2-round6.json
+EXIT=0

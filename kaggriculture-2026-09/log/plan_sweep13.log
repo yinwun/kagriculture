@@ -1,0 +1,10 @@
+[7 configs x 24 seeds in 93s]
+config                reward  cover  idle%  move% plants10 anim10 plants15  water   harv err bad
+herd_ext_sell30       59,263   0.71    4.4   53.9     37.2    5.1     17.9    466    224   0   0
+herd_ext_r200         46,586   0.70    4.1   55.6     32.9    5.9     24.5    478    222   0   0
+herd_ext              46,033   0.71    4.4   53.7     37.2    5.1     17.8    463    225   0   0
+herd_ext_hire2.6      45,981   0.69    2.6   54.6     33.2    5.1     14.6    430    204   0   0
+herd_ext_hire3.8      45,163   0.74    5.5   53.1     34.0    5.7     16.4    464    226   0   0
+herd_ext_plant0.5     44,779   0.70    3.5   56.0     34.5    4.7     18.6    447    217   0   0
+herd_ext_plant0.8     42,211   0.72    3.7   56.2     30.9    5.6     17.0    408    200   0   0
+wrote data/plan-sweep-13.json

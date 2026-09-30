@@ -1,0 +1,4 @@
+layered_s901           vs rgcs           delta   -62,303  t=-31.03  W/L 0/80  wallet    65,900 vs   128,203  err=0
+layered_s902           vs rgcs           delta   -59,594  t=-32.56  W/L 0/80  wallet    65,403 vs   124,997  err=0
+fixed101               vs rgcs           delta    -3,169  t=-4.38  W/L 22/58  wallet   102,545 vs   105,714  err=0
+DONE

@@ -1,0 +1,7 @@
+OK destbreso/dissecting-the-top-two
+OK destbreso/which-language-does-your-agent-speak
+OK destbreso/everyone-is-playing-the-same-opening
+OK destbreso/x-ray-your-agent
+  retry destbreso/mutants-at-the-top-genetic-potential-of-a-replay ConnectionError
+OK destbreso/mutants-at-the-top-genetic-potential-of-a-replay
+DONE=0

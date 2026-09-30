@@ -1,0 +1,6 @@
+FAIL kaggle/kaggriculture-episodes-index ConnectionError ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+destbreso/kaggriculture-top10-replay-streams files: 3
+    boards.csv ?
+    episodes.csv ?
+    streams.parquet ?
+DONE=0

@@ -1,0 +1,22 @@
+  v37base    ladder= 2632.1  bank_starter=  168,616  bank_v42base=   78,280  win_v42base=  0.0%  margin_v42base=  -7,923
+  v37clamp   ladder= 2674.2  bank_starter=  172,732  bank_v42base=   86,147  win_v42base=  0.0%  margin_v42base= -27,337
+!! missing v40
+  v40clamp   ladder= 2587.9  bank_starter=  174,595  bank_v42base=   88,849  win_v42base=  0.0%  margin_v42base= -23,430
+  fr         ladder= 2493.5  bank_starter=  172,553  bank_v42base=   86,222  win_v42base=  0.0%  margin_v42base= -27,116
+  frsort     ladder= 2242.8  bank_starter=  172,553  bank_v42base=   86,197  win_v42base=  0.0%  margin_v42base= -27,159
+
+=== 本地指标与天梯分数的相关性(n=6)===
+  margin_aurax7v5        r = +0.399
+  margin_v41             r = +0.399
+  margin_v42base         r = +0.390
+  win_v42base            r = +0.000
+  win_v41                r = +0.000
+  win_starter            r = +0.000
+  win_aurax7v5           r = +0.000
+  bank_starter           r = -0.176
+  margin_starter         r = -0.176
+  bank_v42base           r = -0.248
+  bank_v41               r = -0.311
+  bank_aurax7v5          r = -0.311
+
+wrote data/metric_study.json  (21.0 min)

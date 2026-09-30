@@ -1,0 +1,9 @@
+[6 configs x 48 seeds in 170s]
+config                reward  cover  idle%  move% plants10 anim10 plants15  water   harv err bad
+grid3_strip4          84,143   0.78    3.6   56.0     42.8    4.0     22.1    626    234   0   0
+base                  84,134   0.83    4.7   54.6     38.2    5.3     24.7    668    258   0   0
+slack12               79,982   0.79    5.1   53.9     47.0    4.8     19.5    717    255   0   0
+zone0_strip6          78,849   0.78    3.5   55.3     43.1    4.8     15.9    561    222   0   0
+age8                  76,807   0.82    5.2   57.4     40.0    4.5     12.5    542    201   0   0
+strip8                     0   0.00   56.2   15.7      0.0    0.0      0.0     16      0   0  48
+wrote data/plan-sweep-16.json

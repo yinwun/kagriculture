@@ -1,0 +1,48 @@
+building...
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap8_ctl_raceonly/main.py (1,082,428 bytes, sha256 b7aa3185d6d6) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap8_ctl/main.py (1,086,245 bytes, sha256 8aa637f3a8881be2d84bc1c7237e2b375108905a91a1e2f80d4c70f61097b87c)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap12_raceonly/main.py (1,082,428 bytes, sha256 b7aa3185d6d6) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap12/main.py (1,086,246 bytes, sha256 5d1a70feb50f3e1a54e30733276c7c71c382b3f5b3502af4f377cf26fd3832b5)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap16_raceonly/main.py (1,082,428 bytes, sha256 b7aa3185d6d6) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap16/main.py (1,086,246 bytes, sha256 9849ca7803e0acad4fa5d75fa9f014c8886d0aa8208a7fb15e0240073a22a8df)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap24_raceonly/main.py (1,082,428 bytes, sha256 b7aa3185d6d6) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap24/main.py (1,086,246 bytes, sha256 d3417bf8618c8c0d2eb616b78f4040fb547c350bc1558929a91d5ed5bd0cf44a)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap48_raceonly/main.py (1,082,428 bytes, sha256 b7aa3185d6d6) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap48/main.py (1,086,246 bytes, sha256 1aad3466bf477d8e2282a5f3c841502995341679eccfab783405423805feaf49)
+CONTROL byte-identity vs committed cap8: True
+cap8 sha 8aa637f3a8881be2  ctl sha 8aa637f3a8881be2
+
+=== SMOKE ===
+  shep_v_cap8_ctl    SMOKE ['DONE', 'DONE'] ERR {}
+  shep_v_cap12       SMOKE ['DONE', 'DONE'] ERR {}
+  shep_v_cap16       SMOKE ['DONE', 'DONE'] ERR {}
+  shep_v_cap24       SMOKE ['DONE', 'DONE'] ERR {}
+  shep_v_cap48       SMOKE ['DONE', 'DONE'] ERR {}
+
+=== DUELS vs cap2 (mult 2.0) ===
+  shep_v_cap12       p1 d=+255 t=+8.23 W-L 59-1 wallet 96510/96255 exc 0 err 0
+  shep_v_cap12       p2 d=+280 t=+6.70 W-L 56-4 wallet 96740/96460 exc 0 err 0
+  shep_v_cap16       p1 d=+387 t=+6.57 W-L 59-1 wallet 96526/96139 exc 0 err 0
+  shep_v_cap16       p2 d=+495 t=+6.21 W-L 54-6 wallet 96848/96353 exc 0 err 0
+  shep_v_cap24       p1 d=+402 t=+6.32 W-L 59-1 wallet 96503/96101 exc 0 err 0
+  shep_v_cap24       p2 d=+564 t=+6.49 W-L 56-4 wallet 96850/96287 exc 0 err 0
+  shep_v_cap48       p1 d=+400 t=+6.20 W-L 59-1 wallet 96504/96104 exc 0 err 0
+  shep_v_cap48       p2 d=+575 t=+6.29 W-L 54-6 wallet 96843/96268 exc 0 err 0
+
+=== BAR (d>0, t>=3 both panels) ===
+  shep_v_cap12       GO  p1 +255 (t=+8.23)  p2 +280 (t=+6.70)
+  shep_v_cap16       GO  p1 +387 (t=+6.57)  p2 +495 (t=+6.21)
+  shep_v_cap24       GO  p1 +402 (t=+6.32)  p2 +564 (t=+6.49)
+  shep_v_cap48       GO  p1 +400 (t=+6.20)  p2 +575 (t=+6.29)
+
+PEAK: shep_v_cap24
+CONTROL duel: delta=+0.0 t=+0.00 errors=0 exc=0
+
+=== MECHANISM (shep_v_cap24 seat0 vs cap8 seat1, 8 games): mean margin +279
+  shep_v_cap24    WOOL        units   1203 revenue     120,938 avg realised price 100.53
+  shep_v_cap24    STRAWBERRY  units   1984 revenue     179,297 avg realised price  90.37
+  cap8            WOOL        units   1203 revenue     119,918 avg realised price  99.68
+  cap8            STRAWBERRY  units   1984 revenue     178,664 avg realised price  90.05
+RUNTIME cap8: actTimeout = 1 s/step (engine default); machine-dependent, so compare ratios
+RUNTIME peak(shep_v_cap24): actTimeout = 1 s/step (engine default); machine-dependent, so compare ratios
+CONFIRMATION shep_v_cap24 vs cap8 on 11800-11829: d=+491 t=+5.03 W-L 58-2 exc 0 err 0

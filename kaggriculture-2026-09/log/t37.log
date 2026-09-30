@@ -1,0 +1,45 @@
+building...
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap2_ctl_raceonly/main.py (1,082,428 bytes, sha256 b7aa3185d6d6) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap2_ctl/main.py (1,086,245 bytes, sha256 2f49b0ce6b8f51183bb496c311eb811d312a06bcfd0d8a8f944cd3f4fc1c1709)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap3_raceonly/main.py (1,082,428 bytes, sha256 b7aa3185d6d6) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap3/main.py (1,086,245 bytes, sha256 bc6bcbb9e5af9cb6b00b885007df8af532b97a0da7eacffea83c89672191c1e4)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap4_raceonly/main.py (1,082,428 bytes, sha256 b7aa3185d6d6) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap4/main.py (1,086,245 bytes, sha256 3bf4f03ff143d8bd0835fc769e63e2497c5aac833900c19a12dd063984b88a90)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap6_raceonly/main.py (1,082,428 bytes, sha256 b7aa3185d6d6) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap6/main.py (1,086,245 bytes, sha256 05bd2dabc4c6daab0e483f34ff3931d48933913adcec2c5ef6e0c679fcf0d444)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap8_raceonly/main.py (1,082,428 bytes, sha256 b7aa3185d6d6) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap8/main.py (1,086,245 bytes, sha256 8aa637f3a8881be2d84bc1c7237e2b375108905a91a1e2f80d4c70f61097b87c)
+CONTROL byte-identity vs committed cap2: True
+cap2 sha 2f49b0ce6b8f5118  ctl sha 2f49b0ce6b8f5118
+
+=== SMOKE ===
+  shep_v_cap2_ctl    SMOKE ['DONE', 'DONE'] ERR {}
+  shep_v_cap3        SMOKE ['DONE', 'DONE'] ERR {}
+  shep_v_cap4        SMOKE ['DONE', 'DONE'] ERR {}
+  shep_v_cap6        SMOKE ['DONE', 'DONE'] ERR {}
+  shep_v_cap8        SMOKE ['DONE', 'DONE'] ERR {}
+
+=== DUELS vs cap2 (mult 2.0) ===
+  shep_v_cap3        p1 d=+402 t=+8.21 W-L 58-2 wallet 89554/89152 exc 0 err 0
+  shep_v_cap3        p2 d=+335 t=+9.01 W-L 59-1 wallet 99223/98887 exc 0 err 0
+  shep_v_cap4        p1 d=+567 t=+9.37 W-L 59-1 wallet 89626/89059 exc 0 err 0
+  shep_v_cap4        p2 d=+533 t=+12.32 W-L 60-0 wallet 99304/98771 exc 0 err 0
+  shep_v_cap6        p1 d=+784 t=+9.10 W-L 59-1 wallet 89663/88879 exc 0 err 0
+  shep_v_cap6        p2 d=+800 t=+13.91 W-L 60-0 wallet 99412/98612 exc 0 err 0
+  shep_v_cap8        p1 d=+950 t=+8.83 W-L 59-1 wallet 89721/88771 exc 0 err 0
+  shep_v_cap8        p2 d=+909 t=+13.38 W-L 60-0 wallet 99421/98512 exc 0 err 0
+
+=== BAR (d>0, t>=3 both panels) ===
+  shep_v_cap3        GO  p1 +402 (t=+8.21)  p2 +335 (t=+9.01)
+  shep_v_cap4        GO  p1 +567 (t=+9.37)  p2 +533 (t=+12.32)
+  shep_v_cap6        GO  p1 +784 (t=+9.10)  p2 +800 (t=+13.91)
+  shep_v_cap8        GO  p1 +950 (t=+8.83)  p2 +909 (t=+13.38)
+
+PEAK: shep_v_cap8
+CONTROL duel: delta=+0.0 t=+0.00 errors=0 exc=0
+
+=== MECHANISM (shep_v_cap8 seat0 vs cap2 seat1, 8 games): mean margin +1,571
+  shep_v_cap8     WOOL        units   1629 revenue     205,473 avg realised price 126.13
+  shep_v_cap8     STRAWBERRY  units   1980 revenue     148,739 avg realised price  75.12
+  cap2            WOOL        units   1629 revenue     201,862 avg realised price 123.92
+  cap2            STRAWBERRY  units   1969 revenue     145,610 avg realised price  73.95

@@ -1,0 +1,10 @@
+[7 configs x 48 seeds in 135s]
+config                reward  cover  idle%  move% plants10 anim10 plants15  water   harv mv/act err bad
+frac0.5_liq26         83,824   0.80    2.8   56.7     40.8    7.4     38.1    774    266   0   0
+frac0.5_liq29         83,515   0.80    2.8   56.7     40.8    7.4     38.1    774    266   0   0
+frac0                  3,000   0.00  100.0    0.0      0.0    0.0      0.0      0      0   0  48
+frac0.3                3,000   0.00  100.0    0.0      0.0    0.0      0.0      0      0   0  48
+frac0.5                3,000   0.00  100.0    0.0      0.0    0.0      0.0      0      0   0  48
+frac0.7                3,000   0.00  100.0    0.0      0.0    0.0      0.0      0      0   0  48
+frac0.5_sell40         3,000   0.00  100.0    0.0      0.0    0.0      0.0      0      0   0  48
+wrote data/plan-sweep-20.json

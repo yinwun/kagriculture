@@ -1,0 +1,31 @@
+t43-poprobust            vs pi_stack p1: d=-1,093 t=-5.71 W-L 3-57 exc=0/0 err=0
+t43-poprobust            vs pi_stack p2: d=-1,034 t=-6.45 W-L 6-54 exc=0/0 err=0
+t43-idleseller           vs pi_stack p1: d=-765 t=-9.21 W-L 0-60 exc=0/0 err=0
+t43-idleseller           vs pi_stack p2: d=-479 t=-7.74 W-L 2-58 exc=0/0 err=0
+=== BAR: beats pi_stack (delta>0, t>=3 on BOTH panels) ===
+  t43-poprobust            no-go  p1 -1,093 (t=-5.71)  p2 -1,034 (t=-6.45)
+  t43-idleseller           no-go  p1 -765 (t=-9.21)  p2 -479 (t=-7.74)
+  t43-masterenginev5       no-go  p1 -5,142 (t=-8.04)  p2 -4,286 (t=-7.42)
+  t43-godsmode             no-go  p1 -779 (t=-3.74)  p2 -792 (t=-4.86)
+  t43-marketshock          no-go  p1 -884 (t=-3.73)  p2 -672 (t=-4.80)
+  t43-shepherds-fresh      no-go  p1 -1,034 (t=-5.28)  p2 -981 (t=-6.08)
+  t43-the2965              no-go  p1 -765 (t=-9.21)  p2 -479 (t=-7.74)
+  t43-harvestledger        no-go  p1 -765 (t=-9.21)  p2 -479 (t=-7.74)
+  t43-demandpreserving     no-go  p1 -765 (t=-9.21)  p2 -479 (t=-7.74)
+  t43-songoffire           no-go  p1 -1,034 (t=-5.28)  p2 -981 (t=-6.08)
+  t43-multiroute           no-go  p1 -33,299 (t=-19.19)  p2 -35,492 (t=-19.79)
+  t43-graphrl              no-go  p1 -36,462 (t=-13.65)  p2 -33,373 (t=-18.78)
+  t43-autonomous           no-go  p1 -942 (t=-4.61)  p2 -712 (t=-3.93)
+  t43-wheatseller          no-go  p1 -884 (t=-3.73)  p2 -672 (t=-4.80)
+  t43-2026v1-tape          no-go  p1 -5,554 (t=-8.79)  p2 -4,800 (t=-8.23)
+=== engine-vs-engine: beats bare V78 base ===
+  t43-godsmode             weaker    p1 -1,013 (t=-5.58)  p2 -946 (t=-5.93)
+  t43-marketshock          weaker    p1 -1,160 (t=-5.66)  p2 -768 (t=-6.53)
+  t43-shepherds-fresh      weaker    p1 -1,309 (t=-6.81)  p2 -1,037 (t=-6.25)
+  t43-the2965              weaker    p1 -61 (t=-3.23)  p2 -60 (t=-1.86)
+  t43-harvestledger        weaker    p1 -61 (t=-3.23)  p2 -60 (t=-1.86)
+  t43-demandpreserving     weaker    p1 -61 (t=-3.22)  p2 -60 (t=-1.86)
+  t43-songoffire           weaker    p1 -1,309 (t=-6.81)  p2 -1,037 (t=-6.25)
+  t43-multiroute           weaker    p1 -33,499 (t=-19.13)  p2 -35,787 (t=-19.88)
+  t43-graphrl              weaker    p1 -36,796 (t=-13.78)  p2 -33,670 (t=-18.79)
+EXIT=0

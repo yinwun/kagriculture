@@ -1,0 +1,57 @@
+t43-godsmode             vs pi_stack p1: d=-779 t=-3.74 W-L 15-45 exc=0/0 err=0
+t43-godsmode             vs pi_stack p2: d=-792 t=-4.86 W-L 13-47 exc=0/0 err=0
+t43-godsmode             vs pi_base  p1: d=-1,013 t=-5.58 W-L 11-49 exc=0/0 err=0
+t43-godsmode             vs pi_base  p2: d=-946 t=-5.93 W-L 9-51 exc=0/0 err=0
+t43-marketshock          vs pi_stack p1: d=-884 t=-3.73 W-L 8-52 exc=0/0 err=0
+t43-marketshock          vs pi_stack p2: d=-672 t=-4.80 W-L 14-46 exc=0/0 err=0
+t43-marketshock          vs pi_base  p1: d=-1,160 t=-5.66 W-L 7-53 exc=0/0 err=0
+t43-marketshock          vs pi_base  p2: d=-768 t=-6.53 W-L 8-52 exc=0/0 err=0
+t43-shepherds-fresh      vs pi_stack p1: d=-1,034 t=-5.28 W-L 4-56 exc=0/0 err=0
+t43-shepherds-fresh      vs pi_stack p2: d=-981 t=-6.08 W-L 6-54 exc=0/0 err=0
+t43-shepherds-fresh      vs pi_base  p1: d=-1,309 t=-6.81 W-L 6-54 exc=0/0 err=0
+t43-shepherds-fresh      vs pi_base  p2: d=-1,037 t=-6.25 W-L 4-56 exc=0/0 err=0
+=== BAR: beats pi_stack (delta>0, t>=3 on BOTH panels) ===
+  t43-godsmode             no-go  p1 -779 (t=-3.74)  p2 -792 (t=-4.86)
+  t43-marketshock          no-go  p1 -884 (t=-3.73)  p2 -672 (t=-4.80)
+  t43-shepherds-fresh      no-go  p1 -1,034 (t=-5.28)  p2 -981 (t=-6.08)
+  t43-the2965              no-go  p1 -765 (t=-9.21)  p2 -479 (t=-7.74)
+  t43-harvestledger        no-go  p1 -765 (t=-9.21)  p2 -479 (t=-7.74)
+  t43-demandpreserving     no-go  p1 -765 (t=-9.21)  p2 -479 (t=-7.74)
+  t43-songoffire           no-go  p1 -1,034 (t=-5.28)  p2 -981 (t=-6.08)
+  t43-multiroute           no-go  p1 -33,299 (t=-19.19)  p2 -35,492 (t=-19.79)
+  t43-graphrl              no-go  p1 -36,462 (t=-13.65)  p2 -33,373 (t=-18.78)
+  t43-autonomous           no-go  p1 -942 (t=-4.61)  p2 -712 (t=-3.93)
+  t43-wheatseller          no-go  p1 -884 (t=-3.73)  p2 -672 (t=-4.80)
+  t43-2026v1-tape          no-go  p1 -5,554 (t=-8.79)  p2 -4,800 (t=-8.23)
+=== engine-vs-engine: beats bare V78 base ===
+  t43-godsmode             weaker    p1 -1,013 (t=-5.58)  p2 -946 (t=-5.93)
+  t43-marketshock          weaker    p1 -1,160 (t=-5.66)  p2 -768 (t=-6.53)
+  t43-shepherds-fresh      weaker    p1 -1,309 (t=-6.81)  p2 -1,037 (t=-6.25)
+  t43-the2965              weaker    p1 -61 (t=-3.23)  p2 -60 (t=-1.86)
+  t43-harvestledger        weaker    p1 -61 (t=-3.23)  p2 -60 (t=-1.86)
+  t43-demandpreserving     weaker    p1 -61 (t=-3.22)  p2 -60 (t=-1.86)
+  t43-songoffire           weaker    p1 -1,309 (t=-6.81)  p2 -1,037 (t=-6.25)
+  t43-multiroute           weaker    p1 -33,499 (t=-19.13)  p2 -35,787 (t=-19.88)
+  t43-graphrl              weaker    p1 -36,796 (t=-13.78)  p2 -33,670 (t=-18.79)
+[20 games in 31s = 2,336 games/hour]
+pi_stack-selfctl       vs pi_stack       delta        +0  t=+0.00  W/L 1/1  wallet    99,663 vs    99,663  err=0
+   PASS                    10768 vs    10768  (+0)
+   WATER                   22102 vs    22102  (+0)
+   HARVEST                  9748 vs     9748  (+0)
+   PLANT                    4799 vs     4799  (+0)
+   FEED                     6786 vs     6786  (+0)
+   CARE                     7954 vs     7954  (+0)
+   COLLECT_FERTILIZER       7842 vs     7842  (+0)
+   FERTILIZE                2288 vs     2288  (+0)
+   PICKUP                   3908 vs     3908  (+0)
+   PLACE                    2084 vs     2084  (+0)
+   DIG                       751 vs      751  (+0)
+   DROP                      952 vs      952  (+0)
+   BUILD_PASTURE             320 vs      320  (+0)
+   BUILD_COOP                 72 vs       72  (+0)
+   MOVE                    59050 vs    59050  (+0)
+   CMD                     80374 vs    80374  (+0)
+   idle share             7.72% vs   7.72%
+   internal counters    cand={'race_tried': 6798, 'race_eval': 7023, 'race_implied': 5727, 'forward_orders': 321, 'forward_units': 1926, 'race_considered': 225, 'race_reorders': 33, 'race_gain': 2340, 'RACE_race_clone_turns': 9520, 'RACE_race_horizon_turns': 9520, 'RACE_race_mirror': 20} base={'race_tried': 6798, 'race_eval': 7023, 'race_implied': 5727, 'forward_orders': 321, 'forward_units': 1926, 'race_considered': 225, 'race_reorders': 33, 'race_gain': 2340, 'RACE_race_clone_turns': 9520, 'RACE_race_horizon_turns': 9520, 'RACE_race_mirror': 20}
+wrote data/frontier4/duels/pi_stack-selfctl.json
+EXIT=0

@@ -1,0 +1,10 @@
+auth retry ConnectionError
+[0] A_v42_baseline=PENDING | B_rgcs=PENDING
+[1] A_v42_baseline=PENDING | B_rgcs=PENDING
+[2] A_v42_baseline=PENDING | B_rgcs=PENDING
+[3] A_v42_baseline=PENDING | B_rgcs=PENDING
+[4] A_v42_baseline=COMPLETE | B_rgcs=PENDING
+[5] A_v42_baseline=COMPLETE | B_rgcs=PENDING
+[6] A_v42_baseline=COMPLETE | B_rgcs=COMPLETE
+final: {'A_v42_baseline': 'COMPLETE', 'B_rgcs': 'COMPLETE'}
+DONE=0

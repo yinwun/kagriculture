@@ -1,0 +1,5 @@
+  A_v42baseline: 17 games  W/L/T 16/1/0  win 94.1%  margin +30,136 (median +22,564)  opp mean score 1399
+    wrote /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/track-A_v42baseline.csv
+  B_rgcs: 17 games  W/L/T 16/1/0  win 94.1%  margin +23,757 (median +15,682)  opp mean score 1462
+    wrote /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/track-B_rgcs.csv
+snapshot stored in /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/submission_track.json

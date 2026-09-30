@@ -1,0 +1,51 @@
+99 games attributed with the cash walk
+
+=== loss (n=22, mean money margin -957) ===
+  item            u_me   u_opp    p_me   p_opp    rev_me   rev_opp   vol eff  price eff   buy_me  buy_opp  end_me end_opp
+  WHEAT          540.2   848.6    40.2    40.5    21,709    34,370   -12,442       -219   12,203   24,181     0.0     0.0
+  WOOL           174.7   173.3   116.6   118.5    20,359    20,535      +166       -341        0        0     0.0     0.0
+  STRAWBERRY     246.6   248.5   133.1   132.8    32,830    32,993      -248        +85        0        0     0.0     0.0
+  MILK           206.4   205.8   102.2   102.4    21,105    21,075       +60        -30        0        0     0.0     0.0
+  EGG             60.6    62.1    50.8    50.8     3,078     3,159       -79         -2        0        0     0.0     0.0
+  CARROT         113.2   109.0    50.4    50.2     5,707     5,476      +210        +20        0        0     0.0     0.0
+  TOMATO          21.8    20.6   204.5   208.8     4,462     4,299      +254        -91        0        0     0.0     0.0
+  MELON           72.0    72.3   198.2   197.8    14,267    14,294       -54        +27        0        0     0.0     0.0
+  FERTILIZER     336.1   333.8    44.6    44.5    14,991    14,838      +103        +50    2,411    2,380     0.0     0.0
+  money gap -957 = market -583 + hire +98 + land +182 -> residual -653
+  sell-revenue split: volume -12,029  price -501   discards/game(shared proxy) 4.4 units
+  farm tiles (mean count, day 6/12/18/24 sums): me {'ANIMAL_COW': 26.9, 'ANIMAL_GOOSE': 6.0, 'ANIMAL_SHEEP': 25.9, 'CROP_CARROT': 3.2, 'CROP_MELON': 12.0, 'CROP_STRAWBERRY': 90.0}
+  worker verbs (me): {'HARVEST': 491.0, 'WATER': 1115.9, 'PLANT': 240.7, 'FEED': 339.6, 'CARE': 416.2, 'COLLECT_FERTILIZER': 382.1, 'PASS': 572.5}
+
+=== near (n=18, mean money margin -211) ===
+  item            u_me   u_opp    p_me   p_opp    rev_me   rev_opp   vol eff  price eff   buy_me  buy_opp  end_me end_opp
+  WHEAT          624.0   627.4    40.8    40.8    25,450    25,610      -141        -19   16,567   16,666     0.0     0.0
+  WOOL           163.0   162.8   147.9   148.4    24,114    24,152       +33        -71        0        0     0.0     0.0
+  STRAWBERRY     246.3   246.6   118.0   117.9    29,049    29,077       -39        +12        0        0     0.0     0.0
+  MILK           190.6   190.6    84.1    84.4    16,034    16,086        +0        -52        0        0     0.0     0.0
+  EGG            100.4   101.1    51.7    51.7     5,186     5,222       -34         -1        0        0     0.0     0.0
+  CARROT         129.1   129.1    52.4    52.3     6,760     6,756        +0         +3        0        0     0.0     0.0
+  TOMATO           0.0     0.0     0.0     0.0         0         0        +0         +0        0        0     0.0     0.0
+  MELON           72.0    72.0   198.2   198.2    14,267    14,267        +0         +0        0        0     0.0     0.0
+  FERTILIZER     339.2   338.6    44.5    44.5    15,079    15,054       +27         -2    2,511    2,507     0.0     0.0
+  money gap -211 = market -190 + hire +0 + land +0 -> residual -21
+  sell-revenue split: volume -154  price -131   discards/game(shared proxy) 3.0 units
+  farm tiles (mean count, day 6/12/18/24 sums): me {'ANIMAL_COW': 25.3, 'ANIMAL_GOOSE': 9.5, 'ANIMAL_SHEEP': 24.2, 'CROP_CARROT': 5.6, 'CROP_MELON': 12.0, 'CROP_STRAWBERRY': 90.0}
+  worker verbs (me): {'HARVEST': 485.7, 'WATER': 1094.9, 'PLANT': 238, 'FEED': 336.4, 'CARE': 416.3, 'COLLECT_FERTILIZER': 379.1, 'PASS': 495.7}
+
+=== win (n=59, mean money margin +902) ===
+  item            u_me   u_opp    p_me   p_opp    rev_me   rev_opp   vol eff  price eff   buy_me  buy_opp  end_me end_opp
+  WHEAT          538.5   562.2    39.7    39.5    21,363    22,231      -938        +71   12,463   13,251     0.0     0.0
+  WOOL           166.2   166.8   118.0   115.8    19,604    19,312       -71       +364        0        0     0.0     0.0
+  STRAWBERRY     246.1   245.1   103.4   100.7    25,441    24,682      +100       +658        0        0     0.0     0.0
+  MILK           203.4   201.0   102.2   101.8    20,775    20,461      +237        +78        0        0     0.0     0.0
+  EGG             63.5    65.8    52.2    52.2     3,318     3,433      -119         +4        0        0     0.0     0.0
+  CARROT         131.2   132.5    52.8    53.2     6,931     7,048       -69        -48        0        0     0.0     0.0
+  TOMATO          12.2    13.8   163.1   153.3     1,991     2,121      -257       +128        0        0     0.0     0.0
+  MELON           72.0    72.3   198.1   197.8    14,266    14,294       -54        +26        0        0     0.0     0.0
+  FERTILIZER     334.6   333.4    44.7    44.8    14,960    14,952       +54        -46    2,398    2,426     0.0     0.0
+  money gap +902 = market +932 + hire +5 + land +0 -> residual -34
+  sell-revenue split: volume -1,119  price +1,234   discards/game(shared proxy) 3.8 units
+  farm tiles (mean count, day 6/12/18/24 sums): me {'ANIMAL_COW': 26.2, 'ANIMAL_GOOSE': 6.3, 'ANIMAL_SHEEP': 25.0, 'CROP_CARROT': 6.6, 'CROP_MELON': 12.0, 'CROP_STRAWBERRY': 90.0}
+  worker verbs (me): {'HARVEST': 484.9, 'WATER': 1105.7, 'PLANT': 239.5, 'FEED': 329.6, 'CARE': 406.1, 'COLLECT_FERTILIZER': 376.1, 'PASS': 548}
+
+wrote data/t31-channels-t26.json

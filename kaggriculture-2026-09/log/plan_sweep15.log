@@ -1,0 +1,8 @@
+[5 configs x 48 seeds in 100s]
+config                reward  cover  idle%  move% plants10 anim10 plants15  water   harv err bad
+carry1                84,134   0.83    4.7   54.6     38.2    5.3     24.7    668    258   0   0
+carry4_hire2.6        71,499   0.85    4.1   52.9     35.0    3.0     21.8    675    232   0   0
+carry4                69,541   0.88    6.7   53.4     36.2    3.0     20.4    705    245   0   0
+carry4_plant1.4       69,398   0.87    6.3   53.4     36.3    3.0     20.8    700    245   0   0
+carry8                33,656   0.89    6.4   52.7     34.7    3.0     19.8    712    250   0   0
+wrote data/plan-sweep-15.json

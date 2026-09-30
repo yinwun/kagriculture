@@ -1,0 +1,40 @@
+team 16718819: 206 episodes cached in the list
+   vs Majkel1337 (3195) ep 108700415
+   vs DSM (3081) ep 109266646
+   vs DSM (3081) ep 109133306
+  FAILED 108700415
+  109266646 retry 0: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  FAILED 109266646
+  FAILED 109133306
+  109054512 retry 0: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  109054512 retry 1: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  109054512 retry 2: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  FAILED 109054512
+  FAILED 109043265
+  109034040 retry 0: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  FAILED 109034040
+  FAILED 108916488
+  108899861 retry 0: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  FAILED 108899861
+  108882531 retry 0: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  FAILED 108882531
+  FAILED 108860018
+  108709634 retry 0: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  108709634 retry 1: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  FAILED 108709634
+  FAILED 108708984
+  FAILED 108708620
+  108707598 retry 0: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  FAILED 108707598
+  108706595 retry 0: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  FAILED 108706595
+  108705580 retry 0: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  108705580 retry 1: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  108705580 retry 2: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  FAILED 108705580
+  FAILED 108704569
+  FAILED 108702592
+  cached 108703564
+  cached 108701534
+done: 0 new replays in /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/top
+EXIT=0

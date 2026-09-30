@@ -1,0 +1,16 @@
+[6 configs x 24 seeds in 73s]
+config                reward  cover  idle%  move% plants10 anim10 plants15  water   harv err bad
+pen1_sell20           66,387   0.90    7.1   56.7     39.2    4.0     40.5    959    253   0   0
+pen1                  66,238   0.90    6.7   56.8     39.3    4.0     40.3    952    252   0   0
+pen2                  66,238   0.90    6.7   56.8     39.3    4.0     40.3    952    252   0   0
+pen1_hire3.8          56,021   0.94   10.4   55.0     38.3    3.0     40.3   1005    258   0   0
+pen1_anim1.3          50,222   0.89    9.1   54.9     37.7    3.0     27.5    930    227   0   0
+pen1_anim1.6          25,925   0.91   13.4   51.0     30.4    1.0     25.3    755    168   0   0
+wrote data/plan-sweep-11.json
+  retry 0: ConnectionError
+  retry 1: ConnectionError
+  retry 2: ConnectionError
+  retry 3: ConnectionError
+  A_v42baseline: 7 games  W/L/T 7/0/0  win 100.0%  margin +55,119 (median +43,182)  opp mean score 857
+  B_rgcs: 7 games  W/L/T 7/0/0  win 100.0%  margin +42,432 (median +53,937)  opp mean score 1021
+snapshot stored in /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/submission_track.json

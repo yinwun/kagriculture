@@ -1,0 +1,57 @@
+=== provenance guard on the newest 16 ===
+True
+
+=== extraction ===
+  guruprasaathas111/kaggriculture-top-2-master [kaggriculture-top-2-master-engine-v4] raw+tar chars 1,016,747 sha256 a5362d138ed3933a (expected matches)
+  guruprasaathas111/kaggriculture-top-2-master     route blobs: ['54fe156ea7206e38=OURS']
+  guruprasaathas111/kaggriculture-top-2-master [kaggriculture-top-2-master-engine-v4.ipynb] no main.py cell (cells: [])
+  tetsutani/demand-preserving-turn-sale-timing [demand-preserving-turn-sale-timing] raw+tar chars 1,026,965 sha256 a16e0e9b40c48997 (expected matches)
+  tetsutani/demand-preserving-turn-sale-timing     route blobs: ['54fe156ea7206e38=OURS']
+  tetsutani/demand-preserving-turn-sale-timing [demand-preserving-turn-sale-timing.ipynb] no main.py cell (cells: [])
+  leoprovorov/four-turn-forecast-notebook-vers [four-turn-forecast-notebook-version-2.ipynb] no main.py cell (cells: [])
+  leoprovorov/god-s-mode-hacked-stores         [god-s-mode-hacked-stores.ipynb] no main.py cell (cells: [])
+  leoprovorov/a-song-of-ice-and-fire-fixed-fle [a-song-of-ice-and-fire-fixed-flexible.ipynb] no main.py cell (cells: [])
+  destbreso/x-ray-your-agent                   [x-ray-your-agent.ipynb] no main.py cell (cells: [])
+  ashok205/top10-replay-dataset-archive        [top10-replay-dataset-archive.ipynb] no main.py cell (cells: [])
+  georgymamarin/kaggriculture-what-2600-farms- [kaggriculture-what-2600-farms-do-differently.ipynb] no main.py cell (cells: [])
+  degnonguidi/kaggriculture-utils-v1           [kaggriculture-utils-v1.ipynb] chars 332,922 -> data/cand/kaggriculture-utils-v1-extracted-main.py
+  degnonguidi/kaggriculture-utils-v1               blobs: none (plain source)
+  lynnsakurai/farmer-john-and-the-idle-seller  [farmer-john-and-the-idle-seller.ipynb] no main.py cell (cells: [])
+  leoprovorov/kaggricult-man-reverse-engineeri [kaggricult-man-reverse-engineering.ipynb] no main.py cell (cells: [])
+  flexonafft/kaggriculture-multi-route-farming [kaggriculture-multi-route-farming-agent.ipynb] chars 234,111 -> data/cand/kaggriculture-multi-route-farming-agent-extracted-main.py
+  flexonafft/kaggriculture-multi-route-farming     blobs: none (plain source)
+  haideptry/the-2965-master-hybrid-engine      [the-2965-master-hybrid-engine] gzip chars 1,040,663 sha256 93831c18a43c4931 (expected matches)
+  haideptry/the-2965-master-hybrid-engine          route blobs: ['54fe156ea7206e38=OURS']
+  haideptry/the-2965-master-hybrid-engine      [the-2965-master-hybrid-engine.ipynb] no main.py cell (cells: [])
+  haideptry/the-shepherds-ledger-herd-safe-sov [the-shepherds-ledger-herd-safe-sovereign] gzip chars 1,038,953 sha256 ae44d83baf39ae2c (expected matches)
+  haideptry/the-shepherds-ledger-herd-safe-sov     route blobs: ['54fe156ea7206e38=OURS']
+  haideptry/the-shepherds-ledger-herd-safe-sov [the-shepherds-ledger-herd-safe-sovereign.ipynb] no main.py cell (cells: [])
+  kunaldesale2408/kaggriculture-2026-v1        [kaggriculture-2026-v1.ipynb] chars 299,347 -> data/cand/kaggriculture-2026-v1-extracted-main.py
+  kunaldesale2408/kaggriculture-2026-v1            blobs: blob0 5df1c84699004845 (routes 0 actions 0)
+  haodou092/kaggriculture-harvest-ledger       [kaggriculture-harvest-ledger.ipynb] no main.py cell (cells: [])
+
+=== smoke + duels vs shep_straw ===
+guruprasaathas111/kaggriculture-top-2-master OK [76584.0, 76584.0]
+  p1 d=-1,116 t=-4.42 W-L 5-55 exc=0/0 err=0
+  p2 d=-1,158 t=-10.86 W-L 2-58 exc=0/0 err=0
+tetsutani/demand-preserving-turn-sale-timing OK [76713.0, 76713.0]
+  p1 d=-1,189 t=-11.88 W-L 1-59 exc=0/0 err=0
+  p2 d=-1,064 t=-10.84 W-L 2-58 exc=0/0 err=0
+degnonguidi/kaggriculture-utils-v1           FAIL NameError: name 'WORKDIR' is not defined
+flexonafft/kaggriculture-multi-route-farming submission.tar.gz: PASS
+haideptry/the-2965-master-hybrid-engine      OK [77973.0, 77973.0]
+  p1 d=-746 t=-2.91 W-L 11-49 exc=0/0 err=0
+  p2 d=-649 t=-3.63 W-L 12-48 exc=0/0 err=0
+haideptry/the-shepherds-ledger-herd-safe-sov OK [76401.0, 76401.0]
+  p1 d=-662 t=-5.84 W-L 7-53 exc=0/0 err=0
+  p2 d=-592 t=-6.41 W-L 6-54 exc=0/0 err=0
+kunaldesale2408/kaggriculture-2026-v1        OK [84657.0, 84657.0]
+  p1 d=-5,255 t=-8.30 W-L 3-57 exc=0/0 err=0
+  p2 d=-5,826 t=-10.96 W-L 0-60 exc=0/0 err=0
+
+=== BAR (d>0, t>=3 both panels) vs shep_straw ===
+  guruprasaathas111/kaggriculture-top-2-master no-go  p1 -1,116 (t=-4.42)  p2 -1,158 (t=-10.86)
+  tetsutani/demand-preserving-turn-sale-timing no-go  p1 -1,189 (t=-11.88)  p2 -1,064 (t=-10.84)
+  haideptry/the-2965-master-hybrid-engine      no-go  p1 -746 (t=-2.91)  p2 -649 (t=-3.63)
+  haideptry/the-shepherds-ledger-herd-safe-sov no-go  p1 -662 (t=-5.84)  p2 -592 (t=-6.41)
+  kunaldesale2408/kaggriculture-2026-v1        no-go  p1 -5,255 (t=-8.30)  p2 -5,826 (t=-10.96)

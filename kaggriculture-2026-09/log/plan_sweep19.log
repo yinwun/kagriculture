@@ -1,0 +1,9 @@
+[6 configs x 48 seeds in 162s]
+config                reward  cover  idle%  move% plants10 anim10 plants15  water   harv mv/act err bad
+seed1                 84,045   0.80    2.8   56.7     40.8    7.4     38.1    774    266   0   0
+seed1_hire2.6         76,866   0.74    1.7   56.5     44.0    6.0     28.2    664    232   0   0
+seed1_plant1.6        75,503   0.77    2.6   57.1     45.9    7.1     28.6    717    258   0   0
+seed1_plant1.4        75,245   0.77    2.0   56.2     53.8    5.2     29.6    756    264   0   0
+seed2                 66,753   0.80    2.9   56.4     48.8    3.1     35.7    755    248   0   0
+seed0                 61,057   0.91    6.4   53.6     18.2    1.0     26.4    565    185   0   0
+wrote data/plan-sweep-19.json

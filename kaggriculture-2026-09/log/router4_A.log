@@ -1,0 +1,21 @@
+[400 games in 637s = 2,260 games/hour]
+router4_v2map          vs rgcs           delta      -424  t=-2.19  W/L 100/142  wallet   100,222 vs   100,646  err=0
+   PASS                   213909 vs   222984  (-9075)
+   WATER                  448461 vs   448579  (-118)
+   HARVEST                194848 vs   194412  (+436)
+   PLANT                   95885 vs    95883  (+2)
+   FEED                   135303 vs   135502  (-199)
+   CARE                   166944 vs   166416  (+528)
+   COLLECT_FERTILIZER     153150 vs   153294  (-144)
+   FERTILIZE               46345 vs    43821  (+2524)
+   PICKUP                  82774 vs    79342  (+3432)
+   PLACE                   42646 vs    43390  (-744)
+   DIG                     14833 vs    14776  (+57)
+   DROP                    18184 vs    16998  (+1186)
+   BUILD_PASTURE            5886 vs     6030  (-144)
+   BUILD_COOP               1979 vs     1829  (+150)
+   MOVE                  1175828 vs  1186714  (-10886)
+   CMD                   1621147 vs  1623256  (-2109)
+   idle share             7.65% vs   7.94%
+wrote data/router4-vs-rgcs-A.json
+EXIT=0

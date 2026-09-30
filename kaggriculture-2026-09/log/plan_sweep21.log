@@ -1,0 +1,7 @@
+[4 configs x 48 seeds in 124s]
+config                reward  cover  idle%  move% plants10 anim10 plants15  water   harv mv/act err bad
+endgame99             83,383   0.80    2.8   56.7     40.8    7.4     38.1    774    266   1.40   0   0
+endgame28             81,866   0.80    2.8   53.7     40.8    7.4     38.1    736    249   1.23   0   0
+endgame28_hire2.6     73,632   0.74    1.7   53.7     44.0    6.0     28.2    632    217   1.20   0   0
+endgame26             69,265   0.80    2.9   51.7     40.8    7.4     38.1    691    224   1.14   0   0
+wrote data/plan-sweep-21.json

@@ -1,0 +1,15 @@
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/pi_stack_raceonly/main.py (1,239,593 bytes, sha256 a0c2fc79975c) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/pi_stack/main.py (1,243,411 bytes, sha256 65962e928b0712946e1bacb929b4fb919a7231f34e1bc99c7e350d4e2755f317)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/pi_stack_fwdctl/main.py (1,243,385 bytes, sha256 0034fbf91c59bad3f0c81b3058b57e1669c55a5f128b689f22ddee7377748311)
+STACK sha: 65962e928b0712946e1bacb929b4fb919a7231f34e1bc99c7e350d4e2755f317
+RACEONLY sha: a0c2fc79975c10f93a471e79a3bb7878213f1dc2cc512e881385bd0a43e88ae0
+FWDCTL sha: 0034fbf91c59bad3f0c81b3058b57e1669c55a5f128b689f22ddee7377748311
+STACK: SMOKE ['DONE', 'DONE'] {}
+FWD-OFF-CTL: SMOKE ['DONE', 'DONE'] {}
+STACK p1 vs cap24: d=+1,612 t=+8.91 W-L 60-0 wallet 94760/93147 exc 0 err 0
+STACK p2 vs cap24: d=+1,720 t=+8.29 W-L 58-2 wallet 95857/94137 exc 0 err 0
+CONTROL fwd-off vs race-only: delta=+0.0 t=+0.00 errors=0 exc=0
+actTimeout = 1 s/step (engine default); machine-dependent, so compare ratios
+agent                                          calls    mean     p95     p99      max  >250  >500  >1s  game s
+candidate/pi_stack                              1438   19.4    63.6   267.4    836.8    15     5    0    66.9
+wrote data/candidate/timing-t40.json

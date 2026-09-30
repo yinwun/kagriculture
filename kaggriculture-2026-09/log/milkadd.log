@@ -1,0 +1,12 @@
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_straw_raceonly/main.py (1,082,428 bytes, sha256 b7aa3185d6d6) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_milk/main.py (1,085,883 bytes, sha256 741bfc19fad7d1c64b22c83ac06efcea7c92c16c1af23ed9c99e46a9de32f4e9)
+shep_milk payload sha256: 741bfc19fad7d1c64b22c83ac06efcea7c92c16c1af23ed9c99e46a9de32f4e9
+### smoke vs champion
+smoke ['DONE', 'DONE'] wallet 141,631 vs 132,910 errs=none
+forward_orders: 70
+### panel A: shep_milk vs shep_straw (10600-10629)
+shepmilk_A             vs shep_straw     delta       +10  t=+0.23  W/L 29/25  wallet    96,623 vs    96,613  err=0
+### panel B: shep_milk vs shep_straw (10700-10729)
+shepmilk_B             vs shep_straw     delta      +157  t=+3.22  W/L 43/15  wallet    96,371 vs    96,214  err=0
+MILKADD_DONE
+EXIT=0

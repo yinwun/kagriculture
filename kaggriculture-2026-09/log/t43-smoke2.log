@@ -1,0 +1,5 @@
+kaggriculture-autonomous-ai-farming-agent-main RESULT ['DONE', 'DONE'] [107804, 107804] exceptions 0  diag {}
+farmer-john-and-the-wheat-seller-main          RESULT ['DONE', 'DONE'] [107935, 107935] exceptions 0  diag {}
+kaggriculture-2026-v1-main                     RESULT ['DONE', 'DONE'] [111094, 111094] exceptions 0  diag {}
+cha22-agent-main                               NameError: name 'WORKDIR' is not defined
+DONE

@@ -1,0 +1,8 @@
+[4 configs x 40 seeds (paired) in 337s]
+config                          delta        t       W/L     cand$      opp$  water   harv  idle% err
+port_rank1                   -100,697   -53.71      0/40    35,427   136,124    802    270    3.1   0
+port_spec_hire2.6            -108,482   -67.84      0/40    32,326   140,808    711    237    1.9   0
+port_spec_scale1.0           -109,105   -51.15      0/40    30,270   139,375    768    255    2.3   0
+port_spec                    -109,487   -49.43      0/40    29,922   139,409    769    261    2.8   0
+wrote data/plan-opp-sweep-5.json
+EXIT=0

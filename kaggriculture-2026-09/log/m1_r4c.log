@@ -1,0 +1,8 @@
+[4 configs x 20 seeds (paired) in 297s]
+config                          delta        t       W/L     cand$      opp$  water   harv  feed  care  coll plant  idle%  pl10  an10 err
+m1_phase2_care2               -93,438   -25.26      0/20    31,689   125,127    766    270   339   332   339   285    2.9  33.5   8.1   0
+m1_phase4                     -95,484   -30.24      0/20    33,315   128,799    802    267   345   337   340   291    2.6  51.7   5.2   0
+m1_phase2                     -98,991   -22.16      0/20    28,607   127,598    788    262   328   325   326   301    2.6  50.9   4.5   0
+m1_off                        -99,108   -32.89      0/20    32,270   131,378    807    270   341   333   336   287    3.1  50.3   5.2   0
+wrote data/m1-round4c.json
+EXIT=0

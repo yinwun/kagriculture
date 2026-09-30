@@ -1,0 +1,45 @@
+team 16718819: 206 episodes cached in the list
+   vs Majkel1337 (3195) ep 108700415
+   vs DSM (3081) ep 109266646
+   vs DSM (3081) ep 109133306
+  FAILED 108700415
+  FAILED 109266646
+  FAILED 109133306
+  109054512 retry 0: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  FAILED 109054512
+  FAILED 109043265
+  FAILED 109034040
+  FAILED 108916488
+  FAILED 108899861
+  FAILED 108882531
+  FAILED 108860018
+  FAILED 108812617
+  FAILED 109108031
+  FAILED 109098015
+  cached 109092811
+  FAILED 109081880
+  FAILED 108713690
+  108712681 retry 0: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  FAILED 108712681
+  FAILED 108711662
+  108710643 retry 0: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  FAILED 108710643
+  FAILED 108727183
+  108709634 retry 0: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  108709634 retry 1: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  FAILED 108709634
+  FAILED 108708984
+  FAILED 108708620
+  108707598 retry 0: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  FAILED 108707598
+  108706595 retry 0: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  FAILED 108706595
+  108705580 retry 0: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  FAILED 108705580
+  108704569 retry 0: ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection
+  FAILED 108704569
+  FAILED 108702592
+  cached 108703564
+  cached 108701534
+done: 0 new replays in /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/top
+EXIT=0

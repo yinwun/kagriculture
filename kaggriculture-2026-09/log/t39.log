@@ -1,0 +1,33 @@
+=== file-level control: only the mult scalar differs from shep_straw ===
+  cap24: 8 differing lines -> ["-_SETTINGS={'hand_align': True, 'weed_repair': True, 'sell_lead': True, 'budget_guard': False, 'room_guard': False, 'clamp_sells': False, 'dead_stock': False, 'terminal_liquidation': False, 'front_run': False, 'forward_drain': True, 'forward_items': ['WOOL', 'STRAWBERRY'], 'forward_start_by_item': {'STRAWBERRY': 312}}", "+_SETTINGS={'hand_align': True, 'weed_repair': True, 'sell_lead': True, 'budget_guard': False, 'room_guard': False, 'clamp_sells': False, 'dead_stock': False, 'terminal_liquidation': False, 'front_run': False, 'forward_drain': True, 'forward_drain_mult': 24.0, 'forward_items': ['WOOL', 'STRAWBERRY', 'MILK'], 'forward_start_by_item': {'STRAWBERRY': 312, 'MILK': 312}}", '+        fracs = cfg.get("forward_min_frac_by_item") or {}', '+        _BASE = {"WOOL": 200, "STRAWBERRY": 120, "MILK": 160, "WHEAT": 25, "CARROT": 35,']
+  cap8: 8 differing lines -> ["-_SETTINGS={'hand_align': True, 'weed_repair': True, 'sell_lead': True, 'budget_guard': False, 'room_guard': False, 'clamp_sells': False, 'dead_stock': False, 'terminal_liquidation': False, 'front_run': False, 'forward_drain': True, 'forward_items': ['WOOL', 'STRAWBERRY'], 'forward_start_by_item': {'STRAWBERRY': 312}}", "+_SETTINGS={'hand_align': True, 'weed_repair': True, 'sell_lead': True, 'budget_guard': False, 'room_guard': False, 'clamp_sells': False, 'dead_stock': False, 'terminal_liquidation': False, 'front_run': False, 'forward_drain': True, 'forward_drain_mult': 8.0, 'forward_items': ['WOOL', 'STRAWBERRY', 'MILK'], 'forward_start_by_item': {'STRAWBERRY': 312, 'MILK': 312}}", '+        fracs = cfg.get("forward_min_frac_by_item") or {}', '+        _BASE = {"WOOL": 200, "STRAWBERRY": 120, "MILK": 160, "WHEAT": 25, "CARROT": 35,']
+
+=== direct duels vs shep_straw (x1) ===
+  cap24  p1 d=+623 (+0.65%) t=+4.20 W-L 47-13 wallet 96931/96308 exc 0 err 0
+  cap24  p2 d=+638 (+0.64%) t=+5.09 W-L 50-10 wallet 100893/100255 exc 0 err 0
+  cap8   p1 d=+496 (+0.51%) t=+3.60 W-L 46-14 wallet 96953/96457 exc 0 err 0
+  cap8   p2 d=+634 (+0.63%) t=+5.60 W-L 48-12 wallet 100899/100265 exc 0 err 0
+
+=== direct vs transitive ===
+  cap24  mean direct effect +0.64% of wallet across panels
+         pooled over 60 towns: +630 coins/game  t=+6.55  95% CI [+442, +819] -> [+1, +1] rating pts
+         positive towns 50/60
+  cap8   mean direct effect +0.57% of wallet across panels
+         pooled over 60 towns: +565 coins/game  t=+6.36  95% CI [+391, +740] -> [+1, +1] rating pts
+         positive towns 49/60
+
+=== mechanism (seat0 = arm, seat1 = x1; 8 games each) ===
+  cap24 mean margin +1,202
+    cap24  WOOL        units   1656 revenue     258,814 avg realised price 156.29
+    cap24  STRAWBERRY  units   1984 revenue     182,308 avg realised price  91.89
+    cap24  MILK        units   1548 revenue     133,270 avg realised price  86.09
+    x1     WOOL        units   1656 revenue     253,177 avg realised price 152.88
+    x1     STRAWBERRY  units   1984 revenue     178,153 avg realised price  89.79
+    x1     MILK        units   1548 revenue     133,498 avg realised price  86.24
+  cap8 mean margin +824
+    cap8   WOOL        units   1652 revenue     258,127 avg realised price 156.25
+    cap8   STRAWBERRY  units   1984 revenue     181,718 avg realised price  91.59
+    cap8   MILK        units   1552 revenue     133,293 avg realised price  85.88
+    x1     WOOL        units   1652 revenue     254,598 avg realised price 154.12
+    x1     STRAWBERRY  units   1984 revenue     178,625 avg realised price  90.03
+    x1     MILK        units   1552 revenue     133,433 avg realised price  85.97

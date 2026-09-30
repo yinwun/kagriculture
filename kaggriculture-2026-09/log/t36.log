@@ -1,0 +1,62 @@
+building variants...
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_s0_raceonly/main.py (1,082,428 bytes, sha256 b7aa3185d6d6) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_s0/main.py (1,086,216 bytes, sha256 59db90764b7523b2059cac484861fd666496ca6ba8afbe5a04ab51c16b306be3)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_s168_raceonly/main.py (1,082,428 bytes, sha256 b7aa3185d6d6) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_s168/main.py (1,086,218 bytes, sha256 ab14a93becb47b1d82bd9fcb0e366ab9e0618c7042b867ea9a2a7bbb540a64b1)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_frac06_raceonly/main.py (1,082,428 bytes, sha256 b7aa3185d6d6) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_frac06/main.py (1,086,280 bytes, sha256 9934c18fc81ac8c6291680c8955819abcb76d0d840a50f63e4b430363cfa25e5)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_frac08_raceonly/main.py (1,082,428 bytes, sha256 b7aa3185d6d6) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_frac08/main.py (1,086,280 bytes, sha256 4738aac0bd0c4a2cc8f90c01c961591d2e37cb0301de59a86170a162df17e153)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap05_raceonly/main.py (1,082,428 bytes, sha256 b7aa3185d6d6) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap05/main.py (1,086,245 bytes, sha256 b49b1838f86549847ef383212dbf9804840a54a8880dde9640dfb23302339c65)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap2_raceonly/main.py (1,082,428 bytes, sha256 b7aa3185d6d6) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_cap2/main.py (1,086,245 bytes, sha256 2f49b0ce6b8f51183bb496c311eb811d312a06bcfd0d8a8f944cd3f4fc1c1709)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_racece_raceonly/main.py (1,082,436 bytes, sha256 51b094553fab) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'CARROT', 'EGG']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_racece/main.py (1,086,226 bytes, sha256 7eed16e75a43250b649cacfa77f37c7faf4da361721ec469eaac44da9a0267d2)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_racem_raceonly/main.py (1,082,419 bytes, sha256 cd247bcaac82) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_racem/main.py (1,086,209 bytes, sha256 a026a933c1df103f06d9a14afbf696446590418cae40d0b430ef30538572cb16)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_ctl_raceonly/main.py (1,082,428 bytes, sha256 b7aa3185d6d6) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_v_ctl/main.py (1,086,280 bytes, sha256 89f18f806882c3724baf76ac6ad50174abf64db7ab3316f39abf23c3ae25cc42)
+reference base sha: 741bfc19fad7d1c64b22c83ac06efcea7c92c16c1af23ed9c99e46a9de32f4e9
+
+=== SMOKE ===
+  shep_v_s0      SMOKE ['DONE', 'DONE'] [110125.0, 110125.0] ERR {'layer_fallbacks': 0, 'entry_fallbacks': 0}
+  shep_v_s168    SMOKE ['DONE', 'DONE'] [110125.0, 110125.0] ERR {'layer_fallbacks': 0, 'entry_fallbacks': 0}
+  shep_v_frac06  SMOKE ['DONE', 'DONE'] [110125.0, 110125.0] ERR {'layer_fallbacks': 0, 'entry_fallbacks': 0}
+  shep_v_frac08  SMOKE ['DONE', 'DONE'] [110125.0, 110125.0] ERR {'layer_fallbacks': 0, 'entry_fallbacks': 0}
+  shep_v_cap05   SMOKE ['DONE', 'DONE'] [110154.0, 110154.0] ERR {'layer_fallbacks': 0, 'entry_fallbacks': 0}
+  shep_v_cap2    SMOKE ['DONE', 'DONE'] [110107.0, 110107.0] ERR {'layer_fallbacks': 0, 'entry_fallbacks': 0}
+  shep_v_racece  SMOKE ['DONE', 'DONE'] [110125.0, 110125.0] ERR {'layer_fallbacks': 0, 'entry_fallbacks': 0}
+  shep_v_racem   SMOKE ['DONE', 'DONE'] [110125.0, 110125.0] ERR {'layer_fallbacks': 0, 'entry_fallbacks': 0}
+  shep_v_ctl     SMOKE ['DONE', 'DONE'] [110125.0, 110125.0] ERR {'layer_fallbacks': 0, 'entry_fallbacks': 0}
+
+=== DUELS vs shep_milk ===
+  shep_v_s0      p1 d=+0 t=+0.00 W-L 1-1 wallet 96780/96780 exc 0 err 0
+  shep_v_s0      p2 d=+0 t=+0.00 W-L 3-3 wallet 106829/106829 exc 0 err 0
+  shep_v_s168    p1 d=+0 t=+0.00 W-L 1-1 wallet 96780/96780 exc 0 err 0
+  shep_v_s168    p2 d=+0 t=+0.00 W-L 3-3 wallet 106829/106829 exc 0 err 0
+  shep_v_frac06  p1 d=-466 t=-5.07 W-L 4-50 wallet 96567/97033 exc 0 err 0
+  shep_v_frac06  p2 d=-376 t=-5.25 W-L 9-47 wallet 106814/107190 exc 0 err 0
+  shep_v_frac08  p1 d=-546 t=-5.10 W-L 6-52 wallet 96609/97154 exc 0 err 0
+  shep_v_frac08  p2 d=-444 t=-4.88 W-L 4-52 wallet 106826/107270 exc 0 err 0
+  shep_v_cap05   p1 d=-31 t=-1.64 W-L 1-17 wallet 96782/96813 exc 0 err 0
+  shep_v_cap05   p2 d=-9 t=-1.83 W-L 5-19 wallet 106831/106840 exc 0 err 0
+  shep_v_cap2    p1 d=+391 t=+7.69 W-L 58-0 wallet 96959/96567 exc 0 err 0
+  shep_v_cap2    p2 d=+340 t=+5.27 W-L 55-5 wallet 106835/106495 exc 0 err 0
+  shep_v_racece  p1 d=+1 t=+0.39 W-L 7-11 wallet 96780/96779 exc 0 err 0
+  shep_v_racece  p2 d=+4 t=+1.51 W-L 19-11 wallet 106833/106829 exc 0 err 0
+  shep_v_racem   p1 d=+0 t=+0.00 W-L 1-1 wallet 96780/96780 exc 0 err 0
+  shep_v_racem   p2 d=+0 t=+0.00 W-L 3-3 wallet 106829/106829 exc 0 err 0
+  shep_v_ctl     p1 d=+0 t=+0.00 W-L 1-1 wallet 96780/96780 exc 0 err 0
+  shep_v_ctl     p2 d=+0 t=+0.00 W-L 3-3 wallet 106829/106829 exc 0 err 0
+
+=== BAR (d>0, t>=3 both panels) ===
+  shep_v_s0      no-go  p1 +0 (t=+0.00)  p2 +0 (t=+0.00)
+  shep_v_s168    no-go  p1 +0 (t=+0.00)  p2 +0 (t=+0.00)
+  shep_v_frac06  no-go  p1 -466 (t=-5.07)  p2 -376 (t=-5.25)
+  shep_v_frac08  no-go  p1 -546 (t=-5.10)  p2 -444 (t=-4.88)
+  shep_v_cap05   no-go  p1 -31 (t=-1.64)  p2 -9 (t=-1.83)
+  shep_v_cap2    GO  p1 +391 (t=+7.69)  p2 +340 (t=+5.27)
+  shep_v_racece  no-go  p1 +1 (t=+0.39)  p2 +4 (t=+1.51)
+  shep_v_racem   no-go  p1 +0 (t=+0.00)  p2 +0 (t=+0.00)
+  shep_v_ctl     no-go  p1 +0 (t=+0.00)  p2 +0 (t=+0.00)

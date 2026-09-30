@@ -1,0 +1,48 @@
+t43-the2965              vs pi_stack p1: d=-765 t=-9.21 W-L 0-60 exc=0/0 err=0
+t43-the2965              vs pi_stack p2: d=-479 t=-7.74 W-L 2-58 exc=0/0 err=0
+t43-the2965              vs pi_base  p1: d=-61 t=-3.23 W-L 10-32 exc=0/0 err=0
+t43-the2965              vs pi_base  p2: d=-60 t=-1.86 W-L 24-26 exc=0/0 err=0
+t43-harvestledger        vs pi_stack p1: d=-765 t=-9.21 W-L 0-60 exc=0/0 err=0
+t43-harvestledger        vs pi_stack p2: d=-479 t=-7.74 W-L 2-58 exc=0/0 err=0
+t43-harvestledger        vs pi_base  p1: d=-61 t=-3.23 W-L 10-32 exc=0/0 err=0
+t43-harvestledger        vs pi_base  p2: d=-60 t=-1.86 W-L 24-26 exc=0/0 err=0
+t43-demandpreserving     vs pi_stack p1: d=-765 t=-9.21 W-L 0-60 exc=0/0 err=0
+t43-demandpreserving     vs pi_stack p2: d=-479 t=-7.74 W-L 2-58 exc=0/0 err=0
+t43-demandpreserving     vs pi_base  p1: d=-61 t=-3.22 W-L 10-32 exc=0/0 err=0
+t43-demandpreserving     vs pi_base  p2: d=-60 t=-1.86 W-L 24-26 exc=0/0 err=0
+t43-songoffire           vs pi_stack p1: d=-1,034 t=-5.28 W-L 4-56 exc=0/0 err=0
+t43-songoffire           vs pi_stack p2: d=-981 t=-6.08 W-L 6-54 exc=0/0 err=0
+t43-songoffire           vs pi_base  p1: d=-1,309 t=-6.81 W-L 6-54 exc=0/0 err=0
+t43-songoffire           vs pi_base  p2: d=-1,037 t=-6.25 W-L 4-56 exc=0/0 err=0
+t43-multiroute           vs pi_stack p1: d=-33,299 t=-19.19 W-L 0-60 exc=0/0 err=0
+t43-multiroute           vs pi_stack p2: d=-35,492 t=-19.79 W-L 0-60 exc=0/0 err=0
+t43-multiroute           vs pi_base  p1: d=-33,499 t=-19.13 W-L 0-60 exc=0/0 err=0
+t43-multiroute           vs pi_base  p2: d=-35,787 t=-19.88 W-L 0-60 exc=0/0 err=0
+t43-graphrl              vs pi_stack p1: d=-36,462 t=-13.65 W-L 0-60 exc=0/0 err=0
+t43-graphrl              vs pi_stack p2: d=-33,373 t=-18.78 W-L 0-60 exc=0/0 err=0
+t43-graphrl              vs pi_base  p1: d=-36,796 t=-13.78 W-L 0-60 exc=0/0 err=0
+t43-graphrl              vs pi_base  p2: d=-33,670 t=-18.79 W-L 0-60 exc=0/0 err=0
+t43-autonomous           vs pi_stack p1: d=-942 t=-4.61 W-L 10-50 exc=0/0 err=0
+t43-autonomous           vs pi_stack p2: d=-712 t=-3.93 W-L 17-43 exc=0/0 err=0
+t43-wheatseller          vs pi_stack p1: d=-884 t=-3.73 W-L 8-52 exc=0/0 err=0
+t43-wheatseller          vs pi_stack p2: d=-672 t=-4.80 W-L 14-46 exc=0/0 err=0
+t43-2026v1-tape          vs pi_stack p1: d=-5,554 t=-8.79 W-L 0-60 exc=0/0 err=0
+t43-2026v1-tape          vs pi_stack p2: d=-4,800 t=-8.23 W-L 0-60 exc=0/0 err=0
+=== BAR: beats pi_stack (delta>0, t>=3 on BOTH panels) ===
+  t43-the2965              no-go  p1 -765 (t=-9.21)  p2 -479 (t=-7.74)
+  t43-harvestledger        no-go  p1 -765 (t=-9.21)  p2 -479 (t=-7.74)
+  t43-demandpreserving     no-go  p1 -765 (t=-9.21)  p2 -479 (t=-7.74)
+  t43-songoffire           no-go  p1 -1,034 (t=-5.28)  p2 -981 (t=-6.08)
+  t43-multiroute           no-go  p1 -33,299 (t=-19.19)  p2 -35,492 (t=-19.79)
+  t43-graphrl              no-go  p1 -36,462 (t=-13.65)  p2 -33,373 (t=-18.78)
+  t43-autonomous           no-go  p1 -942 (t=-4.61)  p2 -712 (t=-3.93)
+  t43-wheatseller          no-go  p1 -884 (t=-3.73)  p2 -672 (t=-4.80)
+  t43-2026v1-tape          no-go  p1 -5,554 (t=-8.79)  p2 -4,800 (t=-8.23)
+=== engine-vs-engine: beats bare V78 base ===
+  t43-the2965              weaker    p1 -61 (t=-3.23)  p2 -60 (t=-1.86)
+  t43-harvestledger        weaker    p1 -61 (t=-3.23)  p2 -60 (t=-1.86)
+  t43-demandpreserving     weaker    p1 -61 (t=-3.22)  p2 -60 (t=-1.86)
+  t43-songoffire           weaker    p1 -1,309 (t=-6.81)  p2 -1,037 (t=-6.25)
+  t43-multiroute           weaker    p1 -33,499 (t=-19.13)  p2 -35,787 (t=-19.88)
+  t43-graphrl              weaker    p1 -36,796 (t=-13.78)  p2 -33,670 (t=-18.79)
+EXIT=0

@@ -1,0 +1,8 @@
+rgcs_msp1              vs rgcs           delta        +0  t=+0.00  W/L 25/25  wallet    99,813 vs    99,813  err=0
+rgcs_msp20             vs rgcs           delta        +0  t=+0.00  W/L 25/25  wallet    99,813 vs    99,813  err=0
+rgcs_msp60             vs rgcs           delta        -1  t=-9.50  W/L 25/141  wallet    99,812 vs    99,813  err=0
+rgcs_bt24              vs rgcs           delta        +0  t=+0.00  W/L 25/25  wallet    99,813 vs    99,813  err=0
+rgcs_bt168             vs rgcs           delta        +0  t=+0.00  W/L 25/25  wallet    99,813 vs    99,813  err=0
+numeric panel done
+EXIT=0
+EXIT=0

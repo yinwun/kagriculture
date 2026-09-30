@@ -1,0 +1,34 @@
+rgcs_te                vs rgcs           delta        +0  t=+0.00  W/L 25/25  wallet    99,813 vs    99,813  err=0
+   WATER                  448361 vs   448361  (+0)
+   HARVEST                194332 vs   194332  (+0)
+   PLANT                   95863 vs    95863  (+0)
+   FEED                   135317 vs   135317  (+0)
+   CARE                   166416 vs   166416  (+0)
+   COLLECT_FERTILIZER     153294 vs   153294  (+0)
+   FERTILIZE               44067 vs    44067  (+0)
+rgcs_de                vs rgcs           delta       -32  t=-8.50  W/L 125/229  wallet    99,782 vs    99,815  err=0
+   WATER                  448361 vs   448361  (+0)
+   HARVEST                194332 vs   194332  (+0)
+   PLANT                   95863 vs    95863  (+0)
+   FEED                   135317 vs   135317  (+0)
+   CARE                   166416 vs   166416  (+0)
+   COLLECT_FERTILIZER     153294 vs   153294  (+0)
+   FERTILIZE               44067 vs    44067  (+0)
+rgcs_bu                vs rgcs           delta       -61  t=-26.43  W/L 27/351  wallet    99,640 vs    99,701  err=0
+   WATER                  448361 vs   448361  (+0)
+   HARVEST                194332 vs   194332  (+0)
+   PLANT                   95863 vs    95863  (+0)
+   FEED                   135305 vs   135305  (+0)
+   CARE                   166416 vs   166416  (+0)
+   COLLECT_FERTILIZER     153294 vs   153294  (+0)
+   FERTILIZE               44067 vs    44067  (+0)
+rgcs_fr                vs rgcs           delta        +0  t=+0.00  W/L 25/25  wallet    99,813 vs    99,813  err=0
+   WATER                  448361 vs   448361  (+0)
+   HARVEST                194332 vs   194332  (+0)
+   PLANT                   95863 vs    95863  (+0)
+   FEED                   135317 vs   135317  (+0)
+   CARE                   166416 vs   166416  (+0)
+   COLLECT_FERTILIZER     153294 vs   153294  (+0)
+   FERTILIZE               44067 vs    44067  (+0)
+panel A done
+EXIT=0

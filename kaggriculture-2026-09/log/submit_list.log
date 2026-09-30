@@ -1,0 +1,12 @@
+  auth retry 0: ConnectionError
+submissions today: 0 (quota 5)
+       ref date                     status                    public  description
+  56264115 2026-09-15 23:33:30      SubmissionStatus.COMP             V42 + room_guard + clamp_sells: enabling two existing guard layers. Validated on the 104-core box: +463 (t=10.2, 89W/11L) over 100 towns vs stock, and +202 (t=10.1, 216W/84L) over 600 games against 5 distinct opponents (v38/v39/v40/v41/aurax7-v5) on 60 held-out towns
+  56258384 2026-09-15 15:57:02      SubmissionStatus.COMP             restore V42 baseline (best known ladder line, 2681.9): router experiments showed the stock shop-router is already within ~1.7% of the best of our 41 tapes, and a forced route measured -3138 over 10 mirror games
+  56257646 2026-09-15 15:18:54      SubmissionStatus.COMP             router3: drain-aware route choice, in-source _router replacement (no monkey-patching; matches router2 locally 14 seeds mean +950)
+  56257370 2026-09-15 15:06:23      SubmissionStatus.ERRO             router2: drain-aware route choice (shops' drain capacity vs tape animal mix; keeps stock day-6/day-27 timing; local 14 seeds mean +950 worst -94)
+  56239736 2026-09-14 22:20:51      SubmissionStatus.COMP             aurax7-v5 (EXP257/V39 line, alternate lineage; replaces clamp arm)
+  56233887 2026-09-14 15:08:41      SubmissionStatus.COMP             V42 baseline (author REVIEW candidate, 41-route gen)
+  56233880 2026-09-14 15:08:21      SubmissionStatus.COMP             V42+clamp_sells (local 76.7% vs V42, 40:0 vs V40+clamp)
+  56208572 2026-09-13 14:06:04      SubmissionStatus.COMP             V40 (author release candidate, 41-route gen)
+EXIT=0

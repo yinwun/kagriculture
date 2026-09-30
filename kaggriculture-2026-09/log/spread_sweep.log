@@ -1,0 +1,13 @@
+=== k3 ===
+spread_k3              vs rgcs           delta   -18,071  t=-7.91  W/L 0/60  wallet    87,634 vs   105,704  err=0
+   idle share             8.41% vs   7.92%
+=== k1 ===
+spread_k1              vs rgcs           delta   -18,071  t=-7.91  W/L 0/60  wallet    87,634 vs   105,704  err=0
+   idle share             8.41% vs   7.92%
+=== k8 ===
+spread_k8              vs rgcs           delta   -18,071  t=-7.91  W/L 0/60  wallet    87,634 vs   105,704  err=0
+   idle share             8.41% vs   7.92%
+=== k3frac50 ===
+spread_k3frac50        vs rgcs           delta   -18,071  t=-7.91  W/L 0/60  wallet    87,634 vs   105,704  err=0
+   idle share             8.41% vs   7.92%
+=== k3h4 ===

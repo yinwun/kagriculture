@@ -1,0 +1,32 @@
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.13/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+                    ~~~~^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/multiprocessing/pool.py", line 48, in mapstar
+    return list(map(*args))
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/scripts/joint_search.py", line 99, in _eval_job
+    idx, vec, seeds, opp = arg
+    ^^^^^^^^^^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 4, got 3)
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/scripts/joint_search.py", line 223, in <module>
+    main()
+    ~~~~^^
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/scripts/joint_search.py", line 189, in main
+    best_fit, best_t, best_w, errs = fitness(vec, seeds, args.procs)
+                                     ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/scripts/joint_search.py", line 159, in fitness
+    res = pool.map(_eval_job, jobs)
+  File "/opt/anaconda3/lib/python3.13/multiprocessing/pool.py", line 367, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/multiprocessing/pool.py", line 774, in get
+    raise self._value
+ValueError: not enough values to unpack (expected 4, got 3)
+EXIT=1

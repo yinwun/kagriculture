@@ -1,0 +1,14 @@
+Dataset URL: https://www.kaggle.com/datasets/destbreso/kaggriculture-top10-replay-streams
+retry ConnectionError ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+Dataset URL: https://www.kaggle.com/datasets/destbreso/kaggriculture-top10-replay-streams
+Downloading kaggriculture-top10-replay-streams.zip to data/top10streams
+  0%|          | 0.00/1.28M [00:00<?, ?B/s] 78%|███████▊  | 1.00M/1.28M [00:16<00:04, 62.3kB/s]100%|██████████| 1.28M/1.28M [00:21<00:00, 61.5kB/s]100%|██████████| 1.28M/1.28M [00:21<00:00, 61.7kB/s]
+
+OK download
+total 3832
+drwxr-xr-x@  5 nickyl  staff      160 16 Sep 22:29 .
+drwxr-xr-x@ 82 nickyl  staff     2624 16 Sep 22:29 ..
+-rw-r--r--@  1 nickyl  staff   436522 16 Sep 22:29 boards.csv
+-rw-r--r--@  1 nickyl  staff   138799 16 Sep 22:29 episodes.csv
+-rw-r--r--@  1 nickyl  staff  1381530 16 Sep 22:29 streams.parquet
+DONE=0

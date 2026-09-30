@@ -1,0 +1,112 @@
+
+56422944 = composite + our two layers: 61 games, 61 pass the bank-reproduction gate; 56 without a deficit day
+
+========================================================================================================
+56422944 = composite + our two layers (ref 56422944): 61 attributed games
+  losses (<-500)         n=  9  liquid gap mean   -1,147 median     -826  first-deficit day: {0: 5, 2: 2, 14: 1, 25: 1}
+  near-losses (-500..0)  n= 10  liquid gap mean     -103 median      -37  first-deficit day: {0: 2, 2: 2, 3: 3, 15: 1, 16: 1, 28: 1}
+  wins (>0)              n= 42  liquid gap mean   +1,837 median   +1,118  first-deficit day: {0: 10, 1: 1, 2: 9, 3: 2, 7: 1, 12: 6, 14: 2, 15: 2, 16: 2, 18: 1, 22: 1}
+
+  mean per-day liquid net-worth gap (me - opp), 56422944 = composite + our two layers losses (n=9):
+     day        0        1        2        3        4        5        6        7        8        9       10       11       12       13       14       15       16       17       18       19       20       21       22       23       24       25       26       27       28       29
+    mean       +3      +37      -17      +31      +92      +65      +96      +26     +118     +147     +998     +248     +386      +98      -71     +259     -225     -169     -363     -414     -820     -323     -723     -683     -721     -808   -1,180     -745     -751   -1,147
+      sd       14      106       25      164      336      260      436      213      427      340    2,927      874      783      914      414      736      803      404    1,634      974    2,066      896    1,950    1,312    1,591    1,316    1,594      940      982    1,069
+    first day the MEAN gap is negative: day 2
+
+  mean per-day liquid net-worth gap (me - opp), 56422944 = composite + our two layers near (n=10):
+     day        0        1        2        3        4        5        6        7        8        9       10       11       12       13       14       15       16       17       18       19       20       21       22       23       24       25       26       27       28       29
+    mean       +3       +4       -8      -36      -36      -36      -31      -30      -30      -30      -31      -30      -29      -30      -30      -32      -31      -22      -16       +1       -0      +56      +72      +18       +8      -24      +61      +57      -94     -103
+      sd        8        8       22       33       33       33       34       33       33       33       32       33       35       33       31       29       52       88      117      106      156      167      211      243      321      303      342      317      101      115
+    first day the MEAN gap is negative: day 2
+
+  mean per-day liquid net-worth gap (me - opp), 56422944 = composite + our two layers wins (n=42):
+     day        0        1        2        3        4        5        6        7        8        9       10       11       12       13       14       15       16       17       18       19       20       21       22       23       24       25       26       27       28       29
+    mean       +4       -1      -21      -21      -28      -10      -71      -44      -18       -5     +337     +290     +618     +599     +476     +631     +651     +600     +756     +572     +570     +710     +692     +789     +809     +954   +1,211   +1,484   +1,708   +1,837
+      sd       18       18       65       31       70       58      220      108       47      334    2,272    1,822    2,003    1,876    2,207    2,287    2,878    2,819    2,649    2,201    1,716    1,649    1,491    1,691    1,252    1,485    1,737    2,366    3,133    3,715
+    first day the MEAN gap is negative: day 1
+
+  CAUSE TABLE over 19 losses+near-losses:
+    class      games  mean deficit    median          worst item (mean contrib)  tags
+    PRODUCT       18          +595      +312                         STRAWBERRY  {'PRODUCT': 18, 'EARLY': 10, 'LATE': 5}
+    EARLY          1          +629      +629                         FERTILIZER  {'EARLY': 1}
+
+  ITEM-LEVEL net contribution (my revenue - my spend) - (opp revenue - opp spend), mean over 19 losses+near-losses:
+    item           mean net    median  neg games
+    STRAWBERRY       -1,095       -67   11/19   
+    WHEAT              -559       -62   13/19   
+    MILK               -108        +0    8/19   
+    WOOL                -58       +41    6/19   
+    TOMATO              -13       -13    1/2    
+    MELON              +182        +0    1/19   
+    CARROT             +236        +0    4/19   
+    FERTILIZER         +393        +0    7/19   
+    EGG                +811        +0    4/13   
+
+  VOLUME vs PRICE decomposition over 19 losses+near-losses (symmetric: vol = (u_me-u_opp)*p_avg, price = (p_me-p_opp)*u_avg):
+    item            u_me   u_opp    p_me   p_opp  vol effect  price effect       net
+    STRAWBERRY     246.3   250.9    96.4    97.4        -825          -270    -1,095
+    WHEAT          890.5   726.7    38.5    38.2      +6,682          +394    +7,076
+    MILK           201.4   200.3    90.6    91.6         +68          -175      -108
+    WOOL           158.6   157.0   105.2   106.7        +121          -179       -58
+    TOMATO           8.4     8.4    18.1    18.1          +0            -1        -1
+    MELON           72.0    72.0   199.5   197.0          +0          +182      +182
+
+  LAYER SIGNATURE (mean per game over all 61 games): SELL steps 265/719, multi-SELL steps 56, WOOL-SELL steps 59, WOOL units sold 171
+  shed-overflow discards total across games: 872 units
+
+56409633 = plain composite: 75 games, 75 pass the bank-reproduction gate; 64 without a deficit day
+
+========================================================================================================
+56409633 = plain composite (ref 56409633): 75 attributed games
+  losses (<-500)         n= 12  liquid gap mean   -4,265 median   -1,494  first-deficit day: {0: 4, 2: 4, 3: 2, 8: 1, 14: 1}
+  near-losses (-500..0)  n= 27  liquid gap mean      -92 median      -77  first-deficit day: {2: 9, 3: 8, 10: 1, 12: 1, 15: 1, 26: 1}
+  wins (>0)              n= 36  liquid gap mean   +1,183 median     +778  first-deficit day: {0: 7, 2: 9, 6: 3, 8: 1, 12: 3, 14: 1, 15: 1, 16: 1, 17: 1, 18: 3, 20: 1}
+
+  mean per-day liquid net-worth gap (me - opp), 56409633 = plain composite losses (n=12):
+     day        0        1        2        3        4        5        6        7        8        9       10       11       12       13       14       15       16       17       18       19       20       21       22       23       24       25       26       27       28       29
+    mean      +13       +6      -43      -21      +15      +55     +104      -50      -73     +499   +2,084     +970     +609     +406     -655     -441   -1,062   -1,054   -1,481   -1,647   -2,228   -2,115   -2,098   -2,331   -2,767   -2,960   -3,744   -3,881   -4,124   -4,265
+      sd       31      119      122      104      134      193      360      209      567      999    3,862    2,233    2,307    2,487    2,408    3,760    3,108    3,183    3,255    3,626    3,724    4,156    4,373    5,285    5,540    5,990    6,088    6,209    6,459    6,330
+    first day the MEAN gap is negative: day 2
+
+  mean per-day liquid net-worth gap (me - opp), 56409633 = plain composite near (n=27):
+     day        0        1        2        3        4        5        6        7        8        9       10       11       12       13       14       15       16       17       18       19       20       21       22       23       24       25       26       27       28       29
+    mean       +7       +8      -12      -46      -46      -46      -46      -45      -47      -51      -53      -61      -63      -63      -63      -69      -66      -63      -62      -61      -61      -59      -51      -89     -105     -118     -117     -131      -90      -92
+      sd        6        6       25       40       40       40       41       41       42       45       46       58       59       61       62       64       61       78       83       85       90       92      125      124      209      200      149      162       91       96
+    first day the MEAN gap is negative: day 2
+
+  mean per-day liquid net-worth gap (me - opp), 56409633 = plain composite wins (n=36):
+     day        0        1        2        3        4        5        6        7        8        9       10       11       12       13       14       15       16       17       18       19       20       21       22       23       24       25       26       27       28       29
+    mean       +2       +3      -12      -12      -12      -12      -24      -21      -13      +24      -10       -9     +149     +169      +66     +131     +105      +74     +185     +140     +202     +334     +349     +443     +440     +567     +889   +1,037   +1,091   +1,183
+      sd        9       10       23       23       23       23       49       40       36      133      105      157      563      569      245      475      337      251      554      393      497      641      598      727      620      808      923      836      944    1,041
+    first day the MEAN gap is negative: day 2
+
+  CAUSE TABLE over 39 losses+near-losses:
+    class      games  mean deficit    median          worst item (mean contrib)  tags
+    PRODUCT       33        +1,626      +130                              WHEAT  {'PRODUCT': 33, 'LATE': 6, 'VOLUME': 2, 'EARLY': 17, 'PRICE': 1}
+    OTHER          6            +1        +1                              MELON  {}
+
+  ITEM-LEVEL net contribution (my revenue - my spend) - (opp revenue - opp spend), mean over 39 losses+near-losses:
+    item           mean net    median  neg games
+    TOMATO           -5,332        +0    1/3    
+    WHEAT              -482       -60   25/39   
+    MILK               -446        +0   11/39   
+    STRAWBERRY         -147        +0   10/39   
+    EGG                -143        +0    5/26   
+    WOOL                 +1        +0   12/39   
+    FERTILIZER          +37        +0    6/39   
+    CARROT             +126        +0    6/39   
+    MELON              +213        +0    2/39   
+
+  VOLUME vs PRICE decomposition over 39 losses+near-losses (symmetric: vol = (u_me-u_opp)*p_avg, price = (p_me-p_opp)*u_avg):
+    item            u_me   u_opp    p_me   p_opp  vol effect  price effect       net
+    TOMATO           4.1     8.6    15.9    18.2        -205          -205      -410
+    WHEAT          528.5   619.9    38.1    38.1      -3,625           -61    -3,686
+    MILK           195.8   197.0    97.4    98.1        -351           -95      -446
+    STRAWBERRY     246.3   239.1   113.9   116.4        +298          -445      -147
+    EGG             74.1    75.6    30.2    33.1          -4           -91       -96
+    WOOL           183.1   178.2   112.0   114.7        +719          -718        +1
+
+  LAYER SIGNATURE (mean per game over all 75 games): SELL steps 251/719, multi-SELL steps 50, WOOL-SELL steps 39, WOOL units sold 163
+  shed-overflow discards total across games: 1033 units
+
+wrote data/replay-causes.json

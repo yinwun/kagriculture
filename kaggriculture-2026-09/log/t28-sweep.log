@@ -1,0 +1,68 @@
+building variants...
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/composite/comp_straw_wheat_raceonly/main.py (1,047,763 bytes, sha256 58f041f08be7) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/composite/comp_straw_wheat/main.py (1,051,220 bytes, sha256 ea71f42634ac8dea66cc83d2e108ac48882787a15aad64101674f3e2921489a6)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/composite/comp_straw_milk_raceonly/main.py (1,047,763 bytes, sha256 58f041f08be7) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/composite/comp_straw_milk/main.py (1,051,218 bytes, sha256 a9c06630aa83854743b6a21c4139d3291f81e808d0d5289cd7e3bb9040c25fd9)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/composite/comp_straw_carrot_raceonly/main.py (1,047,763 bytes, sha256 58f041f08be7) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/composite/comp_straw_carrot/main.py (1,051,222 bytes, sha256 7bcc80f3e074d8cd757f9b4b091ac5387379a3ecc1fd745207793d77384c0e99)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/composite/comp_straw_tomato_raceonly/main.py (1,047,763 bytes, sha256 58f041f08be7) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/composite/comp_straw_tomato/main.py (1,051,222 bytes, sha256 be79e182ccbb16cc1ee84fe23713cb286bf2123eca70c9cce9d5c9386b481cc7)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/composite/comp_straw_egg_raceonly/main.py (1,047,763 bytes, sha256 58f041f08be7) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/composite/comp_straw_egg/main.py (1,051,216 bytes, sha256 a8f639bbc6521b4c053b59941ec4c6298146d7e8c9948ae97d437a3cd6f57467)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/composite/comp_straw_fert_raceonly/main.py (1,047,763 bytes, sha256 58f041f08be7) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/composite/comp_straw_fert/main.py (1,051,230 bytes, sha256 105acb89b0a7c43ae6c0c933b98ecfb58aa08f255ea2cae624afff0c5d5391a0)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/composite/comp_nowool_raceonly/main.py (1,047,763 bytes, sha256 58f041f08be7) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/composite/comp_nowool/main.py (1,051,189 bytes, sha256 56bb4fec42e1a8495919888970a2cc60cdafabaa585d227f7308b2c98451dc34)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/composite/comp_norace/main.py (1,008,566 bytes, sha256 6cb0f1403c58a5b12d48593079e9bf823b1a58b6e5adfc491bf34b1fe01d9865)
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/composite/comp_straw_raceonly/main.py (1,047,763 bytes, sha256 58f041f08be7) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/composite/comp_straw/main.py (1,051,197 bytes, sha256 ad2ddf2d60df5670478f653e912c4f67be80f3c7084388f03760f2497f8befd8)
+CONTROL comp_straw rebuild byte-identical: True
+duelled comp_straw_wheat oos
+duelled comp_straw_milk is
+duelled comp_straw_milk oos
+duelled comp_straw_carrot is
+duelled comp_straw_carrot oos
+duelled comp_straw_tomato is
+duelled comp_straw_tomato oos
+duelled comp_straw_egg is
+duelled comp_straw_egg oos
+duelled comp_straw_fert is
+duelled comp_straw_fert oos
+duelled comp_nowool is
+duelled comp_nowool oos
+duelled comp_norace is
+duelled comp_norace oos
+duelled comp_both is
+duelled comp_both oos
+
+=== TASK 28 SWEEP (cand vs comp_straw) ===
+variant              panel    delta       %       t      W-L  pos/neg  err  exc
+comp_straw_wheat     is       -516  -0.54%   -3.38    16-44     8/22    0    0
+comp_straw_wheat     oos      -762  -0.79%   -3.43     2-58     0/30    0    0
+comp_straw_milk      is        +44  +0.05%   +0.98    41-19    20/10    0    0
+comp_straw_milk      oos      +110  +0.12%   +1.58    38-22    19/11    0    0
+comp_straw_carrot    is         +2  +0.00%   +1.02      9-7      3/2    0    0
+comp_straw_carrot    oos        +0  +0.00%   +1.22     10-6      4/2    0    0
+comp_straw_tomato    is         +0  +0.00%   +0.00      3-3      0/0    0    0
+comp_straw_tomato    oos        +0  +0.00%   +0.00      2-2      0/0    0    0
+comp_straw_egg       is         -5  -0.01%   -0.29    15-11      7/4    0    0
+comp_straw_egg       oos       +15  +0.02%   +0.62     20-8      9/4    0    0
+comp_straw_fert      is       -299  -0.32%   -4.87    18-42     9/21    0    0
+comp_straw_fert      oos      -315  -0.33%   -4.69    24-36    11/19    0    0
+comp_nowool          is       -282  -0.30%   -3.89    12-48     5/25    0    0
+comp_nowool          oos      -248  -0.26%   -3.18     6-54     2/28    0    0
+comp_norace          is        -57  -0.06%   -2.96     3-35     0/18    0    0
+comp_norace          oos       -64  -0.07%   -4.43     2-44     1/22    0    0
+comp_both            is       -436  -0.46%   -7.57     4-56     1/29    0    0
+comp_both            oos      -528  -0.55%   -8.20     2-58     1/29    0    0
+
+GO/NO-GO (d>0, t>=3 both panels, delta>=+300):
+  comp_straw_wheat     no-go   IS -516 (t=-3.38)  OOS -762 (t=-3.43)
+  comp_straw_milk      no-go   IS +44 (t=+0.98)  OOS +110 (t=+1.58)
+  comp_straw_carrot    no-go   IS +2 (t=+1.02)  OOS +0 (t=+1.22)
+  comp_straw_tomato    no-go   IS +0 (t=+0.00)  OOS +0 (t=+0.00)
+  comp_straw_egg       no-go   IS -5 (t=-0.29)  OOS +15 (t=+0.62)
+  comp_straw_fert      no-go   IS -299 (t=-4.87)  OOS -315 (t=-4.69)
+  comp_nowool          no-go   IS -282 (t=-3.89)  OOS -248 (t=-3.18)
+  comp_norace          no-go   IS -57 (t=-2.96)  OOS -64 (t=-4.43)
+  comp_both            no-go   IS -436 (t=-7.57)  OOS -528 (t=-8.20)

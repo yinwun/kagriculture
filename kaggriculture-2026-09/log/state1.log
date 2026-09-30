@@ -1,0 +1,67 @@
+submissions today: 0 (quota 5)
+       ref date                     status                    public  description
+  56307906 2026-09-17 15:13:55      SubmissionStatus.COMP             A/B night B: V42 + room_guard + clamp_sells. Strongest local evidence in the family (+463 t=10.2 over 1500 games; +202 t=10.1 vs a 5-opponent pool on held-out towns). Submitted fresh beside the baseline line for a same-age ladder comparison.
+  56307879 2026-09-17 15:13:07      SubmissionStatus.COMP             A/B night A: V42 baseline restore. Our highest recorded ladder number (2681.9) came from this line; submitting it fresh alongside the room_guard+clamp_sells line gives a same-age comparison of the two candidates (ladder score depends strongly on submission age).
+  56264115 2026-09-15 23:33:30      SubmissionStatus.COMP             V42 + room_guard + clamp_sells: enabling two existing guard layers. Validated on the 104-core box: +463 (t=10.2, 89W/11L) over 100 towns vs stock, and +202 (t=10.1, 216W/84L) over 600 games against 5 distinct opponents (v38/v39/v40/v41/aurax7-v5) on 60 held-out towns
+  56258384 2026-09-15 15:57:02      SubmissionStatus.COMP             restore V42 baseline (best known ladder line, 2681.9): router experiments showed the stock shop-router is already within ~1.7% of the best of our 41 tapes, and a forced route measured -3138 over 10 mirror games
+  56257646 2026-09-15 15:18:54      SubmissionStatus.COMP             router3: drain-aware route choice, in-source _router replacement (no monkey-patching; matches router2 locally 14 seeds mean +950)
+  56257370 2026-09-15 15:06:23      SubmissionStatus.ERRO             router2: drain-aware route choice (shops' drain capacity vs tape animal mix; keeps stock day-6/day-27 timing; local 14 seeds mean +950 worst -94)
+  56239736 2026-09-14 22:20:51      SubmissionStatus.COMP             aurax7-v5 (EXP257/V39 line, alternate lineage; replaces clamp arm)
+  56233887 2026-09-14 15:08:41      SubmissionStatus.COMP             V42 baseline (author REVIEW candidate, 41-route gen)
+  A_v42baseline: 189 games  W/L/T 85/88/16  win 45.0%  margin +3,047 (median +0)  opp mean score 2153
+  B_rgcs: 186 games  W/L/T 91/95/0  win 48.9%  margin +1,911 (median -46)  opp mean score 2250
+snapshot stored in /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/submission_track.json
+page 0: +200 (total 200)
+page 1: +200 (total 400)
+page 2: +200 (total 600)
+page 3: +200 (total 800)
+page 4: +200 (total 1000)
+page 5: +200 (total 1200)
+page 6: +200 (total 1400)
+page 7: +200 (total 1600)
+page 8: +200 (total 1800)
+page 9: +200 (total 2000)
+page 10: +200 (total 2200)
+page 11: +200 (total 2400)
+page 12: +200 (total 2600)
+page 13: +200 (total 2800)
+page 14: +200 (total 3000)
+page 15: +200 (total 3200)
+page 16: +200 (total 3400)
+page 17: +200 (total 3600)
+page 18: +200 (total 3800)
+page 19: +200 (total 4000)
+page 20: +200 (total 4200)
+page 21: +200 (total 4400)
+page 22: +200 (total 4600)
+page 23: +200 (total 4800)
+page 24: +200 (total 5000)
+page 25: +200 (total 5200)
+page 26: +200 (total 5400)
+page 27: +200 (total 5600)
+page 28: +200 (total 5800)
+page 29: +200 (total 6000)
+page 30: +200 (total 6200)
+page 31: +200 (total 6400)
+page 32: +200 (total 6600)
+page 33: +200 (total 6800)
+page 34: +200 (total 7000)
+page 35: +200 (total 7200)
+page 36: +200 (total 7400)
+page 37: +200 (total 7600)
+page 38: +200 (total 7800)
+page 39: +200 (total 8000)
+page 40: +200 (total 8200)
+page 41: +200 (total 8400)
+page 42: +200 (total 8600)
+page 43: +200 (total 8800)
+page 44: +200 (total 9000)
+page 45: +200 (total 9200)
+page 46: +200 (total 9400)
+page 47: +54 (total 9454)
+total teams: 9454
+LADDER nickyl 2147.5 rank 1345/9454 subDate 2026-09-17T15:13:55.440Z
+  top 1% cutoff 2837
+  top 5% cutoff 2640
+  top 10% cutoff 2392
+  top5: [('Majkel1337', 3195), ('SpaTaro', 3132), ('Sida Zuo', 3082), ('ymg_aq', 3069), ('DSM', 3068)]

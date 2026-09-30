@@ -1,0 +1,21 @@
+[400 games in 399s = 3,610 games/hour]
+planopt_v0             vs rgcs           delta  -113,479  t=-87.85  W/L 0/400  wallet    26,214 vs   139,693  err=0
+   PASS                    87462 vs   212926  (-125464)
+   WATER                  319201 vs   446820  (-127619)
+   HARVEST                107916 vs   193537  (-85621)
+   PLANT                  109411 vs    95722  (+13689)
+   FEED                   136528 vs   141854  (-5326)
+   CARE                   133347 vs   165215  (-31868)
+   COLLECT_FERTILIZER     134759 vs   152188  (-17429)
+   FERTILIZE                   0 vs    43161  (-43161)
+   PICKUP                 165324 vs    78777  (+86547)
+   PLACE                    6965 vs    42723  (-35758)
+   DIG                     35142 vs    14767  (+20375)
+   DROP                        0 vs    17007  (-17007)
+   BUILD_PASTURE            7292 vs     5972  (+1320)
+   BUILD_COOP                  0 vs     1826  (-1826)
+   MOVE                  1584479 vs  1182069  (+402410)
+   CMD                   1243347 vs  1612495  (-369148)
+   idle share             3.09% vs   7.62%
+wrote data/planopt-vs-rgcs-A.json
+EXIT=0

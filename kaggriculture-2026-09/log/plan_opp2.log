@@ -1,0 +1,9 @@
+[5 configs x 40 seeds (paired) in 438s]
+config                          delta        t       W/L     cand$      opp$  water   harv  idle% err
+value_order                  -100,543   -52.56      0/40    35,074   135,618    803    270    3.1   0
+base_ratio                   -100,697   -53.71      0/40    35,427   136,124    802    270    3.1   0
+ratio_anim1.3                -146,532   -47.50      0/40    15,157   161,689    516    128    9.6   0
+ratio_wheat24_liq28          -148,907   -55.01      0/40     9,466   158,373    832    228    4.1   0
+ratio_wheat26                -151,518   -54.35      0/40     7,564   159,082    891    248    4.1   0
+wrote data/plan-opp-sweep-2.json
+EXIT=0

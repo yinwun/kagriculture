@@ -1,0 +1,7 @@
+[4 configs x 48 seeds in 86s]
+config                reward  cover  idle%  move% plants10 anim10 plants15  water   harv err bad
+BEST_gate20           84,134   0.83    4.7   54.6     38.2    5.3     24.7    668    258   0   0
+BEST_gate20_hire2.6    80,341   0.78    2.7   54.2     34.0    5.7     20.4    565    220   0   0
+BEST_gate12           77,589   0.83    4.7   53.7     37.7    5.0     24.4    689    261   0   0
+BEST_nogate20         67,571   0.91    7.0   57.0     39.0    4.1     39.4    964    258   0   0
+wrote data/plan-sweep-14-oos.json

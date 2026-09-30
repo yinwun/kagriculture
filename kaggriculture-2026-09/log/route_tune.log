@@ -1,0 +1,43 @@
+cluster ('EGG', 'MILK', 'STRAWBERRY', 'WHEAT')         towns  15 candidates [124, 120, 107, 106, 105, 108, 121, 0]
+cluster ('CARROT', 'MILK', 'STRAWBERRY', 'TOMATO', 'WHEAT') towns  10 candidates [124, 120, 107, 106, 105, 121, 0]
+cluster ('CARROT', 'EGG', 'STRAWBERRY', 'TOMATO', 'WHEAT') towns   9 candidates [103, 112, 101, 116, 104, 110, 111, 0]
+cluster ('EGG', 'MILK', 'STRAWBERRY', 'TOMATO', 'WHEAT') towns   8 candidates [124, 120, 107, 106, 105, 0]
+cluster ('CARROT', 'MILK', 'STRAWBERRY', 'WHEAT')      towns   7 candidates [124, 120, 107, 106, 105, 0]
+cluster ('MILK', 'STRAWBERRY', 'WHEAT', 'WOOL')        towns   7 candidates [128, 109, 127, 115, 126, 0]
+cluster ('CARROT', 'EGG', 'WHEAT')                     towns   5 candidates [118, 103, 112, 101, 106, 0]
+cluster ('MILK', 'TOMATO', 'WHEAT', 'WOOL')            towns   5 candidates [128, 109, 127, 7, 125, 0]
+cluster ('CARROT', 'WOOL')                             towns   4 candidates [11, 128, 109, 127, 126, 0]
+cluster ('CARROT', 'MILK', 'TOMATO', 'WHEAT')          towns   4 candidates [123, 124, 120, 107, 105, 0]
+cluster ('EGG', 'STRAWBERRY', 'WHEAT', 'WOOL')         towns   4 candidates [128, 109, 127, 11, 126, 0]
+cluster ('EGG', 'MILK', 'TOMATO', 'WHEAT')             towns   4 candidates [124, 120, 110, 107, 0]
+cluster ('CARROT', 'STRAWBERRY', 'TOMATO', 'WHEAT')    towns   4 candidates [118, 112, 103, 101, 104, 117, 0]
+cluster ('CARROT',)                                    towns   4 candidates [118, 103, 112, 101, 0]
+cluster ('MILK', 'STRAWBERRY', 'WOOL')                 towns   4 candidates [128, 109, 127, 126, 0]
+cluster ('EGG', 'WHEAT', 'WOOL')                       towns   3 candidates [12, 128, 109, 127, 119, 0]
+cluster ('MILK', 'STRAWBERRY', 'WHEAT')                towns   3 candidates [124, 120, 107, 106, 105, 0]
+cluster ('MILK', 'TOMATO', 'WHEAT')                    towns   3 candidates [124, 120, 107, 105, 123, 0]
+cluster ('WOOL',)                                      towns   3 candidates [126, 9, 12, 128, 125, 0]
+cluster ('MILK', 'STRAWBERRY', 'TOMATO', 'WHEAT')      towns   3 candidates [124, 120, 107, 106, 108, 105, 0]
+cluster ('EGG', 'STRAWBERRY', 'WHEAT')                 towns   3 candidates [103, 110, 112, 101, 105, 0]
+cluster ('CARROT', 'EGG', 'STRAWBERRY', 'WHEAT')       towns   2 candidates [118, 103, 112, 110, 116, 101, 0]
+cluster ('EGG', 'WHEAT')                               towns   2 candidates [103, 112, 101, 116, 0]
+cluster ('CARROT', 'MILK', 'STRAWBERRY')               towns   2 candidates [110, 124, 118, 103, 105, 0]
+cluster ('MILK', 'STRAWBERRY')                         towns   1 candidates [115, 10, 126, 128, 107, 0]
+cluster ('CARROT', 'STRAWBERRY', 'TOMATO', 'WHEAT', 'WOOL') towns   1 candidates [128, 109, 127, 11, 114, 0]
+[160 route-jobs in 2200s]
+('CARROT', 'MILK', 'STRAWBERRY', 'TOMATO', 'WHEAT') n= 10 best 121      -958 | current  105        -
+('CARROT', 'EGG', 'STRAWBERRY', 'TOMATO', 'WHEAT') n=  9 best 111    -1,503 | current  104        -
+('MILK', 'TOMATO', 'WHEAT', 'WOOL')            n=  5 best   7       +28 | current  128        -
+('CARROT', 'STRAWBERRY', 'TOMATO', 'WHEAT')    n=  4 best 104      -158 | current  104     -158
+('EGG', 'WHEAT', 'WOOL')                       n=  3 best 119   -10,761 | current  119   -10761
+('MILK', 'TOMATO', 'WHEAT')                    n=  3 best 123        +0 | current  123       +0
+('WOOL',)                                      n=  3 best   9    +1,386 | current  125   -14316
+('MILK', 'STRAWBERRY', 'TOMATO', 'WHEAT')      n=  3 best 106      +192 | current  105        -
+('EGG', 'WHEAT')                               n=  2 best 112      +466 | current  101       +0
+('CARROT', 'MILK', 'STRAWBERRY')               n=  2 best 110    +2,505 | current  105       +0
+('MILK', 'STRAWBERRY')                         n=  1 best 115    +8,666 | current  107       +0
+('CARROT', 'STRAWBERRY', 'TOMATO', 'WHEAT', 'WOOL') n=  1 best 128    +3,148 | current  114     -569
+
+mean in-sample gain per cluster: +3,882 (clusters 8)
+wrote data/route-map-v2.json
+EXIT=0

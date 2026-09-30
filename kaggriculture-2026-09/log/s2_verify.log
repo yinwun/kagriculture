@@ -1,0 +1,6 @@
+[2 configs x 40 seeds (paired) in 485s]
+config                          delta        t       W/L     cand$      opp$  water   harv  feed  care  coll plant  idle%  pl10  an10 err
+S2_verify_jointbest           -97,678   -46.82      0/40    34,970   132,648    818    277   340   342   334   301    3.0  41.7   6.3   0
+S2_verify_incumbent           -98,357   -38.73      0/40    32,863   131,220    760    268   340   334   341   289    2.9  34.0   8.0   0
+wrote data/s2-verify-40.json
+EXIT=0

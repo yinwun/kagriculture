@@ -1,0 +1,17 @@
+building stack on the shepherds base...
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_straw_raceonly/main.py (1,082,428 bytes, sha256 b7aa3185d6d6) settings={'race_layout': 1, 'race_hyp': 'clone', 'race_hook': 'outer', 'race_items': ['MILK', 'WOOL', 'STRAWBERRY', 'MELON']}
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_straw/main.py (1,085,862 bytes, sha256 e1bb61d1caea1783d588076c9ef9dd998504434e841cbc7ec3e38216a650631f)
+payload sha256: e1bb61d1caea1783d588076c9ef9dd998504434e841cbc7ec3e38216a650631f
+built /Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/shep_straw_ctl/main.py (1,085,775 bytes, sha256 800a55622cfc4a3dd9f4559941a36000c58a2ab50a955201e3284551d90bfe7b)
+control sha256: 800a55622cfc4a3dd9f4559941a36000c58a2ab50a955201e3284551d90bfe7b
+STACK: SMOKE ['DONE', 'DONE'] [151291.0, 151291.0] {'layer_fallbacks': 0, 'entry_fallbacks': 0, 'terminal_rescue_errors': 0, 'v28_entry_errors': 0, 'production_errors': 0, 'v31_entry_errors': 0, 'race_tried': 510, 'race_eval': 528, 'race_implied': 450, 'forward_orders': 58, 'forward_units': 76, 'race_considered': 18, 'race_reorders': 4, 'race_gain': 320.0}
+CONTROL(forward off): SMOKE ['DONE', 'DONE'] [151569.0, 151569.0] {'layer_fallbacks': 0, 'entry_fallbacks': 0, 'terminal_rescue_errors': 0, 'v28_entry_errors': 0, 'production_errors': 0, 'v31_entry_errors': 0, 'race_tried': 516, 'race_eval': 536, 'race_implied': 428, 'race_considered': 20, 'race_reorders': 4, 'race_gain': 320.0}
+STACK p3 vs comp_straw: d=+792 t=+10.32 W-L 115-5 wire 104307/103515 exc 0/0 err 0
+   counters cand={'race_tried': 103200, 'race_eval': 105700, 'race_implied': 97794, 'forward_orders': 21483, 'forward_units': 22219, 'race_considered': 2500, 'race_reorders': 221, 'race_gain': 11707, 'RACE_race_clone_turns': 52228, 'RACE_race_horizon_turns': 52228, 'RACE_race_lost_races': 118, 'RACE_race_escalations': 118, 'RACE_cs_rewrites': 22, 'RACE_cs_credit': 204, 'RACE_cs_sold': 170}
+STACK p4 vs comp_straw: d=+857 t=+13.43 W-L 119-1 wire 99573/98716 exc 0/0 err 0
+   counters cand={'race_tried': 109079, 'race_eval': 111418, 'race_implied': 100134, 'forward_orders': 18616, 'forward_units': 19280, 'race_considered': 2339, 'race_reorders': 155, 'race_gain': 5059, 'RACE_race_clone_turns': 52458, 'RACE_race_horizon_turns': 52458, 'RACE_race_lost_races': 118, 'RACE_race_escalations': 118, 'RACE_cs_rewrites': 92, 'RACE_cs_credit': 944, 'RACE_cs_sold': 676}
+CONTROL (knobs off) delta=+0 t=+0.00 errors=0 exc=0
+actTimeout = 1 s/step (engine default); machine-dependent, so compare ratios
+agent                                          calls    mean     p95     p99      max  >250  >500  >1s  game s
+candidate/shep_straw                            1438    1.1     1.9     3.7     59.8     0     0    0     4.1
+wrote data/candidate/timing-t33.json

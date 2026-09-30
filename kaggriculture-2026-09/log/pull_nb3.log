@@ -1,0 +1,10 @@
+OK destbreso/a-dna-test-for-agents
+OK destbreso/97-predictable-extracting-decision-trees
+  retry destbreso/dissecting-the-top-two ConnectionError
+  retry destbreso/dissecting-the-top-two ConnectionError
+  retry destbreso/dissecting-the-top-two ConnectionError
+OK andrewsokolovsky/kaggriculture
+  retry boatlee/four-quadrant-route-breakdown-and-feasibility ConnectionError
+OK boatlee/four-quadrant-route-breakdown-and-feasibility
+OK olegmelnik/kaggriculture-c68-thunder-adaptive
+DONE=0

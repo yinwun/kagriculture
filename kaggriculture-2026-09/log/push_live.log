@@ -1,0 +1,1414 @@
+[KG] 09-27 15:00 UTC
+me 2002.6 rank 1363/10083 | d1% -614 d5% -344 d10% -122
+cut 1% 2617 5% 2347 10% 2124
+-- lines --
+shep_straw  2124.3   38g  66% opp 1818 | 2200+: 4/7=57%
+cap2        2002.6   83g  67% opp 1892 | 2200+: 4/7=57%
+cap8        1986.1   77g  64% opp 1876 | 2200+: 3/8=38%
+shep_milk   1871.4   29g  79% opp 1613 | 2200+: 0/0=0%
+verdict: 2200+ band samples <20 -> UNDECIDED
+[KG] 09-27 17:40 UTC
+me 1988.2 rank 1399/10087 | d1% -628 d5% -359 d10% -146
+cut 1% 2616 5% 2348 10% 2134
+-- lines --
+shep_straw  2124.3   38g  66% opp 1783 | 2200+: 3/7=43%
+cap2        1988.2   97g  63% opp 1886 | 2200+: 5/12=42%
+cap8        1964.7   86g  59% opp 1903 | 2200+: 3/12=25%
+shep_milk   1871.4   29g  79% opp 1576 | 2200+: 0/0=0%
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-27 18:53 UTC
+me 1983.4 rank 1402/10091 | d1% -633 d5% -357 d10% -142
+cut 1% 2616 5% 2340 10% 2125
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+shep_straw  2124.3   38g wr20  45%(+0) wr10  20%(+0) opp20  2073 [flat]
+cap2        1983.4  102g wr20  35%(-15) wr10  50%(+20) opp20  2098 [DOWN]
+cap8        1952.3   91g wr20  40%(-5) wr10  10%(-10) opp20  2118 [DOWN]
+shep_milk   1871.4   29g wr20  70%(+0) wr10  60%(+0) opp20  1847 [flat]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+[KG] 09-27 19:33 UTC
+me 1989.5 rank 1374/10091 | d1% -621 d5% -353 d10% -138
+cut 1% 2610 5% 2342 10% 2127
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+shep_straw  2124.3   38g wr20  45%(+0) wr10  20%(+0) opp20  2080 [flat]
+cap2        1989.5  103g wr20  40%(+5) wr10  50%(+0) opp20  2148 [up]
+cap8        1952.2   93g wr20  40%(+0) wr10  20%(+10) opp20  2126 [flat]
+shep_milk   1871.4   29g wr20  70%(+0) wr10  60%(+0) opp20  1839 [flat]
+verdict: 2200+ band samples <20 -> UNDECIDED
+[KG] 09-27 20:03 UTC
+me 1981.8 rank 1390/10092 | d1% -626 d5% -359 d10% -147
+cut 1% 2608 5% 2341 10% 2129
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+shep_straw  2124.3   38g wr20  45%(+0) wr10  20%(+0) opp20  2084 [flat]
+cap2        1981.8  105g wr20  30%(-10) wr10  40%(-10) opp20  2163 [DOWN]
+cap8        1939.0   96g wr20  25%(-15) wr10  20%(+0) opp20  2150 [DOWN]
+shep_milk   1871.4   29g wr20  70%(+0) wr10  60%(+0) opp20  1837 [flat]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 1319, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              encode_chunked=req.has_header('Transfer-encoding'))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1338, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1384, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1093, in _send_output
+    self.send(msg)
+    ~~~~~~~~~^^^^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1037, in send
+    self.connect()
+    ~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1472, in connect
+    super().connect()
+    ~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1003, in connect
+    self.sock = self._create_connection(
+                ~~~~~~~~~~~~~~~~~~~~~~~^
+        (self.host,self.port), self.timeout, self.source_address)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/socket.py", line 864, in create_connection
+    raise exceptions[0]
+  File "/opt/anaconda3/lib/python3.13/socket.py", line 849, in create_connection
+    sock.connect(sa)
+    ~~~~~~~~~~~~^^^^
+OSError: [Errno 51] Network is unreachable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/scripts/push_live.py", line 223, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/scripts/push_live.py", line 203, in main
+    tg("sendMessage", cfg["token"], chat_id=cfg["chat_id"], text=text)
+    ~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/scripts/push_live.py", line 44, in tg
+    with urllib.request.urlopen(req, timeout=25) as r:
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 189, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 489, in open
+    response = self._open(req, data)
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 506, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+                              '_open', req)
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 466, in _call_chain
+    result = func(*args)
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 1367, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        context=self._context)
+                        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 1322, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 51] Network is unreachable>
+[KG] 09-27 21:51 UTC
+me 1993.5 rank 1356/10096 | d1% -622 d5% -347 d10% -136
+cut 1% 2616 5% 2340 10% 2130
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+shep_straw  2124.3   38g wr20  45%(+0) wr10  20%(+0) opp20  2028 [flat]
+cap2        1993.5  114g wr20  50%(+20) wr10  60%(+20) opp20  2105 [up]
+cap8        1929.7  104g wr20  25%(+0) wr10  30%(+10) opp20  2088 [flat]
+shep_milk   1871.4   29g wr20  70%(+0) wr10  60%(+0) opp20  1833 [flat]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+leaderboard refresh failed: TimeoutExpired
+skip: last push < 25 min ago
+[KG] 09-27 23:00 UTC
+me 2005.0 rank 1297/10097 | d1% -605 d5% -327 d10% -118
+cut 1% 2610 5% 2332 10% 2123
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+shep_straw  2124.3   38g wr20  45%(+0) wr10  20%(+0) opp20  1941 [flat]
+cap2        2005.0  122g wr20  60%(+10) wr10  70%(+10) opp20  2112 [up]
+cap8        1930.1  112g wr20  40%(+15) wr10  40%(+10) opp20  2005 [up]
+shep_milk   1871.4   29g wr20  70%(+0) wr10  60%(+0) opp20  1818 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-27 23:27 UTC
+me 2001.0 rank 1293/10098 | d1% -606 d5% -328 d10% -120
+cut 1% 2607 5% 2329 10% 2121
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+shep_straw  2124.3   38g wr20  45%(+0) wr10  20%(+0) opp20  1998 [flat]
+cap2        2001.0  123g wr20  55%(-5) wr10  60%(-10) opp20  2104 [DOWN]
+cap8        1933.9  113g wr20  40%(+0) wr10  50%(+10) opp20  2004 [flat]
+shep_milk   1871.4   29g wr20  70%(+0) wr10  60%(+0) opp20  1831 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-27 23:34 UTC
+me 1979.8 rank 1414/10090 | d1% -636 d5% -362 d10% -148
+cut 1% 2616 5% 2341 10% 2128
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+shep_straw  2124.3   38g wr20  45%(+0) wr10  20%(+0) opp20  2071 [flat]
+cap2        1979.8   99g wr20  40%(-15) wr10  30%(-30) opp20  2075 [DOWN]
+cap8        1946.8   90g wr20  40%(+0) wr10   0%(-50) opp20  2096 [flat]
+shep_milk   1871.4    0g wr20   0%(-70) wr10   0%(-60) opp20     0 [DOWN]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+[KG] 09-28 00:00 UTC
+me 2004.3 rank 1271/10099 | d1% -602 d5% -321 d10% -117
+cut 1% 2606 5% 2325 10% 2121
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+shep_straw  2124.3   38g wr20  45%(+0) wr10  20%(+0) opp20  2008 [flat]
+cap2        2004.3  127g wr20  65%(+25) wr10  60%(+30) opp20  2096 [up]
+cap8        1929.2  116g wr20  45%(+5) wr10  50%(+50) opp20  1951 [up]
+shep_milk   1871.4   29g wr20  70%(+70) wr10  60%(+60) opp20  1831 [up]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 00:19 UTC
+me 2003.2 rank 1250/10099 | d1% -594 d5% -318 d10% -112
+cut 1% 2597 5% 2321 10% 2116
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+shep_straw  2124.3   38g wr20  45%(+0) wr10  20%(+0) opp20  2033 [flat]
+cap2        1998.2  130g wr20  60%(-5) wr10  50%(-10) opp20  2093 [DOWN]
+cap8        1934.2  117g wr20  50%(+5) wr10  60%(+10) opp20  1969 [up]
+shep_milk   1871.4   29g wr20  70%(+0) wr10  60%(+0) opp20  1827 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-28 01:00 UTC
+me 1057.0 rank 3805/10100 ⚠️-946 | d1% -1541 d5% -1263 d10% -1056
+cut 1% 2598 5% 2320 10% 2113
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+shep_straw  2124.3   38g wr20  45%(+0) wr10  20%(+0) opp20  2042 [flat]
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2067 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(-10) opp20  1949 [flat]
+shep_milk   1871.4   29g wr20  70%(+0) wr10  60%(+0) opp20  1825 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 01:30 UTC
+me 1459.0 rank 2677/10101 ⚠️+402 | d1% -1143 d5% -863 d10% -653
+cut 1% 2602 5% 2322 10% 2112
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+shep_straw  2124.3   38g wr20  45%(+0) wr10  20%(+0) opp20  2035 [flat]
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2097 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1982 [flat]
+shep_milk   1871.4   29g wr20  70%(+0) wr10  60%(+0) opp20  1824 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 02:01 UTC
+me 1618.0 rank 2297/10101 ⚠️+159 | d1% -988 d5% -703 d10% -492
+cut 1% 2606 5% 2321 10% 2110
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+shep_straw  2124.3    0g wr20   0%(-45) wr10   0%(-20) opp20     0 [DOWN]
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2108 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1993 [flat]
+shep_milk   1871.4   29g wr20  70%(+0) wr10  60%(+0) opp20  1822 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 02:27 UTC
+me 1654.8 rank 2185/10102 | d1% -944 d5% -664 d10% -455
+cut 1% 2599 5% 2319 10% 2110
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+shep_straw  2124.3   38g wr20  45%(+45) wr10  20%(+20) opp20  2027 [up]
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2104 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1999 [flat]
+shep_milk   1871.4   29g wr20  70%(+0) wr10  60%(+0) opp20  1820 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 02:52 UTC
+me 1670.7 rank 2137/10102 | d1% -930 d5% -647 d10% -436
+cut 1% 2601 5% 2317 10% 2107
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+shep_straw  2124.3   38g wr20  45%(+0) wr10  20%(+0) opp20  2026 [flat]
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2106 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  2000 [flat]
+shep_milk   1871.4   29g wr20  70%(+0) wr10  60%(+0) opp20  1818 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 03:18 UTC
+me 1683.3 rank 2099/10103 | d1% -920 d5% -634 d10% -421
+cut 1% 2603 5% 2317 10% 2104
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2103 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  2001 [flat]
+cap24        600.0    0g wr20   0%(+0) wr10   0%(+0) opp20     0 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 03:44 UTC
+me 1241.4 rank 3269/10104 ⚠️-442 | d1% -1368 d5% -1073 d10% -861
+cut 1% 2610 5% 2315 10% 2103
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2101 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  2000 [flat]
+cap24        986.8    5g wr20 100%(+100) wr10 100%(+100) opp20   649 [up]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 04:09 UTC
+me 1613.1 rank 2302/10105 ⚠️+372 | d1% -994 d5% -700 d10% -491
+cut 1% 2608 5% 2313 10% 2104
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2096 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1999 [flat]
+cap24       1541.5   11g wr20 100%(+0) wr10 100%(+0) opp20  1022 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 04:35 UTC
+me 1744.4 rank 1932/10105 ⚠️+131 | d1% -863 d5% -566 d10% -358
+cut 1% 2607 5% 2310 10% 2102
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2094 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1997 [flat]
+cap24       1744.4   19g wr20  84%(-16) wr10  70%(-30) opp20  1316 [DOWN]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+[KG] 09-28 05:01 UTC
+me 1810.9 rank 1758/10105 ⚠️+66 | d1% -796 d5% -497 d10% -288
+cut 1% 2607 5% 2308 10% 2098
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2047 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1994 [flat]
+cap24       1810.9   26g wr20  75%(-9) wr10  70%(+0) opp20  1564 [DOWN]
+verdict: 2200+ band samples >=20 -> compare
+[KG] 09-28 05:26 UTC
+me 1892.0 rank 1571/10105 ⚠️+81 | d1% -709 d5% -418 d10% -204
+cut 1% 2601 5% 2310 10% 2096
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2081 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1979 [flat]
+cap24       1892.0   33g wr20  65%(-10) wr10  80%(+10) opp20  1776 [DOWN]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 05:52 UTC
+me 1878.6 rank 1593/10106 | d1% -728 d5% -431 d10% -215
+cut 1% 2606 5% 2309 10% 2094
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2087 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1977 [flat]
+cap24       1878.6   39g wr20  60%(-5) wr10  40%(-40) opp20  1882 [DOWN]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 06:18 UTC
+me 1864.9 rank 1630/10106 | d1% -738 d5% -441 d10% -226
+cut 1% 2602 5% 2306 10% 2091
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2081 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1970 [flat]
+cap24       1864.9   47g wr20  45%(-15) wr10  30%(-10) opp20  1985 [DOWN]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 06:43 UTC
+me 1854.4 rank 1656/10108 | d1% -744 d5% -448 d10% -236
+cut 1% 2599 5% 2303 10% 2090
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2082 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1969 [flat]
+cap24       1854.4   54g wr20  35%(-10) wr10  30%(+0) opp20  1989 [DOWN]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 07:09 UTC
+me 1864.9 rank 1630/10108 | d1% -735 d5% -437 d10% -222
+cut 1% 2600 5% 2302 10% 2087
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2081 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1887 [flat]
+cap24       1864.9   61g wr20  40%(+5) wr10  60%(+30) opp20  1943 [up]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 07:35 UTC
+me 1872.8 rank 1607/10108 | d1% -725 d5% -428 d10% -220
+cut 1% 2597 5% 2301 10% 2092
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2002 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1962 [flat]
+cap24       1872.8   68g wr20  50%(+10) wr10  60%(+0) opp20  1930 [up]
+verdict: 2200+ band samples >=20 -> compare
+Traceback (most recent call last):
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/scripts/push_live.py", line 223, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/scripts/push_live.py", line 201, in main
+    d = collect()
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/scripts/push_live.py", line 89, in collect
+    subs = [s.to_dict() for s in api_.competition_submissions("kaggriculture")][:6]
+                                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/.venv/lib/python3.13/site-packages/kaggle/api/kaggle_api_extended.py", line 2067, in competition_submissions
+    response = kaggle.competitions.competition_api_client.list_submissions(request)
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/.venv/lib/python3.13/site-packages/kagglesdk/competitions/services/competition_api_service.py", line 47, in list_submissions
+    return self._client.call("competitions.CompetitionApiService", "ListSubmissions", request, ApiListSubmissionsResponse)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/.venv/lib/python3.13/site-packages/kagglesdk/kaggle_http_client.py", line 106, in call
+    response = self._prepare_response(response_type, http_response)
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/.venv/lib/python3.13/site-packages/kagglesdk/kaggle_http_client.py", line 134, in _prepare_response
+    http_response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/.venv/lib/python3.13/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.kaggle.com/v1/competitions.CompetitionApiService/ListSubmissions
+[KG] 09-28 08:02 UTC
+me 1881.9 rank 1575/10109 | d1% -715 d5% -415 d10% -210
+cut 1% 2597 5% 2297 10% 2091
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2032 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1978 [flat]
+cap24       1881.9   75g wr20  55%(+5) wr10  70%(+10) opp20  1912 [up]
+verdict: 2200+ band samples >=20 -> compare
+[KG] 09-28 08:27 UTC
+me 1876.0 rank 1596/10109 | d1% -720 d5% -421 d10% -210
+cut 1% 2596 5% 2297 10% 2086
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2070 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1976 [flat]
+cap24       1876.0   80g wr20  50%(-5) wr10  50%(-20) opp20  1934 [DOWN]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 08:53 UTC
+me 1881.4 rank 1558/10111 | d1% -713 d5% -415 d10% -205
+cut 1% 2594 5% 2296 10% 2086
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2078 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1905 [flat]
+cap24       1881.4   83g wr20  60%(+10) wr10  60%(+10) opp20  1940 [up]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 09:18 UTC
+me 1881.4 rank 1556/10112 | d1% -714 d5% -413 d10% -200
+cut 1% 2595 5% 2295 10% 2082
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2080 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1925 [flat]
+cap24       1881.4   83g wr20  60%(+0) wr10  60%(+0) opp20  1939 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 09:44 UTC
+me 1875.9 rank 1583/10113 | d1% -720 d5% -416 d10% -210
+cut 1% 2596 5% 2292 10% 2086
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2075 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1947 [flat]
+cap24       1875.9   86g wr20  55%(-5) wr10  40%(-20) opp20  1932 [DOWN]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 10:10 UTC
+me 1875.9 rank 1581/10113 | d1% -722 d5% -414 d10% -211
+cut 1% 2598 5% 2290 10% 2086
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2074 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1953 [flat]
+cap24       1875.9   86g wr20  55%(+0) wr10  40%(+0) opp20  1914 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 10:35 UTC
+me 1871.7 rank 1585/10113 | d1% -724 d5% -417 d10% -214
+cut 1% 2596 5% 2289 10% 2086
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2071 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1950 [flat]
+cap24       1871.7   89g wr20  45%(-10) wr10  40%(+0) opp20  1970 [DOWN]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 11:01 UTC
+me 1867.5 rank 1590/10115 | d1% -729 d5% -421 d10% -215
+cut 1% 2596 5% 2289 10% 2082
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2069 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1945 [flat]
+cap24       1867.5   90g wr20  45%(+0) wr10  40%(+0) opp20  1959 [flat]
+verdict: 2200+ band samples >=20 -> compare
+[KG] 09-28 11:26 UTC
+me 1858.9 rank 1610/10115 | d1% -737 d5% -426 d10% -224
+cut 1% 2596 5% 2285 10% 2083
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2066 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1943 [flat]
+cap24       1858.9   92g wr20  40%(-5) wr10  30%(-10) opp20  1934 [DOWN]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 11:52 UTC
+me 1860.0 rank 1603/10116 | d1% -731 d5% -425 d10% -223
+cut 1% 2591 5% 2285 10% 2083
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2064 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1941 [flat]
+cap24       1860.0   94g wr20  40%(+0) wr10  20%(-10) opp20  1958 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 12:18 UTC
+me 1860.0 rank 1599/10117 | d1% -736 d5% -424 d10% -222
+cut 1% 2596 5% 2284 10% 2082
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2063 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1895 [flat]
+cap24       1860.0   94g wr20  40%(+0) wr10  20%(+0) opp20  1968 [flat]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+[KG] 09-28 12:43 UTC
+me 1845.6 rank 1638/10117 | d1% -748 d5% -438 d10% -235
+cut 1% 2594 5% 2283 10% 2080
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2058 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1917 [flat]
+cap24       1845.6   97g wr20  30%(-10) wr10  10%(-10) opp20  1988 [DOWN]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 13:09 UTC
+me 1842.2 rank 1633/10120 | d1% -748 d5% -440 d10% -233
+cut 1% 2590 5% 2282 10% 2076
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2056 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1852 [flat]
+cap24       1842.2  100g wr20  30%(+0) wr10  20%(+10) opp20  1984 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-28 13:35 UTC
+me 1842.2 rank 1622/10120 | d1% -750 d5% -438 d10% -231
+cut 1% 2593 5% 2280 10% 2073
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap2        1998.2  130g wr20  60%(+0) wr10  50%(+0) opp20  2054 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1853 [flat]
+cap24       1842.2  100g wr20  30%(+0) wr10  20%(+0) opp20  1982 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-28 14:26 UTC
+me 1833.6 rank 1652/10126 | d1% -757 d5% -441 d10% -233
+cut 1% 2591 5% 2275 10% 2066
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1880 [flat]
+shep_straw  1833.6  102g wr20  25%(-5) wr10  20%(+0) opp20  1964 [DOWN]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  2003 [flat]
+pi_stack    1573.7   11g wr20 100%(+100) wr10 100%(+100) opp20   996 [up]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+[KG] 09-28 14:52 UTC
+me 1834.6 rank 1637/10128 | d1% -756 d5% -438 d10% -230
+cut 1% 2591 5% 2273 10% 2065
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1827 [flat]
+shep_straw  1834.6  104g wr20  20%(-5) wr10  20%(+0) opp20  1959 [DOWN]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  2006 [flat]
+pi_stack    1596.3   17g wr20  82%(-18) wr10  70%(-30) opp20  1224 [DOWN]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-28 23:08 UTC
+me 2162.0 rank 714/10139 | d1% -418 d5% -86 d10% +118
+cut 1% 2580 5% 2248 10% 2044
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2162.0   95g wr20  95%(+5) wr10 100%(+0) opp20  2147 [up]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1805 [flat]
+shep_straw  1785.5  133g wr20  35%(+0) wr10  40%(+10) opp20  1932 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1993 [flat]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-28 23:34 UTC
+me 2170.5 rank 685/10139 | d1% -409 d5% -82 d10% +126
+cut 1% 2580 5% 2252 10% 2045
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2170.5   97g wr20  95%(+0) wr10 100%(+0) opp20  2159 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1775 [flat]
+shep_straw  1786.0  135g wr20  40%(+5) wr10  40%(+0) opp20  1936 [up]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  2023 [flat]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+[KG] 09-29 00:00 UTC
+me 2175.3 rank 665/10139 | d1% -402 d5% -74 d10% +134
+cut 1% 2577 5% 2249 10% 2041
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2175.3  100g wr20  95%(+0) wr10  90%(-10) opp20  2160 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1792 [flat]
+shep_straw  1782.3  136g wr20  40%(+0) wr10  30%(-10) opp20  1881 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  2046 [flat]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 00:25 UTC
+me 2178.9 rank 637/10140 | d1% -391 d5% -61 d10% +148
+cut 1% 2570 5% 2240 10% 2031
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2178.9  101g wr20  95%(+0) wr10  90%(+0) opp20  2162 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1749 [flat]
+shep_straw  1782.3  136g wr20  40%(+0) wr10  30%(+0) opp20  1844 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1967 [flat]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 00:51 UTC
+me 2178.9 rank 634/10141 | d1% -390 d5% -62 d10% +148
+cut 1% 2569 5% 2241 10% 2031
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2178.9  101g wr20  95%(+0) wr10  90%(+0) opp20  2162 [flat]
+cap8        1930.9  118g wr20  50%(+0) wr10  50%(+0) opp20  1753 [flat]
+shep_straw  1779.1  139g wr20  40%(+0) wr10  30%(+0) opp20  1877 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1928 [flat]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 02:00 UTC
+me 2189.1 rank 596/10141 | d1% -385 d5% -49 d10% +163
+cut 1% 2574 5% 2238 10% 2026
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2189.1  103g wr20  95%(+0) wr10  90%(+0) opp20  2103 [flat]
+shep_straw  1784.1  140g wr20  40%(+0) wr10  40%(+0) opp20  1861 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1992 [flat]
+pi_stack2      NEW    0g (awaiting first episodes) ref=56657816
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 02:27 UTC
+me 2196.6 rank 585/10142 | d1% -379 d5% -42 d10% +168
+cut 1% 2576 5% 2239 10% 2028
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2196.6  105g wr20  95%(+0) wr10  90%(+0) opp20  2154 [flat]
+shep_straw  1784.1  140g wr20  40%(+0) wr10  40%(+0) opp20  1868 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  2016 [flat]
+pi_stack2      NEW    0g (awaiting first episodes) ref=56657816
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 02:52 UTC
+me 2193.4 rank 589/10142 | d1% -381 d5% -44 d10% +168
+cut 1% 2574 5% 2237 10% 2026
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2193.4  106g wr20  90%(-5) wr10  80%(-10) opp20  2116 [DOWN]
+shep_straw  1788.2  141g wr20  40%(+0) wr10  50%(+10) opp20  1867 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1940 [flat]
+pi_stack2      NEW    0g (awaiting first episodes) ref=56657816
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 03:18 UTC
+me 2188.2 rank 604/10142 | d1% -389 d5% -53 d10% +161
+cut 1% 2577 5% 2242 10% 2027
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2188.2  107g wr20  85%(-5) wr10  70%(-10) opp20  2149 [DOWN]
+shep_straw  1789.0  143g wr20  45%(+5) wr10  50%(+0) opp20  1772 [up]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1967 [flat]
+pi_stack2      NEW    0g (awaiting first episodes) ref=56657816
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 03:44 UTC
+me 2192.5 rank 589/10142 | d1% -384 d5% -49 d10% +167
+cut 1% 2577 5% 2241 10% 2025
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2192.5  108g wr20  85%(+0) wr10  80%(+10) opp20  2172 [flat]
+shep_straw  1789.0  143g wr20  45%(+0) wr10  50%(+0) opp20  1795 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1988 [flat]
+pi_stack2      NEW    0g (awaiting first episodes) ref=56657816
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 04:09 UTC
+me 2199.5 rank 584/10143 | d1% -382 d5% -39 d10% +174
+cut 1% 2581 5% 2239 10% 2025
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2199.5  110g wr20  85%(+0) wr10  80%(+0) opp20  2201 [flat]
+shep_straw  1783.7  144g wr20  40%(-5) wr10  50%(+0) opp20  1802 [DOWN]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  2006 [flat]
+pi_stack2    600.0    0g wr20   0%(+0) wr10   0%(+0) opp20     0 [flat]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 04:35 UTC
+me 2207.6 rank 562/10144 | d1% -371 d5% -29 d10% +182
+cut 1% 2579 5% 2237 10% 2026
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2207.6  112g wr20  85%(+0) wr10  80%(+0) opp20  2225 [flat]
+shep_straw  1783.7  144g wr20  40%(+0) wr10  50%(+0) opp20  1812 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  2015 [flat]
+pi_stack2   1094.9    3g wr20 100%(+100) wr10 100%(+100) opp20   951 [up]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+[KG] 09-29 05:00 UTC
+me 2207.6 rank 568/10145 | d1% -371 d5% -29 d10% +184
+cut 1% 2578 5% 2237 10% 2024
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2207.6  112g wr20  85%(+0) wr10  80%(+0) opp20  2227 [flat]
+shep_straw  1778.3  145g wr20  40%(+0) wr10  40%(-10) opp20  1814 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  2015 [flat]
+pi_stack2   1410.1    9g wr20  89%(-11) wr10  89%(-11) opp20  1216 [DOWN]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 05:27 UTC
+me 2207.6 rank 568/10145 | d1% -371 d5% -27 d10% +184
+cut 1% 2578 5% 2234 10% 2024
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2207.6  112g wr20  85%(+0) wr10  80%(+0) opp20  2225 [flat]
+shep_straw  1778.3  145g wr20  40%(+0) wr10  40%(+0) opp20  1809 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  2011 [flat]
+pi_stack2   1603.4   13g wr20  92%(+3) wr10  90%(+1) opp20  1270 [up]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 05:52 UTC
+me 2202.3 rank 574/10145 | d1% -378 d5% -28 d10% +180
+cut 1% 2580 5% 2231 10% 2023
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2202.3  113g wr20  80%(-5) wr10  70%(-10) opp20  2221 [DOWN]
+shep_straw  1778.3  145g wr20  40%(+0) wr10  40%(+0) opp20  1813 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  2012 [flat]
+pi_stack2   1731.9   18g wr20  89%(-3) wr10  90%(+0) opp20  1407 [DOWN]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 06:18 UTC
+me 2211.8 rank 557/10147 | d1% -369 d5% -19 d10% +189
+cut 1% 2581 5% 2231 10% 2022
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2211.8  115g wr20  80%(+0) wr10  70%(+0) opp20  2239 [flat]
+shep_straw  1778.3  145g wr20  40%(+0) wr10  40%(+0) opp20  1756 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  2014 [flat]
+pi_stack2   1729.1   22g wr20  80%(-9) wr10  70%(-20) opp20  1562 [DOWN]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 06:43 UTC
+me 2208.8 rank 549/10148 | d1% -372 d5% -20 d10% +189
+cut 1% 2581 5% 2229 10% 2020
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2208.8  116g wr20  75%(-5) wr10  70%(+0) opp20  2245 [DOWN]
+pi_stack2   1816.7   28g wr20  85%(+5) wr10  80%(+10) opp20  1735 [up]
+shep_straw  1778.3  145g wr20  40%(+0) wr10  40%(+0) opp20  1723 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  2012 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 07:09 UTC
+me 2208.8 rank 555/10148 | d1% -372 d5% -20 d10% +189
+cut 1% 2581 5% 2229 10% 2020
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2208.8  116g wr20  75%(+0) wr10  70%(+0) opp20  2246 [flat]
+pi_stack2   1854.3   31g wr20  85%(+0) wr10  90%(+10) opp20  1818 [flat]
+shep_straw  1778.3  145g wr20  40%(+0) wr10  40%(+0) opp20  1763 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  2011 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 07:35 UTC
+me 2208.8 rank 543/10150 | d1% -372 d5% -13 d10% +194
+cut 1% 2581 5% 2222 10% 2014
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2208.8  116g wr20  75%(+0) wr10  70%(+0) opp20  2229 [flat]
+pi_stack2   1867.1   34g wr20  80%(-5) wr10  90%(+0) opp20  1867 [DOWN]
+shep_straw  1774.0  146g wr20  35%(-5) wr10  40%(+0) opp20  1733 [DOWN]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  2012 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-29 08:00 UTC
+me 2208.8 rank 527/10150 | d1% -369 d5% -7 d10% +204
+cut 1% 2577 5% 2216 10% 2004
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2208.8    0g wr20   0%(-75) wr10   0%(-70) opp20     0 [DOWN]
+pi_stack2   1867.1   34g wr20  80%(+0) wr10  90%(+0) opp20  1811 [flat]
+shep_straw  1774.0    0g wr20   0%(-35) wr10   0%(-40) opp20     0 [DOWN]
+cap24       1761.1    0g wr20   0%(-60) wr10   0%(-50) opp20     0 [DOWN]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 08:27 UTC
+me 2214.8 rank 486/10153 | d1% -348 d5% +13 d10% +233
+cut 1% 2563 5% 2202 10% 1982
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2214.8  117g wr20  75%(+75) wr10  80%(+80) opp20  2156 [up]
+pi_stack2   1891.0   38g wr20  85%(+5) wr10  90%(+0) opp20  1712 [up]
+shep_straw  1770.5  147g wr20  35%(+35) wr10  30%(+30) opp20  1725 [up]
+cap24       1761.1   83g wr20  60%(+60) wr10  50%(+50) opp20  2012 [up]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 08:52 UTC
+me 2210.1 rank 496/10154 | d1% -356 d5% +8 d10% +229
+cut 1% 2566 5% 2202 10% 1981
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2210.1  118g wr20  75%(+0) wr10  70%(-10) opp20  2149 [flat]
+pi_stack2   1953.4   47g wr20  90%(+5) wr10  90%(+0) opp20  1825 [up]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1752 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1903 [flat]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 09:18 UTC
+me 2210.1 rank 503/10155 | d1% -352 d5% +2 d10% +221
+cut 1% 2562 5% 2208 10% 1989
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2210.1  118g wr20  75%(+0) wr10  70%(+0) opp20  2166 [flat]
+pi_stack2   1949.4   55g wr20  75%(-15) wr10  50%(-40) opp20  1930 [DOWN]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1758 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1918 [flat]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 09:44 UTC
+me 2210.1 rank 505/10155 | d1% -354 d5% +2 d10% +220
+cut 1% 2564 5% 2208 10% 1990
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2210.1  118g wr20  75%(+0) wr10  70%(+0) opp20  2103 [flat]
+pi_stack2   1953.6   56g wr20  75%(+0) wr10  60%(+10) opp20  1971 [flat]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1758 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1912 [flat]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 10:09 UTC
+me 2193.6 rank 529/10155 | d1% -368 d5% -13 d10% +205
+cut 1% 2561 5% 2206 10% 1989
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2193.6  122g wr20  55%(-20) wr10  30%(-40) opp20  2198 [DOWN]
+pi_stack2   1952.9   58g wr20  70%(-5) wr10  60%(+0) opp20  1994 [DOWN]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1758 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1946 [flat]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 10:35 UTC
+me 2193.6 rank 530/10156 | d1% -372 d5% -14 d10% +205
+cut 1% 2565 5% 2207 10% 1989
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2193.6  122g wr20  55%(+0) wr10  30%(+0) opp20  2189 [flat]
+pi_stack2   1971.7   61g wr20  70%(+0) wr10  80%(+20) opp20  1968 [flat]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1757 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1964 [flat]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+[KG] 09-29 11:00 UTC
+me 2193.6 rank 522/10156 | d1% -366 d5% -9 d10% +210
+cut 1% 2560 5% 2203 10% 1984
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2193.6  122g wr20  55%(+0) wr10  30%(+0) opp20  2216 [flat]
+pi_stack2   1974.3   65g wr20  60%(-10) wr10  70%(-10) opp20  1990 [DOWN]
+shep_straw  1770.5    0g wr20   0%(-35) wr10   0%(-30) opp20     0 [DOWN]
+cap24       1761.1    0g wr20   0%(-60) wr10   0%(-50) opp20     0 [DOWN]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 11:26 UTC
+me 2201.6 rank 511/10156 | d1% -359 d5% -2 d10% +217
+cut 1% 2561 5% 2203 10% 1985
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2201.6  124g wr20  55%(+0) wr10  40%(+10) opp20  2215 [flat]
+pi_stack2   1975.7   70g wr20  65%(+5) wr10  60%(-10) opp20  2024 [up]
+shep_straw  1770.5  147g wr20  35%(+35) wr10  30%(+30) opp20  1755 [up]
+cap24       1761.1   83g wr20  60%(+60) wr10  50%(+50) opp20  1975 [up]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 11:52 UTC
+me 2201.6 rank 512/10157 | d1% -360 d5% -3 d10% +220
+cut 1% 2562 5% 2205 10% 1982
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2201.6  124g wr20  55%(+0) wr10  40%(+0) opp20  2223 [flat]
+pi_stack2   1980.8   71g wr20  70%(+5) wr10  60%(+0) opp20  2011 [up]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1755 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1994 [flat]
+verdict: 2200+ band samples <20 -> UNDECIDED
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 12:18 UTC
+me 2197.8 rank 525/10158 | d1% -357 d5% -8 d10% +220
+cut 1% 2555 5% 2206 10% 1978
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2197.8  127g wr20  55%(+0) wr10  30%(-10) opp20  2234 [flat]
+pi_stack2   1977.1   76g wr20  60%(-10) wr10  60%(+0) opp20  2064 [DOWN]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1757 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1967 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 12:43 UTC
+me 2198.1 rank 516/10158 | d1% -361 d5% -5 d10% +221
+cut 1% 2559 5% 2203 10% 1977
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2198.1  131g wr20  45%(-10) wr10  50%(+20) opp20  2246 [DOWN]
+pi_stack2   1972.4   77g wr20  60%(+0) wr10  50%(-10) opp20  2012 [flat]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1753 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1986 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 13:09 UTC
+me 2207.0 rank 492/10158 | d1% -348 d5% +7 d10% +231
+cut 1% 2556 5% 2200 10% 1976
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2207.0  133g wr20  50%(+5) wr10  60%(+10) opp20  2245 [up]
+pi_stack2   1966.4   80g wr20  50%(-10) wr10  40%(-10) opp20  2029 [DOWN]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1750 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1989 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 13:35 UTC
+me 2212.8 rank 478/10159 | d1% -346 d5% +15 d10% +238
+cut 1% 2558 5% 2198 10% 1975
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2212.8  136g wr20  50%(+0) wr10  70%(+10) opp20  2172 [flat]
+pi_stack2   1974.9   82g wr20  50%(+0) wr10  40%(+0) opp20  1967 [flat]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1750 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1915 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+Traceback (most recent call last):
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/scripts/push_live.py", line 234, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/scripts/push_live.py", line 212, in main
+    d = collect()
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/scripts/push_live.py", line 95, in collect
+    subs = [s.to_dict() for s in api_.competition_submissions("kaggriculture")][:6]
+                                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/.venv/lib/python3.13/site-packages/kaggle/api/kaggle_api_extended.py", line 2067, in competition_submissions
+    response = kaggle.competitions.competition_api_client.list_submissions(request)
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/.venv/lib/python3.13/site-packages/kagglesdk/competitions/services/competition_api_service.py", line 47, in list_submissions
+    return self._client.call("competitions.CompetitionApiService", "ListSubmissions", request, ApiListSubmissionsResponse)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/.venv/lib/python3.13/site-packages/kagglesdk/kaggle_http_client.py", line 106, in call
+    response = self._prepare_response(response_type, http_response)
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/.venv/lib/python3.13/site-packages/kagglesdk/kaggle_http_client.py", line 134, in _prepare_response
+    http_response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/.venv/lib/python3.13/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.kaggle.com/v1/competitions.CompetitionApiService/ListSubmissions
+[KG] 09-29 14:02 UTC
+me 2208.0 rank 484/10160 | d1% -347 d5% +13 d10% +232
+cut 1% 2555 5% 2195 10% 1976
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2212.1  138g wr20  50%(+0) wr10  70%(+0) opp20  2197 [flat]
+pi_stack2   1979.3   85g wr20  55%(+5) wr10  50%(+10) opp20  1944 [up]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1731 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1880 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-29 14:28 UTC
+me 2217.5 rank 458/10160 | d1% -334 d5% +26 d10% +253
+cut 1% 2552 5% 2192 10% 1965
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2217.5  139g wr20  55%(+5) wr10  80%(+10) opp20  2123 [up]
+pi_stack2   1991.1   88g wr20  60%(+5) wr10  80%(+30) opp20  1985 [up]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1753 [flat]
+cap24       1761.1    0g wr20   0%(-60) wr10   0%(-50) opp20     0 [DOWN]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 14:54 UTC
+me 2207.3 rank 468/10160 | d1% -343 d5% +22 d10% +249
+cut 1% 2551 5% 2185 10% 1958
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2207.3  143g wr20  55%(+0) wr10  50%(-30) opp20  2144 [flat]
+pi_stack2   2005.7   91g wr20  65%(+5) wr10  90%(+10) opp20  1998 [up]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1738 [flat]
+cap24       1761.1   83g wr20  60%(+60) wr10  50%(+50) opp20  1975 [up]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 15:19 UTC
+me 2213.1 rank 461/10161 | d1% -340 d5% +26 d10% +257
+cut 1% 2553 5% 2188 10% 1956
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2213.1  146g wr20  60%(+5) wr10  50%(+0) opp20  2199 [up]
+pi_stack2   2009.8   92g wr20  65%(+0) wr10  90%(+0) opp20  1988 [flat]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1743 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1982 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 15:45 UTC
+me 2214.3 rank 462/10163 | d1% -335 d5% +30 d10% +258
+cut 1% 2549 5% 2184 10% 1956
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2214.3  148g wr20  60%(+0) wr10  50%(+0) opp20  2230 [flat]
+pi_stack2   2008.0   96g wr20  70%(+5) wr10  80%(-10) opp20  1954 [up]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1741 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1981 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 16:11 UTC
+me 2208.8 rank 465/10166 | d1% -337 d5% +25 d10% +255
+cut 1% 2546 5% 2184 10% 1954
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2208.8  150g wr20  55%(-5) wr10  40%(-10) opp20  2261 [DOWN]
+pi_stack2   2011.9   97g wr20  75%(+5) wr10  80%(+0) opp20  1977 [up]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1741 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1919 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 16:36 UTC
+me 2210.6 rank 462/10166 | d1% -333 d5% +28 d10% +259
+cut 1% 2543 5% 2183 10% 1951
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2210.6  154g wr20  50%(-5) wr10  40%(+0) opp20  2260 [DOWN]
+pi_stack2   2009.7   99g wr20  80%(+5) wr10  70%(-10) opp20  2026 [up]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1745 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1930 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 17:02 UTC
+me 2212.6 rank 459/10167 | d1% -332 d5% +31 d10% +264
+cut 1% 2544 5% 2182 10% 1948
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2212.6  158g wr20  45%(-5) wr10  40%(+0) opp20  2265 [DOWN]
+pi_stack2   2015.5  102g wr20  75%(-5) wr10  60%(-10) opp20  2076 [DOWN]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1752 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1954 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-29 17:28 UTC
+me 2217.1 rank 458/10169 | d1% -332 d5% +34 d10% +272
+cut 1% 2549 5% 2183 10% 1945
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2217.1  159g wr20  45%(+0) wr10  50%(+10) opp20  2260 [flat]
+pi_stack2   2020.8  103g wr20  80%(+5) wr10  60%(+0) opp20  2068 [up]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1744 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1960 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 17:53 UTC
+me 2221.4 rank 444/10170 | d1% -326 d5% +40 d10% +277
+cut 1% 2548 5% 2181 10% 1944
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2221.4  160g wr20  50%(+5) wr10  60%(+10) opp20  2254 [up]
+pi_stack2   2028.1  107g wr20  75%(-5) wr10  70%(+10) opp20  2068 [DOWN]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1717 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1908 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 18:19 UTC
+me 2213.2 rank 452/10170 | d1% -334 d5% +38 d10% +271
+cut 1% 2547 5% 2176 10% 1942
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2213.2  162g wr20  50%(+0) wr10  50%(-10) opp20  2271 [flat]
+pi_stack2   2023.7  110g wr20  65%(-10) wr10  60%(-10) opp20  2103 [DOWN]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1750 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1907 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 18:45 UTC
+me 2209.9 rank 454/10171 | d1% -332 d5% +42 d10% +270
+cut 1% 2542 5% 2168 10% 1940
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2209.9  163g wr20  45%(-5) wr10  40%(-10) opp20  2284 [DOWN]
+pi_stack2   2028.0  111g wr20  65%(+0) wr10  60%(+0) opp20  2124 [flat]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1743 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1906 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 19:11 UTC
+me 2203.4 rank 456/10171 | d1% -341 d5% +37 d10% +269
+cut 1% 2544 5% 2166 10% 1934
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2203.4  166g wr20  40%(-5) wr10  40%(+0) opp20  2262 [DOWN]
+pi_stack2   2031.5  114g wr20  65%(+0) wr10  60%(+0) opp20  2130 [flat]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1745 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1830 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 19:36 UTC
+me 2199.7 rank 462/10174 | d1% -338 d5% +38 d10% +267
+cut 1% 2538 5% 2161 10% 1933
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2199.7  169g wr20  40%(+0) wr10  30%(-10) opp20  2238 [flat]
+pi_stack2   2040.7  116g wr20  70%(+5) wr10  60%(+0) opp20  2090 [up]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1710 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1847 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 20:02 UTC
+me 2186.9 rank 485/10174 | d1% -354 d5% +22 d10% +250
+cut 1% 2541 5% 2165 10% 1937
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2186.9  173g wr20  35%(-5) wr10  30%(+0) opp20  2213 [DOWN]
+pi_stack2   2041.3  118g wr20  65%(-5) wr10  70%(+10) opp20  2106 [DOWN]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1731 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1885 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+[KG] 09-29 20:28 UTC
+me 2175.1 rank 495/10174 | d1% -367 d5% +10 d10% +239
+cut 1% 2542 5% 2165 10% 1936
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2175.1  177g wr20  35%(+0) wr10  20%(-10) opp20  2220 [flat]
+pi_stack2   2034.5  122g wr20  60%(-5) wr10  50%(-20) opp20  2084 [DOWN]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1731 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1894 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 20:53 UTC
+me 2185.7 rank 479/10174 | d1% -360 d5% +24 d10% +256
+cut 1% 2545 5% 2161 10% 1930
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2185.7  180g wr20  35%(+0) wr10  50%(+30) opp20  2223 [flat]
+pi_stack2   2043.3  124g wr20  60%(+0) wr10  60%(+10) opp20  2105 [flat]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1662 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1916 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 21:19 UTC
+me 2181.2 rank 473/10175 | d1% -355 d5% +23 d10% +251
+cut 1% 2536 5% 2158 10% 1930
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2181.2  183g wr20  40%(+5) wr10  50%(+0) opp20  2228 [up]
+pi_stack2   2038.3  127g wr20  55%(-5) wr10  40%(-20) opp20  2085 [DOWN]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1688 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1913 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 21:45 UTC
+me 2177.2 rank 478/10177 | d1% -357 d5% +20 d10% +248
+cut 1% 2534 5% 2157 10% 1929
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2177.2  186g wr20  40%(+0) wr10  60%(+10) opp20  2229 [flat]
+pi_stack2   2043.3  130g wr20  60%(+5) wr10  60%(+20) opp20  2092 [up]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1719 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1910 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 22:10 UTC
+me 2164.1 rank 499/10177 | d1% -373 d5% +8 d10% +237
+cut 1% 2537 5% 2156 10% 1927
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2164.1  189g wr20  35%(-5) wr10  30%(-30) opp20  2222 [DOWN]
+pi_stack2   2058.8  135g wr20  60%(+0) wr10  60%(+0) opp20  2102 [flat]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1724 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1911 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 22:36 UTC
+me 2148.1 rank 517/10177 | d1% -384 d5% -4 d10% +220
+cut 1% 2532 5% 2152 10% 1928
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2148.1  198g wr20  30%(-5) wr10  20%(-10) opp20  2242 [DOWN]
+pi_stack2   2063.0  138g wr20  60%(+0) wr10  70%(+10) opp20  2107 [flat]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1732 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1913 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+skip: last push < 25 min ago
+[KG] 09-29 23:02 UTC
+me 2136.8 rank 539/10178 | d1% -398 d5% -17 d10% +215
+cut 1% 2535 5% 2154 10% 1922
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2136.8  202g wr20  20%(-10) wr10  30%(+10) opp20  2180 [DOWN]
+pi_stack2   2067.5  143g wr20  65%(+5) wr10  70%(+0) opp20  2071 [up]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1740 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1918 [flat]
+verdict: 2200+ band samples >=20 -> compare
+skip: last push < 25 min ago
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 1319, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              encode_chunked=req.has_header('Transfer-encoding'))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1338, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1384, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1093, in _send_output
+    self.send(msg)
+    ~~~~~~~~~^^^^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1037, in send
+    self.connect()
+    ~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1472, in connect
+    super().connect()
+    ~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1003, in connect
+    self.sock = self._create_connection(
+                ~~~~~~~~~~~~~~~~~~~~~~~^
+        (self.host,self.port), self.timeout, self.source_address)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/socket.py", line 864, in create_connection
+    raise exceptions[0]
+  File "/opt/anaconda3/lib/python3.13/socket.py", line 849, in create_connection
+    sock.connect(sa)
+    ~~~~~~~~~~~~^^^^
+TimeoutError: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/scripts/push_live.py", line 234, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/scripts/push_live.py", line 214, in main
+    tg("sendMessage", cfg["token"], chat_id=cfg["chat_id"], text=text)
+    ~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/scripts/push_live.py", line 50, in tg
+    with urllib.request.urlopen(req, timeout=25) as r:
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 189, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 489, in open
+    response = self._open(req, data)
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 506, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+                              '_open', req)
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 466, in _call_chain
+    result = func(*args)
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 1367, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        context=self._context)
+                        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 1322, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error timed out>
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 1319, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              encode_chunked=req.has_header('Transfer-encoding'))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1338, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1384, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1093, in _send_output
+    self.send(msg)
+    ~~~~~~~~~^^^^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1037, in send
+    self.connect()
+    ~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1472, in connect
+    super().connect()
+    ~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1003, in connect
+    self.sock = self._create_connection(
+                ~~~~~~~~~~~~~~~~~~~~~~~^
+        (self.host,self.port), self.timeout, self.source_address)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/socket.py", line 864, in create_connection
+    raise exceptions[0]
+  File "/opt/anaconda3/lib/python3.13/socket.py", line 849, in create_connection
+    sock.connect(sa)
+    ~~~~~~~~~~~~^^^^
+TimeoutError: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/scripts/push_live.py", line 234, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/scripts/push_live.py", line 214, in main
+    tg("sendMessage", cfg["token"], chat_id=cfg["chat_id"], text=text)
+    ~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/scripts/push_live.py", line 50, in tg
+    with urllib.request.urlopen(req, timeout=25) as r:
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 189, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 489, in open
+    response = self._open(req, data)
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 506, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+                              '_open', req)
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 466, in _call_chain
+    result = func(*args)
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 1367, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        context=self._context)
+                        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 1322, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error timed out>
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 1319, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              encode_chunked=req.has_header('Transfer-encoding'))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1338, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1384, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1093, in _send_output
+    self.send(msg)
+    ~~~~~~~~~^^^^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1037, in send
+    self.connect()
+    ~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1472, in connect
+    super().connect()
+    ~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/http/client.py", line 1003, in connect
+    self.sock = self._create_connection(
+                ~~~~~~~~~~~~~~~~~~~~~~~^
+        (self.host,self.port), self.timeout, self.source_address)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/socket.py", line 864, in create_connection
+    raise exceptions[0]
+  File "/opt/anaconda3/lib/python3.13/socket.py", line 849, in create_connection
+    sock.connect(sa)
+    ~~~~~~~~~~~~^^^^
+TimeoutError: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/scripts/push_live.py", line 234, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/scripts/push_live.py", line 214, in main
+    tg("sendMessage", cfg["token"], chat_id=cfg["chat_id"], text=text)
+    ~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/scripts/push_live.py", line 50, in tg
+    with urllib.request.urlopen(req, timeout=25) as r:
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 189, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 489, in open
+    response = self._open(req, data)
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 506, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+                              '_open', req)
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 466, in _call_chain
+    result = func(*args)
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 1367, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        context=self._context)
+                        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/urllib/request.py", line 1322, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error timed out>
+[KG] 09-30 01:00 UTC
+me 2139.6 rank 504/10182 | d1% -381 d5% +3 d10% +233
+cut 1% 2521 5% 2136 10% 1907
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2139.6  219g wr20  45%(+25) wr10  50%(+20) opp20  2147 [up]
+pi_stack2   2100.1  163g wr20  65%(+0) wr10  60%(-10) opp20  2100 [flat]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1742 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1879 [flat]
+verdict: 2200+ band samples >=20 -> compare
+[KG] 09-30 01:30 UTC
+me 2142.4 rank 509/10182 | d1% -390 d5% +1 d10% +233
+cut 1% 2532 5% 2142 10% 1910
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2142.4  224g wr20  45%(+0) wr10  50%(+0) opp20  2173 [flat]
+pi_stack2   2085.9  168g wr20  55%(-10) wr10  30%(-30) opp20  2118 [DOWN]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1757 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1875 [flat]
+verdict: 2200+ band samples >=20 -> compare
+[KG] 09-30 05:30 UTC
+me 2123.6 rank 518/10190 | d1% -409 d5% -4 d10% +226
+cut 1% 2532 5% 2128 10% 1898
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2123.6  253g wr20  50%(+5) wr10  60%(+10) opp20  2099 [up]
+pi_stack2   2053.8  198g wr20  35%(-20) wr10  30%(+0) opp20  2092 [DOWN]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1766 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1872 [flat]
+verdict: 2200+ band samples >=20 -> compare
+[KG] 09-30 06:30 UTC
+me 2083.9 rank 587/10192 | d1% -446 d5% -41 d10% +187
+cut 1% 2530 5% 2125 10% 1897
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2083.9  262g wr20  30%(-20) wr10  10%(-50) opp20  2170 [DOWN]
+pi_stack2   2039.6  206g wr20  30%(-5) wr10  30%(+0) opp20  2087 [DOWN]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1759 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1827 [flat]
+verdict: 2200+ band samples >=20 -> compare
+[KG] 09-30 07:34 UTC
+me 2092.7 rank 558/10192 | d1% -439 d5% -31 d10% +203
+cut 1% 2532 5% 2123 10% 1889
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2092.7  272g wr20  35%(+5) wr10  60%(+50) opp20  2161 [up]
+pi_stack2   2062.5  215g wr20  50%(+20) wr10  70%(+40) opp20  2065 [up]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1753 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1888 [flat]
+verdict: 2200+ band samples >=20 -> compare
+[KG] 09-30 08:03 UTC
+me 2089.3 rank 560/10193 | d1% -436 d5% -30 d10% +202
+cut 1% 2526 5% 2120 10% 1887
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2089.3  275g wr20  35%(+0) wr10  40%(-20) opp20  2140 [flat]
+pi_stack2   2056.6  218g wr20  50%(+0) wr10  70%(+0) opp20  2084 [flat]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1753 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1887 [flat]
+verdict: 2200+ band samples >=20 -> compare
+[KG] 09-30 09:30 UTC
+me 2077.6 rank 584/10196 | d1% -443 d5% -45 d10% +191
+cut 1% 2521 5% 2122 10% 1887
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2077.6  281g wr20  45%(+10) wr10  30%(-10) opp20  2088 [up]
+pi_stack2   2043.3  227g wr20  55%(+5) wr10  40%(-30) opp20  2078 [up]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1673 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1888 [flat]
+verdict: 2200+ band samples >=20 -> compare
+[KG] 09-30 11:01 UTC
+me 2060.7 rank 608/10201 | d1% -459 d5% -57 d10% +180
+cut 1% 2520 5% 2117 10% 1881
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2060.7  291g wr20  30%(-15) wr10  30%(+0) opp20  2116 [DOWN]
+pi_stack2   2031.4  235g wr20  35%(-20) wr10  40%(+0) opp20  2060 [DOWN]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1729 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1865 [flat]
+verdict: 2200+ band samples >=20 -> compare
+[KG] 09-30 11:33 UTC
+me 2063.8 rank 599/10203 | d1% -461 d5% -45 d10% +184
+cut 1% 2524 5% 2109 10% 1880
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2063.8  295g wr20  35%(+5) wr10  40%(+10) opp20  2105 [up]
+pi_stack2   2022.9  239g wr20  35%(+0) wr10  30%(-10) opp20  2044 [flat]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1729 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1893 [flat]
+verdict: 2200+ band samples >=20 -> compare
+leaderboard refresh failed: TimeoutExpired
+[KG] 09-30 12:37 UTC
+me 2063.8 rank 599/10203 | d1% -461 d5% -45 d10% +184
+cut 1% 2524 5% 2109 10% 1880
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2059.0  302g wr20  40%(+5) wr10  50%(+10) opp20  2098 [up]
+pi_stack2   2019.6  248g wr20  40%(+5) wr10  40%(+10) opp20  2050 [up]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1729 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1893 [flat]
+verdict: 2200+ band samples >=20 -> compare
+[KG] 09-30 14:31 UTC
+me 2046.3 rank 615/10208 | d1% -473 d5% -50 d10% +181
+cut 1% 2519 5% 2096 10% 1866
+-- lines (wr10/wr20 = last-10/20 win%, d = change vs prev sample) --
+pi_stack    2046.3  314g wr20  35%(-5) wr10  40%(-10) opp20  2109 [DOWN]
+pi_stack2   1986.1  260g wr20  30%(-10) wr10  20%(-20) opp20  2037 [DOWN]
+shep_straw  1770.5  147g wr20  35%(+0) wr10  30%(+0) opp20  1726 [flat]
+cap24       1761.1   83g wr20  60%(+0) wr10  50%(+0) opp20  1802 [flat]
+verdict: 2200+ band samples >=20 -> compare

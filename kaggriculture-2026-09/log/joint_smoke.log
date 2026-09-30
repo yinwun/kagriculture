@@ -1,0 +1,46 @@
+generation 0 (incumbent): delta -89,936 t=-17.11 wallet 28,902 err=0
+  gen 1 cand  0: delta -107,182 t=-21.27 wallet 29,614 err=0
+  gen 1 cand  1: delta -103,237 t=-23.48 wallet 35,091 err=0
+  gen 1 cand  2: delta -123,906 t=-27.55 wallet 25,191 err=0
+  gen 1 cand  3: delta -133,529 t=-31.31 wallet 8,027 err=0
+  gen 1 cand  4: delta -157,601 t=-27.02 wallet 2,031 err=0
+  gen 1 cand  5: delta -141,952 t=-18.39 wallet 6,498 err=0
+  gen 1 cand  6: delta -125,925 t=-46.20 wallet 26,781 err=0
+  gen 1 cand  7: delta -100,858 t=-23.69 wallet 38,519 err=0
+
+final best delta -89,936 t=-17.11 wallet 28,902
+{
+ "age_div": 4,
+ "animal_scale": 1.0,
+ "claim_slack": 8,
+ "early_geese": 0,
+ "feed_buy_mult": 1.0,
+ "feed_days": 3,
+ "fert_keep": 2,
+ "herd_cash_gate": 1,
+ "herd_reserve": 400,
+ "hire_mult": 3.2,
+ "liquidate_day": 99,
+ "market_mode": "auto",
+ "pen_min_dist": 1,
+ "place_phase_days": 2,
+ "place_phase_hours": 0,
+ "place_phase_units": 2,
+ "place_phase_units_early": 3,
+ "plant_scale": 1.2,
+ "portfolio": "rank1",
+ "preempt_max_prio": -1,
+ "price_floor_frac": 0.0,
+ "prio_collect": 2,
+ "prio_harvest": 6,
+ "prio_plant": 7,
+ "prio_water_window": 3,
+ "seed_ahead": 1,
+ "sell_batch": 20,
+ "sell_hold_cash": 0,
+ "sell_order": "ratio",
+ "strip_penalty": 4,
+ "wheat_keep": 8,
+ "zone_penalty": 2
+}
+EXIT=0

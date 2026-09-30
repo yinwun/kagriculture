@@ -1,0 +1,114 @@
+generation 0 (incumbent): delta -90,274 t=-19.70 wallet 31,571 err=0
+  gen 1 cand  0: delta -105,488 t=-39.93 wallet 39,374 err=0
+  gen 1 cand  1: delta -98,532 t=-25.97 wallet 29,678 err=0
+  gen 1 cand  2: delta -103,888 t=-25.77 wallet 31,057 err=0
+  gen 1 cand  3: delta -101,581 t=-24.51 wallet 21,976 err=0
+  gen 1 cand  4: delta -107,295 t=-20.61 wallet 22,520 err=0
+  gen 1 cand  5: delta -109,966 t=-25.61 wallet 19,413 err=0
+  gen 1 cand  6: delta -97,843 t=-27.03 wallet 26,736 err=0
+  gen 1 cand  7: delta -93,514 t=-24.19 wallet 34,024 err=0
+  gen 1 cand  8: delta -107,829 t=-24.00 wallet 26,089 err=0
+  gen 1 cand  9: delta -96,847 t=-30.31 wallet 38,191 err=0
+  gen 1 cand 10: delta -91,470 t=-24.16 wallet 31,771 err=0
+  gen 1 cand 11: delta -100,394 t=-23.71 wallet 28,265 err=0
+  gen 2 cand  0: delta -95,523 t=-28.79 wallet 27,952 err=0
+  gen 2 cand  1: delta -100,188 t=-27.40 wallet 26,838 err=0
+  gen 2 cand  2: delta -103,337 t=-22.15 wallet 24,794 err=0
+  gen 2 cand  3: delta -107,657 t=-37.14 wallet 23,598 err=0
+  gen 2 cand  4: delta -110,072 t=-36.19 wallet 20,775 err=0
+  gen 2 cand  5: delta -96,838 t=-31.91 wallet 31,404 err=0
+  gen 2 cand  6: delta -97,705 t=-22.02 wallet 26,356 err=0
+  gen 2 cand  7: delta -101,486 t=-26.06 wallet 30,055 err=0
+  gen 2 cand  8: delta -114,787 t=-24.53 wallet 22,426 err=0
+  gen 2 cand  9: delta -104,111 t=-24.88 wallet 28,231 err=0
+  gen 2 cand 10: delta -89,834 t=-24.90 wallet 28,796 err=0
+    -> new best -89,834 (t=-24.90) saved to joint-best.json
+  gen 2 cand 11: delta -99,380 t=-24.13 wallet 27,986 err=0
+  gen 3 cand  0: delta -106,160 t=-29.88 wallet 27,114 err=0
+  gen 3 cand  1: delta -99,171 t=-18.68 wallet 28,701 err=0
+  gen 3 cand  2: delta -103,940 t=-21.92 wallet 24,896 err=0
+  gen 3 cand  3: delta -104,094 t=-20.33 wallet 28,431 err=0
+  gen 3 cand  4: delta -109,402 t=-29.02 wallet 35,594 err=0
+  gen 3 cand  5: delta -97,452 t=-35.04 wallet 29,482 err=0
+  gen 3 cand  6: delta -109,357 t=-22.08 wallet 21,031 err=0
+  gen 3 cand  7: delta -102,893 t=-25.51 wallet 25,000 err=0
+  gen 3 cand  8: delta -94,882 t=-29.65 wallet 38,055 err=0
+  gen 3 cand  9: delta -91,042 t=-25.47 wallet 31,576 err=0
+  gen 3 cand 10: delta -115,829 t=-31.48 wallet 25,936 err=0
+  gen 3 cand 11: delta -110,484 t=-25.43 wallet 26,031 err=0
+  gen 4 cand  0: delta -100,380 t=-25.69 wallet 25,493 err=0
+  gen 4 cand  1: delta -115,596 t=-26.47 wallet 25,711 err=0
+  gen 4 cand  2: delta -98,631 t=-23.07 wallet 26,778 err=0
+  gen 4 cand  3: delta -153,759 t=-43.15 wallet 10,226 err=0
+  gen 4 cand  4: delta -100,621 t=-22.66 wallet 32,667 err=0
+  gen 4 cand  5: delta -101,161 t=-20.84 wallet 26,166 err=0
+  gen 4 cand  6: delta -94,724 t=-16.27 wallet 31,013 err=0
+  gen 4 cand  7: delta -107,954 t=-23.39 wallet 17,258 err=0
+  gen 4 cand  8: delta -89,919 t=-24.35 wallet 27,796 err=0
+  gen 4 cand  9: delta -100,375 t=-28.88 wallet 23,991 err=0
+  gen 4 cand 10: delta -92,747 t=-29.07 wallet 35,553 err=0
+  gen 4 cand 11: delta -107,593 t=-32.88 wallet 32,997 err=0
+  gen 5 cand  0: delta -89,841 t=-24.97 wallet 39,054 err=0
+  gen 5 cand  1: delta -96,669 t=-27.42 wallet 32,073 err=0
+  gen 5 cand  2: delta -112,503 t=-32.47 wallet 25,766 err=0
+  gen 5 cand  3: delta -103,787 t=-21.37 wallet 26,544 err=0
+  gen 5 cand  4: delta -101,979 t=-24.31 wallet 30,850 err=0
+  gen 5 cand  5: delta -92,246 t=-25.34 wallet 36,006 err=0
+  gen 5 cand  6: delta -102,449 t=-32.55 wallet 24,246 err=0
+  gen 5 cand  7: delta -93,619 t=-25.30 wallet 29,390 err=0
+  gen 5 cand  8: delta -105,535 t=-37.39 wallet 36,821 err=0
+  gen 5 cand  9: delta -110,681 t=-38.32 wallet 25,647 err=0
+  gen 5 cand 10: delta -86,825 t=-27.81 wallet 34,068 err=0
+    -> new best -86,825 (t=-27.81) saved to joint-best.json
+  gen 5 cand 11: delta -102,246 t=-26.79 wallet 26,973 err=0
+  gen 6 cand  0: delta -100,197 t=-20.42 wallet 30,032 err=0
+  gen 6 cand  1: delta -98,352 t=-41.34 wallet 31,326 err=0
+  gen 6 cand  2: delta -88,000 t=-24.26 wallet 39,316 err=0
+  gen 6 cand  3: delta -86,815 t=-20.93 wallet 34,655 err=0
+    -> new best -86,815 (t=-20.93) saved to joint-best.json
+  gen 6 cand  4: delta -97,979 t=-17.31 wallet 26,181 err=0
+  gen 6 cand  5: delta -85,696 t=-25.55 wallet 38,736 err=0
+    -> new best -85,696 (t=-25.55) saved to joint-best.json
+  gen 6 cand  6: delta -94,403 t=-17.65 wallet 28,385 err=0
+  gen 6 cand  7: delta -97,010 t=-27.53 wallet 31,588 err=0
+  gen 6 cand  8: delta -86,245 t=-15.74 wallet 31,806 err=0
+  gen 6 cand  9: delta -92,402 t=-28.08 wallet 31,809 err=0
+  gen 6 cand 10: delta -91,904 t=-20.99 wallet 23,898 err=0
+  gen 6 cand 11: delta -87,167 t=-21.16 wallet 38,015 err=0
+
+final best delta -85,696 t=-25.55 wallet 38,736
+{
+ "age_div": 2,
+ "animal_scale": 0.8485886499372195,
+ "claim_slack": 8,
+ "early_geese": 0,
+ "feed_buy_mult": 1.0701252879675727,
+ "feed_days": 3,
+ "fert_keep": 2,
+ "herd_cash_gate": 1,
+ "herd_reserve": 367,
+ "hire_mult": 3.270494845756109,
+ "liquidate_day": 99,
+ "market_mode": "auto",
+ "pen_min_dist": 1,
+ "place_phase_days": 2,
+ "place_phase_hours": 0,
+ "place_phase_units": 2,
+ "place_phase_units_early": 3,
+ "plant_scale": 1.2455794237568452,
+ "portfolio": "rank1",
+ "preempt_max_prio": -1,
+ "price_floor_frac": 0.022951457571596216,
+ "prio_collect": 2,
+ "prio_harvest": 7,
+ "prio_plant": 7,
+ "prio_water_window": 3,
+ "seed_ahead": 1,
+ "sell_batch": 22,
+ "sell_hold_cash": 338,
+ "sell_order": "ratio",
+ "strip_penalty": 4,
+ "wheat_keep": 0,
+ "zone_penalty": 2
+}
+EXIT=0

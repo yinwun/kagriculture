@@ -1,0 +1,102 @@
+
+========================================================================================================
+56422944 new line, OLD sample (Task-23): 61 attributed games (loss 9, near 10, win 42)  gate: all money_match
+  exact-margin structure over the whole window (82 games): 0 -> 0 (0.0%), -50 -> 0 (0.0%), +50 -> 0, |m|<=60 -> 9 (11.0%), median margin -28
+  mirror share (>= 716/720 identical market steps): 17/149 (11.4% of the selected games)
+  mean per-day liquid gap: d0 d1 d2 d3 d4 d5 d6 d7 d8 d9 d10 d11 d12 d13 d14 d15 d16 d17 d18 d19 d20 d21 d22 d23 d24 d25 d26 d27 d28 d29
+    losses       +3     +37     -17     +31     +92     +65     +96     +26    +118    +147    +998    +248    +386     +98     -71    +259    -225    -169    -363    -414    -820    -323    -723    -683    -721    -808  -1,180    -745    -751  -1,147   first<0: day 2
+    near         +3      +4      -8     -36     -36     -36     -31     -30     -30     -30     -31     -30     -29     -30     -30     -32     -31     -22     -16      +1      -0     +56     +72     +18      +8     -24     +61     +57     -94    -103   first<0: day 2
+    wins         +4      -1     -21     -21     -28     -10     -71     -44     -18      -5    +337    +290    +618    +599    +476    +631    +651    +600    +756    +572    +570    +710    +692    +789    +809    +954  +1,211  +1,484  +1,708  +1,837   first<0: day 1
+  item net (my rev-spend) - (opp rev-spend), mean per game:
+    item               loss       near        win   loss-win
+    STRAWBERRY       -2,168       -130       +101     -2,269
+    WHEAT            -1,070       -100       -159       -911
+    MILK               -152        -68       +163       -315
+    WOOL                -83        -35       +344       -428
+    TOMATO               -3         +0       +342       -345
+    MELON              +384         +0        +88       +296
+    CARROT             +312       +168       +665       -354
+    FERTILIZER         +762        +61        +82       +680
+    EGG              +1,157        +12       +267       +891
+  volume vs price for the leading deficit items (losses+near):
+    STRAWBERRY   u_me   246.3 u_opp   250.9 p_me   96.4 p_opp   97.4 vol     -449 price     -259 net     -708
+    WHEAT        u_me   890.5 u_opp   726.7 p_me   38.5 p_opp   38.2 vol   +6,286 price     +263 net   +6,549
+    MILK         u_me   201.4 u_opp   200.3 p_me   90.6 p_opp   91.6 vol     +106 price     -208 net     -102
+  layer signature: SELL steps 265, multi-SELL 56, WOOL-SELL steps 59, WOOL units 171; STRAWBERRY units 246 at avg price 0.0
+
+========================================================================================================
+56422944 new line, NEW games (overnight): 37 attributed games (loss 6, near 8, win 23)  gate: all money_match
+  exact-margin structure over the whole window (119 games): 0 -> 0 (0.0%), -50 -> 1 (0.8%), +50 -> 0, |m|<=60 -> 14 (11.8%), median margin -37
+  mirror share (>= 716/720 identical market steps): 12/81 (14.8% of the selected games)
+  mean per-day liquid gap: d0 d1 d2 d3 d4 d5 d6 d7 d8 d9 d10 d11 d12 d13 d14 d15 d16 d17 d18 d19 d20 d21 d22 d23 d24 d25 d26 d27 d28 d29
+    losses       +5      +5     -15     -45     -46     -46     -42     -42     -44     -46     -55     -55     -63     -70    -135    -133     -29     -59     -96    -126    -162    -240    -296    -457    -506    -552    -758    -749    -897    -933   first<0: day 2
+    near         +8      +8     -14     -48     -48     -48     -44     -44     -45     -46     -46     -45     -59     -59     -59     -56     -57     -30     -30     -79     -64      +1     +25    +139     +33     +78    -144    -117    -108    -103   first<0: day 2
+    wins         +3      +4     -12     -27     -27     -27     -25     -22      +7      +6     -51    -337    +171    +192    +170    +115    +183    +447     +99     -77    +207     +89    +195    +457    +504    +543    +674    +647    +821    +930   first<0: day 2
+  item net (my rev-spend) - (opp rev-spend), mean per game:
+    item               loss       near        win   loss-win
+    STRAWBERRY         -319       -268       +234       -554
+    WHEAT              -583        +47        +10       -593
+    WOOL                -75        -19       +218       -293
+    CARROT              -96        +14       +144       -240
+    TOMATO               -6         -9         -3         -3
+    MILK                -56        +33       +222       -278
+    MELON                +0         +0         -2         +2
+    FERTILIZER          +36        +20        +13        +23
+    EGG                 +64         +4        -11        +75
+  volume vs price for the leading deficit items (losses+near):
+    STRAWBERRY   u_me   246.0 u_opp   246.0 p_me  118.9 p_opp  120.0 vol       +0 price     -274 net     -274
+    WHEAT        u_me   478.8 u_opp   729.1 p_me   38.5 p_opp   38.9 vol   -9,674 price     -242 net   -9,916
+    WOOL         u_me   130.9 u_opp   130.8 p_me  101.7 p_opp  102.0 vol       +7 price      -35 net      -28
+  layer signature: SELL steps 259, multi-SELL 54, WOOL-SELL steps 56, WOOL units 150; STRAWBERRY units 247 at avg price 0.0
+
+========================================================================================================
+56409633 composite, OLD sample (Task-23): 75 attributed games (loss 12, near 21, win 42)  gate: all money_match
+  exact-margin structure over the whole window (119 games): 0 -> 6 (5.0%), -50 -> 4 (3.4%), +50 -> 2, |m|<=60 -> 13 (10.9%), median margin +0
+  mirror share (>= 716/720 identical market steps): 17/149 (11.4% of the selected games)
+  mean per-day liquid gap: d0 d1 d2 d3 d4 d5 d6 d7 d8 d9 d10 d11 d12 d13 d14 d15 d16 d17 d18 d19 d20 d21 d22 d23 d24 d25 d26 d27 d28 d29
+    losses      +13      +6     -43     -21     +15     +55    +104     -50     -73    +499  +2,084    +970    +609    +406    -655    -441  -1,062  -1,054  -1,481  -1,647  -2,228  -2,115  -2,098  -2,331  -2,767  -2,960  -3,744  -3,881  -4,124  -4,265   first<0: day 2
+    near         +9     +10     -16     -59     -59     -59     -59     -58     -61     -65     -68     -79     -81     -80     -81     -89     -85     -82     -80     -79     -78     -76     -65    -114    -136    -151    -150    -168    -116    -118   first<0: day 2
+    wins         +2      +2     -11     -11     -11     -11     -20     -18     -11     +20      -9      -8    +128    +145     +57    +113     +90     +64    +159    +120    +173    +286    +299    +380    +378    +486    +762    +889    +935  +1,014   first<0: day 2
+  item net (my rev-spend) - (opp rev-spend), mean per game:
+    item               loss       near        win   loss-win
+    WHEAT            -1,424        -81       -237     -1,187
+    MILK             -1,403        -27       +118     -1,521
+    TOMATO           -1,333         +0         +2     -1,335
+    STRAWBERRY         -579        +58       +182       -762
+    EGG                -310         -0        +49       -358
+    WOOL               +158        -88       +208        -50
+    FERTILIZER          +82        +22       +147        -66
+    CARROT             +410         -1       +455        -45
+    MELON              +721        -16         -2       +723
+  volume vs price for the leading deficit items (losses+near):
+    WHEAT        u_me   556.0 u_opp   664.1 p_me   38.3 p_opp   38.3 vol   -4,136 price      -10 net   -4,146
+    MILK         u_me   192.0 u_opp   193.4 p_me   94.6 p_opp   95.5 vol     -138 price     -174 net     -313
+    TOMATO       u_me     2.4 u_opp     7.8 p_me    6.1 p_opp    8.9 vol      -40 price      -14 net      -54
+  layer signature: SELL steps 251, multi-SELL 50, WOOL-SELL steps 39, WOOL units 163; STRAWBERRY units 246 at avg price 0.0
+
+========================================================================================================
+56409633 composite, NEW games (overnight): 44 attributed games (loss 5, near 20, win 19)  gate: all money_match
+  exact-margin structure over the whole window (164 games): 0 -> 12 (7.3%), -50 -> 6 (3.7%), +50 -> 2, |m|<=60 -> 26 (15.9%), median margin +0
+  mirror share (>= 716/720 identical market steps): 12/81 (14.8% of the selected games)
+  mean per-day liquid gap: d0 d1 d2 d3 d4 d5 d6 d7 d8 d9 d10 d11 d12 d13 d14 d15 d16 d17 d18 d19 d20 d21 d22 d23 d24 d25 d26 d27 d28 d29
+    losses      +20      -6      +2      -0    +179    +166    +164    -105    -529    +367  +3,239  +1,928  +1,495    +791    -541    -685  -1,522    -416  -1,936  -1,449  -4,071  -4,164  -5,366  -6,082  -7,119  -7,307  -6,921  -7,237  -6,534  -5,942   first<0: day 1
+    near         +6      +7      -8     -48     -49     -49     -50     -51     -53     -51     -53     -33     -38     -39     -38     -46     -39     -34     -44     -25     -20      -4     -20     -48     -47     -50     -90     -96    -147    -148   first<0: day 2
+    wins         +1      +1      -2     -16     -16     -16     -16     -18     -19     -24     -23      -0      -9      -7      -8     -12     -28     +12     +40     +67    +111    +188    +205    +241    +293    +335    +440    +457    +499    +506   first<0: day 2
+  item net (my rev-spend) - (opp rev-spend), mean per game:
+    item               loss       near        win   loss-win
+    TOMATO           -4,803         +3         +8     -4,812
+    CARROT           -2,825        +53        -20     -2,805
+    MILK             -1,004        -28        +48     -1,052
+    EGG                -857         +5        +12       -868
+    WHEAT              -221        -94        +44       -265
+    WOOL               +859        -15       +154       +706
+    MELON              +910        +17        +18       +892
+    STRAWBERRY       +2,060       -106       +178     +1,882
+    FERTILIZER       +2,049        +21        +44     +2,005
+  volume vs price for the leading deficit items (losses+near):
+    TOMATO       u_me     9.6 u_opp    21.2 p_me   12.2 p_opp   15.0 vol     -157 price      -44 net     -201
+    CARROT       u_me   128.3 u_opp   136.8 p_me   47.9 p_opp   47.7 vol     -407 price      +19 net     -388
+    MILK         u_me   200.0 u_opp   198.4 p_me   92.3 p_opp   93.2 vol     +141 price     -168 net      -27
+  layer signature: SELL steps 256, multi-SELL 52, WOOL-SELL steps 40, WOOL units 162; STRAWBERRY units 246 at avg price 0.0
+
+wrote data/replay-compare-t25.json

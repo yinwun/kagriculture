@@ -1,0 +1,8 @@
+[4 configs x 40 seeds (paired) in 244s]
+config                          delta        t       W/L     cand$      opp$  water   harv  idle% err
+auto_base                    -100,697   -53.71      0/40    35,427   136,124    802    270    3.1   0
+spec_market                  -166,882   -51.72      0/40     1,760   168,641    613    139   30.0   0
+spec_market_b12              -166,882   -51.72      0/40     1,760   168,641    613    139   30.0   0
+spec_hire2.0                 -166,882   -51.72      0/40     1,760   168,641    613    139   30.0   0
+wrote data/plan-opp-sweep-4.json
+EXIT=0

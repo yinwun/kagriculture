@@ -1,0 +1,9 @@
+[5 configs x 40 seeds (paired) in 549s]
+config                          delta        t       W/L     cand$      opp$  water   harv  idle% err
+sell8                        -106,892   -47.88      0/40    31,094   137,987    798    266    2.3   0
+sell4_liq28                  -117,252   -51.87      0/40    26,023   143,275    742    250    2.7   0
+sell4                        -118,333   -51.70      0/40    25,134   143,467    779    266    2.7   0
+sell2                        -129,540   -37.10      0/40    12,858   142,398    658    241    2.6   0
+sell4_floor0.6               -133,575   -42.33      0/40    15,255   148,830    781    266    2.7   0
+wrote data/plan-opp-sweep-3.json
+EXIT=0

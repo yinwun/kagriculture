@@ -1,0 +1,9 @@
+56533839 278
+56565204 152
+since=2026-09-26T10:52:56.437Z
+
+ref 56533839: 59 games since 2026-09-26T10:52:56.437Z | losses 34 | near(0..300) 10 | wins >300 15 | control 13
+  margin: min -16,305 median -90 max +2,619
+done: fetched 57, cached 0, failed 0
+wrote data/replay-attr-shep-t35.json
+=== T35A DONE ===

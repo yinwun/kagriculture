@@ -1,0 +1,7 @@
+now Sun 27 Sep 2026 18:11:16 UTC | sleeping 21224s until Mon 28 Sep 2026 00:05:00 UTC
+=== firing cap24 FIRST then shep_straw at Mon 28 Sep 2026 03:13:36 UTC ===
+  56623776 2026-09-28 00:26:08      SubmissionStatus.COMP             
+  56605582 2026-09-27 10:11:53      SubmissionStatus.COMP             DRAIN-CAP x8 (verified best): the-shepherds-ledger base + our market layers with forward_drain_mult=8.0. Sweep vs the submitted cap2: +950 (t=8.83, 59-1) / +909 (t=13.38, 60-0); cumulative vs shep_milk ~+195 rating points. MECHANISM VERIFIED at equal volume: wool 1629=1629 units, strawberry 1980 vs 1969; gain is realised price (+1.8% wool, +1.6% strawberry). Control byte-identical (delta exactly 0); smoke DONE, all error counters 0. Public base is NOT our work; the market layers are.
+  56623786 2026-09-28 00:26:28      SubmissionStatus.COMP             
+  56623776 2026-09-28 00:26:08      SubmissionStatus.COMP             
+FINAL4_DONE

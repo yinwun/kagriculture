@@ -1,0 +1,27 @@
+
+========================================================================================================
+56447790 comp_straw, CURRENT games (Task-26): 99 attributed games (loss 22, near 18, win 59)  gate: all money_match
+  exact-margin structure over the whole window (117 games): 0 -> 0 (0.0%), -50 -> 0 (0.0%), +50 -> 0, |m|<=60 -> 6 (5.1%), median margin +17
+  mirror share (>= 716/720 identical market steps): 0/99 (0.0% of the selected games)
+  mean per-day liquid gap: d0 d1 d2 d3 d4 d5 d6 d7 d8 d9 d10 d11 d12 d13 d14 d15 d16 d17 d18 d19 d20 d21 d22 d23 d24 d25 d26 d27 d28 d29
+    losses       +9     +10      +2     -70     -60     -62     -64     -69     -54     -65    -100    -136     -94     -81     -95    -118    -195    -202    -547    -457    -589    -444    -785    -688    -853    -925  -1,154  -1,185  -1,108    -928   first<0: day 3
+    near         +8      +8      -8     -53     -55     -55     -52     -53     -58     -55     -58     -57     -63     -59     -63     -60     -66     -45     -51     -76    -122    -142    -128    -120    -124    -102    -134    -227    -197    -201   first<0: day 2
+    wins         +7      +8      -2     -58     -53     -53     -57     -55     -45     -45     -71     -93     -21     -63    -109     -65     -47     -38     +42     +29     +68    +192    +174    +344    +367    +482    +645    +708    +917    +914   first<0: day 2
+  item net (my rev-spend) - (opp rev-spend), mean per game:
+    item               loss       near        win   loss-win
+    WHEAT              -683        -60        -80       -603
+    WOOL               -176        -38       +292       -468
+    STRAWBERRY         -163        -27       +758       -921
+    EGG                 -80        -36       -116        +35
+    MELON               -27         +0        -28         +1
+    MILK                +30        -52       +315       -284
+    FERTILIZER         +122        +21        +37        +85
+    TOMATO             +162         +0       -130       +292
+    CARROT             +230         +3       -117       +347
+  volume vs price for the leading deficit items (losses+near):
+    WHEAT        u_me   577.9 u_opp   749.1 p_me   38.9 p_opp   39.0 vol   -6,662 price      -59 net   -6,721
+    WOOL         u_me   169.4 u_opp   168.5 p_me  112.0 p_opp  113.3 vol      +99 price     -208 net     -110
+    STRAWBERRY   u_me   246.5 u_opp   247.6 p_me  126.3 p_opp  126.0 vol     -148 price      +77 net      -71
+  layer signature: SELL steps 278, multi-SELL 67, WOOL-SELL steps 60, WOOL units 167; STRAWBERRY units 246 at avg price 0.0
+
+wrote data/replay-compare-t25.json

@@ -1,0 +1,8 @@
+### comp_straw vs PLAIN COMPOSITE, fresh IS 9300-9329
+straw_freshIS          vs cand           delta      +672  t=+8.02  W/L 54/6  wallet    98,993 vs    98,320  err=0
+### comp_straw vs PLAIN COMPOSITE, fresh OOS 9400-9429
+straw_freshOOS         vs cand           delta      +581  t=+7.70  W/L 57/3  wallet    96,561 vs    95,980  err=0
+### comp_straw vs comp_both (incremental), fresh 9300-9329
+straw_vs_both          vs comp_both      delta      +480  t=+7.62  W/L 53/7  wallet    98,732 vs    98,252  err=0
+FRESHVALS_DONE
+EXIT=0

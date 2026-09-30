@@ -1,0 +1,6 @@
+### stack vs submitted incumbent outer_prem (in-sample)
+stack_vs_outerprem_IS  vs outer_prem     delta      +276  t=+2.09  W/L 41/19  wallet   103,250 vs   102,974  err=0
+### stack vs submitted incumbent outer_prem (out-of-sample)
+stack_vs_outerprem_OOS vs outer_prem     delta      +469  t=+3.93  W/L 51/9  wallet    96,426 vs    95,957  err=0
+STACKAB_DONE
+EXIT=0
