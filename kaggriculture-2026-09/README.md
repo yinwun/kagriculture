@@ -13,8 +13,8 @@
 | 仓库 remote | `https://github.com/yinwun/kagriculture.git` |
 | 分支 | `main` |
 | **归档路径** | **`kaggriculture-2026-09/`** |
-| 提交 commit | 见本仓库 `main` 上标题为 `archive: kaggriculture 2026-09 ...` 的提交 |
-| 归档体积 | 4.7 MB / 370 个文件 |
+| **提交 commit** | **`e2dac3f27d4c2b606cdc50654004e6e51b983354`**（归档主体 `4ddbcdf` → `dc0dd9a` → `e2dac3f`） |
+| 归档体积 | **11 MB / 517 个文件**（本地暂存与远端克隆已 `diff -rq` 逐文件校验一致） |
 
 恢复：
 
@@ -33,16 +33,23 @@ cat reports/DESIGN-handbook.md        # 从这里开始读
 
 | 目录 | 内容 |
 |---|---|
-| `reports/` | **67 个 md**：`DESIGN-handbook.md`（设计与决策手册，入口）、`REPORT-improve-to-2400.md`、`REPORT-frontier-3.md`/`-4.md`、`REPORT-pi-v78.md`（主报告）等 60+ 份实验报告 |
+| `reports/` | **67 个 md**：`DESIGN-handbook.md`（设计与决策手册，入口）、`REPORT-pi-v78.md`（本轮主报告）、`REPORT-improve-to-2400.md`、`REPORT-frontier-3.md`/`-4.md` 等 60+ 份实验报告 |
 | `scripts/` | **170 个脚本**：`lockstep.py`（引擎市场精确复刻）、`ab_duel.py`（配对对战，唯一有效评测仪器）、`t40/t41/t43_*.py`（构建与扫频）、`push_live.py`/`tg_inbox.py`（Telegram 推送与收信）、`submit.py` |
 | `data/` | **127 项小数据**：`cmp-track.csv`（分数时间序列）、`leaderboard.json`、`tg-inbox.jsonl`（用户 Telegram 消息）、各次对战/扫频结果 JSON |
+| `log/` | **136 个实验日志**（含 `push_live.log` 的完整推送历史） |
+| `pkg/` | 早期 `submission-v109.tar.gz` 及其解包 `v109_extract/main.py`（任务起点的参照提交） |
+| `misc-md/` | 零星 md：`REPORT.md`、`2026-08-10_session_log.md` |
+| `README.md` | 即本索引文件 |
+
+> **注意**：本仓库的 `.gitignore` 会排除 `log/`、`*.tar.gz`、`__pycache__`。
+> 上述文件是用 `git add -f` **强制加入**的——若日后有人重建归档，必须同样强制添加，否则 `log/` 与 `pkg/` 会静默丢失（本次已实际发生过一次，靠克隆校验才发现）。
 
 **未归档（体积过大或含密钥，均可重新生成或从 Kaggle 下载）：**
 
 - `data/replays*`（约 15 GB，Kaggle 原始 replay）
 - `episode-*-replay.json`（顶层，约 800 MB）
 - **`data/telegram.json` — 含 Telegram bot token，安全考虑不提交**
-- `.venv/`、`pkg/`、构建产物 `data/candidate/*/main.py`（每个约 1.2 MB）
+- `.venv/`、构建产物 `data/candidate/*/main.py`（每个约 1.2 MB）
 
 ---
 
