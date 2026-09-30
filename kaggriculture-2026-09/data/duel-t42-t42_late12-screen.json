@@ -1,0 +1,251 @@
+{
+ "label": "t42_late12",
+ "cand": "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/t42_late12/main.py",
+ "base": "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/pi_stack/main.py",
+ "seeds": [
+  16400,
+  16429
+ ],
+ "games": 60,
+ "delta": -51.733333333333334,
+ "t": -2.628653039809088,
+ "wins": 25,
+ "losses": 33,
+ "cand_wallet": 92532.83333333333,
+ "base_wallet": 92584.56666666667,
+ "errors": 0,
+ "cand_exceptions": 0,
+ "base_exceptions": 0,
+ "cand_mech": {
+  "PASS": 31639,
+  "CMD": 241456,
+  "MKT_BUY_PRODUCT": 4072,
+  "MKT_SELL": 18781,
+  "MKT_BUY_SEED": 10794,
+  "MOVE": 176850,
+  "MKT_HIRE": 16532,
+  "MKT_BUY_ANIMAL": 728,
+  "PICKUP": 12052,
+  "BUILD_PASTURE": 904,
+  "PLACE": 6204,
+  "PLANT": 14456,
+  "CARE": 23950,
+  "WATER": 66858,
+  "FEED": 19804,
+  "COLLECT_FERTILIZER": 23354,
+  "HARVEST": 29646,
+  "DROP": 3000,
+  "MKT_BUY_LAND": 138,
+  "DIG": 2242,
+  "FERTILIZE": 7075,
+  "BUILD_COOP": 272
+ },
+ "base_mech": {
+  "PASS": 31639,
+  "CMD": 241456,
+  "MKT_BUY_PRODUCT": 4072,
+  "MKT_SELL": 18635,
+  "MKT_BUY_SEED": 10794,
+  "MOVE": 176850,
+  "MKT_HIRE": 16532,
+  "MKT_BUY_ANIMAL": 728,
+  "PICKUP": 12052,
+  "BUILD_PASTURE": 904,
+  "PLACE": 6204,
+  "PLANT": 14456,
+  "CARE": 23950,
+  "WATER": 66858,
+  "FEED": 19804,
+  "COLLECT_FERTILIZER": 23354,
+  "HARVEST": 29646,
+  "DROP": 3000,
+  "MKT_BUY_LAND": 138,
+  "DIG": 2242,
+  "FERTILIZE": 7075,
+  "BUILD_COOP": 272
+ },
+ "cand_diag": {
+  "race_tried": 35568,
+  "race_eval": 36906,
+  "race_implied": 29536,
+  "forward_orders": 1458,
+  "forward_units": 5867,
+  "race_considered": 1338,
+  "race_reorders": 241,
+  "race_gain": 13499,
+  "RACE_race_clone_turns": 28560,
+  "RACE_race_horizon_turns": 28560,
+  "RACE_race_mirror": 60,
+  "RACE_cs_rewrites": 50,
+  "RACE_cs_credit": 472,
+  "RACE_cs_sold": 406
+ },
+ "base_diag": {
+  "race_tried": 35456,
+  "race_eval": 36742,
+  "race_implied": 29643,
+  "forward_orders": 1439,
+  "forward_units": 6981,
+  "race_considered": 1286,
+  "race_reorders": 214,
+  "race_gain": 12000,
+  "RACE_race_clone_turns": 28560,
+  "RACE_race_horizon_turns": 28560,
+  "RACE_race_mirror": 60,
+  "RACE_cs_rewrites": 50,
+  "RACE_cs_credit": 472,
+  "RACE_cs_sold": 406
+ },
+ "per_seed": [
+  {
+   "seed": 16400,
+   "delta": 11.0,
+   "n": 2
+  },
+  {
+   "seed": 16401,
+   "delta": -52.0,
+   "n": 2
+  },
+  {
+   "seed": 16402,
+   "delta": 0.0,
+   "n": 2
+  },
+  {
+   "seed": 16403,
+   "delta": 17.0,
+   "n": 2
+  },
+  {
+   "seed": 16404,
+   "delta": -74.0,
+   "n": 2
+  },
+  {
+   "seed": 16405,
+   "delta": -219.0,
+   "n": 2
+  },
+  {
+   "seed": 16406,
+   "delta": -40.0,
+   "n": 2
+  },
+  {
+   "seed": 16407,
+   "delta": -120.0,
+   "n": 2
+  },
+  {
+   "seed": 16408,
+   "delta": -4.0,
+   "n": 2
+  },
+  {
+   "seed": 16409,
+   "delta": 1.0,
+   "n": 2
+  },
+  {
+   "seed": 16410,
+   "delta": 0.0,
+   "n": 2
+  },
+  {
+   "seed": 16411,
+   "delta": 2.0,
+   "n": 2
+  },
+  {
+   "seed": 16412,
+   "delta": 1.0,
+   "n": 2
+  },
+  {
+   "seed": 16413,
+   "delta": -2.0,
+   "n": 2
+  },
+  {
+   "seed": 16414,
+   "delta": -349.0,
+   "n": 2
+  },
+  {
+   "seed": 16415,
+   "delta": -402.0,
+   "n": 2
+  },
+  {
+   "seed": 16416,
+   "delta": -235.0,
+   "n": 2
+  },
+  {
+   "seed": 16417,
+   "delta": -8.0,
+   "n": 2
+  },
+  {
+   "seed": 16418,
+   "delta": 5.0,
+   "n": 2
+  },
+  {
+   "seed": 16419,
+   "delta": 7.0,
+   "n": 2
+  },
+  {
+   "seed": 16420,
+   "delta": 6.0,
+   "n": 2
+  },
+  {
+   "seed": 16421,
+   "delta": 22.0,
+   "n": 2
+  },
+  {
+   "seed": 16422,
+   "delta": 0.0,
+   "n": 2
+  },
+  {
+   "seed": 16423,
+   "delta": 6.0,
+   "n": 2
+  },
+  {
+   "seed": 16424,
+   "delta": -45.0,
+   "n": 2
+  },
+  {
+   "seed": 16425,
+   "delta": -26.0,
+   "n": 2
+  },
+  {
+   "seed": 16426,
+   "delta": -46.0,
+   "n": 2
+  },
+  {
+   "seed": 16427,
+   "delta": -20.0,
+   "n": 2
+  },
+  {
+   "seed": 16428,
+   "delta": 12.0,
+   "n": 2
+  },
+  {
+   "seed": 16429,
+   "delta": 0.0,
+   "n": 2
+  }
+ ]
+}

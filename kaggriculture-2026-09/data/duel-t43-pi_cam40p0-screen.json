@@ -1,0 +1,251 @@
+{
+ "label": "ca-40.0",
+ "cand": "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/pi_cam40p0/main.py",
+ "base": "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/pi_stack/main.py",
+ "seeds": [
+  18000,
+  18029
+ ],
+ "games": 60,
+ "delta": -28.0,
+ "t": -0.4431209196479615,
+ "wins": 18,
+ "losses": 38,
+ "cand_wallet": 98283.06666666667,
+ "base_wallet": 98311.06666666667,
+ "errors": 0,
+ "cand_exceptions": 0,
+ "base_exceptions": 0,
+ "cand_mech": {
+  "PASS": 30987,
+  "CMD": 241068,
+  "MKT_BUY_PRODUCT": 4381,
+  "MKT_SELL": 18676,
+  "MKT_BUY_SEED": 10521,
+  "MOVE": 176834,
+  "MKT_HIRE": 16514,
+  "MKT_BUY_ANIMAL": 726,
+  "PICKUP": 12006,
+  "BUILD_PASTURE": 901,
+  "PLACE": 6154,
+  "PLANT": 14478,
+  "CARE": 23805,
+  "WATER": 66997,
+  "FEED": 20326,
+  "COLLECT_FERTILIZER": 23147,
+  "HARVEST": 29801,
+  "DROP": 2988,
+  "MKT_BUY_LAND": 138,
+  "DIG": 2232,
+  "BUILD_COOP": 262,
+  "FERTILIZE": 6984
+ },
+ "base_mech": {
+  "PASS": 31031,
+  "CMD": 241080,
+  "MKT_BUY_PRODUCT": 4247,
+  "MKT_SELL": 18600,
+  "MKT_BUY_SEED": 10899,
+  "MOVE": 176822,
+  "MKT_HIRE": 16514,
+  "MKT_BUY_ANIMAL": 726,
+  "PICKUP": 12006,
+  "BUILD_PASTURE": 901,
+  "PLACE": 6154,
+  "PLANT": 14478,
+  "CARE": 23807,
+  "WATER": 67011,
+  "FEED": 20326,
+  "COLLECT_FERTILIZER": 23145,
+  "HARVEST": 29741,
+  "DROP": 2988,
+  "MKT_BUY_LAND": 138,
+  "DIG": 2230,
+  "BUILD_COOP": 262,
+  "FERTILIZE": 7000
+ },
+ "cand_diag": {
+  "race_tried": 35096,
+  "race_eval": 36281,
+  "race_implied": 29580,
+  "forward_orders": 1503,
+  "forward_units": 7342,
+  "race_considered": 1185,
+  "race_reorders": 199,
+  "race_gain": 14445,
+  "RACE_race_clone_turns": 23394,
+  "RACE_race_horizon_turns": 23394,
+  "RACE_race_mirror": 60,
+  "RACE_cs_rewrites": 50,
+  "RACE_cs_credit": 468,
+  "RACE_cs_sold": 368
+ },
+ "base_diag": {
+  "race_tried": 35262,
+  "race_eval": 36411,
+  "race_implied": 29432,
+  "forward_orders": 1497,
+  "forward_units": 7333,
+  "race_considered": 1149,
+  "RACE_race_clone_turns": 23394,
+  "RACE_race_horizon_turns": 23394,
+  "RACE_race_mirror": 60,
+  "race_reorders": 185,
+  "race_gain": 14950,
+  "RACE_cs_rewrites": 50,
+  "RACE_cs_credit": 468,
+  "RACE_cs_sold": 368
+ },
+ "per_seed": [
+  {
+   "seed": 18000,
+   "delta": 359.0,
+   "n": 2
+  },
+  {
+   "seed": 18001,
+   "delta": -150.0,
+   "n": 2
+  },
+  {
+   "seed": 18002,
+   "delta": -174.0,
+   "n": 2
+  },
+  {
+   "seed": 18003,
+   "delta": -44.0,
+   "n": 2
+  },
+  {
+   "seed": 18004,
+   "delta": -201.0,
+   "n": 2
+  },
+  {
+   "seed": 18005,
+   "delta": -515.0,
+   "n": 2
+  },
+  {
+   "seed": 18006,
+   "delta": -39.0,
+   "n": 2
+  },
+  {
+   "seed": 18007,
+   "delta": -201.0,
+   "n": 2
+  },
+  {
+   "seed": 18008,
+   "delta": 0.0,
+   "n": 2
+  },
+  {
+   "seed": 18009,
+   "delta": -163.0,
+   "n": 2
+  },
+  {
+   "seed": 18010,
+   "delta": 0.0,
+   "n": 2
+  },
+  {
+   "seed": 18011,
+   "delta": 1567.0,
+   "n": 2
+  },
+  {
+   "seed": 18012,
+   "delta": 163.0,
+   "n": 2
+  },
+  {
+   "seed": 18013,
+   "delta": -75.0,
+   "n": 2
+  },
+  {
+   "seed": 18014,
+   "delta": -201.0,
+   "n": 2
+  },
+  {
+   "seed": 18015,
+   "delta": -46.0,
+   "n": 2
+  },
+  {
+   "seed": 18016,
+   "delta": -94.0,
+   "n": 2
+  },
+  {
+   "seed": 18017,
+   "delta": -307.0,
+   "n": 2
+  },
+  {
+   "seed": 18018,
+   "delta": -50.0,
+   "n": 2
+  },
+  {
+   "seed": 18019,
+   "delta": -146.0,
+   "n": 2
+  },
+  {
+   "seed": 18020,
+   "delta": -257.0,
+   "n": 2
+  },
+  {
+   "seed": 18021,
+   "delta": 130.0,
+   "n": 2
+  },
+  {
+   "seed": 18022,
+   "delta": 93.0,
+   "n": 2
+  },
+  {
+   "seed": 18023,
+   "delta": 30.0,
+   "n": 2
+  },
+  {
+   "seed": 18024,
+   "delta": -50.0,
+   "n": 2
+  },
+  {
+   "seed": 18025,
+   "delta": -265.0,
+   "n": 2
+  },
+  {
+   "seed": 18026,
+   "delta": 160.0,
+   "n": 2
+  },
+  {
+   "seed": 18027,
+   "delta": -257.0,
+   "n": 2
+  },
+  {
+   "seed": 18028,
+   "delta": -153.0,
+   "n": 2
+  },
+  {
+   "seed": 18029,
+   "delta": 46.0,
+   "n": 2
+  }
+ ]
+}

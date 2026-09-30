@@ -1,0 +1,251 @@
+{
+ "label": "ca-70.0",
+ "cand": "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/pi_cam70p0/main.py",
+ "base": "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/pi_stack/main.py",
+ "seeds": [
+  18000,
+  18029
+ ],
+ "games": 60,
+ "delta": -1549.4333333333334,
+ "t": -3.300697973257701,
+ "wins": 5,
+ "losses": 55,
+ "cand_wallet": 96873.35,
+ "base_wallet": 98422.78333333334,
+ "errors": 0,
+ "cand_exceptions": 0,
+ "base_exceptions": 0,
+ "cand_mech": {
+  "PASS": 31231,
+  "CMD": 241236,
+  "MKT_BUY_PRODUCT": 4671,
+  "MKT_SELL": 18734,
+  "MKT_BUY_SEED": 10419,
+  "MOVE": 176672,
+  "MKT_HIRE": 16514,
+  "MKT_BUY_ANIMAL": 726,
+  "PICKUP": 12090,
+  "BUILD_PASTURE": 901,
+  "PLACE": 6176,
+  "PLANT": 14478,
+  "CARE": 23751,
+  "WATER": 66875,
+  "FEED": 20286,
+  "COLLECT_FERTILIZER": 23135,
+  "HARVEST": 29943,
+  "DROP": 2988,
+  "MKT_BUY_LAND": 138,
+  "DIG": 2234,
+  "BUILD_COOP": 262,
+  "FERTILIZE": 6886
+ },
+ "base_mech": {
+  "PASS": 31101,
+  "CMD": 241210,
+  "MKT_BUY_PRODUCT": 4247,
+  "MKT_SELL": 18713,
+  "MKT_BUY_SEED": 10991,
+  "MOVE": 176982,
+  "MKT_HIRE": 16528,
+  "MKT_BUY_ANIMAL": 726,
+  "PICKUP": 12020,
+  "BUILD_PASTURE": 901,
+  "PLACE": 6158,
+  "PLANT": 14478,
+  "CARE": 23805,
+  "WATER": 67010,
+  "FEED": 20340,
+  "COLLECT_FERTILIZER": 23141,
+  "HARVEST": 29721,
+  "DROP": 2986,
+  "MKT_BUY_LAND": 138,
+  "DIG": 2229,
+  "BUILD_COOP": 262,
+  "FERTILIZE": 7058
+ },
+ "cand_diag": {
+  "race_tried": 35065,
+  "race_eval": 36319,
+  "race_implied": 29893,
+  "forward_orders": 1583,
+  "forward_units": 7689,
+  "race_considered": 1254,
+  "race_reorders": 190,
+  "race_gain": 11597,
+  "RACE_race_clone_turns": 13941,
+  "RACE_race_horizon_turns": 13941,
+  "RACE_race_mirror": 60,
+  "RACE_cs_rewrites": 50,
+  "RACE_cs_credit": 468,
+  "RACE_cs_sold": 364
+ },
+ "base_diag": {
+  "race_tried": 35581,
+  "race_eval": 36763,
+  "race_implied": 29183,
+  "forward_orders": 1507,
+  "forward_units": 7473,
+  "race_considered": 1182,
+  "RACE_race_clone_turns": 13941,
+  "RACE_race_horizon_turns": 13941,
+  "RACE_race_mirror": 60,
+  "race_reorders": 206,
+  "race_gain": 14221,
+  "RACE_cs_rewrites": 50,
+  "RACE_cs_credit": 468,
+  "RACE_cs_sold": 374
+ },
+ "per_seed": [
+  {
+   "seed": 18000,
+   "delta": -540.0,
+   "n": 2
+  },
+  {
+   "seed": 18001,
+   "delta": -521.0,
+   "n": 2
+  },
+  {
+   "seed": 18002,
+   "delta": -657.0,
+   "n": 2
+  },
+  {
+   "seed": 18003,
+   "delta": -633.0,
+   "n": 2
+  },
+  {
+   "seed": 18004,
+   "delta": -706.0,
+   "n": 2
+  },
+  {
+   "seed": 18005,
+   "delta": -1427.0,
+   "n": 2
+  },
+  {
+   "seed": 18006,
+   "delta": -209.0,
+   "n": 2
+  },
+  {
+   "seed": 18007,
+   "delta": -718.0,
+   "n": 2
+  },
+  {
+   "seed": 18008,
+   "delta": -216.0,
+   "n": 2
+  },
+  {
+   "seed": 18009,
+   "delta": -1108.0,
+   "n": 2
+  },
+  {
+   "seed": 18010,
+   "delta": -13050.0,
+   "n": 2
+  },
+  {
+   "seed": 18011,
+   "delta": 800.0,
+   "n": 2
+  },
+  {
+   "seed": 18012,
+   "delta": -3071.0,
+   "n": 2
+  },
+  {
+   "seed": 18013,
+   "delta": 110.0,
+   "n": 2
+  },
+  {
+   "seed": 18014,
+   "delta": -755.0,
+   "n": 2
+  },
+  {
+   "seed": 18015,
+   "delta": -752.0,
+   "n": 2
+  },
+  {
+   "seed": 18016,
+   "delta": -1336.0,
+   "n": 2
+  },
+  {
+   "seed": 18017,
+   "delta": -1298.0,
+   "n": 2
+  },
+  {
+   "seed": 18018,
+   "delta": -6637.0,
+   "n": 2
+  },
+  {
+   "seed": 18019,
+   "delta": -328.0,
+   "n": 2
+  },
+  {
+   "seed": 18020,
+   "delta": -1475.0,
+   "n": 2
+  },
+  {
+   "seed": 18021,
+   "delta": -1617.0,
+   "n": 2
+  },
+  {
+   "seed": 18022,
+   "delta": -939.0,
+   "n": 2
+  },
+  {
+   "seed": 18023,
+   "delta": -605.0,
+   "n": 2
+  },
+  {
+   "seed": 18024,
+   "delta": -187.0,
+   "n": 2
+  },
+  {
+   "seed": 18025,
+   "delta": -1843.0,
+   "n": 2
+  },
+  {
+   "seed": 18026,
+   "delta": -783.0,
+   "n": 2
+  },
+  {
+   "seed": 18027,
+   "delta": -1032.0,
+   "n": 2
+  },
+  {
+   "seed": 18028,
+   "delta": -828.0,
+   "n": 2
+  },
+  {
+   "seed": 18029,
+   "delta": -4122.0,
+   "n": 2
+  }
+ ]
+}

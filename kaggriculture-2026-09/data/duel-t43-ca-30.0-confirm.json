@@ -1,0 +1,251 @@
+{
+ "label": "ca-30.0-confirm",
+ "cand": "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/pi_cam30p0/main.py",
+ "base": "/Users/nickyl/Developer/Sandbox/kaggle/kg-rl/data/candidate/pi_stack/main.py",
+ "seeds": [
+  18100,
+  18129
+ ],
+ "games": 60,
+ "delta": 11.3,
+ "t": 0.3514710542566411,
+ "wins": 28,
+ "losses": 28,
+ "cand_wallet": 88991.21666666666,
+ "base_wallet": 88979.91666666667,
+ "errors": 0,
+ "cand_exceptions": 0,
+ "base_exceptions": 0,
+ "cand_mech": {
+  "PASS": 30621,
+  "CMD": 238456,
+  "MKT_BUY_PRODUCT": 4184,
+  "MKT_SELL": 18622,
+  "MKT_BUY_SEED": 10586,
+  "MOVE": 175752,
+  "MKT_HIRE": 16342,
+  "MKT_BUY_ANIMAL": 724,
+  "PICKUP": 12042,
+  "BUILD_PASTURE": 844,
+  "PLACE": 6002,
+  "PLANT": 14419,
+  "CARE": 23618,
+  "WATER": 66554,
+  "FEED": 19144,
+  "COLLECT_FERTILIZER": 23056,
+  "HARVEST": 29594,
+  "DROP": 3082,
+  "MKT_BUY_LAND": 130,
+  "DIG": 2226,
+  "BUILD_COOP": 310,
+  "FERTILIZE": 6944
+ },
+ "base_mech": {
+  "PASS": 30617,
+  "CMD": 238490,
+  "MKT_BUY_PRODUCT": 4132,
+  "MKT_SELL": 18604,
+  "MKT_BUY_SEED": 10786,
+  "MOVE": 175804,
+  "MKT_HIRE": 16346,
+  "MKT_BUY_ANIMAL": 724,
+  "PICKUP": 12046,
+  "BUILD_PASTURE": 844,
+  "PLACE": 6006,
+  "PLANT": 14419,
+  "CARE": 23620,
+  "WATER": 66574,
+  "FEED": 19144,
+  "COLLECT_FERTILIZER": 23052,
+  "HARVEST": 29568,
+  "DROP": 3080,
+  "MKT_BUY_LAND": 130,
+  "DIG": 2226,
+  "BUILD_COOP": 310,
+  "FERTILIZE": 6984
+ },
+ "cand_diag": {
+  "race_tried": 34846,
+  "race_eval": 36041,
+  "race_implied": 29255,
+  "forward_orders": 1347,
+  "forward_units": 6824,
+  "race_considered": 1195,
+  "race_reorders": 208,
+  "race_gain": 11376,
+  "RACE_race_clone_turns": 25788,
+  "RACE_race_horizon_turns": 25788,
+  "RACE_race_mirror": 60,
+  "RACE_cs_rewrites": 50,
+  "RACE_cs_credit": 464,
+  "RACE_cs_sold": 396
+ },
+ "base_diag": {
+  "race_tried": 34909,
+  "race_eval": 36086,
+  "race_implied": 29129,
+  "forward_orders": 1334,
+  "forward_units": 6750,
+  "race_considered": 1177,
+  "race_reorders": 220,
+  "race_gain": 11592,
+  "RACE_race_clone_turns": 25788,
+  "RACE_race_horizon_turns": 25788,
+  "RACE_race_mirror": 60,
+  "RACE_cs_rewrites": 50,
+  "RACE_cs_credit": 464,
+  "RACE_cs_sold": 396
+ },
+ "per_seed": [
+  {
+   "seed": 18100,
+   "delta": 45.0,
+   "n": 2
+  },
+  {
+   "seed": 18101,
+   "delta": 263.0,
+   "n": 2
+  },
+  {
+   "seed": 18102,
+   "delta": 126.0,
+   "n": 2
+  },
+  {
+   "seed": 18103,
+   "delta": -54.0,
+   "n": 2
+  },
+  {
+   "seed": 18104,
+   "delta": -150.0,
+   "n": 2
+  },
+  {
+   "seed": 18105,
+   "delta": 185.0,
+   "n": 2
+  },
+  {
+   "seed": 18106,
+   "delta": -299.0,
+   "n": 2
+  },
+  {
+   "seed": 18107,
+   "delta": -143.0,
+   "n": 2
+  },
+  {
+   "seed": 18108,
+   "delta": 0.0,
+   "n": 2
+  },
+  {
+   "seed": 18109,
+   "delta": 494.0,
+   "n": 2
+  },
+  {
+   "seed": 18110,
+   "delta": -1.0,
+   "n": 2
+  },
+  {
+   "seed": 18111,
+   "delta": -140.0,
+   "n": 2
+  },
+  {
+   "seed": 18112,
+   "delta": -50.0,
+   "n": 2
+  },
+  {
+   "seed": 18113,
+   "delta": 96.0,
+   "n": 2
+  },
+  {
+   "seed": 18114,
+   "delta": 263.0,
+   "n": 2
+  },
+  {
+   "seed": 18115,
+   "delta": -50.0,
+   "n": 2
+  },
+  {
+   "seed": 18116,
+   "delta": -159.0,
+   "n": 2
+  },
+  {
+   "seed": 18117,
+   "delta": 61.0,
+   "n": 2
+  },
+  {
+   "seed": 18118,
+   "delta": 83.0,
+   "n": 2
+  },
+  {
+   "seed": 18119,
+   "delta": -92.0,
+   "n": 2
+  },
+  {
+   "seed": 18120,
+   "delta": 110.0,
+   "n": 2
+  },
+  {
+   "seed": 18121,
+   "delta": 0.0,
+   "n": 2
+  },
+  {
+   "seed": 18122,
+   "delta": 75.0,
+   "n": 2
+  },
+  {
+   "seed": 18123,
+   "delta": -193.0,
+   "n": 2
+  },
+  {
+   "seed": 18124,
+   "delta": 115.0,
+   "n": 2
+  },
+  {
+   "seed": 18125,
+   "delta": 270.0,
+   "n": 2
+  },
+  {
+   "seed": 18126,
+   "delta": 14.0,
+   "n": 2
+  },
+  {
+   "seed": 18127,
+   "delta": -79.0,
+   "n": 2
+  },
+  {
+   "seed": 18128,
+   "delta": -280.0,
+   "n": 2
+  },
+  {
+   "seed": 18129,
+   "delta": -171.0,
+   "n": 2
+  }
+ ]
+}

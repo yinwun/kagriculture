@@ -1,0 +1,702 @@
+[
+  {
+    "ref": "abhinav0370/cha22-agent",
+    "title": "cha22 agent",
+    "author": "Abhinav0370",
+    "lastRunTime": "2026-09-24T09:30:24.023000",
+    "totalVotes": 105
+  },
+  {
+    "ref": "hanifnoerrofiq/pioneers-of-kaggle-town-candidate-2",
+    "title": "Pioneers of Kaggle Town - Candidate 2",
+    "author": "Hanif Noer Rofiq",
+    "lastRunTime": "2026-09-24T05:33:34.670000",
+    "totalVotes": 7
+  },
+  {
+    "ref": "yangkuangou/kaggriculture-agent-lab-copy-replay-compare",
+    "title": "Kaggriculture Agent Lab: Copy, Replay & Compare",
+    "author": "Yang Kuang Ou",
+    "lastRunTime": "2026-09-23T14:54:13.300000",
+    "totalVotes": 7
+  },
+  {
+    "ref": "yasutakababa/kaggriculture-late-purchase-v16-submit",
+    "title": "kaggriculture late purchase v16 submit",
+    "author": "yasu",
+    "lastRunTime": "2026-09-23T12:28:35.757000",
+    "totalVotes": 5
+  },
+  {
+    "ref": "statma/kaggriculture-herd-safe-sale-window-race-ca25",
+    "title": "Kaggriculture: Herd-Safe Sale Window race ca25",
+    "author": "statma",
+    "lastRunTime": "2026-09-23T11:59:37.010000",
+    "totalVotes": 13
+  },
+  {
+    "ref": "hanifnoerrofiq/pioneers-of-kaggle-town",
+    "title": "Pioneers of Kaggle Town",
+    "author": "Hanif Noer Rofiq",
+    "lastRunTime": "2026-09-23T10:59:49.683000",
+    "totalVotes": 6
+  },
+  {
+    "ref": "haideptry/the-shepherds-ledger-herd-safe-sovereign",
+    "title": "The Shepherds Ledger Herd Safe Sovereign",
+    "author": "haideptry",
+    "lastRunTime": "2026-09-27T15:15:53.437000",
+    "totalVotes": 28
+  },
+  {
+    "ref": "wzhengbiao/kaggriculture-hybu-submit",
+    "title": "kaggriculture hybu submit",
+    "author": "WUZB",
+    "lastRunTime": "2026-09-23T03:13:16.373000",
+    "totalVotes": 4
+  },
+  {
+    "ref": "statma/kaggriculture-thomas-2944-candidate",
+    "title": "Kaggriculture: Thomas 2944 candidate",
+    "author": "statma",
+    "lastRunTime": "2026-09-23T09:58:34.033000",
+    "totalVotes": 9
+  },
+  {
+    "ref": "statma/kaggriculture-tetsutani-demand-preserving",
+    "title": "kaggriculture-tetsutani-demand-preserving",
+    "author": "statma",
+    "lastRunTime": "2026-09-23T01:55:16.807000",
+    "totalVotes": 2
+  },
+  {
+    "ref": "statma/kaggriculture-herd-safe-sale-window-submit",
+    "title": "Kaggriculture: Herd-Safe Sale Window submit",
+    "author": "statma",
+    "lastRunTime": "2026-09-23T00:53:01.737000",
+    "totalVotes": 10
+  },
+  {
+    "ref": "statma/kaggriculture-herd-safe-sale-window-race-ca20",
+    "title": "Kaggriculture: Herd-Safe Sale Window race ca20",
+    "author": "statma",
+    "lastRunTime": "2026-09-23T00:31:53.683000",
+    "totalVotes": 19
+  },
+  {
+    "ref": "prvsiyan/kaggriculture-floor-aware-market-ledger-20260923",
+    "title": "Kaggriculture Floor-Aware Market Ledger 20260923",
+    "author": "prvsiyan",
+    "lastRunTime": "2026-09-22T22:49:28.260000",
+    "totalVotes": 4
+  },
+  {
+    "ref": "bardiabahadori/kaggriculture-agent-selection-engine-traps",
+    "title": "Kaggriculture: Agent Selection & Engine Traps",
+    "author": "Bardia Bahadori",
+    "lastRunTime": "2026-09-22T21:08:00.687000",
+    "totalVotes": 1
+  },
+  {
+    "ref": "wzhengbiao/kaggriculture-v15stack-nb",
+    "title": "kaggriculture v15stack nb",
+    "author": "WUZB",
+    "lastRunTime": "2026-09-22T19:18:15.817000",
+    "totalVotes": 1
+  },
+  {
+    "ref": "wzhengbiao/kaggriculture-v15stack-submit",
+    "title": "kaggriculture v15stack submit",
+    "author": "WUZB",
+    "lastRunTime": "2026-09-22T19:00:58.957000",
+    "totalVotes": 62
+  },
+  {
+    "ref": "arsgorynich/herd-safe-v3-experimental-risk-aware-feed",
+    "title": "Herd Safe v3 Experimental Risk Aware Feed",
+    "author": "Arsgorynich",
+    "lastRunTime": "2026-09-23T10:15:04.340000",
+    "totalVotes": 74
+  },
+  {
+    "ref": "rehanliaqat17/kaggriculture-getting-started",
+    "title": "Kaggriculture: Getting Started",
+    "author": "Rehan Liaqat",
+    "lastRunTime": "2026-09-23T12:50:35.350000",
+    "totalVotes": 7
+  },
+  {
+    "ref": "ahmedberatozer/kaggriculture-v57-funding-order-invariant",
+    "title": "Kaggriculture V57 \u2014 Funding-Order Invariant",
+    "author": "Ahmed Berat \u00d6zer",
+    "lastRunTime": "2026-09-22T12:50:17.380000",
+    "totalVotes": 51
+  },
+  {
+    "ref": "arsgorynich/order-book-v3-response-improvement",
+    "title": "Order Book v3 Response Improvement",
+    "author": "Arsgorynich",
+    "lastRunTime": "2026-09-22T11:02:40.573000",
+    "totalVotes": 3
+  },
+  {
+    "ref": "prvsiyan/kaggriculture-hybrid-state-ledger-20260922",
+    "title": "Kaggriculture Hybrid State Ledger 20260922",
+    "author": "prvsiyan",
+    "lastRunTime": "2026-09-22T10:05:23.170000",
+    "totalVotes": 1
+  },
+  {
+    "ref": "avndope/measure-first",
+    "title": "measure-first",
+    "author": "Avineesh Arora",
+    "lastRunTime": "2026-09-22T10:20:24.873000",
+    "totalVotes": 1
+  },
+  {
+    "ref": "nathanjacob/kaggriculture-pipe18-six-layers",
+    "title": "Kaggriculture Pipe18 Six Layers",
+    "author": "Nathan Jacob",
+    "lastRunTime": "2026-09-21T21:32:30.580000",
+    "totalVotes": 24
+  },
+  {
+    "ref": "nihilisticneuralnet/kaggriculture-population-robust-economy",
+    "title": "Kaggriculture: Population-Robust Economy",
+    "author": "parthenos",
+    "lastRunTime": "2026-09-24T13:03:50.793000",
+    "totalVotes": 53
+  },
+  {
+    "ref": "shiiin9/your-market-list-is-an-order-book",
+    "title": "Your Market List Is an Order Book",
+    "author": "shiiin9",
+    "lastRunTime": "2026-09-21T23:16:29.983000",
+    "totalVotes": 47
+  },
+  {
+    "ref": "shivam2212/high-speed-compressed-replay-retrival",
+    "title": "\u26a1High-Speed Compressed Replay Retrival ",
+    "author": "Shivam_2212",
+    "lastRunTime": "2026-09-21T17:59:58.150000",
+    "totalVotes": 3
+  },
+  {
+    "ref": "ahmedberatozer/kaggriculture-v56-smarter-seeds-and-fertilizer",
+    "title": "Kaggriculture V56 \u2014 Smarter Seeds and Fertilizer",
+    "author": "Ahmed Berat \u00d6zer",
+    "lastRunTime": "2026-09-21T15:28:15.713000",
+    "totalVotes": 71
+  },
+  {
+    "ref": "hakdevelopment/kaggriculture-2887-score-fieldcraft-agent",
+    "title": "Kaggriculture 2887 Score Fieldcraft Agent",
+    "author": "Hak",
+    "lastRunTime": "2026-09-21T13:30:07.297000",
+    "totalVotes": 4
+  },
+  {
+    "ref": "ahmedberatozer/kaggriculture-v55-one-turn-market-race-edge",
+    "title": " Kaggriculture V55 \u2014 One-Turn Market Race Edge",
+    "author": "Ahmed Berat \u00d6zer",
+    "lastRunTime": "2026-09-21T11:27:49.737000",
+    "totalVotes": 68
+  },
+  {
+    "ref": "lynnsakurai/farmer-john-and-the-wheat-seller",
+    "title": "Farmer John and the Wheat Seller",
+    "author": "Arlene",
+    "lastRunTime": "2026-09-26T06:49:42.483000",
+    "totalVotes": 37
+  },
+  {
+    "ref": "datascikhan/farmcraft-kaggriculture-grandmaster",
+    "title": "\ud83c\udf3e FarmCraft: Kaggriculture Grandmaster",
+    "author": "Shair Khan",
+    "lastRunTime": "2026-09-21T08:29:47.307000",
+    "totalVotes": 3
+  },
+  {
+    "ref": "ahmedberatozer/kaggriculture-v54-productive-wheat-and-patient",
+    "title": " Kaggriculture V54 \u2014 Productive Wheat and Patient ",
+    "author": "Ahmed Berat \u00d6zer",
+    "lastRunTime": "2026-09-21T08:26:55.227000",
+    "totalVotes": 20
+  },
+  {
+    "ref": "datascikhan/harvestlens-an-independent-kaggriculture-bench",
+    "title": "\ud83c\udf31 HarvestLens_An_Independent_Kaggriculture_Bench",
+    "author": "Shair Khan",
+    "lastRunTime": "2026-09-21T08:21:26.727000",
+    "totalVotes": 2
+  },
+  {
+    "ref": "datascikhan/cropsense-the-adaptive-farm-ai",
+    "title": "\ud83c\udf3e CropSense_The_Adaptive_Farm_AI",
+    "author": "Shair Khan",
+    "lastRunTime": "2026-09-21T07:39:18.240000",
+    "totalVotes": 6
+  },
+  {
+    "ref": "datascikhan/farmpilot-ai",
+    "title": "\ud83c\udfc6 FarmPilot_AI\ud83c\udf3e ",
+    "author": "Shair Khan",
+    "lastRunTime": "2026-09-21T07:29:31.960000",
+    "totalVotes": 2
+  },
+  {
+    "ref": "sunil123kumar/kaggriculture-idle-workers",
+    "title": "Kaggriculture - Idle Workers",
+    "author": "sunil kumar",
+    "lastRunTime": "2026-09-21T04:45:38.070000",
+    "totalVotes": 8
+  },
+  {
+    "ref": "haideptry/the-2965-master-hybrid-engine",
+    "title": "The 2965 Master Hybrid Engine",
+    "author": "haideptry",
+    "lastRunTime": "2026-09-28T02:13:29.413000",
+    "totalVotes": 65
+  },
+  {
+    "ref": "kenanzhang9/kaggriculture-a1-t31-guard",
+    "title": "Kaggriculture A1-T31 Guard",
+    "author": "Kenan Zhang9",
+    "lastRunTime": "2026-09-21T02:13:15.630000",
+    "totalVotes": 1
+  },
+  {
+    "ref": "prvsiyan/kaggriculture-route-ab-timing-lab-20260921",
+    "title": "Kaggriculture Route Ab Timing Lab 20260921",
+    "author": "prvsiyan",
+    "lastRunTime": "2026-09-20T21:00:55.970000",
+    "totalVotes": 1
+  },
+  {
+    "ref": "lynnsakurai/farmer-john-and-the-idle-seller",
+    "title": "Farmer John and the Idle Seller",
+    "author": "Arlene",
+    "lastRunTime": "2026-09-27T09:29:07.727000",
+    "totalVotes": 44
+  },
+  {
+    "ref": "dmitriigluzdov/kaggriculture-one-more-wheat",
+    "title": "Kaggriculture: One More Wheat",
+    "author": "Dmitrii Gluzdov",
+    "lastRunTime": "2026-09-20T17:25:38.703000",
+    "totalVotes": 62
+  },
+  {
+    "ref": "crystalbaby/god-s-mode-hacked-stores",
+    "title": "\ud83d\udc41\ufe0fGod's mode. Hacked stores.",
+    "author": "Sung Jin-woo",
+    "lastRunTime": "2026-09-21T03:36:57.687000",
+    "totalVotes": 5
+  },
+  {
+    "ref": "ahmedberatozer/kaggriculture-v53-opening-signature",
+    "title": "Kaggriculture V53 \u2014 Opening Signature ",
+    "author": "Ahmed Berat \u00d6zer",
+    "lastRunTime": "2026-09-20T14:00:38.033000",
+    "totalVotes": 44
+  },
+  {
+    "ref": "prvsiyan/kaggriculture-visible-price-switch-lab",
+    "title": "Kaggriculture Visible-Price Switch Lab",
+    "author": "prvsiyan",
+    "lastRunTime": "2026-09-20T13:21:39.377000",
+    "totalVotes": 6
+  },
+  {
+    "ref": "nathanjacob/kaggriculture-pipe16-idle-workers",
+    "title": "Kaggriculture Pipe16 Idle Workers",
+    "author": "Nathan Jacob",
+    "lastRunTime": "2026-09-20T10:43:53.643000",
+    "totalVotes": 57
+  },
+  {
+    "ref": "ahmedberatozer/kaggriculture-v52-lean-flock-yarn-route",
+    "title": "Kaggriculture V52 \u2014 Lean Flock, Yarn Route",
+    "author": "Ahmed Berat \u00d6zer",
+    "lastRunTime": "2026-09-20T10:38:58.783000",
+    "totalVotes": 6
+  },
+  {
+    "ref": "hosen42/kaggriculture-m4a-metav4-sr18-2690-1",
+    "title": "kaggriculture-m4a-metav4-sr18 : 2690.1",
+    "author": "Md. Hamid Hosen",
+    "lastRunTime": "2026-09-20T09:53:03.317000",
+    "totalVotes": 1
+  },
+  {
+    "ref": "ahmedberatozer/kaggriculture-v51-lean-flock",
+    "title": "Kaggriculture V51 \u2014 Lean Flock",
+    "author": "Ahmed Berat \u00d6zer",
+    "lastRunTime": "2026-09-20T09:21:02.013000",
+    "totalVotes": 6
+  },
+  {
+    "ref": "nathanjacob/kaggriculture-pipe15-two-layers",
+    "title": "Kaggriculture Pipe15 Two Layers",
+    "author": "Nathan Jacob",
+    "lastRunTime": "2026-09-20T08:48:04.160000",
+    "totalVotes": 5
+  },
+  {
+    "ref": "thomastschinkel/the-metav4-farm-submission-v13",
+    "title": "The Metav4 Farm: Submission v13",
+    "author": "Thomas Tschinkel",
+    "lastRunTime": "2026-09-20T06:58:38.693000",
+    "totalVotes": 92
+  },
+  {
+    "ref": "hanifnoerrofiq/a-wonderful-life",
+    "title": "A wonderful Life",
+    "author": "Hanif Noer Rofiq",
+    "lastRunTime": "2026-09-20T02:27:48.983000",
+    "totalVotes": 39
+  },
+  {
+    "ref": "haideptry/the-2950-peak-farm",
+    "title": "The 2950 Peak Farm",
+    "author": "haideptry",
+    "lastRunTime": "2026-09-21T03:19:29.350000",
+    "totalVotes": 13
+  },
+  {
+    "ref": "haideptry/countering-the-big-3-meta",
+    "title": "Countering the Big 3 Meta",
+    "author": "haideptry",
+    "lastRunTime": "2026-09-20T01:18:41.577000",
+    "totalVotes": 4
+  },
+  {
+    "ref": "destbreso/every-community-agent-one-arena",
+    "title": "Every community agent, one arena",
+    "author": "destbreso",
+    "lastRunTime": "2026-09-21T13:54:37.307000",
+    "totalVotes": 6
+  },
+  {
+    "ref": "laveshjadon/kagriculture-winning-notebook",
+    "title": "Kagriculture Winning_Notebook",
+    "author": "lavesh Jadon",
+    "lastRunTime": "2026-09-19T23:25:11.940000",
+    "totalVotes": 10
+  },
+  {
+    "ref": "haideptry/demystifying-2900-meta-reflex-engine-and-bot",
+    "title": "Demystifying 2900 Meta Reflex Engine and Bot",
+    "author": "haideptry",
+    "lastRunTime": "2026-09-19T17:50:52.820000",
+    "totalVotes": 9
+  },
+  {
+    "ref": "guruprasaathas111/kaggriculture-top-2-master-engine-v4",
+    "title": "Kaggriculture (TOP 2 )Master Engine V4 ",
+    "author": "Guru Prasaath S",
+    "lastRunTime": "2026-09-27T19:04:45.117000",
+    "totalVotes": 73
+  },
+  {
+    "ref": "takamichitoda/flyfarmer-connectome-plays-kaggriculture",
+    "title": "\ud83e\udeb0FlyFarmer connectome plays Kaggriculture",
+    "author": "Takamichi Toda",
+    "lastRunTime": "2026-09-19T21:02:32.217000",
+    "totalVotes": 8
+  },
+  {
+    "ref": "ahmedberatozer/kaggriculture-v50-early-yarn-commit",
+    "title": "Kaggriculture V50 \u2014 Early Yarn Commit",
+    "author": "Ahmed Berat \u00d6zer",
+    "lastRunTime": "2026-09-19T09:33:51.890000",
+    "totalVotes": 17
+  },
+  {
+    "ref": "shiiin9/beat-v48-100-0-your-herd-is-decided-on-day-6",
+    "title": "Beat V48 100-0: Your Herd Is Decided on Day 6",
+    "author": "shiiin9",
+    "lastRunTime": "2026-09-19T07:50:14.283000",
+    "totalVotes": 2
+  },
+  {
+    "ref": "sunil123kumar/kaggriculture-top-10-public-bots",
+    "title": "Kaggriculture - Top 10 Public Bots",
+    "author": "sunil kumar",
+    "lastRunTime": "2026-09-19T04:20:11.227000",
+    "totalVotes": 3
+  },
+  {
+    "ref": "goodpjw2008/kaggriculture-melon-threshold-squeeze-2749",
+    "title": "Kaggriculture: Melon threshold squeeze [2749]",
+    "author": "goodpjw2008",
+    "lastRunTime": "2026-09-19T01:26:05.127000",
+    "totalVotes": 10
+  },
+  {
+    "ref": "thomastschinkel/the-2945-farm-96-vs-the-top-10-public-bots",
+    "title": "The 2945 Farm: 96% vs the Top-10 Public Bots",
+    "author": "Thomas Tschinkel",
+    "lastRunTime": "2026-09-19T00:15:41.700000",
+    "totalVotes": 158
+  },
+  {
+    "ref": "alperen5252525/kaggriculture-market-rhythm-sale-policy",
+    "title": "Kaggriculture: Market Rhythm - Sale Policy",
+    "author": "Alperen Ayd\u0131n",
+    "lastRunTime": "2026-09-19T10:23:54.133000",
+    "totalVotes": 21
+  },
+  {
+    "ref": "ahmedberatozer/kaggriculture-v49-funded-sale-timing-and-worker",
+    "title": "Kaggriculture V49 : Funded sale timing and worker ",
+    "author": "Ahmed Berat \u00d6zer",
+    "lastRunTime": "2026-09-19T08:00:46.180000",
+    "totalVotes": 23
+  },
+  {
+    "ref": "tetsutani/demand-preserving-turn-sale-timing",
+    "title": "\ud83c\udf3e Demand-Preserving Turn Sale Timing",
+    "author": "tetsu2131",
+    "lastRunTime": "2026-09-28T17:41:42.473000",
+    "totalVotes": 122
+  },
+  {
+    "ref": "guruprasaathas111/game-theoretic-master-discrete-optimization",
+    "title": " Game-Theoretic Master: Discrete Optimization ",
+    "author": "Guru Prasaath S",
+    "lastRunTime": "2026-09-19T08:31:32.153000",
+    "totalVotes": 32
+  },
+  {
+    "ref": "alperen5252525/kaggriculture-first-in-line-stock-into-income",
+    "title": "Kaggriculture: First in Line - Stock Into Income",
+    "author": "Alperen Ayd\u0131n",
+    "lastRunTime": "2026-09-18T15:20:13.387000",
+    "totalVotes": 60
+  },
+  {
+    "ref": "zihengedie/best-version",
+    "title": "best version",
+    "author": "ziheng",
+    "lastRunTime": "2026-09-19T04:57:23.403000",
+    "totalVotes": 3
+  },
+  {
+    "ref": "sunil123kumar/kaggriculture-v8",
+    "title": "Kaggriculture - V8",
+    "author": "sunil kumar",
+    "lastRunTime": "2026-09-18T03:59:23.310000",
+    "totalVotes": 35
+  },
+  {
+    "ref": "ahmedberatozer/kaggriculture-v48-clear-the-queue",
+    "title": "Kaggriculture V48 \u2014 Clear the Queue",
+    "author": "Ahmed Berat \u00d6zer",
+    "lastRunTime": "2026-09-17T22:09:24.473000",
+    "totalVotes": 85
+  },
+  {
+    "ref": "anhadmahajan06/kaggriculture-autonomous-ai-farming-agent",
+    "title": "Kaggriculture: Autonomous AI Farming Agent",
+    "author": "Anhad Mahajan",
+    "lastRunTime": "2026-09-24T10:42:35.380000",
+    "totalVotes": 17
+  },
+  {
+    "ref": "syedtahahassan/kaggriculture-hack",
+    "title": "kaggriculture-hack",
+    "author": "Taha Hassan",
+    "lastRunTime": "2026-09-25T11:05:54.660000",
+    "totalVotes": 5
+  },
+  {
+    "ref": "ahmedberatozer/kaggriculture-v47-reactive-market-coordination",
+    "title": "Kaggriculture V47 \u2014 Reactive Market Coordination",
+    "author": "Ahmed Berat \u00d6zer",
+    "lastRunTime": "2026-09-17T15:44:32.023000",
+    "totalVotes": 70
+  },
+  {
+    "ref": "alperen5252525/kaggriculture-ready-stock-earlier-sales",
+    "title": "Kaggriculture: Ready Stock, Earlier Sales",
+    "author": "Alperen Ayd\u0131n",
+    "lastRunTime": "2026-09-17T13:32:36.537000",
+    "totalVotes": 25
+  },
+  {
+    "ref": "aurax7/kaggriculture-shop-router-reactive-v7",
+    "title": "Kaggriculture_shop_router_reactive_v7",
+    "author": "Yaxon",
+    "lastRunTime": "2026-09-17T04:33:50.430000",
+    "totalVotes": 50
+  },
+  {
+    "ref": "xuanzhang001/kaggriculture-auto-top1",
+    "title": "kaggriculture auto top1",
+    "author": "Xman",
+    "lastRunTime": "2026-09-21T09:48:49.417000",
+    "totalVotes": 1
+  },
+  {
+    "ref": "ahmedberatozer/kaggriculture-v46-first-turn-microstructure-and-s",
+    "title": "Kaggriculture V46: First-Turn Microstructure and S",
+    "author": "Ahmed Berat \u00d6zer",
+    "lastRunTime": "2026-09-16T22:04:07.597000",
+    "totalVotes": 72
+  },
+  {
+    "ref": "aasim2003/notebookb3a3ef21c3",
+    "title": "notebookb3a3ef21c3",
+    "author": "Mohd Aasim Ansari",
+    "lastRunTime": "2026-09-16T21:28:47.427000",
+    "totalVotes": 3
+  },
+  {
+    "ref": "seyitkaangunes/kaggriculture-2820-score",
+    "title": "Kaggriculture: 2820 score",
+    "author": "Seyit kaan Gunes",
+    "lastRunTime": "2026-09-16T21:01:27.187000",
+    "totalVotes": 13
+  },
+  {
+    "ref": "nathanjacob/kaggriculture-pipe-8-clean-opening",
+    "title": "Kaggriculture: Pipe-8 Clean Opening",
+    "author": "Nathan Jacob",
+    "lastRunTime": "2026-09-16T17:14:54.863000",
+    "totalVotes": 7
+  },
+  {
+    "ref": "sunil123kumar/kaggriculture-wheat-microstructure",
+    "title": "Kaggriculture - Wheat Microstructure",
+    "author": "sunil kumar",
+    "lastRunTime": "2026-09-16T16:31:51.840000",
+    "totalVotes": 6
+  },
+  {
+    "ref": "uninhibitedscholar/kaggriculture-beyond-48-order-sequencing",
+    "title": "Kaggriculture Beyond-48: Order Sequencing",
+    "author": "uninhibited-scholar",
+    "lastRunTime": "2026-09-16T16:17:43.553000",
+    "totalVotes": 1
+  },
+  {
+    "ref": "uninhibitedscholar/kaggriculture-pipe-7-market-microstructure",
+    "title": "Kaggriculture Pipe-7: Market Microstructure",
+    "author": "uninhibited-scholar",
+    "lastRunTime": "2026-09-16T16:17:35.037000",
+    "totalVotes": 1
+  },
+  {
+    "ref": "degnonguidi/best-agent-ranking",
+    "title": "best_agent_ranking",
+    "author": "renji_starfall",
+    "lastRunTime": "2026-09-22T08:15:08.870000",
+    "totalVotes": 55
+  },
+  {
+    "ref": "jaxa623/2802-two-identical-agents-90-points-apart",
+    "title": "[2802] Two Identical Agents, 90 Points Apart",
+    "author": "sdy623",
+    "lastRunTime": "2026-09-17T02:43:03.067000",
+    "totalVotes": 71
+  },
+  {
+    "ref": "xuanzhang001/kaggriculture-pipe7-public-top1",
+    "title": "kaggriculture pipe7 public top1",
+    "author": "Xman",
+    "lastRunTime": "2026-09-16T13:08:27.240000",
+    "totalVotes": 4
+  },
+  {
+    "ref": "xuantianfengwu/kaggriculture-capacity-release",
+    "title": "Kaggriculture Capacity Release",
+    "author": "Zhihuan Xue",
+    "lastRunTime": "2026-09-16T11:06:36.247000",
+    "totalVotes": 6
+  },
+  {
+    "ref": "ayodejiibrahimlateef/kaggriculture-cloning-v45-open-78-experiment",
+    "title": "Kaggriculture Cloning V45 Open 78 Experiment",
+    "author": "Ayodeji",
+    "lastRunTime": "2026-09-16T16:07:48.950000",
+    "totalVotes": 7
+  },
+  {
+    "ref": "nathanjacob/kaggriculture-pipe-7-wheat-microstructure",
+    "title": "Kaggriculture: Pipe-7 Wheat Microstructure",
+    "author": "Nathan Jacob",
+    "lastRunTime": "2026-09-16T10:55:40.357000",
+    "totalVotes": 65
+  },
+  {
+    "ref": "jaxa623/2780-beyond-48-0-128-128-worlds-with-95-cis",
+    "title": "[2780] Beyond 48-0: 128/128 Worlds with 95% CIs ",
+    "author": "sdy623",
+    "lastRunTime": "2026-09-17T00:02:29.400000",
+    "totalVotes": 44
+  },
+  {
+    "ref": "xuantianfengwu/kaggriculture-day-3-cow-challenger",
+    "title": "Kaggriculture Day 3 Cow Challenger",
+    "author": "Zhihuan Xue",
+    "lastRunTime": "2026-09-16T06:01:36.663000",
+    "totalVotes": 2
+  },
+  {
+    "ref": "aurax7/kaggriculture-shop-router-reactive-v6",
+    "title": "Kaggriculture_shop_router_reactive_v6",
+    "author": "Yaxon",
+    "lastRunTime": "2026-09-16T02:25:36.127000",
+    "totalVotes": 4
+  },
+  {
+    "ref": "ahmedberatozer/kaggriculture-v45-first-turn-wheat-round-trip",
+    "title": "Kaggriculture V45: First-Turn Wheat Round Trip",
+    "author": "Ahmed Berat \u00d6zer",
+    "lastRunTime": "2026-09-15T19:51:35.457000",
+    "totalVotes": 89
+  },
+  {
+    "ref": "degnonguidi/kaggriculture-cloning-agent",
+    "title": "kaggriculture_cloning_agent",
+    "author": "renji_starfall",
+    "lastRunTime": "2026-09-15T23:19:51.900000",
+    "totalVotes": 63
+  },
+  {
+    "ref": "arsgorynich/kaggriculture-v43-local-confirmed",
+    "title": "Kaggriculture V43 Local Confirmed",
+    "author": "Arsgorynich",
+    "lastRunTime": "2026-09-15T15:51:27.493000",
+    "totalVotes": 8
+  },
+  {
+    "ref": "ahmedberatozer/kaggriculture-v44-winning-the-same-turn-sale-race",
+    "title": "Kaggriculture V44: Winning the Same-Turn Sale Race",
+    "author": "Ahmed Berat \u00d6zer",
+    "lastRunTime": "2026-09-15T18:27:44.470000",
+    "totalVotes": 34
+  },
+  {
+    "ref": "alperen5252525/turn-one-market-advantage-kaggriculture",
+    "title": "Turn-One Market Advantage | Kaggriculture",
+    "author": "Alperen Ayd\u0131n",
+    "lastRunTime": "2026-09-15T13:24:02.117000",
+    "totalVotes": 14
+  },
+  {
+    "ref": "hesoponyo/pure-rl-agent-bc-ppo-self-play",
+    "title": "Pure RL agent: BC + PPO self-play",
+    "author": "J.Moriuchi",
+    "lastRunTime": "2026-09-16T00:46:40.650000",
+    "totalVotes": 6
+  },
+  {
+    "ref": "nathanjacob/beyond-v43-what-the-top-clusters-do-on-turn-1",
+    "title": "Beyond V43: What the Top Clusters Do on Turn 1",
+    "author": "Nathan Jacob",
+    "lastRunTime": "2026-09-15T07:12:17.730000",
+    "totalVotes": 38
+  }
+]

@@ -1,0 +1,145 @@
+{
+ "label": "ctl",
+ "cand": "data/candidate/shep_v_cap8_ctl/main.py",
+ "base": "data/candidate/shep_v_cap8/main.py",
+ "seeds": [
+  11400,
+  11409
+ ],
+ "games": 20,
+ "delta": 0.0,
+ "t": 0.0,
+ "wins": 2,
+ "losses": 2,
+ "cand_wallet": 87348.9,
+ "base_wallet": 87348.9,
+ "errors": 0,
+ "cand_exceptions": 0,
+ "base_exceptions": 0,
+ "cand_mech": {
+  "PASS": 9770,
+  "CMD": 78938,
+  "MKT_BUY_PRODUCT": 1410,
+  "MKT_SELL": 7161,
+  "MKT_BUY_SEED": 3670,
+  "MOVE": 58128,
+  "MKT_HIRE": 5402,
+  "MKT_BUY_ANIMAL": 240,
+  "PICKUP": 4064,
+  "BUILD_PASTURE": 284,
+  "PLACE": 2008,
+  "PLANT": 4798,
+  "CARE": 8100,
+  "WATER": 22128,
+  "FEED": 6364,
+  "COLLECT_FERTILIZER": 7446,
+  "HARVEST": 9746,
+  "DROP": 1000,
+  "MKT_BUY_LAND": 42,
+  "BUILD_COOP": 96,
+  "DIG": 758,
+  "FERTILIZE": 2376
+ },
+ "base_mech": {
+  "PASS": 9770,
+  "CMD": 78938,
+  "MKT_BUY_PRODUCT": 1410,
+  "MKT_SELL": 7161,
+  "MKT_BUY_SEED": 3670,
+  "MOVE": 58128,
+  "MKT_HIRE": 5402,
+  "MKT_BUY_ANIMAL": 240,
+  "PICKUP": 4064,
+  "BUILD_PASTURE": 284,
+  "PLACE": 2008,
+  "PLANT": 4798,
+  "CARE": 8100,
+  "WATER": 22128,
+  "FEED": 6364,
+  "COLLECT_FERTILIZER": 7446,
+  "HARVEST": 9746,
+  "DROP": 1000,
+  "MKT_BUY_LAND": 42,
+  "BUILD_COOP": 96,
+  "DIG": 758,
+  "FERTILIZE": 2376
+ },
+ "cand_diag": {
+  "race_tried": 7568,
+  "race_eval": 7724,
+  "race_implied": 6268,
+  "forward_orders": 1203,
+  "forward_units": 4008,
+  "race_considered": 156,
+  "race_reorders": 18,
+  "race_gain": 1083,
+  "RACE_race_clone_turns": 9520,
+  "RACE_race_horizon_turns": 9520,
+  "RACE_race_mirror": 20
+ },
+ "base_diag": {
+  "race_tried": 7567,
+  "race_eval": 7723,
+  "race_implied": 6269,
+  "forward_orders": 1203,
+  "forward_units": 4008,
+  "race_considered": 156,
+  "race_reorders": 18,
+  "race_gain": 1083,
+  "RACE_race_clone_turns": 9520,
+  "RACE_race_horizon_turns": 9520,
+  "RACE_race_mirror": 20
+ },
+ "per_seed": [
+  {
+   "seed": 11400,
+   "delta": 0.0,
+   "n": 2
+  },
+  {
+   "seed": 11401,
+   "delta": 0.0,
+   "n": 2
+  },
+  {
+   "seed": 11402,
+   "delta": 0.0,
+   "n": 2
+  },
+  {
+   "seed": 11403,
+   "delta": 0.0,
+   "n": 2
+  },
+  {
+   "seed": 11404,
+   "delta": 0.0,
+   "n": 2
+  },
+  {
+   "seed": 11405,
+   "delta": 0.0,
+   "n": 2
+  },
+  {
+   "seed": 11406,
+   "delta": 0.0,
+   "n": 2
+  },
+  {
+   "seed": 11407,
+   "delta": 0.0,
+   "n": 2
+  },
+  {
+   "seed": 11408,
+   "delta": 0.0,
+   "n": 2
+  },
+  {
+   "seed": 11409,
+   "delta": 0.0,
+   "n": 2
+  }
+ ]
+}

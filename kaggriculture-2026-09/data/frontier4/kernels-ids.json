@@ -1,0 +1,5474 @@
+{
+ "destbreso/x-ray-your-agent": {
+  "id": null,
+  "ref": "destbreso/x-ray-your-agent",
+  "title": "X-ray your agent",
+  "author": "destbreso",
+  "lastRunTime": "2026-09-28T23:03:07.293Z",
+  "totalVotes": 50,
+  "currentVersionNumber": null
+ },
+ "ashok205/top10-replay-dataset-archive": {
+  "id": null,
+  "ref": "ashok205/top10-replay-dataset-archive",
+  "title": "top10-replay-dataset-archive",
+  "author": "NNMax",
+  "lastRunTime": "2026-09-28T22:43:08.763Z",
+  "totalVotes": 19,
+  "currentVersionNumber": null
+ },
+ "georgymamarin/kaggriculture-what-2600-farms-do-differently": {
+  "id": null,
+  "ref": "georgymamarin/kaggriculture-what-2600-farms-do-differently",
+  "title": "Kaggriculture | What 2600+ Farms Do Differently",
+  "author": "Georgy Mamarin",
+  "lastRunTime": "2026-09-28T22:13:11.670Z",
+  "totalVotes": 50,
+  "currentVersionNumber": null
+ },
+ "evgendvorkin/kaggriculture-version-31-26-09-bronze-going-up": {
+  "id": null,
+  "ref": "evgendvorkin/kaggriculture-version-31-26-09-bronze-going-up",
+  "title": "Kaggriculture. Version 31, 26.09, bronze, going up",
+  "author": "\u0414\u0432\u043e\u0440\u043a\u0438\u043d \u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u0438\u0447",
+  "lastRunTime": "2026-09-28T20:33:56.420Z",
+  "totalVotes": 63,
+  "currentVersionNumber": null
+ },
+ "tetsutani/demand-preserving-turn-sale-timing": {
+  "id": null,
+  "ref": "tetsutani/demand-preserving-turn-sale-timing",
+  "title": "\ud83c\udf3e Demand-Preserving Turn Sale Timing",
+  "author": "tetsu2131",
+  "lastRunTime": "2026-09-28T17:41:42.473Z",
+  "totalVotes": 122,
+  "currentVersionNumber": null
+ },
+ "leoprovorov/god-s-mode-hacked-stores": {
+  "id": null,
+  "ref": "leoprovorov/god-s-mode-hacked-stores",
+  "title": "\ud83d\udc41\ufe0fGod's mode. Hacked stores.",
+  "author": "AlekseiProvorov",
+  "lastRunTime": "2026-09-28T16:31:19.367Z",
+  "totalVotes": 70,
+  "currentVersionNumber": null
+ },
+ "leoprovorov/a-song-of-ice-and-fire-fixed-flexible": {
+  "id": null,
+  "ref": "leoprovorov/a-song-of-ice-and-fire-fixed-flexible",
+  "title": "\u2744\ufe0f\ud83d\udd25 A Song of Ice and Fire | Fixed + Flexible",
+  "author": "AlekseiProvorov",
+  "lastRunTime": "2026-09-28T14:09:36.743Z",
+  "totalVotes": 87,
+  "currentVersionNumber": null
+ },
+ "haodou092/kaggriculture-harvest-ledger": {
+  "id": null,
+  "ref": "haodou092/kaggriculture-harvest-ledger",
+  "title": "Kaggriculture | Harvest Ledger",
+  "author": "haodou092",
+  "lastRunTime": "2026-09-28T12:01:11.217Z",
+  "totalVotes": 108,
+  "currentVersionNumber": null
+ },
+ "flexonafft/kaggriculture-multi-route-farming-agent": {
+  "id": null,
+  "ref": "flexonafft/kaggriculture-multi-route-farming-agent",
+  "title": "Kaggriculture | Multi-Route Farming Agent",
+  "author": "Igor Zharov",
+  "lastRunTime": "2026-09-28T10:57:43.067Z",
+  "totalVotes": 115,
+  "currentVersionNumber": null
+ },
+ "guruprasaathas111/kaggriculture-master-engine-v53e01d74d8f": {
+  "id": null,
+  "ref": "guruprasaathas111/kaggriculture-master-engine-v53e01d74d8f",
+  "title": "kaggriculture-master-engine-v53e01d74d8f",
+  "author": "Guru Prasaath S",
+  "lastRunTime": "2026-09-28T02:34:12.213Z",
+  "totalVotes": 66,
+  "currentVersionNumber": null
+ },
+ "haideptry/the-2965-master-hybrid-engine": {
+  "id": null,
+  "ref": "haideptry/the-2965-master-hybrid-engine",
+  "title": "The 2965 Master Hybrid Engine",
+  "author": "haideptry",
+  "lastRunTime": "2026-09-28T02:13:29.413Z",
+  "totalVotes": 65,
+  "currentVersionNumber": null
+ },
+ "guruprasaathas111/kaggriculture-top-2-master-engine-v4": {
+  "id": null,
+  "ref": "guruprasaathas111/kaggriculture-top-2-master-engine-v4",
+  "title": "Kaggriculture (TOP 2 )Master Engine V4 ",
+  "author": "Guru Prasaath S",
+  "lastRunTime": "2026-09-27T19:04:45.117Z",
+  "totalVotes": 73,
+  "currentVersionNumber": null
+ },
+ "leoprovorov/31415926535897932384626433832795058202884197169399": {
+  "id": null,
+  "ref": "leoprovorov/31415926535897932384626433832795058202884197169399",
+  "title": "31415926535897932384626433832795058202884197169399",
+  "author": "AlekseiProvorov",
+  "lastRunTime": "2026-09-27T17:57:01.187Z",
+  "totalVotes": 9,
+  "currentVersionNumber": null
+ },
+ "haideptry/the-shepherds-ledger-herd-safe-sovereign": {
+  "id": null,
+  "ref": "haideptry/the-shepherds-ledger-herd-safe-sovereign",
+  "title": "The Shepherds Ledger Herd Safe Sovereign",
+  "author": "haideptry",
+  "lastRunTime": "2026-09-27T15:15:53.437Z",
+  "totalVotes": 28,
+  "currentVersionNumber": null
+ },
+ "kunaldesale2408/kaggriculture-ttv1": {
+  "id": null,
+  "ref": "kunaldesale2408/kaggriculture-ttv1",
+  "title": "Kaggriculture TTV1",
+  "author": "Kunal Desale",
+  "lastRunTime": "2026-09-27T12:02:05.907Z",
+  "totalVotes": 34,
+  "currentVersionNumber": null
+ },
+ "lynnsakurai/farmer-john-and-the-idle-seller": {
+  "id": null,
+  "ref": "lynnsakurai/farmer-john-and-the-idle-seller",
+  "title": "Farmer John and the Idle Seller",
+  "author": "Arlene",
+  "lastRunTime": "2026-09-27T09:29:07.727Z",
+  "totalVotes": 44,
+  "currentVersionNumber": null
+ },
+ "leoprovorov/kaggricult-man-reverse-engineering": {
+  "id": null,
+  "ref": "leoprovorov/kaggricult-man-reverse-engineering",
+  "title": "\ud83d\udd77\ufe0fKaggricult-Man: Reverse-Engineering",
+  "author": "AlekseiProvorov",
+  "lastRunTime": "2026-09-26T15:58:27.010Z",
+  "totalVotes": 149,
+  "currentVersionNumber": null
+ },
+ "kunaldesale2408/kaggriculture-2026-v1": {
+  "id": null,
+  "ref": "kunaldesale2408/kaggriculture-2026-v1",
+  "title": "Kaggriculture 2026 V1",
+  "author": "Kunal Desale",
+  "lastRunTime": "2026-09-26T12:50:38.467Z",
+  "totalVotes": 24,
+  "currentVersionNumber": null
+ },
+ "lynnsakurai/farmer-john-and-the-wheat-seller": {
+  "id": null,
+  "ref": "lynnsakurai/farmer-john-and-the-wheat-seller",
+  "title": "Farmer John and the Wheat Seller",
+  "author": "Arlene",
+  "lastRunTime": "2026-09-26T06:49:42.483Z",
+  "totalVotes": 37,
+  "currentVersionNumber": null
+ },
+ "syedtahahassan/kaggriculture-hack": {
+  "id": null,
+  "ref": "syedtahahassan/kaggriculture-hack",
+  "title": "kaggriculture-hack",
+  "author": "Taha Hassan",
+  "lastRunTime": "2026-09-25T11:05:54.660Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "guruprasaathas111/kaggriculture-master-engine-v3": {
+  "id": null,
+  "ref": "guruprasaathas111/kaggriculture-master-engine-v3",
+  "title": "Kaggriculture Master Engine V3",
+  "author": "Guru Prasaath S",
+  "lastRunTime": "2026-09-25T02:50:02.587Z",
+  "totalVotes": 122,
+  "currentVersionNumber": null
+ },
+ "degnonguidi/kaggriculture-utils-v1": {
+  "id": null,
+  "ref": "degnonguidi/kaggriculture-utils-v1",
+  "title": "kaggriculture_utils_v1",
+  "author": "renji_starfall",
+  "lastRunTime": "2026-09-24T18:16:34.677Z",
+  "totalVotes": 41,
+  "currentVersionNumber": null
+ },
+ "nihilisticneuralnet/kaggriculture-population-robust-economy": {
+  "id": null,
+  "ref": "nihilisticneuralnet/kaggriculture-population-robust-economy",
+  "title": "Kaggriculture: Population-Robust Economy",
+  "author": "parthenos",
+  "lastRunTime": "2026-09-24T13:03:50.793Z",
+  "totalVotes": 53,
+  "currentVersionNumber": null
+ },
+ "anhadmahajan06/kaggriculture-autonomous-ai-farming-agent": {
+  "id": null,
+  "ref": "anhadmahajan06/kaggriculture-autonomous-ai-farming-agent",
+  "title": "Kaggriculture: Autonomous AI Farming Agent",
+  "author": "Anhad Mahajan",
+  "lastRunTime": "2026-09-24T10:42:35.380Z",
+  "totalVotes": 17,
+  "currentVersionNumber": null
+ },
+ "abhinav0370/cha22-agent": {
+  "id": null,
+  "ref": "abhinav0370/cha22-agent",
+  "title": "cha22 agent",
+  "author": "Abhinav0370",
+  "lastRunTime": "2026-09-24T09:30:24.023Z",
+  "totalVotes": 105,
+  "currentVersionNumber": null
+ },
+ "hanifnoerrofiq/pioneers-of-kaggle-town-candidate-2": {
+  "id": null,
+  "ref": "hanifnoerrofiq/pioneers-of-kaggle-town-candidate-2",
+  "title": "Pioneers of Kaggle Town - Candidate 2",
+  "author": "Hanif Noer Rofiq",
+  "lastRunTime": "2026-09-24T05:33:34.670Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "djamilabenchikh/graph-reinforcement-learning": {
+  "id": null,
+  "ref": "djamilabenchikh/graph-reinforcement-learning",
+  "title": "Graph + Reinforcement Learning",
+  "author": "Djami La",
+  "lastRunTime": "2026-09-23T17:01:16.977Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "yangkuangou/kaggriculture-agent-lab-copy-replay-compare": {
+  "id": null,
+  "ref": "yangkuangou/kaggriculture-agent-lab-copy-replay-compare",
+  "title": "Kaggriculture Agent Lab: Copy, Replay & Compare",
+  "author": "Yang Kuang Ou",
+  "lastRunTime": "2026-09-23T14:54:13.300Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "rehanliaqat17/kaggriculture-getting-started": {
+  "id": null,
+  "ref": "rehanliaqat17/kaggriculture-getting-started",
+  "title": "Kaggriculture: Getting Started",
+  "author": "Rehan Liaqat",
+  "lastRunTime": "2026-09-23T12:50:35.350Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "yasutakababa/kaggriculture-late-purchase-v16-submit": {
+  "id": null,
+  "ref": "yasutakababa/kaggriculture-late-purchase-v16-submit",
+  "title": "kaggriculture late purchase v16 submit",
+  "author": "yasu",
+  "lastRunTime": "2026-09-23T12:28:35.757Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "statma/kaggriculture-herd-safe-sale-window-race-ca25": {
+  "id": null,
+  "ref": "statma/kaggriculture-herd-safe-sale-window-race-ca25",
+  "title": "Kaggriculture: Herd-Safe Sale Window race ca25",
+  "author": "statma",
+  "lastRunTime": "2026-09-23T11:59:37.010Z",
+  "totalVotes": 13,
+  "currentVersionNumber": null
+ },
+ "georgymamarin/kaggriculture-visualized-what-every-crop-pays": {
+  "id": null,
+  "ref": "georgymamarin/kaggriculture-visualized-what-every-crop-pays",
+  "title": "Kaggriculture, Visualized: What Every Crop Pays",
+  "author": "Georgy Mamarin",
+  "lastRunTime": "2026-09-23T11:23:33.460Z",
+  "totalVotes": 113,
+  "currentVersionNumber": null
+ },
+ "hanifnoerrofiq/pioneers-of-kaggle-town": {
+  "id": null,
+  "ref": "hanifnoerrofiq/pioneers-of-kaggle-town",
+  "title": "Pioneers of Kaggle Town",
+  "author": "Hanif Noer Rofiq",
+  "lastRunTime": "2026-09-23T10:59:49.683Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "arsgorynich/herd-safe-v3-experimental-risk-aware-feed": {
+  "id": null,
+  "ref": "arsgorynich/herd-safe-v3-experimental-risk-aware-feed",
+  "title": "Herd Safe v3 Experimental Risk Aware Feed",
+  "author": "Arsgorynich",
+  "lastRunTime": "2026-09-23T10:15:04.340Z",
+  "totalVotes": 74,
+  "currentVersionNumber": null
+ },
+ "statma/kaggriculture-thomas-2944-candidate": {
+  "id": null,
+  "ref": "statma/kaggriculture-thomas-2944-candidate",
+  "title": "Kaggriculture: Thomas 2944 candidate",
+  "author": "statma",
+  "lastRunTime": "2026-09-23T09:58:34.033Z",
+  "totalVotes": 9,
+  "currentVersionNumber": null
+ },
+ "arsgorynich/kaggriculture-v40-challenger": {
+  "id": null,
+  "ref": "arsgorynich/kaggriculture-v40-challenger",
+  "title": "Kaggriculture V40 Challenger",
+  "author": "Arsgorynich",
+  "lastRunTime": "2026-09-23T05:45:44.653Z",
+  "totalVotes": 10,
+  "currentVersionNumber": null
+ },
+ "wzhengbiao/kaggriculture-hybu-submit": {
+  "id": null,
+  "ref": "wzhengbiao/kaggriculture-hybu-submit",
+  "title": "kaggriculture hybu submit",
+  "author": "WUZB",
+  "lastRunTime": "2026-09-23T03:13:16.373Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "statma/kaggriculture-tetsutani-demand-preserving": {
+  "id": null,
+  "ref": "statma/kaggriculture-tetsutani-demand-preserving",
+  "title": "kaggriculture-tetsutani-demand-preserving",
+  "author": "statma",
+  "lastRunTime": "2026-09-23T01:55:16.807Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "statma/kaggriculture-herd-safe-sale-window-submit": {
+  "id": null,
+  "ref": "statma/kaggriculture-herd-safe-sale-window-submit",
+  "title": "Kaggriculture: Herd-Safe Sale Window submit",
+  "author": "statma",
+  "lastRunTime": "2026-09-23T00:53:01.737Z",
+  "totalVotes": 10,
+  "currentVersionNumber": null
+ },
+ "statma/kaggriculture-herd-safe-sale-window-race-ca20": {
+  "id": null,
+  "ref": "statma/kaggriculture-herd-safe-sale-window-race-ca20",
+  "title": "Kaggriculture: Herd-Safe Sale Window race ca20",
+  "author": "statma",
+  "lastRunTime": "2026-09-23T00:31:53.683Z",
+  "totalVotes": 19,
+  "currentVersionNumber": null
+ },
+ "prvsiyan/kaggriculture-floor-aware-market-ledger-20260923": {
+  "id": null,
+  "ref": "prvsiyan/kaggriculture-floor-aware-market-ledger-20260923",
+  "title": "Kaggriculture Floor-Aware Market Ledger 20260923",
+  "author": "prvsiyan",
+  "lastRunTime": "2026-09-22T22:49:28.260Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "prvsiyan/kaggriculture-frontier-the-soil-remembers-rain": {
+  "id": null,
+  "ref": "prvsiyan/kaggriculture-frontier-the-soil-remembers-rain",
+  "title": "Kaggriculture Frontier | The Soil Remembers Rain",
+  "author": "prvsiyan",
+  "lastRunTime": "2026-09-22T22:34:33.133Z",
+  "totalVotes": 108,
+  "currentVersionNumber": null
+ },
+ "prvsiyan/kaggriculture-frontier-the-moon-counts-melons": {
+  "id": null,
+  "ref": "prvsiyan/kaggriculture-frontier-the-moon-counts-melons",
+  "title": "Kaggriculture Frontier | The Moon Counts Melons",
+  "author": "prvsiyan",
+  "lastRunTime": "2026-09-22T22:34:13.507Z",
+  "totalVotes": 115,
+  "currentVersionNumber": null
+ },
+ "bardiabahadori/kaggriculture-agent-selection-engine-traps": {
+  "id": null,
+  "ref": "bardiabahadori/kaggriculture-agent-selection-engine-traps",
+  "title": "Kaggriculture: Agent Selection & Engine Traps",
+  "author": "Bardia Bahadori",
+  "lastRunTime": "2026-09-22T21:08:00.687Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "wzhengbiao/kaggriculture-v15stack-nb": {
+  "id": null,
+  "ref": "wzhengbiao/kaggriculture-v15stack-nb",
+  "title": "kaggriculture v15stack nb",
+  "author": "WUZB",
+  "lastRunTime": "2026-09-22T19:18:15.817Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "wzhengbiao/kaggriculture-v15stack-submit": {
+  "id": null,
+  "ref": "wzhengbiao/kaggriculture-v15stack-submit",
+  "title": "kaggriculture v15stack submit",
+  "author": "WUZB",
+  "lastRunTime": "2026-09-22T19:00:58.957Z",
+  "totalVotes": 62,
+  "currentVersionNumber": null
+ },
+ "dmitriigluzdov/kaggriculture-more-wheat-smarter-sales": {
+  "id": null,
+  "ref": "dmitriigluzdov/kaggriculture-more-wheat-smarter-sales",
+  "title": "Kaggriculture: More Wheat, Smarter Sales",
+  "author": "Dmitrii Gluzdov",
+  "lastRunTime": "2026-09-22T15:44:23.697Z",
+  "totalVotes": 36,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v57-funding-order-invariant": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v57-funding-order-invariant",
+  "title": "Kaggriculture V57 \u2014 Funding-Order Invariant",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-22T12:50:17.380Z",
+  "totalVotes": 51,
+  "currentVersionNumber": null
+ },
+ "dmitriigluzdov/kaggriculture-7-turn-rescue-historical-lb-2800": {
+  "id": null,
+  "ref": "dmitriigluzdov/kaggriculture-7-turn-rescue-historical-lb-2800",
+  "title": "Kaggriculture: 7-Turn Rescue | Historical LB 2800+",
+  "author": "Dmitrii Gluzdov",
+  "lastRunTime": "2026-09-22T11:32:29.520Z",
+  "totalVotes": 67,
+  "currentVersionNumber": null
+ },
+ "arsgorynich/order-book-v3-response-improvement": {
+  "id": null,
+  "ref": "arsgorynich/order-book-v3-response-improvement",
+  "title": "Order Book v3 Response Improvement",
+  "author": "Arsgorynich",
+  "lastRunTime": "2026-09-22T11:02:40.573Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "avndope/measure-first": {
+  "id": null,
+  "ref": "avndope/measure-first",
+  "title": "measure-first",
+  "author": "Avineesh Arora",
+  "lastRunTime": "2026-09-22T10:20:24.873Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "prvsiyan/kaggriculture-hybrid-state-ledger-20260922": {
+  "id": null,
+  "ref": "prvsiyan/kaggriculture-hybrid-state-ledger-20260922",
+  "title": "Kaggriculture Hybrid State Ledger 20260922",
+  "author": "prvsiyan",
+  "lastRunTime": "2026-09-22T10:05:23.170Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "degnonguidi/best-agent-ranking": {
+  "id": null,
+  "ref": "degnonguidi/best-agent-ranking",
+  "title": "best_agent_ranking",
+  "author": "renji_starfall",
+  "lastRunTime": "2026-09-22T08:15:08.870Z",
+  "totalVotes": 55,
+  "currentVersionNumber": null
+ },
+ "shiiin9/your-market-list-is-an-order-book": {
+  "id": null,
+  "ref": "shiiin9/your-market-list-is-an-order-book",
+  "title": "Your Market List Is an Order Book",
+  "author": "shiiin9",
+  "lastRunTime": "2026-09-21T23:16:29.983Z",
+  "totalVotes": 47,
+  "currentVersionNumber": null
+ },
+ "nathanjacob/kaggriculture-pipe18-six-layers": {
+  "id": null,
+  "ref": "nathanjacob/kaggriculture-pipe18-six-layers",
+  "title": "Kaggriculture Pipe18 Six Layers",
+  "author": "Nathan Jacob",
+  "lastRunTime": "2026-09-21T21:32:30.580Z",
+  "totalVotes": 24,
+  "currentVersionNumber": null
+ },
+ "shivam2212/high-speed-compressed-replay-retrival": {
+  "id": null,
+  "ref": "shivam2212/high-speed-compressed-replay-retrival",
+  "title": "\u26a1High-Speed Compressed Replay Retrival ",
+  "author": "Shivam_2212",
+  "lastRunTime": "2026-09-21T17:59:58.150Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v56-smarter-seeds-and-fertilizer": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v56-smarter-seeds-and-fertilizer",
+  "title": "Kaggriculture V56 \u2014 Smarter Seeds and Fertilizer",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-21T15:28:15.713Z",
+  "totalVotes": 71,
+  "currentVersionNumber": null
+ },
+ "destbreso/every-community-agent-one-arena": {
+  "id": null,
+  "ref": "destbreso/every-community-agent-one-arena",
+  "title": "Every community agent, one arena",
+  "author": "destbreso",
+  "lastRunTime": "2026-09-21T13:54:37.307Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "hakdevelopment/kaggriculture-2887-score-fieldcraft-agent": {
+  "id": null,
+  "ref": "hakdevelopment/kaggriculture-2887-score-fieldcraft-agent",
+  "title": "Kaggriculture 2887 Score Fieldcraft Agent",
+  "author": "Hak",
+  "lastRunTime": "2026-09-21T13:30:07.297Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v55-one-turn-market-race-edge": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v55-one-turn-market-race-edge",
+  "title": " Kaggriculture V55 \u2014 One-Turn Market Race Edge",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-21T11:27:49.737Z",
+  "totalVotes": 68,
+  "currentVersionNumber": null
+ },
+ "xuanzhang001/kaggriculture-auto-top1": {
+  "id": null,
+  "ref": "xuanzhang001/kaggriculture-auto-top1",
+  "title": "kaggriculture auto top1",
+  "author": "Xman",
+  "lastRunTime": "2026-09-21T09:48:49.417Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "datascikhan/farmcraft-kaggriculture-grandmaster": {
+  "id": null,
+  "ref": "datascikhan/farmcraft-kaggriculture-grandmaster",
+  "title": "\ud83c\udf3e FarmCraft: Kaggriculture Grandmaster",
+  "author": "Shair Khan",
+  "lastRunTime": "2026-09-21T08:29:47.307Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v54-productive-wheat-and-patient": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v54-productive-wheat-and-patient",
+  "title": " Kaggriculture V54 \u2014 Productive Wheat and Patient ",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-21T08:26:55.227Z",
+  "totalVotes": 20,
+  "currentVersionNumber": null
+ },
+ "datascikhan/harvestlens-an-independent-kaggriculture-bench": {
+  "id": null,
+  "ref": "datascikhan/harvestlens-an-independent-kaggriculture-bench",
+  "title": "\ud83c\udf31 HarvestLens_An_Independent_Kaggriculture_Bench",
+  "author": "Shair Khan",
+  "lastRunTime": "2026-09-21T08:21:26.727Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "datascikhan/cropsense-the-adaptive-farm-ai": {
+  "id": null,
+  "ref": "datascikhan/cropsense-the-adaptive-farm-ai",
+  "title": "\ud83c\udf3e CropSense_The_Adaptive_Farm_AI",
+  "author": "Shair Khan",
+  "lastRunTime": "2026-09-21T07:39:18.240Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "datascikhan/farmpilot-ai": {
+  "id": null,
+  "ref": "datascikhan/farmpilot-ai",
+  "title": "\ud83c\udfc6 FarmPilot_AI\ud83c\udf3e ",
+  "author": "Shair Khan",
+  "lastRunTime": "2026-09-21T07:29:31.960Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "sunil123kumar/kaggriculture-idle-workers": {
+  "id": null,
+  "ref": "sunil123kumar/kaggriculture-idle-workers",
+  "title": "Kaggriculture - Idle Workers",
+  "author": "sunil kumar",
+  "lastRunTime": "2026-09-21T04:45:38.070Z",
+  "totalVotes": 8,
+  "currentVersionNumber": null
+ },
+ "crystalbaby/god-s-mode-hacked-stores": {
+  "id": null,
+  "ref": "crystalbaby/god-s-mode-hacked-stores",
+  "title": "\ud83d\udc41\ufe0fGod's mode. Hacked stores.",
+  "author": "Sung Jin-woo",
+  "lastRunTime": "2026-09-21T03:36:57.687Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "haideptry/the-2950-peak-farm": {
+  "id": null,
+  "ref": "haideptry/the-2950-peak-farm",
+  "title": "The 2950 Peak Farm",
+  "author": "haideptry",
+  "lastRunTime": "2026-09-21T03:19:29.350Z",
+  "totalVotes": 13,
+  "currentVersionNumber": null
+ },
+ "kenanzhang9/kaggriculture-a1-t31-guard": {
+  "id": null,
+  "ref": "kenanzhang9/kaggriculture-a1-t31-guard",
+  "title": "Kaggriculture A1-T31 Guard",
+  "author": "Kenan Zhang9",
+  "lastRunTime": "2026-09-21T02:13:15.630Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "prvsiyan/kaggriculture-route-ab-timing-lab-20260921": {
+  "id": null,
+  "ref": "prvsiyan/kaggriculture-route-ab-timing-lab-20260921",
+  "title": "Kaggriculture Route Ab Timing Lab 20260921",
+  "author": "prvsiyan",
+  "lastRunTime": "2026-09-20T21:00:55.970Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "dmitriigluzdov/kaggriculture-one-more-wheat": {
+  "id": null,
+  "ref": "dmitriigluzdov/kaggriculture-one-more-wheat",
+  "title": "Kaggriculture: One More Wheat",
+  "author": "Dmitrii Gluzdov",
+  "lastRunTime": "2026-09-20T17:25:38.703Z",
+  "totalVotes": 62,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v53-opening-signature": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v53-opening-signature",
+  "title": "Kaggriculture V53 \u2014 Opening Signature ",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-20T14:00:38.033Z",
+  "totalVotes": 44,
+  "currentVersionNumber": null
+ },
+ "prvsiyan/kaggriculture-visible-price-switch-lab": {
+  "id": null,
+  "ref": "prvsiyan/kaggriculture-visible-price-switch-lab",
+  "title": "Kaggriculture Visible-Price Switch Lab",
+  "author": "prvsiyan",
+  "lastRunTime": "2026-09-20T13:21:39.377Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "nathanjacob/kaggriculture-pipe16-idle-workers": {
+  "id": null,
+  "ref": "nathanjacob/kaggriculture-pipe16-idle-workers",
+  "title": "Kaggriculture Pipe16 Idle Workers",
+  "author": "Nathan Jacob",
+  "lastRunTime": "2026-09-20T10:43:53.643Z",
+  "totalVotes": 57,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v52-lean-flock-yarn-route": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v52-lean-flock-yarn-route",
+  "title": "Kaggriculture V52 \u2014 Lean Flock, Yarn Route",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-20T10:38:58.783Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "hosen42/kaggriculture-m4a-metav4-sr18-2690-1": {
+  "id": null,
+  "ref": "hosen42/kaggriculture-m4a-metav4-sr18-2690-1",
+  "title": "kaggriculture-m4a-metav4-sr18 : 2690.1",
+  "author": "Md. Hamid Hosen",
+  "lastRunTime": "2026-09-20T09:53:03.317Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v51-lean-flock": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v51-lean-flock",
+  "title": "Kaggriculture V51 \u2014 Lean Flock",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-20T09:21:02.013Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "nathanjacob/kaggriculture-pipe15-two-layers": {
+  "id": null,
+  "ref": "nathanjacob/kaggriculture-pipe15-two-layers",
+  "title": "Kaggriculture Pipe15 Two Layers",
+  "author": "Nathan Jacob",
+  "lastRunTime": "2026-09-20T08:48:04.160Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "thomastschinkel/the-metav4-farm-submission-v13": {
+  "id": null,
+  "ref": "thomastschinkel/the-metav4-farm-submission-v13",
+  "title": "The Metav4 Farm: Submission v13",
+  "author": "Thomas Tschinkel",
+  "lastRunTime": "2026-09-20T06:58:38.693Z",
+  "totalVotes": 92,
+  "currentVersionNumber": null
+ },
+ "hanifnoerrofiq/a-wonderful-life": {
+  "id": null,
+  "ref": "hanifnoerrofiq/a-wonderful-life",
+  "title": "A wonderful Life",
+  "author": "Hanif Noer Rofiq",
+  "lastRunTime": "2026-09-20T02:27:48.983Z",
+  "totalVotes": 39,
+  "currentVersionNumber": null
+ },
+ "haideptry/countering-the-big-3-meta": {
+  "id": null,
+  "ref": "haideptry/countering-the-big-3-meta",
+  "title": "Countering the Big 3 Meta",
+  "author": "haideptry",
+  "lastRunTime": "2026-09-20T01:18:41.577Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "laveshjadon/kagriculture-winning-notebook": {
+  "id": null,
+  "ref": "laveshjadon/kagriculture-winning-notebook",
+  "title": "Kagriculture Winning_Notebook",
+  "author": "lavesh Jadon",
+  "lastRunTime": "2026-09-19T23:25:11.940Z",
+  "totalVotes": 10,
+  "currentVersionNumber": null
+ },
+ "takamichitoda/flyfarmer-connectome-plays-kaggriculture": {
+  "id": null,
+  "ref": "takamichitoda/flyfarmer-connectome-plays-kaggriculture",
+  "title": "\ud83e\udeb0FlyFarmer connectome plays Kaggriculture",
+  "author": "Takamichi Toda",
+  "lastRunTime": "2026-09-19T21:02:32.217Z",
+  "totalVotes": 8,
+  "currentVersionNumber": null
+ },
+ "haideptry/demystifying-2900-meta-reflex-engine-and-bot": {
+  "id": null,
+  "ref": "haideptry/demystifying-2900-meta-reflex-engine-and-bot",
+  "title": "Demystifying 2900 Meta Reflex Engine and Bot",
+  "author": "haideptry",
+  "lastRunTime": "2026-09-19T17:50:52.820Z",
+  "totalVotes": 9,
+  "currentVersionNumber": null
+ },
+ "dmitriigluzdov/kaggriculture-a-smaller-market-shock": {
+  "id": null,
+  "ref": "dmitriigluzdov/kaggriculture-a-smaller-market-shock",
+  "title": "Kaggriculture: A Smaller Market Shock",
+  "author": "Dmitrii Gluzdov",
+  "lastRunTime": "2026-09-19T15:16:19.027Z",
+  "totalVotes": 71,
+  "currentVersionNumber": null
+ },
+ "lynnsakurai/farming-score-v2-a-better-approach": {
+  "id": null,
+  "ref": "lynnsakurai/farming-score-v2-a-better-approach",
+  "title": "Farming Score V2: A Better Approach",
+  "author": "Arlene",
+  "lastRunTime": "2026-09-19T12:05:01.627Z",
+  "totalVotes": 30,
+  "currentVersionNumber": null
+ },
+ "alperen5252525/kaggriculture-market-rhythm-sale-policy": {
+  "id": null,
+  "ref": "alperen5252525/kaggriculture-market-rhythm-sale-policy",
+  "title": "Kaggriculture: Market Rhythm - Sale Policy",
+  "author": "Alperen Ayd\u0131n",
+  "lastRunTime": "2026-09-19T10:23:54.133Z",
+  "totalVotes": 21,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v50-early-yarn-commit": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v50-early-yarn-commit",
+  "title": "Kaggriculture V50 \u2014 Early Yarn Commit",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-19T09:33:51.890Z",
+  "totalVotes": 17,
+  "currentVersionNumber": null
+ },
+ "guruprasaathas111/game-theoretic-master-discrete-optimization": {
+  "id": null,
+  "ref": "guruprasaathas111/game-theoretic-master-discrete-optimization",
+  "title": " Game-Theoretic Master: Discrete Optimization ",
+  "author": "Guru Prasaath S",
+  "lastRunTime": "2026-09-19T08:31:32.153Z",
+  "totalVotes": 32,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v49-funded-sale-timing-and-worker": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v49-funded-sale-timing-and-worker",
+  "title": "Kaggriculture V49 : Funded sale timing and worker ",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-19T08:00:46.180Z",
+  "totalVotes": 23,
+  "currentVersionNumber": null
+ },
+ "shiiin9/beat-v48-100-0-your-herd-is-decided-on-day-6": {
+  "id": null,
+  "ref": "shiiin9/beat-v48-100-0-your-herd-is-decided-on-day-6",
+  "title": "Beat V48 100-0: Your Herd Is Decided on Day 6",
+  "author": "shiiin9",
+  "lastRunTime": "2026-09-19T07:50:14.283Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "zihengedie/best-version": {
+  "id": null,
+  "ref": "zihengedie/best-version",
+  "title": "best version",
+  "author": "ziheng",
+  "lastRunTime": "2026-09-19T04:57:23.403Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "sunil123kumar/kaggriculture-top-10-public-bots": {
+  "id": null,
+  "ref": "sunil123kumar/kaggriculture-top-10-public-bots",
+  "title": "Kaggriculture - Top 10 Public Bots",
+  "author": "sunil kumar",
+  "lastRunTime": "2026-09-19T04:20:11.227Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "goodpjw2008/kaggriculture-melon-threshold-squeeze-2749": {
+  "id": null,
+  "ref": "goodpjw2008/kaggriculture-melon-threshold-squeeze-2749",
+  "title": "Kaggriculture: Melon threshold squeeze [2749]",
+  "author": "goodpjw2008",
+  "lastRunTime": "2026-09-19T01:26:05.127Z",
+  "totalVotes": 10,
+  "currentVersionNumber": null
+ },
+ "taylorclark637/sovereign-swarm-kinematics-the": {
+  "id": null,
+  "ref": "taylorclark637/sovereign-swarm-kinematics-the",
+  "title": "Sovereign Swarm Kinematics the",
+  "author": "Taylor Clark",
+  "lastRunTime": "2026-09-19T00:35:52.440Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "thomastschinkel/the-2945-farm-96-vs-the-top-10-public-bots": {
+  "id": null,
+  "ref": "thomastschinkel/the-2945-farm-96-vs-the-top-10-public-bots",
+  "title": "The 2945 Farm: 96% vs the Top-10 Public Bots",
+  "author": "Thomas Tschinkel",
+  "lastRunTime": "2026-09-19T00:15:41.700Z",
+  "totalVotes": 158,
+  "currentVersionNumber": null
+ },
+ "alperen5252525/kaggriculture-first-in-line-stock-into-income": {
+  "id": null,
+  "ref": "alperen5252525/kaggriculture-first-in-line-stock-into-income",
+  "title": "Kaggriculture: First in Line - Stock Into Income",
+  "author": "Alperen Ayd\u0131n",
+  "lastRunTime": "2026-09-18T15:20:13.387Z",
+  "totalVotes": 60,
+  "currentVersionNumber": null
+ },
+ "mzcao7/kaggriculture-2476-8-peak-lightgbm-xgboost": {
+  "id": null,
+  "ref": "mzcao7/kaggriculture-2476-8-peak-lightgbm-xgboost",
+  "title": "Kaggriculture | 2476.8 Peak | LightGBM + XGBoost",
+  "author": "Mason Cao",
+  "lastRunTime": "2026-09-18T05:21:30.740Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "sunil123kumar/kaggriculture-v8": {
+  "id": null,
+  "ref": "sunil123kumar/kaggriculture-v8",
+  "title": "Kaggriculture - V8",
+  "author": "sunil kumar",
+  "lastRunTime": "2026-09-18T03:59:23.310Z",
+  "totalVotes": 35,
+  "currentVersionNumber": null
+ },
+ "salemali7/kaggriculture-2900": {
+  "id": null,
+  "ref": "salemali7/kaggriculture-2900",
+  "title": "Kaggriculture | 2900+ ",
+  "author": "Salem Ali",
+  "lastRunTime": "2026-09-17T22:19:44.837Z",
+  "totalVotes": 79,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v48-clear-the-queue": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v48-clear-the-queue",
+  "title": "Kaggriculture V48 \u2014 Clear the Queue",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-17T22:09:24.473Z",
+  "totalVotes": 85,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v47-reactive-market-coordination": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v47-reactive-market-coordination",
+  "title": "Kaggriculture V47 \u2014 Reactive Market Coordination",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-17T15:44:32.023Z",
+  "totalVotes": 70,
+  "currentVersionNumber": null
+ },
+ "tetsutani/market-smart-farming-kaggriculture": {
+  "id": null,
+  "ref": "tetsutani/market-smart-farming-kaggriculture",
+  "title": "\ud83c\udf3e Market-Smart Farming | Kaggriculture",
+  "author": "tetsu2131",
+  "lastRunTime": "2026-09-17T13:42:19.397Z",
+  "totalVotes": 106,
+  "currentVersionNumber": null
+ },
+ "alperen5252525/kaggriculture-ready-stock-earlier-sales": {
+  "id": null,
+  "ref": "alperen5252525/kaggriculture-ready-stock-earlier-sales",
+  "title": "Kaggriculture: Ready Stock, Earlier Sales",
+  "author": "Alperen Ayd\u0131n",
+  "lastRunTime": "2026-09-17T13:32:36.537Z",
+  "totalVotes": 25,
+  "currentVersionNumber": null
+ },
+ "aurax7/kaggriculture-shop-router-reactive-v7": {
+  "id": null,
+  "ref": "aurax7/kaggriculture-shop-router-reactive-v7",
+  "title": "Kaggriculture_shop_router_reactive_v7",
+  "author": "Yaxon",
+  "lastRunTime": "2026-09-17T04:33:50.430Z",
+  "totalVotes": 50,
+  "currentVersionNumber": null
+ },
+ "jaxa623/2802-two-identical-agents-90-points-apart": {
+  "id": null,
+  "ref": "jaxa623/2802-two-identical-agents-90-points-apart",
+  "title": "[2802] Two Identical Agents, 90 Points Apart",
+  "author": "sdy623",
+  "lastRunTime": "2026-09-17T02:43:03.067Z",
+  "totalVotes": 71,
+  "currentVersionNumber": null
+ },
+ "jaxa623/2780-beyond-48-0-128-128-worlds-with-95-cis": {
+  "id": null,
+  "ref": "jaxa623/2780-beyond-48-0-128-128-worlds-with-95-cis",
+  "title": "[2780] Beyond 48-0: 128/128 Worlds with 95% CIs ",
+  "author": "sdy623",
+  "lastRunTime": "2026-09-17T00:02:29.400Z",
+  "totalVotes": 44,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v46-first-turn-microstructure-and-s": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v46-first-turn-microstructure-and-s",
+  "title": "Kaggriculture V46: First-Turn Microstructure and S",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-16T22:04:07.597Z",
+  "totalVotes": 72,
+  "currentVersionNumber": null
+ },
+ "aasim2003/notebookb3a3ef21c3": {
+  "id": null,
+  "ref": "aasim2003/notebookb3a3ef21c3",
+  "title": "notebookb3a3ef21c3",
+  "author": "Mohd Aasim Ansari",
+  "lastRunTime": "2026-09-16T21:28:47.427Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "seyitkaangunes/kaggriculture-2820-score": {
+  "id": null,
+  "ref": "seyitkaangunes/kaggriculture-2820-score",
+  "title": "Kaggriculture: 2820 score",
+  "author": "Seyit kaan Gunes",
+  "lastRunTime": "2026-09-16T21:01:27.187Z",
+  "totalVotes": 13,
+  "currentVersionNumber": null
+ },
+ "nathanjacob/kaggriculture-pipe-8-clean-opening": {
+  "id": null,
+  "ref": "nathanjacob/kaggriculture-pipe-8-clean-opening",
+  "title": "Kaggriculture: Pipe-8 Clean Opening",
+  "author": "Nathan Jacob",
+  "lastRunTime": "2026-09-16T17:14:54.863Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "sunil123kumar/kaggriculture-wheat-microstructure": {
+  "id": null,
+  "ref": "sunil123kumar/kaggriculture-wheat-microstructure",
+  "title": "Kaggriculture - Wheat Microstructure",
+  "author": "sunil kumar",
+  "lastRunTime": "2026-09-16T16:31:51.840Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "uninhibitedscholar/kaggriculture-beyond-48-order-sequencing": {
+  "id": null,
+  "ref": "uninhibitedscholar/kaggriculture-beyond-48-order-sequencing",
+  "title": "Kaggriculture Beyond-48: Order Sequencing",
+  "author": "uninhibited-scholar",
+  "lastRunTime": "2026-09-16T16:17:43.553Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "uninhibitedscholar/kaggriculture-pipe-7-market-microstructure": {
+  "id": null,
+  "ref": "uninhibitedscholar/kaggriculture-pipe-7-market-microstructure",
+  "title": "Kaggriculture Pipe-7: Market Microstructure",
+  "author": "uninhibited-scholar",
+  "lastRunTime": "2026-09-16T16:17:35.037Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "ayodejiibrahimlateef/kaggriculture-cloning-v45-open-78-experiment": {
+  "id": null,
+  "ref": "ayodejiibrahimlateef/kaggriculture-cloning-v45-open-78-experiment",
+  "title": "Kaggriculture Cloning V45 Open 78 Experiment",
+  "author": "Ayodeji",
+  "lastRunTime": "2026-09-16T16:07:48.950Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "xuanzhang001/kaggriculture-pipe7-public-top1": {
+  "id": null,
+  "ref": "xuanzhang001/kaggriculture-pipe7-public-top1",
+  "title": "kaggriculture pipe7 public top1",
+  "author": "Xman",
+  "lastRunTime": "2026-09-16T13:08:27.240Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "xuantianfengwu/kaggriculture-capacity-release": {
+  "id": null,
+  "ref": "xuantianfengwu/kaggriculture-capacity-release",
+  "title": "Kaggriculture Capacity Release",
+  "author": "Zhihuan Xue",
+  "lastRunTime": "2026-09-16T11:06:36.247Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "nathanjacob/kaggriculture-pipe-7-wheat-microstructure": {
+  "id": null,
+  "ref": "nathanjacob/kaggriculture-pipe-7-wheat-microstructure",
+  "title": "Kaggriculture: Pipe-7 Wheat Microstructure",
+  "author": "Nathan Jacob",
+  "lastRunTime": "2026-09-16T10:55:40.357Z",
+  "totalVotes": 65,
+  "currentVersionNumber": null
+ },
+ "reyhanksatria/kaggriculture-dynamic-route-agent": {
+  "id": null,
+  "ref": "reyhanksatria/kaggriculture-dynamic-route-agent",
+  "title": "Kaggriculture: Dynamic Route Agent",
+  "author": "Reyhan Ksatria",
+  "lastRunTime": "2026-09-16T06:30:39.517Z",
+  "totalVotes": 86,
+  "currentVersionNumber": null
+ },
+ "xuantianfengwu/kaggriculture-day-3-cow-challenger": {
+  "id": null,
+  "ref": "xuantianfengwu/kaggriculture-day-3-cow-challenger",
+  "title": "Kaggriculture Day 3 Cow Challenger",
+  "author": "Zhihuan Xue",
+  "lastRunTime": "2026-09-16T06:01:36.663Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "aurax7/kaggriculture-shop-router-reactive-v6": {
+  "id": null,
+  "ref": "aurax7/kaggriculture-shop-router-reactive-v6",
+  "title": "Kaggriculture_shop_router_reactive_v6",
+  "author": "Yaxon",
+  "lastRunTime": "2026-09-16T02:25:36.127Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "hesoponyo/pure-rl-agent-bc-ppo-self-play": {
+  "id": null,
+  "ref": "hesoponyo/pure-rl-agent-bc-ppo-self-play",
+  "title": "Pure RL agent: BC + PPO self-play",
+  "author": "J.Moriuchi",
+  "lastRunTime": "2026-09-16T00:46:40.650Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "degnonguidi/kaggriculture-cloning-agent": {
+  "id": null,
+  "ref": "degnonguidi/kaggriculture-cloning-agent",
+  "title": "kaggriculture_cloning_agent",
+  "author": "renji_starfall",
+  "lastRunTime": "2026-09-15T23:19:51.900Z",
+  "totalVotes": 63,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v45-first-turn-wheat-round-trip": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v45-first-turn-wheat-round-trip",
+  "title": "Kaggriculture V45: First-Turn Wheat Round Trip",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-15T19:51:35.457Z",
+  "totalVotes": 89,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v44-winning-the-same-turn-sale-race": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v44-winning-the-same-turn-sale-race",
+  "title": "Kaggriculture V44: Winning the Same-Turn Sale Race",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-15T18:27:44.470Z",
+  "totalVotes": 34,
+  "currentVersionNumber": null
+ },
+ "arsgorynich/kaggriculture-v43-local-confirmed": {
+  "id": null,
+  "ref": "arsgorynich/kaggriculture-v43-local-confirmed",
+  "title": "Kaggriculture V43 Local Confirmed",
+  "author": "Arsgorynich",
+  "lastRunTime": "2026-09-15T15:51:27.493Z",
+  "totalVotes": 8,
+  "currentVersionNumber": null
+ },
+ "nathanjacob/kaggriculture-pipe-5-terminal-boost": {
+  "id": null,
+  "ref": "nathanjacob/kaggriculture-pipe-5-terminal-boost",
+  "title": "Kaggriculture: Pipe-5 Terminal Boost",
+  "author": "Nathan Jacob",
+  "lastRunTime": "2026-09-15T14:29:48.357Z",
+  "totalVotes": 13,
+  "currentVersionNumber": null
+ },
+ "alperen5252525/turn-one-market-advantage-kaggriculture": {
+  "id": null,
+  "ref": "alperen5252525/turn-one-market-advantage-kaggriculture",
+  "title": "Turn-One Market Advantage | Kaggriculture",
+  "author": "Alperen Ayd\u0131n",
+  "lastRunTime": "2026-09-15T13:24:02.117Z",
+  "totalVotes": 14,
+  "currentVersionNumber": null
+ },
+ "ayeshasummaiyya/fields-of-fortune-strategic-farming-agent": {
+  "id": null,
+  "ref": "ayeshasummaiyya/fields-of-fortune-strategic-farming-agent",
+  "title": "Fields of Fortune \ud83c\udf3e | Strategic Farming Agent",
+  "author": "Aisha",
+  "lastRunTime": "2026-09-15T11:55:53.830Z",
+  "totalVotes": 8,
+  "currentVersionNumber": null
+ },
+ "nathanjacob/beyond-v43-what-the-top-clusters-do-on-turn-1": {
+  "id": null,
+  "ref": "nathanjacob/beyond-v43-what-the-top-clusters-do-on-turn-1",
+  "title": "Beyond V43: What the Top Clusters Do on Turn 1",
+  "author": "Nathan Jacob",
+  "lastRunTime": "2026-09-15T07:12:17.730Z",
+  "totalVotes": 38,
+  "currentVersionNumber": null
+ },
+ "lynnsakurai/farming-score-v5-timing-optimized": {
+  "id": null,
+  "ref": "lynnsakurai/farming-score-v5-timing-optimized",
+  "title": "Farming Score V5: Timing Optimized",
+  "author": "Arlene",
+  "lastRunTime": "2026-09-15T05:35:03.837Z",
+  "totalVotes": 28,
+  "currentVersionNumber": null
+ },
+ "kenanzhang9/notebook6cc8bf1c92": {
+  "id": null,
+  "ref": "kenanzhang9/notebook6cc8bf1c92",
+  "title": "notebook6cc8bf1c92",
+  "author": "Kenan Zhang9",
+  "lastRunTime": "2026-09-15T03:50:34.430Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "xuantianfengwu/kaggriculture-terminal-logistics": {
+  "id": null,
+  "ref": "xuantianfengwu/kaggriculture-terminal-logistics",
+  "title": "Kaggriculture Terminal Logistics",
+  "author": "Zhihuan Xue",
+  "lastRunTime": "2026-09-15T02:30:28.237Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "destbreso/agent-telemetry-catch-what-you-lose": {
+  "id": null,
+  "ref": "destbreso/agent-telemetry-catch-what-you-lose",
+  "title": "Agent telemetry | Catch what you lose",
+  "author": "destbreso",
+  "lastRunTime": "2026-09-15T01:10:28.813Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v43-recovering-lost-harvests": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v43-recovering-lost-harvests",
+  "title": "Kaggriculture V43: Recovering Lost Harvests",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-14T21:41:24.923Z",
+  "totalVotes": 93,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v42-production-that-fits-the-marke": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v42-production-that-fits-the-marke",
+  "title": "Kaggriculture V42 : Production That Fits the Marke",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-14T21:09:01.947Z",
+  "totalVotes": 8,
+  "currentVersionNumber": null
+ },
+ "nathanjacob/how-many-twins-strategy-clustering-kaggriculture": {
+  "id": null,
+  "ref": "nathanjacob/how-many-twins-strategy-clustering-kaggriculture",
+  "title": "How Many Twins - Strategy Clustering Kaggriculture",
+  "author": "Nathan Jacob",
+  "lastRunTime": "2026-09-14T19:18:54.140Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "nathanjacob/kaggriculture-pipe-2-agent": {
+  "id": null,
+  "ref": "nathanjacob/kaggriculture-pipe-2-agent",
+  "title": "Kaggriculture Pipe 2 Agent",
+  "author": "Nathan Jacob",
+  "lastRunTime": "2026-09-14T18:47:53.680Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "hosen42/kaggriculture-v11-hc1-full-panel-validation": {
+  "id": null,
+  "ref": "hosen42/kaggriculture-v11-hc1-full-panel-validation",
+  "title": "Kaggriculture_V11_HC1_Full_Panel_Validation",
+  "author": "Md. Hamid Hosen",
+  "lastRunTime": "2026-09-14T17:52:02.357Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "hosen42/kaggriculture-v11-hc1-vs-h5-validation": {
+  "id": null,
+  "ref": "hosen42/kaggriculture-v11-hc1-vs-h5-validation",
+  "title": "Kaggriculture_V11_HC1_vs_H5_Validation",
+  "author": "Md. Hamid Hosen",
+  "lastRunTime": "2026-09-14T17:15:18.683Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "xuantianfengwu/kaggriculture-hour-4-financing-allocator": {
+  "id": null,
+  "ref": "xuantianfengwu/kaggriculture-hour-4-financing-allocator",
+  "title": "Kaggriculture Hour 4 Financing Allocator",
+  "author": "Zhihuan Xue",
+  "lastRunTime": "2026-09-14T15:05:09.980Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "lynnsakurai/farming-score-v4-a-better-shop": {
+  "id": null,
+  "ref": "lynnsakurai/farming-score-v4-a-better-shop",
+  "title": "Farming Score V4: A Better Shop",
+  "author": "Arlene",
+  "lastRunTime": "2026-09-14T14:20:55.903Z",
+  "totalVotes": 54,
+  "currentVersionNumber": null
+ },
+ "guruprasaathas111/kaggriculture-fully-dynamic-autonomous-agent": {
+  "id": null,
+  "ref": "guruprasaathas111/kaggriculture-fully-dynamic-autonomous-agent",
+  "title": "Kaggriculture: Fully Dynamic Autonomous Agent",
+  "author": "Guru Prasaath S",
+  "lastRunTime": "2026-09-14T13:42:34.167Z",
+  "totalVotes": 10,
+  "currentVersionNumber": null
+ },
+ "rohitt94/kaggriculture-route-replay-agent": {
+  "id": null,
+  "ref": "rohitt94/kaggriculture-route-replay-agent",
+  "title": "Kaggriculture_Route_Replay_Agent",
+  "author": "Rohitt_94",
+  "lastRunTime": "2026-09-14T11:48:27.197Z",
+  "totalVotes": 16,
+  "currentVersionNumber": null
+ },
+ "sunil123kumar/kaggriculture-v6": {
+  "id": null,
+  "ref": "sunil123kumar/kaggriculture-v6",
+  "title": "Kaggriculture v6",
+  "author": "sunil kumar",
+  "lastRunTime": "2026-09-14T09:18:59.717Z",
+  "totalVotes": 10,
+  "currentVersionNumber": null
+ },
+ "premaananda108/rule-agent-ecobot-v7-arena-analytics": {
+  "id": null,
+  "ref": "premaananda108/rule-agent-ecobot-v7-arena-analytics",
+  "title": "Rule Agent (EcoBot v7) + Arena + Analytics",
+  "author": "Prema Ananda",
+  "lastRunTime": "2026-09-14T08:58:00.433Z",
+  "totalVotes": 43,
+  "currentVersionNumber": null
+ },
+ "xuantianfengwu/kaggriculture-adaptive-land-allocator-r10": {
+  "id": null,
+  "ref": "xuantianfengwu/kaggriculture-adaptive-land-allocator-r10",
+  "title": "Kaggriculture Adaptive Land Allocator R10",
+  "author": "Zhihuan Xue",
+  "lastRunTime": "2026-09-14T04:37:17.347Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "aurax7/kaggriculture-shop-router-reactive-v5": {
+  "id": null,
+  "ref": "aurax7/kaggriculture-shop-router-reactive-v5",
+  "title": "Kaggriculture_shop_router_reactive_v5",
+  "author": "Yaxon",
+  "lastRunTime": "2026-09-14T04:31:10.073Z",
+  "totalVotes": 97,
+  "currentVersionNumber": null
+ },
+ "mansiaggarwal88/kaggriculture-can-specialists-beat-one-agent": {
+  "id": null,
+  "ref": "mansiaggarwal88/kaggriculture-can-specialists-beat-one-agent",
+  "title": "\ud83d\ude9c Kaggriculture: Can Specialists Beat One Agent?",
+  "author": "Mansi Aggarwal",
+  "lastRunTime": "2026-09-14T04:04:56.597Z",
+  "totalVotes": 16,
+  "currentVersionNumber": null
+ },
+ "nathanjacob/no-cow-left-behind-v40-autopsy-fix": {
+  "id": null,
+  "ref": "nathanjacob/no-cow-left-behind-v40-autopsy-fix",
+  "title": "No Cow Left Behind: v40 Autopsy + Fix",
+  "author": "Nathan Jacob",
+  "lastRunTime": "2026-09-14T01:37:45.493Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "lime0001/score2710-t23-kaggriculture-smart-harvest": {
+  "id": null,
+  "ref": "lime0001/score2710-t23-kaggriculture-smart-harvest",
+  "title": "Score2710 t23 Kaggriculture Smart Harvest ",
+  "author": "lime0001",
+  "lastRunTime": "2026-09-14T00:27:07.057Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v41-review-candidate": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v41-review-candidate",
+  "title": "Kaggriculture V41 \u2014 Review Candidate",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-13T22:21:39.587Z",
+  "totalVotes": 85,
+  "currentVersionNumber": null
+ },
+ "alperen5252525/kaggriculture-metacounter-r1-scored-agent": {
+  "id": null,
+  "ref": "alperen5252525/kaggriculture-metacounter-r1-scored-agent",
+  "title": "Kaggriculture MetaCounter R1 \u2014 Scored Agent",
+  "author": "Alperen Ayd\u0131n",
+  "lastRunTime": "2026-09-13T22:03:43.617Z",
+  "totalVotes": 28,
+  "currentVersionNumber": null
+ },
+ "xuantianfengwu/kaggriculture-adaptive-land-allocator": {
+  "id": null,
+  "ref": "xuantianfengwu/kaggriculture-adaptive-land-allocator",
+  "title": "Kaggriculture Adaptive Land Allocator",
+  "author": "Zhihuan Xue",
+  "lastRunTime": "2026-09-13T18:25:50.667Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "foysalemonshanto/last-day-lb-2727-2": {
+  "id": null,
+  "ref": "foysalemonshanto/last-day-lb-2727-2",
+  "title": "Last Day_LB_2727.2",
+  "author": "FOYSAL",
+  "lastRunTime": "2026-09-13T17:48:42.043Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "raykkretzschmar/kaggriculture-rank-your-agent": {
+  "id": null,
+  "ref": "raykkretzschmar/kaggriculture-rank-your-agent",
+  "title": "Kaggriculture Rank Your Agent",
+  "author": "Rayk Kretzschmar",
+  "lastRunTime": "2026-09-13T16:13:00.527Z",
+  "totalVotes": 142,
+  "currentVersionNumber": null
+ },
+ "renjistarfall/kaggriculture-best-agent": {
+  "id": null,
+  "ref": "renjistarfall/kaggriculture-best-agent",
+  "title": "kaggriculture_best_agent",
+  "author": "Renji Starfall",
+  "lastRunTime": "2026-09-13T14:11:05.950Z",
+  "totalVotes": 9,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v40-plans-that-fit-the-shops": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v40-plans-that-fit-the-shops",
+  "title": "Kaggriculture V40: Plans That Fit the Shops",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-13T12:12:24.867Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "wei111111/v46d-skill-rebuild-review-guide": {
+  "id": null,
+  "ref": "wei111111/v46d-skill-rebuild-review-guide",
+  "title": "v46d Skill Rebuild Review Guide\u00b6",
+  "author": "Winter01",
+  "lastRunTime": "2026-09-13T11:23:54.590Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "yhay81/shop-router-0913": {
+  "id": null,
+  "ref": "yhay81/shop-router-0913",
+  "title": "Shop Router 0913",
+  "author": "Yusuke Hayashi",
+  "lastRunTime": "2026-09-13T09:39:26.243Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v39-ready-before-the-rush": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v39-ready-before-the-rush",
+  "title": "Kaggriculture V39 \u2014 Ready Before the Rush",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-13T09:37:07.487Z",
+  "totalVotes": 91,
+  "currentVersionNumber": null
+ },
+ "aurax7/kaggriculture-shop-router-reactive-v4": {
+  "id": null,
+  "ref": "aurax7/kaggriculture-shop-router-reactive-v4",
+  "title": "Kaggriculture_shop_router_reactive_v4",
+  "author": "Yaxon",
+  "lastRunTime": "2026-09-13T04:30:42.083Z",
+  "totalVotes": 32,
+  "currentVersionNumber": null
+ },
+ "crystalbaby/kaggriculture-v38-public-submission": {
+  "id": null,
+  "ref": "crystalbaby/kaggriculture-v38-public-submission",
+  "title": "Kaggriculture V38 Public Submission",
+  "author": "Sung Jin-woo",
+  "lastRunTime": "2026-09-13T04:15:33.700Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "motemen/kaggriculture-meta-census-lineage-occupancy": {
+  "id": null,
+  "ref": "motemen/kaggriculture-meta-census-lineage-occupancy",
+  "title": "Kaggriculture Meta Census \u2014 Lineage Occupancy",
+  "author": "motemen",
+  "lastRunTime": "2026-09-13T01:38:58.410Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "xuantianfengwu/kaggriculture-timed-six-cow": {
+  "id": null,
+  "ref": "xuantianfengwu/kaggriculture-timed-six-cow",
+  "title": "Kaggriculture Timed Six Cow",
+  "author": "Zhihuan Xue",
+  "lastRunTime": "2026-09-12T20:13:27.037Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v38-smarter-feed-stronger-margins": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v38-smarter-feed-stronger-margins",
+  "title": "Kaggriculture V38 Smarter Feed, Stronger Margins",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-12T20:04:38.597Z",
+  "totalVotes": 259,
+  "currentVersionNumber": null
+ },
+ "lokesh0252/kaggriculture-v1": {
+  "id": null,
+  "ref": "lokesh0252/kaggriculture-v1",
+  "title": "kaggriculture_v1",
+  "author": "Lokesh Prajapat",
+  "lastRunTime": "2026-09-12T18:20:12.120Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "pilkwang/kaggriculture-structured-economic-policy": {
+  "id": null,
+  "ref": "pilkwang/kaggriculture-structured-economic-policy",
+  "title": "Kaggriculture: Structured Economic Policy",
+  "author": "Pilkwang Kim",
+  "lastRunTime": "2026-09-12T12:52:11.920Z",
+  "totalVotes": 107,
+  "currentVersionNumber": null
+ },
+ "crystalbaby/kaggriculture-dynamic-route-agent": {
+  "id": null,
+  "ref": "crystalbaby/kaggriculture-dynamic-route-agent",
+  "title": "Kaggriculture: Dynamic Route Agent",
+  "author": "Sung Jin-woo",
+  "lastRunTime": "2026-09-12T12:39:25.313Z",
+  "totalVotes": 17,
+  "currentVersionNumber": null
+ },
+ "y3uanm/kaggriculture-safe-baseline-rollback-v20": {
+  "id": null,
+  "ref": "y3uanm/kaggriculture-safe-baseline-rollback-v20",
+  "title": "Kaggriculture Safe Baseline Rollback v20",
+  "author": "y3uanm",
+  "lastRunTime": "2026-09-12T12:36:42.220Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "stevenleehans/kaggriculture-rank-580-lord-momo-returns": {
+  "id": null,
+  "ref": "stevenleehans/kaggriculture-rank-580-lord-momo-returns",
+  "title": "Kaggriculture Rank 580 - Lord Momo Returns",
+  "author": "stevenleehans",
+  "lastRunTime": "2026-09-12T12:14:45.290Z",
+  "totalVotes": 10,
+  "currentVersionNumber": null
+ },
+ "municef1/lb-2448-single-file-kaggriculture-agent": {
+  "id": null,
+  "ref": "municef1/lb-2448-single-file-kaggriculture-agent",
+  "title": "\ud83c\udfc6 LB 2448 Single File Kaggriculture Agent",
+  "author": "\uc548\ub155\ud558\uc138\uc694\uc774\uc138\uc785\ub2c8\ub2e4\uc798\ubd80\ud0c1\ub4dc\ub9bd\ub2c8\ub2e4",
+  "lastRunTime": "2026-09-12T11:58:41.987Z",
+  "totalVotes": 10,
+  "currentVersionNumber": null
+ },
+ "zhincez/the-base-schedule-is-a-plateau-not-a-lever": {
+  "id": null,
+  "ref": "zhincez/the-base-schedule-is-a-plateau-not-a-lever",
+  "title": "The base schedule is a plateau, not a lever",
+  "author": "L\u00ea Quang C\u1ea3nh",
+  "lastRunTime": "2026-09-12T09:08:45.147Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "zhincez/your-score-peaked-because-you-met-weak-opponents": {
+  "id": null,
+  "ref": "zhincez/your-score-peaked-because-you-met-weak-opponents",
+  "title": "Your score peaked because you met weak opponents",
+  "author": "L\u00ea Quang C\u1ea3nh",
+  "lastRunTime": "2026-09-12T08:56:21.977Z",
+  "totalVotes": 8,
+  "currentVersionNumber": null
+ },
+ "zhincez/the-shop-that-eats-double": {
+  "id": null,
+  "ref": "zhincez/the-shop-that-eats-double",
+  "title": "The shop that eats double",
+  "author": "L\u00ea Quang C\u1ea3nh",
+  "lastRunTime": "2026-09-12T08:56:19.517Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "zhincez/a-gate-you-already-beat-cannot-measure-anything": {
+  "id": null,
+  "ref": "zhincez/a-gate-you-already-beat-cannot-measure-anything",
+  "title": "A gate you already beat cannot measure anything",
+  "author": "L\u00ea Quang C\u1ea3nh",
+  "lastRunTime": "2026-09-12T08:56:16.527Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "bernubritz/kaggriculture-h4-best": {
+  "id": null,
+  "ref": "bernubritz/kaggriculture-h4-best",
+  "title": "Kaggriculture H4 Best",
+  "author": "Bernardus",
+  "lastRunTime": "2026-09-12T06:20:47.807Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/more-yield-smarter-labor": {
+  "id": null,
+  "ref": "ahmedberatozer/more-yield-smarter-labor",
+  "title": "More Yield, Smarter Labor",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-12T00:09:07.387Z",
+  "totalVotes": 108,
+  "currentVersionNumber": null
+ },
+ "hgh1024/kaggriculture-herd-safe-v2-sale-horizon-2": {
+  "id": null,
+  "ref": "hgh1024/kaggriculture-herd-safe-v2-sale-horizon-2",
+  "title": "Kaggriculture: Herd-Safe v2 | sale_horizon=2",
+  "author": "hgh404",
+  "lastRunTime": "2026-09-11T19:39:02.540Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v25-new-production-routes-with-rea": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v25-new-production-routes-with-rea",
+  "title": "Kaggriculture v25 \u2014 New Production Routes with Rea",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-11T19:07:50.400Z",
+  "totalVotes": 25,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v31-production-and-sale-priority": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v31-production-and-sale-priority",
+  "title": " Kaggriculture v31 \u2014 Production and Sale Priority",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-11T19:07:02.210Z",
+  "totalVotes": 35,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v34-observed-market-timing": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v34-observed-market-timing",
+  "title": "Kaggriculture v34 \u2014 Observed Market Timing",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-11T19:06:31.287Z",
+  "totalVotes": 36,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v23-adaptive-routes-smart-sales": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v23-adaptive-routes-smart-sales",
+  "title": "Kaggriculture V23 \u2014 Adaptive Routes & Smart Sales",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-11T19:05:04.713Z",
+  "totalVotes": 51,
+  "currentVersionNumber": null
+ },
+ "sunil123kumar/kaggriculture-sale-window": {
+  "id": null,
+  "ref": "sunil123kumar/kaggriculture-sale-window",
+  "title": "Kaggriculture Sale Window",
+  "author": "sunil kumar",
+  "lastRunTime": "2026-09-11T17:37:55.367Z",
+  "totalVotes": 11,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v36-guarded-four-turn-sales": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v36-guarded-four-turn-sales",
+  "title": "Kaggriculture V36 \u2014 Guarded Four-Turn Sales",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-11T17:08:21.753Z",
+  "totalVotes": 27,
+  "currentVersionNumber": null
+ },
+ "nusrati/2650-score": {
+  "id": null,
+  "ref": "nusrati/2650-score",
+  "title": "2650 Score",
+  "author": "nusrati",
+  "lastRunTime": "2026-09-11T16:20:51.120Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "flexonafft/kaggriculture-most-powerfull-route": {
+  "id": null,
+  "ref": "flexonafft/kaggriculture-most-powerfull-route",
+  "title": "\ud83c\udf3e Kaggriculture | Most Powerfull Route",
+  "author": "Igor Zharov",
+  "lastRunTime": "2026-09-11T15:34:48.460Z",
+  "totalVotes": 76,
+  "currentVersionNumber": null
+ },
+ "ahmedberatozer/kaggriculture-v35-reactive-sales-sheep-expansi": {
+  "id": null,
+  "ref": "ahmedberatozer/kaggriculture-v35-reactive-sales-sheep-expansi",
+  "title": "Kaggriculture V35 \u2014 Reactive Sales & Sheep Expansi",
+  "author": "Ahmed Berat \u00d6zer",
+  "lastRunTime": "2026-09-11T13:28:21.907Z",
+  "totalVotes": 41,
+  "currentVersionNumber": null
+ },
+ "nagatakengo/kaggriculture": {
+  "id": null,
+  "ref": "nagatakengo/kaggriculture",
+  "title": " Kaggriculture",
+  "author": "nk",
+  "lastRunTime": "2026-09-11T09:58:19.927Z",
+  "totalVotes": 17,
+  "currentVersionNumber": null
+ },
+ "lucifer19/harvest-nocturne-v2-a-lighter-start": {
+  "id": null,
+  "ref": "lucifer19/harvest-nocturne-v2-a-lighter-start",
+  "title": "\ud83c\udf19 Harvest Nocturne V2 | A Lighter Start \u2728",
+  "author": "Agent Trainer",
+  "lastRunTime": "2026-09-11T09:56:07.960Z",
+  "totalVotes": 20,
+  "currentVersionNumber": null
+ },
+ "xuantianfengwu/kaggriculture-preempt-selector": {
+  "id": null,
+  "ref": "xuantianfengwu/kaggriculture-preempt-selector",
+  "title": "Kaggriculture Preempt Selector",
+  "author": "Zhihuan Xue",
+  "lastRunTime": "2026-09-11T09:13:14.483Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "yhay81/shop-router-0911-simple": {
+  "id": null,
+  "ref": "yhay81/shop-router-0911-simple",
+  "title": "Shop Router 0911 Simple",
+  "author": "Yusuke Hayashi",
+  "lastRunTime": "2026-09-11T08:38:45.527Z",
+  "totalVotes": 10,
+  "currentVersionNumber": null
+ },
+ "destbreso/who-is-beating-you-and-is-it-you": {
+  "id": null,
+  "ref": "destbreso/who-is-beating-you-and-is-it-you",
+  "title": "Who is beating you, and is it you?",
+  "author": "destbreso",
+  "lastRunTime": "2026-09-11T01:21:55.290Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "dmitriigluzdov/kaggriculture-two-coins-one-sheep-lb-2600": {
+  "id": null,
+  "ref": "dmitriigluzdov/kaggriculture-two-coins-one-sheep-lb-2600",
+  "title": "Kaggriculture: Two Coins, One Sheep | LB 2600",
+  "author": "Dmitrii Gluzdov",
+  "lastRunTime": "2026-09-10T12:09:19.900Z",
+  "totalVotes": 34,
+  "currentVersionNumber": null
+ },
+ "xuantianfengwu/kaggriculture-melon-baseline-v4": {
+  "id": null,
+  "ref": "xuantianfengwu/kaggriculture-melon-baseline-v4",
+  "title": "Kaggriculture Melon Baseline v4",
+  "author": "Zhihuan Xue",
+  "lastRunTime": "2026-09-10T11:09:30.907Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "crystalbaby/market-smart-farming-kaggriculture": {
+  "id": null,
+  "ref": "crystalbaby/market-smart-farming-kaggriculture",
+  "title": "\ud83c\udf3e Market-Smart Farming | Kaggriculture",
+  "author": "Sung Jin-woo",
+  "lastRunTime": "2026-09-10T09:55:36.907Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "nathanjacob/colosseum-876-2600-agent-testing-framework": {
+  "id": null,
+  "ref": "nathanjacob/colosseum-876-2600-agent-testing-framework",
+  "title": "Colosseum: 876 -> 2600 Agent Testing Framework \ud83c\udfdf\ufe0f",
+  "author": "Nathan Jacob",
+  "lastRunTime": "2026-09-09T19:56:27.030Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "zhincez/ten-ppo-runs-one-fake-win-zero-real-ones": {
+  "id": null,
+  "ref": "zhincez/ten-ppo-runs-one-fake-win-zero-real-ones",
+  "title": "Ten PPO runs, one fake win, zero real ones",
+  "author": "L\u00ea Quang C\u1ea3nh",
+  "lastRunTime": "2026-09-09T16:51:59.210Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "zhincez/the-market-half-is-worth-zero-on-its-own": {
+  "id": null,
+  "ref": "zhincez/the-market-half-is-worth-zero-on-its-own",
+  "title": "The market half is worth zero on its own",
+  "author": "L\u00ea Quang C\u1ea3nh",
+  "lastRunTime": "2026-09-09T16:47:00.127Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "busyaprime/what-actually-wins-on-the-kaggriculture-ladder": {
+  "id": null,
+  "ref": "busyaprime/what-actually-wins-on-the-kaggriculture-ladder",
+  "title": "What actually wins on the Kaggriculture ladder",
+  "author": "Akmal Xodarev (Busya PRIME)",
+  "lastRunTime": "2026-09-09T15:00:31.200Z",
+  "totalVotes": 31,
+  "currentVersionNumber": null
+ },
+ "adilshamim8/kaggriculture-101": {
+  "id": null,
+  "ref": "adilshamim8/kaggriculture-101",
+  "title": "Kaggriculture 101",
+  "author": "Adil Shamim",
+  "lastRunTime": "2026-09-09T13:54:08.040Z",
+  "totalVotes": 26,
+  "currentVersionNumber": null
+ },
+ "tokenjunkielabs/tokenjunkielabs-farm-manager": {
+  "id": null,
+  "ref": "tokenjunkielabs/tokenjunkielabs-farm-manager",
+  "title": "TokenJunkieLabs Farm Manager",
+  "author": "Bryce Muhlnickel",
+  "lastRunTime": "2026-09-09T10:15:36.990Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "aurax7/kaggriculture-shop-router-reactive-v2": {
+  "id": null,
+  "ref": "aurax7/kaggriculture-shop-router-reactive-v2",
+  "title": "Kaggriculture_shop_router_reactive_v2",
+  "author": "Yaxon",
+  "lastRunTime": "2026-09-09T10:11:15.137Z",
+  "totalVotes": 29,
+  "currentVersionNumber": null
+ },
+ "dariushafshar/same-file-9-days-apart-1839-vs-1238": {
+  "id": null,
+  "ref": "dariushafshar/same-file-9-days-apart-1839-vs-1238",
+  "title": "Same File, 9 Days Apart: 1839 vs 1238",
+  "author": "Dariush Afshar",
+  "lastRunTime": "2026-09-09T06:41:16.000Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "dariushafshar/18-144-episodes-local-win-rate-ranks-backwards": {
+  "id": null,
+  "ref": "dariushafshar/18-144-episodes-local-win-rate-ranks-backwards",
+  "title": "18,144 episodes: local win rate ranks backwards",
+  "author": "Dariush Afshar",
+  "lastRunTime": "2026-09-09T06:41:14.017Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "az05192000gmailcom/kaggriculture-from-orders-to-actual-trades": {
+  "id": null,
+  "ref": "az05192000gmailcom/kaggriculture-from-orders-to-actual-trades",
+  "title": "Kaggriculture | From Orders to Actual Trades",
+  "author": "3\uc815\ud6c8",
+  "lastRunTime": "2026-09-09T05:16:23.383Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "yhay81/shop-router-0909": {
+  "id": null,
+  "ref": "yhay81/shop-router-0909",
+  "title": "Shop Router 0909",
+  "author": "Yusuke Hayashi",
+  "lastRunTime": "2026-09-09T04:35:30.277Z",
+  "totalVotes": 135,
+  "currentVersionNumber": null
+ },
+ "dariushafshar/rating-decay-near-the-medal-line-80-pts-day": {
+  "id": null,
+  "ref": "dariushafshar/rating-decay-near-the-medal-line-80-pts-day",
+  "title": "Rating Decay Near the Medal Line: -80 pts/day",
+  "author": "Dariush Afshar",
+  "lastRunTime": "2026-09-09T00:13:49.783Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "aurax7/kaggriculture-reactive-router": {
+  "id": null,
+  "ref": "aurax7/kaggriculture-reactive-router",
+  "title": "Kaggriculture_reactive_router",
+  "author": "Yaxon",
+  "lastRunTime": "2026-09-08T18:46:03.123Z",
+  "totalVotes": 71,
+  "currentVersionNumber": null
+ },
+ "destbreso/can-i-clone-you-from-your-dna": {
+  "id": null,
+  "ref": "destbreso/can-i-clone-you-from-your-dna",
+  "title": "Can I Clone You From Your DNA?",
+  "author": "destbreso",
+  "lastRunTime": "2026-09-08T17:28:47.887Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "nusrati/2715-6": {
+  "id": null,
+  "ref": "nusrati/2715-6",
+  "title": "2715.6",
+  "author": "nusrati",
+  "lastRunTime": "2026-09-08T14:41:15.240Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "yhay81/when-do-daily-top-episodes-see-your-agent": {
+  "id": null,
+  "ref": "yhay81/when-do-daily-top-episodes-see-your-agent",
+  "title": "When Do Daily Top Episodes See Your Agent?",
+  "author": "Yusuke Hayashi",
+  "lastRunTime": "2026-09-08T13:36:42.093Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "yhay81/shop-router-0908": {
+  "id": null,
+  "ref": "yhay81/shop-router-0908",
+  "title": "Shop Router 0908",
+  "author": "Yusuke Hayashi",
+  "lastRunTime": "2026-09-08T12:25:20.167Z",
+  "totalVotes": 91,
+  "currentVersionNumber": null
+ },
+ "navazshfathi/shop-router-0908": {
+  "id": null,
+  "ref": "navazshfathi/shop-router-0908",
+  "title": "Shop Router 0908",
+  "author": "navazsh fathi",
+  "lastRunTime": "2026-09-08T11:51:18.580Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "rogerrogerroger3r/test-a-public-agent-before-you-spend-a-slot": {
+  "id": null,
+  "ref": "rogerrogerroger3r/test-a-public-agent-before-you-spend-a-slot",
+  "title": "Test a public agent before you spend a slot",
+  "author": "rogerrogerroger3r",
+  "lastRunTime": "2026-09-08T11:29:57.153Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "rogerrogerroger3r/the-best-player-s-tape-is-not-the-best-tape": {
+  "id": null,
+  "ref": "rogerrogerroger3r/the-best-player-s-tape-is-not-the-best-tape",
+  "title": "The best player's tape is not the best tape",
+  "author": "rogerrogerroger3r",
+  "lastRunTime": "2026-09-08T11:27:33.623Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "starkhushi/kaggriculture-6-engine-traps-each-one-measured": {
+  "id": null,
+  "ref": "starkhushi/kaggriculture-6-engine-traps-each-one-measured",
+  "title": "Kaggriculture: 6 Engine Traps, Each One Measured",
+  "author": "starkhushi",
+  "lastRunTime": "2026-09-08T10:29:59.353Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "muelsyse111/kaggriculture-exp20260908-01-funding-audit": {
+  "id": null,
+  "ref": "muelsyse111/kaggriculture-exp20260908-01-funding-audit",
+  "title": "Kaggriculture EXP20260908 01 Funding Audit",
+  "author": "muelsyse111",
+  "lastRunTime": "2026-09-08T09:58:18.723Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "zhincez/replaying-someone-elses-tape-gets-you-88-percent": {
+  "id": null,
+  "ref": "zhincez/replaying-someone-elses-tape-gets-you-88-percent",
+  "title": "Replaying someone elses tape gets you 88 percent",
+  "author": "L\u00ea Quang C\u1ea3nh",
+  "lastRunTime": "2026-09-08T08:19:10.380Z",
+  "totalVotes": 14,
+  "currentVersionNumber": null
+ },
+ "fierus/xray-kaggle": {
+  "id": null,
+  "ref": "fierus/xray-kaggle",
+  "title": "Xray-kaggle",
+  "author": "eduardo rico",
+  "lastRunTime": "2026-09-08T05:35:35.330Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "earnestgomer/python-periodic-table": {
+  "id": null,
+  "ref": "earnestgomer/python-periodic-table",
+  "title": "Python. Periodic table ",
+  "author": "Earnest Gomer Jr",
+  "lastRunTime": "2026-09-08T03:32:38.963Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "y3uanm/kaggriculture-conservative-market-router-v5": {
+  "id": null,
+  "ref": "y3uanm/kaggriculture-conservative-market-router-v5",
+  "title": "Kaggriculture Conservative Market Router v5",
+  "author": "y3uanm",
+  "lastRunTime": "2026-09-08T02:40:49.467Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "holeneckles/grandmaster": {
+  "id": null,
+  "ref": "holeneckles/grandmaster",
+  "title": "Grandmaster",
+  "author": "Hole Neckles",
+  "lastRunTime": "2026-09-08T00:33:20.327Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "thomastschinkel/kaggriculture-95-5-win-rate-via-replay-routing": {
+  "id": null,
+  "ref": "thomastschinkel/kaggriculture-95-5-win-rate-via-replay-routing",
+  "title": "Kaggriculture: 95.5% Win Rate via Replay Routing",
+  "author": "Thomas Tschinkel",
+  "lastRunTime": "2026-09-07T18:57:38.337Z",
+  "totalVotes": 59,
+  "currentVersionNumber": null
+ },
+ "souvikdbiswas/kaggriculture-v5-hybrid-agent": {
+  "id": null,
+  "ref": "souvikdbiswas/kaggriculture-v5-hybrid-agent",
+  "title": "Kaggriculture V5 Hybrid Agent",
+  "author": "Souvik_D_Biswas",
+  "lastRunTime": "2026-09-07T17:59:01.213Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "tokenjunkielabs/titan-arlene-v14-source": {
+  "id": null,
+  "ref": "tokenjunkielabs/titan-arlene-v14-source",
+  "title": "TITAN Arlene v14 Source",
+  "author": "Bryce Muhlnickel",
+  "lastRunTime": "2026-09-07T17:13:13.503Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "flexonafft/kaggriculture-smart-farm-strategy-lab": {
+  "id": null,
+  "ref": "flexonafft/kaggriculture-smart-farm-strategy-lab",
+  "title": "Kaggriculture | Smart Farm Strategy Lab",
+  "author": "Igor Zharov",
+  "lastRunTime": "2026-09-07T15:08:57.043Z",
+  "totalVotes": 64,
+  "currentVersionNumber": null
+ },
+ "rogerrogerroger3r/kaggriculture-a-ruler-for-agent-changes": {
+  "id": null,
+  "ref": "rogerrogerroger3r/kaggriculture-a-ruler-for-agent-changes",
+  "title": "Kaggriculture: a ruler for agent changes",
+  "author": "rogerrogerroger3r",
+  "lastRunTime": "2026-09-07T13:16:08.877Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "thomastschinkel/kaggriculture-93-8-win-rate-public-state-router": {
+  "id": null,
+  "ref": "thomastschinkel/kaggriculture-93-8-win-rate-public-state-router",
+  "title": "Kaggriculture: 93.8% Win Rate Public State Router ",
+  "author": "Thomas Tschinkel",
+  "lastRunTime": "2026-09-07T10:22:19.683Z",
+  "totalVotes": 87,
+  "currentVersionNumber": null
+ },
+ "tokenjunkielabs/titan-kaggriculture-frontier-source": {
+  "id": null,
+  "ref": "tokenjunkielabs/titan-kaggriculture-frontier-source",
+  "title": "TITAN Kaggriculture Frontier Source",
+  "author": "Bryce Muhlnickel",
+  "lastRunTime": "2026-09-07T09:36:03.713Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "y3uanm/kaggriculture-market-impact-router-v4": {
+  "id": null,
+  "ref": "y3uanm/kaggriculture-market-impact-router-v4",
+  "title": "Kaggriculture Market-Impact Router v4",
+  "author": "y3uanm",
+  "lastRunTime": "2026-09-07T09:35:33.303Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "antimocarlino/o-p-a-antimode-v1": {
+  "id": null,
+  "ref": "antimocarlino/o-p-a-antimode-v1",
+  "title": "\ud83c\udf96\ufe0f O.P.A. \u2014 ANTIMODE v1",
+  "author": "Antimo Carlino",
+  "lastRunTime": "2026-09-07T08:58:54.817Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "muelsyse111/kaggriculture-exp006-independent-baseline-audit": {
+  "id": null,
+  "ref": "muelsyse111/kaggriculture-exp006-independent-baseline-audit",
+  "title": "Kaggriculture EXP006 Independent Baseline Audit",
+  "author": "muelsyse111",
+  "lastRunTime": "2026-09-07T07:42:27.583Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "muelsyse111/kaggriculture-crop-timing-and-labor-budget": {
+  "id": null,
+  "ref": "muelsyse111/kaggriculture-crop-timing-and-labor-budget",
+  "title": "Kaggriculture | Crop Timing and Labor Budget",
+  "author": "muelsyse111",
+  "lastRunTime": "2026-09-07T07:28:46.677Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "yamakawanin/king-v4e-rc4": {
+  "id": null,
+  "ref": "yamakawanin/king-v4e-rc4",
+  "title": "King-v4e RC4",
+  "author": "NNN",
+  "lastRunTime": "2026-09-07T06:14:45.450Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "lynnsakurai/farming-score-a-mathematical-approach": {
+  "id": null,
+  "ref": "lynnsakurai/farming-score-a-mathematical-approach",
+  "title": "Farming Score: A Mathematical Approach",
+  "author": "Arlene",
+  "lastRunTime": "2026-09-07T04:32:09.577Z",
+  "totalVotes": 64,
+  "currentVersionNumber": null
+ },
+ "hank0123/kaggriculture-is-your-agent-really-better": {
+  "id": null,
+  "ref": "hank0123/kaggriculture-is-your-agent-really-better",
+  "title": "Kaggriculture: Is Your Agent Really Better?",
+  "author": "hank0123",
+  "lastRunTime": "2026-09-07T00:22:00.860Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "serariagomes/kaggriculture-rule-based-agent": {
+  "id": null,
+  "ref": "serariagomes/kaggriculture-rule-based-agent",
+  "title": "Kaggriculture Rule-based Agent",
+  "author": "Sera Ria Gomes",
+  "lastRunTime": "2026-09-06T21:34:13.447Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "junaid512/02-adaptive-replay-agent": {
+  "id": null,
+  "ref": "junaid512/02-adaptive-replay-agent",
+  "title": "02 Adaptive Replay Agent",
+  "author": "Muhammad Junaid",
+  "lastRunTime": "2026-09-06T21:23:47.107Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "tetsutani/shape-the-shop-work-the-pasture-kaggriculture": {
+  "id": null,
+  "ref": "tetsutani/shape-the-shop-work-the-pasture-kaggriculture",
+  "title": "\ud83c\udf3e Shape the Shop Work the Pasture | Kaggriculture",
+  "author": "tetsu2131",
+  "lastRunTime": "2026-09-06T17:07:49.117Z",
+  "totalVotes": 129,
+  "currentVersionNumber": null
+ },
+ "yamakawanin/kaggriculture-2312-9-q30-v2a": {
+  "id": null,
+  "ref": "yamakawanin/kaggriculture-2312-9-q30-v2a",
+  "title": "Kaggriculture 2312.9 \u2014 Q30 v2a",
+  "author": "NNN",
+  "lastRunTime": "2026-09-06T11:16:06.297Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "krishnayadav456wrsty/kaggriculture": {
+  "id": null,
+  "ref": "krishnayadav456wrsty/kaggriculture",
+  "title": "Kaggriculture",
+  "author": "Krishna Yadu",
+  "lastRunTime": "2026-09-06T08:17:14.617Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "destbreso/97-predictable-extracting-decision-trees": {
+  "id": null,
+  "ref": "destbreso/97-predictable-extracting-decision-trees",
+  "title": "97% predictable: Extracting decision trees",
+  "author": "destbreso",
+  "lastRunTime": "2026-09-06T01:59:59.577Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "destbreso/which-language-does-your-agent-speak": {
+  "id": null,
+  "ref": "destbreso/which-language-does-your-agent-speak",
+  "title": "Which language does your agent speak?",
+  "author": "destbreso",
+  "lastRunTime": "2026-09-06T01:14:02.903Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "thomastschinkel/kaggriculture-public-state-router-74-5-win-rate": {
+  "id": null,
+  "ref": "thomastschinkel/kaggriculture-public-state-router-74-5-win-rate",
+  "title": "Kaggriculture: Public State Router (74.5% Win Rate",
+  "author": "Thomas Tschinkel",
+  "lastRunTime": "2026-09-05T22:12:53.003Z",
+  "totalVotes": 100,
+  "currentVersionNumber": null
+ },
+ "paiky1995/inside-the-kaggriculture-market-machine": {
+  "id": null,
+  "ref": "paiky1995/inside-the-kaggriculture-market-machine",
+  "title": "Inside the Kaggriculture Market Machine",
+  "author": "Praneeth Paikray",
+  "lastRunTime": "2026-09-05T19:56:08.457Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "chaimaamatrag/kaggriculture-competition": {
+  "id": null,
+  "ref": "chaimaamatrag/kaggriculture-competition",
+  "title": "kaggriculture_competition",
+  "author": "Chaimaa Matrag",
+  "lastRunTime": "2026-09-05T14:04:59.560Z",
+  "totalVotes": 13,
+  "currentVersionNumber": null
+ },
+ "prvsiyan/where-the-wheat-remembers-tomorrow-kaggriculture": {
+  "id": null,
+  "ref": "prvsiyan/where-the-wheat-remembers-tomorrow-kaggriculture",
+  "title": "Where the Wheat Remembers Tomorrow | Kaggriculture",
+  "author": "prvsiyan",
+  "lastRunTime": "2026-09-05T09:07:00.843Z",
+  "totalVotes": 14,
+  "currentVersionNumber": null
+ },
+ "flexonafft/kaggriculture-adaptive-farm-intelligence": {
+  "id": null,
+  "ref": "flexonafft/kaggriculture-adaptive-farm-intelligence",
+  "title": "Kaggriculture | Adaptive Farm Intelligence",
+  "author": "Igor Zharov",
+  "lastRunTime": "2026-09-05T08:36:43.083Z",
+  "totalVotes": 55,
+  "currentVersionNumber": null
+ },
+ "dianatofficial/kaggriculture-reactive-agent-strategy-eda": {
+  "id": null,
+  "ref": "dianatofficial/kaggriculture-reactive-agent-strategy-eda",
+  "title": "Kaggriculture: Reactive Agent Strategy & EDA",
+  "author": "Mohammad Javad Dianat",
+  "lastRunTime": "2026-09-05T05:45:21.743Z",
+  "totalVotes": 16,
+  "currentVersionNumber": null
+ },
+ "destbreso/v7-38-finance7-a-full-agent-layer-by-layer": {
+  "id": null,
+  "ref": "destbreso/v7-38-finance7-a-full-agent-layer-by-layer",
+  "title": "v7.38_finance7 | A full agent, layer by layer",
+  "author": "destbreso",
+  "lastRunTime": "2026-09-04T17:31:45.253Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "avioon/kaggriculture-apex-v7-god-emperor": {
+  "id": null,
+  "ref": "avioon/kaggriculture-apex-v7-god-emperor",
+  "title": "Kaggriculture Apex V7 God Emperor",
+  "author": "VELVRIN",
+  "lastRunTime": "2026-09-04T16:27:14.563Z",
+  "totalVotes": 58,
+  "currentVersionNumber": null
+ },
+ "avioon/kaggriculture-apex-v5-emperor": {
+  "id": null,
+  "ref": "avioon/kaggriculture-apex-v5-emperor",
+  "title": "Kaggriculture Apex V5 Emperor",
+  "author": "VELVRIN",
+  "lastRunTime": "2026-09-04T15:18:23.550Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "rivakajangu/your-rating-is-noisier-than-your-improvement": {
+  "id": null,
+  "ref": "rivakajangu/your-rating-is-noisier-than-your-improvement",
+  "title": "Your rating is noisier than your improvement",
+  "author": "Riva Kajangu",
+  "lastRunTime": "2026-09-04T13:46:07.480Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "avioon/apex-v4-2687-elo-bow-before-the-herd-rank-75": {
+  "id": null,
+  "ref": "avioon/apex-v4-2687-elo-bow-before-the-herd-rank-75",
+  "title": "Apex V4 [2687 Elo]: Bow Before the Herd | Rank #75",
+  "author": "VELVRIN",
+  "lastRunTime": "2026-09-04T13:00:19.877Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "mohui666/kaggriculture-v66-public-agent": {
+  "id": null,
+  "ref": "mohui666/kaggriculture-v66-public-agent",
+  "title": "Kaggriculture v66 Public Agent",
+  "author": "mohui666",
+  "lastRunTime": "2026-09-04T10:51:05.350Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "akashbabu17/kaggriculture-autonomous-multi-agent-farming": {
+  "id": null,
+  "ref": "akashbabu17/kaggriculture-autonomous-multi-agent-farming",
+  "title": "\ud83c\udf3e Kaggriculture: Autonomous Multi-Agent Farming",
+  "author": "Akash Babu",
+  "lastRunTime": "2026-09-04T06:40:05.033Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "aamir28/a-minimal-kaggriculture-agent-debugged-live": {
+  "id": null,
+  "ref": "aamir28/a-minimal-kaggriculture-agent-debugged-live",
+  "title": "A Minimal Kaggriculture Agent, Debugged Live",
+  "author": "Muhammad Aamir",
+  "lastRunTime": "2026-09-04T03:31:14.453Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "mansiaggarwal88/kaggriculture-reactive-agent-550-lb": {
+  "id": null,
+  "ref": "mansiaggarwal88/kaggriculture-reactive-agent-550-lb",
+  "title": "\ud83d\ude9cKaggriculture Reactive Agent: 550 LB",
+  "author": "Mansi Aggarwal",
+  "lastRunTime": "2026-09-03T17:57:34.723Z",
+  "totalVotes": 14,
+  "currentVersionNumber": null
+ },
+ "stpeteishii/kaggriculture-head-to-head-match-runner": {
+  "id": null,
+  "ref": "stpeteishii/kaggriculture-head-to-head-match-runner",
+  "title": "Kaggriculture Head-to-Head Match Runner",
+  "author": "stpete_ishii",
+  "lastRunTime": "2026-09-03T17:40:49.060Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "lynnsakurai/farming-score-v3-replay-revised": {
+  "id": null,
+  "ref": "lynnsakurai/farming-score-v3-replay-revised",
+  "title": "Farming Score V3: Replay Revised",
+  "author": "Arlene",
+  "lastRunTime": "2026-09-03T14:24:09.127Z",
+  "totalVotes": 74,
+  "currentVersionNumber": null
+ },
+ "degnonguidi/kaggriculture-agent-builder": {
+  "id": null,
+  "ref": "degnonguidi/kaggriculture-agent-builder",
+  "title": "kaggriculture-agent-builder",
+  "author": "renji_starfall",
+  "lastRunTime": "2026-09-03T13:07:00.047Z",
+  "totalVotes": 47,
+  "currentVersionNumber": null
+ },
+ "reyhanksatria/adaptive-route-agent-v1": {
+  "id": null,
+  "ref": "reyhanksatria/adaptive-route-agent-v1",
+  "title": "Adaptive Route Agent V1",
+  "author": "Reyhan Ksatria",
+  "lastRunTime": "2026-09-03T11:59:46.617Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "reyhanksatria/adaptive-route-agent-v2": {
+  "id": null,
+  "ref": "reyhanksatria/adaptive-route-agent-v2",
+  "title": "Adaptive Route Agent V2",
+  "author": "Reyhan Ksatria",
+  "lastRunTime": "2026-09-03T11:23:28.810Z",
+  "totalVotes": 25,
+  "currentVersionNumber": null
+ },
+ "anasriaz/kaggriculture": {
+  "id": null,
+  "ref": "anasriaz/kaggriculture",
+  "title": "Kaggriculture",
+  "author": "Anas Riaz",
+  "lastRunTime": "2026-09-03T10:53:41.830Z",
+  "totalVotes": 48,
+  "currentVersionNumber": null
+ },
+ "bekamaregasanegewo/notebook2eb78cabb1": {
+  "id": null,
+  "ref": "bekamaregasanegewo/notebook2eb78cabb1",
+  "title": "notebook2eb78cabb1",
+  "author": "Bekama Regasa Negewo",
+  "lastRunTime": "2026-09-03T07:29:40.770Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "yhay81/three-day-shop-router": {
+  "id": null,
+  "ref": "yhay81/three-day-shop-router",
+  "title": "Three-Day Shop Router",
+  "author": "Yusuke Hayashi",
+  "lastRunTime": "2026-09-03T07:19:54.943Z",
+  "totalVotes": 124,
+  "currentVersionNumber": null
+ },
+ "abhirajhiwale/crack-kaggriculture-e783-meta-breaker": {
+  "id": null,
+  "ref": "abhirajhiwale/crack-kaggriculture-e783-meta-breaker",
+  "title": "Crack Kaggriculture E783 Meta Breaker",
+  "author": "ABHIRAJ",
+  "lastRunTime": "2026-09-03T06:09:22.667Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "destbreso/measure-twice-submit-once-know-your-error": {
+  "id": null,
+  "ref": "destbreso/measure-twice-submit-once-know-your-error",
+  "title": "Measure Twice, Submit Once, Know Your Error",
+  "author": "destbreso",
+  "lastRunTime": "2026-09-02T15:57:04.283Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "yhay81/six-day-public-state-fieldbook": {
+  "id": null,
+  "ref": "yhay81/six-day-public-state-fieldbook",
+  "title": "Six-Day Public-State Fieldbook",
+  "author": "Yusuke Hayashi",
+  "lastRunTime": "2026-09-02T13:13:39.267Z",
+  "totalVotes": 131,
+  "currentVersionNumber": null
+ },
+ "boatlee/v29-r1-adaptive-market-hysteresis": {
+  "id": null,
+  "ref": "boatlee/v29-r1-adaptive-market-hysteresis",
+  "title": "V29-R1 | Adaptive Market Hysteresis",
+  "author": "boatlee",
+  "lastRunTime": "2026-09-02T05:42:01.100Z",
+  "totalVotes": 71,
+  "currentVersionNumber": null
+ },
+ "taylorclark637/kaggriculture-the-biosphere-construct-v22": {
+  "id": null,
+  "ref": "taylorclark637/kaggriculture-the-biosphere-construct-v22",
+  "title": " Kaggriculture: The Biosphere Construct (V22)",
+  "author": "Taylor Clark",
+  "lastRunTime": "2026-09-02T03:55:59.050Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "dariushafshar/banked-3000-every-game-the-last-callable-trap": {
+  "id": null,
+  "ref": "dariushafshar/banked-3000-every-game-the-last-callable-trap",
+  "title": "Banked $3000 Every Game? The Last-Callable Trap",
+  "author": "Dariush Afshar",
+  "lastRunTime": "2026-09-02T00:02:52.817Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "taylorclark637/kaggriculture": {
+  "id": null,
+  "ref": "taylorclark637/kaggriculture",
+  "title": "Kaggriculture ",
+  "author": "Taylor Clark",
+  "lastRunTime": "2026-09-01T22:54:02.353Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "destbreso/rating-convergence-episodes-not-hours": {
+  "id": null,
+  "ref": "destbreso/rating-convergence-episodes-not-hours",
+  "title": "Rating convergence | Episodes, not hours",
+  "author": "destbreso",
+  "lastRunTime": "2026-09-01T14:37:12.587Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "destbreso/island-ga-an-owned-schedule-is-a-moat": {
+  "id": null,
+  "ref": "destbreso/island-ga-an-owned-schedule-is-a-moat",
+  "title": "Island GA | An owned schedule is a moat",
+  "author": "destbreso",
+  "lastRunTime": "2026-09-01T14:37:08.980Z",
+  "totalVotes": 12,
+  "currentVersionNumber": null
+ },
+ "destbreso/from-1-to-24k-episodes-a-second": {
+  "id": null,
+  "ref": "destbreso/from-1-to-24k-episodes-a-second",
+  "title": "From 1 to 24k episodes a second",
+  "author": "destbreso",
+  "lastRunTime": "2026-09-01T14:37:03.780Z",
+  "totalVotes": 13,
+  "currentVersionNumber": null
+ },
+ "destbreso/kagsim-the-engine-at-2000-episodes-per-second": {
+  "id": null,
+  "ref": "destbreso/kagsim-the-engine-at-2000-episodes-per-second",
+  "title": "kagsim | The engine at 2000 episodes per second",
+  "author": "destbreso",
+  "lastRunTime": "2026-09-01T14:36:59.530Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "trnhquangminh140/kaggriculture-strategic-decision-making": {
+  "id": null,
+  "ref": "trnhquangminh140/kaggriculture-strategic-decision-making",
+  "title": "Kaggriculture - STRATEGIC DECISION-MAKING",
+  "author": "Tr\u1ecbnh Quang Minh",
+  "lastRunTime": "2026-09-01T12:49:20.543Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "kaitofukami/238-238-known-streams-v58-minimax-closed-loop": {
+  "id": null,
+  "ref": "kaitofukami/238-238-known-streams-v58-minimax-closed-loop",
+  "title": "238/238 Known Streams | v58 Minimax Closed Loop",
+  "author": "Kaito Fukami",
+  "lastRunTime": "2026-09-01T07:15:26.177Z",
+  "totalVotes": 48,
+  "currentVersionNumber": null
+ },
+ "yhay81/fieldbook-commit-for-three-days": {
+  "id": null,
+  "ref": "yhay81/fieldbook-commit-for-three-days",
+  "title": "Fieldbook: Commit for Three Days",
+  "author": "Yusuke Hayashi",
+  "lastRunTime": "2026-09-01T04:23:53.943Z",
+  "totalVotes": 69,
+  "currentVersionNumber": null
+ },
+ "jocelyndumlao/kaggriculture-ai-agent": {
+  "id": null,
+  "ref": "jocelyndumlao/kaggriculture-ai-agent",
+  "title": "\ud83c\udf3eKaggriculture AI Agent",
+  "author": "Jocelyn Dumlao",
+  "lastRunTime": "2026-09-01T02:35:04.920Z",
+  "totalVotes": 23,
+  "currentVersionNumber": null
+ },
+ "busyaprime/the-best-thing-to-farm-has-a-market-of-59-units": {
+  "id": null,
+  "ref": "busyaprime/the-best-thing-to-farm-has-a-market-of-59-units",
+  "title": "The best thing to farm has a market of 59 units",
+  "author": "Akmal Xodarev (Busya PRIME)",
+  "lastRunTime": "2026-08-31T22:17:55.403Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "leneen/kaggriculture": {
+  "id": null,
+  "ref": "leneen/kaggriculture",
+  "title": "Kaggriculture: ",
+  "author": "Leneen",
+  "lastRunTime": "2026-08-31T16:02:15.863Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "songoku2005/kaggriculture": {
+  "id": null,
+  "ref": "songoku2005/kaggriculture",
+  "title": "Kaggriculture",
+  "author": "Suryansh Vashisth",
+  "lastRunTime": "2026-08-31T10:38:14.137Z",
+  "totalVotes": 12,
+  "currentVersionNumber": null
+ },
+ "evelyn3976/kaggriculture-v6-limited-dynamic-v8": {
+  "id": null,
+  "ref": "evelyn3976/kaggriculture-v6-limited-dynamic-v8",
+  "title": "Kaggriculture V6 Limited Dynamic V8",
+  "author": "Augenstern",
+  "lastRunTime": "2026-08-31T01:12:22.687Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "earnestgomer/sifi-model-1": {
+  "id": null,
+  "ref": "earnestgomer/sifi-model-1",
+  "title": "SIFI MODEL 1",
+  "author": "Earnest Gomer Jr",
+  "lastRunTime": "2026-08-31T00:13:52.347Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "destbreso/an-instrument-for-agent-selection": {
+  "id": null,
+  "ref": "destbreso/an-instrument-for-agent-selection",
+  "title": "An instrument for agent selection",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-30T22:02:15.537Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "destbreso/the-farm-day-as-a-routing-problem": {
+  "id": null,
+  "ref": "destbreso/the-farm-day-as-a-routing-problem",
+  "title": "The Farm Day as a Routing Problem",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-30T22:01:33.577Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "destbreso/a-field-guide-to-replay-agents": {
+  "id": null,
+  "ref": "destbreso/a-field-guide-to-replay-agents",
+  "title": "A Field Guide to Replay Agents",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-30T21:58:19.497Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "mansiaggarwal88/why-our-kaggriculture-ai-failed-math-vs-reality": {
+  "id": null,
+  "ref": "mansiaggarwal88/why-our-kaggriculture-ai-failed-math-vs-reality",
+  "title": "\ud83d\ude9c Why Our Kaggriculture AI Failed:Math vs Reality",
+  "author": "Mansi Aggarwal",
+  "lastRunTime": "2026-08-30T16:15:17.833Z",
+  "totalVotes": 19,
+  "currentVersionNumber": null
+ },
+ "stpeteishii/kaggriculture-match-replay-reproducer": {
+  "id": null,
+  "ref": "stpeteishii/kaggriculture-match-replay-reproducer",
+  "title": "Kaggriculture Match Replay Reproducer",
+  "author": "stpete_ishii",
+  "lastRunTime": "2026-08-30T15:00:17.627Z",
+  "totalVotes": 8,
+  "currentVersionNumber": null
+ },
+ "vedant7312/222222": {
+  "id": null,
+  "ref": "vedant7312/222222",
+  "title": "222222",
+  "author": "Vedant Tiwari",
+  "lastRunTime": "2026-08-30T13:51:13.683Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "rafifariqrabbani/kaggriculture-greedy-optimizer-staged-frozen-rl": {
+  "id": null,
+  "ref": "rafifariqrabbani/kaggriculture-greedy-optimizer-staged-frozen-rl",
+  "title": "Kaggriculture: Greedy Optimizer + Staged Frozen RL",
+  "author": "Rafif Ariq Rabbani",
+  "lastRunTime": "2026-08-30T11:38:07.457Z",
+  "totalVotes": 20,
+  "currentVersionNumber": null
+ },
+ "yhay81/replay-public-episode-actions-across-seeds-in-c": {
+  "id": null,
+  "ref": "yhay81/replay-public-episode-actions-across-seeds-in-c",
+  "title": "Replay Public Episode Actions Across Seeds in C++",
+  "author": "Yusuke Hayashi",
+  "lastRunTime": "2026-08-30T08:21:54.320Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "yhay81/public-match-history-router-rating-2929-aug-30": {
+  "id": null,
+  "ref": "yhay81/public-match-history-router-rating-2929-aug-30",
+  "title": "Public Match History Router - Rating 2929 - Aug 30",
+  "author": "Yusuke Hayashi",
+  "lastRunTime": "2026-08-30T03:36:37.897Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "nagatakengo/range-of-action": {
+  "id": null,
+  "ref": "nagatakengo/range-of-action",
+  "title": "range_of_action",
+  "author": "nk",
+  "lastRunTime": "2026-08-30T02:08:00.170Z",
+  "totalVotes": 10,
+  "currentVersionNumber": null
+ },
+ "skomuro/2000-baseline-silver-medal-route": {
+  "id": null,
+  "ref": "skomuro/2000-baseline-silver-medal-route",
+  "title": "2000+ Baseline: Silver Medal Route",
+  "author": "skomuro",
+  "lastRunTime": "2026-08-29T23:24:05.807Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "indarkarhana/shape-the-shop-work-the-pasture-top-10": {
+  "id": null,
+  "ref": "indarkarhana/shape-the-shop-work-the-pasture-top-10",
+  "title": "Shape the Shop Work the Pasture (TOP 10)",
+  "author": "Indar Karhana",
+  "lastRunTime": "2026-08-29T16:18:40.207Z",
+  "totalVotes": 95,
+  "currentVersionNumber": null
+ },
+ "evelyn3976/kaggriculture-kaito-v27-public-safety-v7": {
+  "id": null,
+  "ref": "evelyn3976/kaggriculture-kaito-v27-public-safety-v7",
+  "title": "Kaggriculture Kaito V27 Public Safety V7",
+  "author": "Augenstern",
+  "lastRunTime": "2026-08-29T12:28:17.277Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "nagatakengo/costs": {
+  "id": null,
+  "ref": "nagatakengo/costs",
+  "title": "costs",
+  "author": "nk",
+  "lastRunTime": "2026-08-29T11:13:40.897Z",
+  "totalVotes": 9,
+  "currentVersionNumber": null
+ },
+ "koushikkumardinda/kaggriculture-starter": {
+  "id": null,
+  "ref": "koushikkumardinda/kaggriculture-starter",
+  "title": "Kaggriculture Starter",
+  "author": "KOUSHIK KUMAR DINDA",
+  "lastRunTime": "2026-08-29T01:53:41.577Z",
+  "totalVotes": 29,
+  "currentVersionNumber": null
+ },
+ "theepanss/notebooke6e24888ed": {
+  "id": null,
+  "ref": "theepanss/notebooke6e24888ed",
+  "title": "notebooke6e24888ed",
+  "author": "THEEPAN S.S",
+  "lastRunTime": "2026-08-28T16:34:21.177Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "mobeenfatimah/kaggriculture-agribot-heuristic-state-machine": {
+  "id": null,
+  "ref": "mobeenfatimah/kaggriculture-agribot-heuristic-state-machine",
+  "title": "Kaggriculture(AgriBot): Heuristic State-Machine",
+  "author": "Mobeen Fatima",
+  "lastRunTime": "2026-08-28T16:29:25.047Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "binasalama/kaggriculture-v31-early-livestock": {
+  "id": null,
+  "ref": "binasalama/kaggriculture-v31-early-livestock",
+  "title": "Kaggriculture V31 Early Livestock",
+  "author": "Bina Salama",
+  "lastRunTime": "2026-08-28T09:26:42.313Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "binasalama/kaggriculture-v30-time-switch": {
+  "id": null,
+  "ref": "binasalama/kaggriculture-v30-time-switch",
+  "title": "Kaggriculture V30 Time Switch",
+  "author": "Bina Salama",
+  "lastRunTime": "2026-08-28T09:19:13.343Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "binasalama/kaggriculture-v29-reactive": {
+  "id": null,
+  "ref": "binasalama/kaggriculture-v29-reactive",
+  "title": "Kaggriculture V29 Reactive",
+  "author": "Bina Salama",
+  "lastRunTime": "2026-08-28T07:36:48.660Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "binasalama/kaggriculture-v28-gate-fixed": {
+  "id": null,
+  "ref": "binasalama/kaggriculture-v28-gate-fixed",
+  "title": "Kaggriculture V28 Gate Fixed",
+  "author": "Bina Salama",
+  "lastRunTime": "2026-08-28T07:29:56.240Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "evelyn3976/kaggriculture-frontier-v156-coherent-liquidity-v6": {
+  "id": null,
+  "ref": "evelyn3976/kaggriculture-frontier-v156-coherent-liquidity-v6",
+  "title": "Kaggriculture Frontier V156 Coherent Liquidity V6",
+  "author": "Augenstern",
+  "lastRunTime": "2026-08-28T02:34:13.327Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "dariushafshar/your-rating-fell-your-standing-rose": {
+  "id": null,
+  "ref": "dariushafshar/your-rating-fell-your-standing-rose",
+  "title": "Your Rating Fell. Your Standing Rose.",
+  "author": "Dariush Afshar",
+  "lastRunTime": "2026-08-27T19:03:12.093Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "xreina8/kaggriculture-a-b-two-agents-with-error-bars": {
+  "id": null,
+  "ref": "xreina8/kaggriculture-a-b-two-agents-with-error-bars",
+  "title": "Kaggriculture: A/B two agents with error bars",
+  "author": "Arda Y\u0131ld\u0131z",
+  "lastRunTime": "2026-08-27T18:31:53.363Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "evelyn3976/kaggriculture-v21-public-market-v5": {
+  "id": null,
+  "ref": "evelyn3976/kaggriculture-v21-public-market-v5",
+  "title": "Kaggriculture V21 Public Market V5",
+  "author": "Augenstern",
+  "lastRunTime": "2026-08-27T16:39:49.157Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "nagatakengo/predict-future-melon-prices": {
+  "id": null,
+  "ref": "nagatakengo/predict-future-melon-prices",
+  "title": "Predict_future_melon_prices",
+  "author": "nk",
+  "lastRunTime": "2026-08-27T12:42:37.520Z",
+  "totalVotes": 20,
+  "currentVersionNumber": null
+ },
+ "justinmnic/kaggriculture": {
+  "id": null,
+  "ref": "justinmnic/kaggriculture",
+  "title": "kaggriculture",
+  "author": "JustinMNIC",
+  "lastRunTime": "2026-08-26T17:46:53.397Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "evelyn3976/kaggriculture-adaptive-market-scheduler-v1": {
+  "id": null,
+  "ref": "evelyn3976/kaggriculture-adaptive-market-scheduler-v1",
+  "title": "Kaggriculture Adaptive Market Scheduler v1",
+  "author": "Augenstern",
+  "lastRunTime": "2026-08-26T12:29:47.137Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "lixiuqixiaoke/v24-robustmarketlead": {
+  "id": null,
+  "ref": "lixiuqixiaoke/v24-robustmarketlead",
+  "title": "V24-RobustMarketLead",
+  "author": "lixiuqixiaoke",
+  "lastRunTime": "2026-08-26T11:47:59.047Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "destbreso/the-trades-were-paying-for-the-farm": {
+  "id": null,
+  "ref": "destbreso/the-trades-were-paying-for-the-farm",
+  "title": "The trades were paying for the farm",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-26T10:55:53.540Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "destbreso/six-checks-before-you-waste-a-submission": {
+  "id": null,
+  "ref": "destbreso/six-checks-before-you-waste-a-submission",
+  "title": "Six checks before you waste a submission",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-26T10:51:49.100Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "destbreso/kaggriculture-measure-your-agent": {
+  "id": null,
+  "ref": "destbreso/kaggriculture-measure-your-agent",
+  "title": "Kaggriculture Measure Your Agent",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-26T10:50:43.433Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "destbreso/kaggriculture-what-kind-of-optimisation-is-this": {
+  "id": null,
+  "ref": "destbreso/kaggriculture-what-kind-of-optimisation-is-this",
+  "title": "Kaggriculture: what kind of optimisation is this?",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-26T10:50:40.673Z",
+  "totalVotes": 9,
+  "currentVersionNumber": null
+ },
+ "destbreso/kaggriculture-compare-two-agents": {
+  "id": null,
+  "ref": "destbreso/kaggriculture-compare-two-agents",
+  "title": "Kaggriculture Compare Two Agents",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-26T10:49:02.207Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "destbreso/kaggriculture-know-your-noise": {
+  "id": null,
+  "ref": "destbreso/kaggriculture-know-your-noise",
+  "title": "Kaggriculture Know Your Noise",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-26T10:49:01.387Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "destbreso/what-1-32-7-changed-and-what-it-did-not": {
+  "id": null,
+  "ref": "destbreso/what-1-32-7-changed-and-what-it-did-not",
+  "title": "What 1.32.7 changed, and what it did not",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-26T10:48:58.607Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "destbreso/mutants-at-the-top-genetic-potential-of-a-replay": {
+  "id": null,
+  "ref": "destbreso/mutants-at-the-top-genetic-potential-of-a-replay",
+  "title": "Mutants at the top: genetic potential of a replay",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-26T10:48:56.737Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "destbreso/the-leaderboard-has-a-fossil-record": {
+  "id": null,
+  "ref": "destbreso/the-leaderboard-has-a-fossil-record",
+  "title": "The leaderboard has a fossil record",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-26T10:48:44.800Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "vijaikm/kaggriculture-score-convergence-2026": {
+  "id": null,
+  "ref": "vijaikm/kaggriculture-score-convergence-2026",
+  "title": "Kaggriculture Score Convergence 2026",
+  "author": "VijaiKurianMathew",
+  "lastRunTime": "2026-08-26T09:08:25.497Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "zalejohn/submission-py": {
+  "id": null,
+  "ref": "zalejohn/submission-py",
+  "title": " submission.py",
+  "author": "Zale John",
+  "lastRunTime": "2026-08-26T00:47:03.097Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "kaptaan45/kaggriculture-championship-agent-simulation": {
+  "id": null,
+  "ref": "kaptaan45/kaggriculture-championship-agent-simulation",
+  "title": "Kaggriculture: Championship Agent & Simulation",
+  "author": "kaptaan45",
+  "lastRunTime": "2026-08-25T20:27:37.260Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "mansiaggarwal88/when-smart-math-fails-in-adversarial-games": {
+  "id": null,
+  "ref": "mansiaggarwal88/when-smart-math-fails-in-adversarial-games",
+  "title": "When Smart Math Fails in Adversarial Games",
+  "author": "Mansi Aggarwal",
+  "lastRunTime": "2026-08-25T18:00:28.750Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "manderson240/cohezion-kaggriculture-multi-agent-policy-baseline": {
+  "id": null,
+  "ref": "manderson240/cohezion-kaggriculture-multi-agent-policy-baseline",
+  "title": "Cohezion Kaggriculture Multi-Agent Policy Baseline",
+  "author": "Mike Anderson",
+  "lastRunTime": "2026-08-25T17:41:57.670Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "hboyang/kitex-v0": {
+  "id": null,
+  "ref": "hboyang/kitex-v0",
+  "title": "KiteX v0",
+  "author": "Byer",
+  "lastRunTime": "2026-08-25T15:57:09.867Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "hboyang/kaggriculture-adaptive-shop-guard": {
+  "id": null,
+  "ref": "hboyang/kaggriculture-adaptive-shop-guard",
+  "title": "Kaggriculture: Adaptive Shop Guard",
+  "author": "Byer",
+  "lastRunTime": "2026-08-25T12:51:42.503Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "ameythakur20/kaggriculture-premium-first-market-agent": {
+  "id": null,
+  "ref": "ameythakur20/kaggriculture-premium-first-market-agent",
+  "title": "Kaggriculture: Premium-First Market Agent",
+  "author": "Amey Thakur",
+  "lastRunTime": "2026-08-25T12:00:10.323Z",
+  "totalVotes": 22,
+  "currentVersionNumber": null
+ },
+ "ritzraha/cow-money-melon-mayhem-and-the-scoreboard": {
+  "id": null,
+  "ref": "ritzraha/cow-money-melon-mayhem-and-the-scoreboard",
+  "title": "Cow Money, Melon Mayhem, and the Scoreboard",
+  "author": "Ritwik Raha",
+  "lastRunTime": "2026-08-25T08:54:40.213Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "yamakawanin/kaggriculture-adaptive-public-state-multi-route": {
+  "id": null,
+  "ref": "yamakawanin/kaggriculture-adaptive-public-state-multi-route",
+  "title": "Kaggriculture \u2014 Adaptive Public-State Multi-Route",
+  "author": "NNN",
+  "lastRunTime": "2026-08-25T06:06:33.767Z",
+  "totalVotes": 26,
+  "currentVersionNumber": null
+ },
+ "reyhanksatria/kaggriculture-adaptive-shop-guard": {
+  "id": null,
+  "ref": "reyhanksatria/kaggriculture-adaptive-shop-guard",
+  "title": "Kaggriculture: Adaptive Shop Guard",
+  "author": "Reyhan Ksatria",
+  "lastRunTime": "2026-08-25T02:59:42.743Z",
+  "totalVotes": 37,
+  "currentVersionNumber": null
+ },
+ "kaitofukami/40-40-early-floor-39-46-top-10-v48-fast-routes": {
+  "id": null,
+  "ref": "kaitofukami/40-40-early-floor-39-46-top-10-v48-fast-routes",
+  "title": "40/40 Early Floor | 39/46 Top-10 | v48 Fast Routes",
+  "author": "Kaito Fukami",
+  "lastRunTime": "2026-08-24T22:55:42.047Z",
+  "totalVotes": 137,
+  "currentVersionNumber": null
+ },
+ "llccqq624/kaggriculture-adaptive-shop-guard": {
+  "id": null,
+  "ref": "llccqq624/kaggriculture-adaptive-shop-guard",
+  "title": "Kaggriculture | Adaptive Shop Guard",
+  "author": "Jiachen Li",
+  "lastRunTime": "2026-08-24T16:05:47.077Z",
+  "totalVotes": 25,
+  "currentVersionNumber": null
+ },
+ "llccqq624/kaggriculture-premium-queue-split": {
+  "id": null,
+  "ref": "llccqq624/kaggriculture-premium-queue-split",
+  "title": "Kaggriculture | Premium Queue Split",
+  "author": "Jiachen Li",
+  "lastRunTime": "2026-08-24T15:51:03.750Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "destbreso/a-week-four-x-ray-of-the-top-twelve": {
+  "id": null,
+  "ref": "destbreso/a-week-four-x-ray-of-the-top-twelve",
+  "title": "A week-four X-ray of the top twelve",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-24T14:17:27.157Z",
+  "totalVotes": 12,
+  "currentVersionNumber": null
+ },
+ "earnestgomer/agent-models": {
+  "id": null,
+  "ref": "earnestgomer/agent-models",
+  "title": "AGENT MODELS",
+  "author": "Earnest Gomer Jr",
+  "lastRunTime": "2026-08-24T12:10:17.070Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "vinceybb/kaggriculture-validate-before-you-submit": {
+  "id": null,
+  "ref": "vinceybb/kaggriculture-validate-before-you-submit",
+  "title": "Kaggriculture: Validate Before You Submit \ud83c\udf3e",
+  "author": "vinceybb",
+  "lastRunTime": "2026-08-24T03:49:22.020Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "llccqq624/kaggriculture-adaptive-counterbook": {
+  "id": null,
+  "ref": "llccqq624/kaggriculture-adaptive-counterbook",
+  "title": "Kaggriculture | Adaptive Counterbook",
+  "author": "Jiachen Li",
+  "lastRunTime": "2026-08-23T19:41:24.617Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "llccqq624/kaggriculture-the-shops-remember-the-route": {
+  "id": null,
+  "ref": "llccqq624/kaggriculture-the-shops-remember-the-route",
+  "title": "Kaggriculture | The Shops Remember the Route",
+  "author": "Jiachen Li",
+  "lastRunTime": "2026-08-23T19:41:07.043Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "mugundhjb/v21-multi-route-agent-sell-divergence-guarder": {
+  "id": null,
+  "ref": "mugundhjb/v21-multi-route-agent-sell-divergence-guarder",
+  "title": "V21|Multi-Route Agent|Sell Divergence Guarder",
+  "author": "MUGUNDH J B",
+  "lastRunTime": "2026-08-23T17:09:23.940Z",
+  "totalVotes": 8,
+  "currentVersionNumber": null
+ },
+ "kaitofukami/103-128-fresh-public-v43-sparse-shop-hybrid": {
+  "id": null,
+  "ref": "kaitofukami/103-128-fresh-public-v43-sparse-shop-hybrid",
+  "title": "103/128 Fresh Public | v43 Sparse Shop Hybrid",
+  "author": "Kaito Fukami",
+  "lastRunTime": "2026-08-23T15:43:16.320Z",
+  "totalVotes": 80,
+  "currentVersionNumber": null
+ },
+ "stevenleehans/kaggriculture-strongest-farmer-of-today": {
+  "id": null,
+  "ref": "stevenleehans/kaggriculture-strongest-farmer-of-today",
+  "title": "Kaggriculture - Strongest Farmer of Today?",
+  "author": "stevenleehans",
+  "lastRunTime": "2026-08-23T11:52:50.573Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "andrewsokolovsky/kaggriculture-breaking-the-tie": {
+  "id": null,
+  "ref": "andrewsokolovsky/kaggriculture-breaking-the-tie",
+  "title": "Kaggriculture: Breaking the Tie ",
+  "author": "Andrey Naymushin",
+  "lastRunTime": "2026-08-23T07:06:32.320Z",
+  "totalVotes": 74,
+  "currentVersionNumber": null
+ },
+ "alejandrofonda/kaggriculture-state-p1-2-2": {
+  "id": null,
+  "ref": "alejandrofonda/kaggriculture-state-p1-2-2",
+  "title": "Kaggriculture State P1.2.2",
+  "author": "Alejandro Fonda",
+  "lastRunTime": "2026-08-23T01:42:24.270Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "dariushafshar/a-small-public-split-costs-13-shakeup-points": {
+  "id": null,
+  "ref": "dariushafshar/a-small-public-split-costs-13-shakeup-points",
+  "title": "A Small Public Split Costs 13 Shakeup Points",
+  "author": "Dariush Afshar",
+  "lastRunTime": "2026-08-22T22:29:40.217Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "vijaikm/kaggriculture-bc-policy-inference-starter": {
+  "id": null,
+  "ref": "vijaikm/kaggriculture-bc-policy-inference-starter",
+  "title": "Kaggriculture BC Policy Inference Starter",
+  "author": "VijaiKurianMathew",
+  "lastRunTime": "2026-08-22T22:06:28.580Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "vijaikm/kaggriculture-match-replay-eda-starter": {
+  "id": null,
+  "ref": "vijaikm/kaggriculture-match-replay-eda-starter",
+  "title": "Kaggriculture Match Replay EDA Starter",
+  "author": "VijaiKurianMathew",
+  "lastRunTime": "2026-08-22T21:11:53.383Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "vijaikm/kaggriculture-modular-agent-framework": {
+  "id": null,
+  "ref": "vijaikm/kaggriculture-modular-agent-framework",
+  "title": "Kaggriculture Modular Agent Framework",
+  "author": "VijaiKurianMathew",
+  "lastRunTime": "2026-08-22T21:05:44.797Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "vijaikm/kaggriculture-simulation-eda": {
+  "id": null,
+  "ref": "vijaikm/kaggriculture-simulation-eda",
+  "title": "Kaggriculture Simulation EDA",
+  "author": "VijaiKurianMathew",
+  "lastRunTime": "2026-08-22T21:05:43.380Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "salemali7/harvest-kaggriculture": {
+  "id": null,
+  "ref": "salemali7/harvest-kaggriculture",
+  "title": "Harvest| Kaggriculture ",
+  "author": "Salem Ali",
+  "lastRunTime": "2026-08-22T19:11:32.770Z",
+  "totalVotes": 69,
+  "currentVersionNumber": null
+ },
+ "rakhansyah/an-unintelligent-attempt-teaching-greedy-workers": {
+  "id": null,
+  "ref": "rakhansyah/an-unintelligent-attempt-teaching-greedy-workers",
+  "title": "An Unintelligent Attempt: Teaching Greedy Workers",
+  "author": "Rakhansyah",
+  "lastRunTime": "2026-08-22T15:43:41.290Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "shorooghahmadi/kaggriculture-v3-agent4": {
+  "id": null,
+  "ref": "shorooghahmadi/kaggriculture-v3-agent4",
+  "title": "Kaggriculture v3 agent4",
+  "author": "Shoroogh Ahmadi",
+  "lastRunTime": "2026-08-22T13:33:20.760Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "xishengfeng/rl-v9-market-off-tape-rulemirror-league": {
+  "id": null,
+  "ref": "xishengfeng/rl-v9-market-off-tape-rulemirror-league",
+  "title": "RL v9 Market Off Tape RuleMirror League",
+  "author": "Tims",
+  "lastRunTime": "2026-08-22T12:53:50.053Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "bruceqdu/reinforcement-learning-and-mcts-a-tutorial": {
+  "id": null,
+  "ref": "bruceqdu/reinforcement-learning-and-mcts-a-tutorial",
+  "title": "Reinforcement Learning and MCTS: A Tutorial",
+  "author": "Bruce",
+  "lastRunTime": "2026-08-22T10:41:52.503Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "joymietalicuad/economics-driven-rule-agent-ecobot-v2": {
+  "id": null,
+  "ref": "joymietalicuad/economics-driven-rule-agent-ecobot-v2",
+  "title": "Economics-Driven Rule Agent (EcoBot v2)",
+  "author": "JOYMIE TALICUAD",
+  "lastRunTime": "2026-08-22T09:53:28.587Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "maverickss26/kaggriculture-v1": {
+  "id": null,
+  "ref": "maverickss26/kaggriculture-v1",
+  "title": "Kaggriculture v1",
+  "author": "maverick_ss_26",
+  "lastRunTime": "2026-08-22T08:40:15.797Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "dariushafshar/your-top-10-is-a-coinflip-past-2000-teams": {
+  "id": null,
+  "ref": "dariushafshar/your-top-10-is-a-coinflip-past-2000-teams",
+  "title": "Your Top 10 Is A Coinflip Past 2000 Teams",
+  "author": "Dariush Afshar",
+  "lastRunTime": "2026-08-22T08:09:41.370Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "boatlee/v21-r1-public-state-route-portfolio": {
+  "id": null,
+  "ref": "boatlee/v21-r1-public-state-route-portfolio",
+  "title": "V21-R1 | Public-State Route Portfolio",
+  "author": "boatlee",
+  "lastRunTime": "2026-08-21T15:17:59.773Z",
+  "totalVotes": 66,
+  "currentVersionNumber": null
+ },
+ "stevenleehans/kaggriculture-x578-i-m-the-strongest": {
+  "id": null,
+  "ref": "stevenleehans/kaggriculture-x578-i-m-the-strongest",
+  "title": "Kaggriculture x578 - I'm the strongest",
+  "author": "stevenleehans",
+  "lastRunTime": "2026-08-21T13:24:41.827Z",
+  "totalVotes": 14,
+  "currentVersionNumber": null
+ },
+ "dariushafshar/a-perfect-5-point-correlation-debunked-at-n-1-009": {
+  "id": null,
+  "ref": "dariushafshar/a-perfect-5-point-correlation-debunked-at-n-1-009",
+  "title": "A Perfect 5-Point Correlation, Debunked at n=1,009",
+  "author": "Dariush Afshar",
+  "lastRunTime": "2026-08-21T08:35:40.343Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "stevenleehans/kaggriculture-x544-nah-i-d-win": {
+  "id": null,
+  "ref": "stevenleehans/kaggriculture-x544-nah-i-d-win",
+  "title": "Kaggriculture X544 - Nah, I'd Win.",
+  "author": "stevenleehans",
+  "lastRunTime": "2026-08-21T07:14:40.910Z",
+  "totalVotes": 31,
+  "currentVersionNumber": null
+ },
+ "dariushafshar/kaggriculture-s-mean-vote-beats-biohub-s-by-52": {
+  "id": null,
+  "ref": "dariushafshar/kaggriculture-s-mean-vote-beats-biohub-s-by-52",
+  "title": "Kaggriculture's Mean Vote Beats Biohub's by 52%",
+  "author": "Dariush Afshar",
+  "lastRunTime": "2026-08-21T03:33:06.540Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "xreina8/does-a-farming-game-get-supply-and-demand-right": {
+  "id": null,
+  "ref": "xreina8/does-a-farming-game-get-supply-and-demand-right",
+  "title": "Does a farming game get supply and demand right?",
+  "author": "Arda Y\u0131ld\u0131z",
+  "lastRunTime": "2026-08-20T19:39:38.263Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "xreina8/kaggriculture-300-melons-return-36-of-face-value": {
+  "id": null,
+  "ref": "xreina8/kaggriculture-300-melons-return-36-of-face-value",
+  "title": "Kaggriculture: 300 melons return 36% of face value",
+  "author": "Arda Y\u0131ld\u0131z",
+  "lastRunTime": "2026-08-20T19:39:35.937Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "xreina8/what-decides-rating-once-money-stops-mattering": {
+  "id": null,
+  "ref": "xreina8/what-decides-rating-once-money-stops-mattering",
+  "title": "What decides rating once money stops mattering?",
+  "author": "Arda Y\u0131ld\u0131z",
+  "lastRunTime": "2026-08-20T19:39:24.457Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "umutdorukztrk/kagricultre-baseline": {
+  "id": null,
+  "ref": "umutdorukztrk/kagricultre-baseline",
+  "title": "Kagricultre_baseline",
+  "author": "Umut Doruk \u00d6zt\u00fcrk",
+  "lastRunTime": "2026-08-20T13:55:51.943Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "ameythakur20/kaggriculture-deterministic-farm-planning-agent": {
+  "id": null,
+  "ref": "ameythakur20/kaggriculture-deterministic-farm-planning-agent",
+  "title": "Kaggriculture Deterministic Farm Planning Agent",
+  "author": "Amey Thakur",
+  "lastRunTime": "2026-08-20T04:38:56.027Z",
+  "totalVotes": 12,
+  "currentVersionNumber": null
+ },
+ "tetsutani/adaptive-farming-strategy-for-kaggriculture": {
+  "id": null,
+  "ref": "tetsutani/adaptive-farming-strategy-for-kaggriculture",
+  "title": "\ud83c\udf3eAdaptive Farming Strategy for Kaggriculture",
+  "author": "tetsu2131",
+  "lastRunTime": "2026-08-19T23:57:35.430Z",
+  "totalVotes": 145,
+  "currentVersionNumber": null
+ },
+ "navazshfathi/notebook76f6a59396": {
+  "id": null,
+  "ref": "navazshfathi/notebook76f6a59396",
+  "title": "notebook76f6a59396",
+  "author": "navazsh fathi",
+  "lastRunTime": "2026-08-19T17:35:58.017Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "destbreso/a-dna-test-for-agents": {
+  "id": null,
+  "ref": "destbreso/a-dna-test-for-agents",
+  "title": "A DNA Test for Agents",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-19T16:30:17.077Z",
+  "totalVotes": 21,
+  "currentVersionNumber": null
+ },
+ "nagatakengo/kaggriculture-movements-top-xx": {
+  "id": null,
+  "ref": "nagatakengo/kaggriculture-movements-top-xx",
+  "title": "Kaggriculture_Movements_top xx%",
+  "author": "nk",
+  "lastRunTime": "2026-08-19T15:26:31.623Z",
+  "totalVotes": 20,
+  "currentVersionNumber": null
+ },
+ "ahmed1harfoush/kaggriculture-notebook": {
+  "id": null,
+  "ref": "ahmed1harfoush/kaggriculture-notebook",
+  "title": "Kaggriculture  Notebook",
+  "author": "Ahmed Harfoush",
+  "lastRunTime": "2026-08-19T09:37:44.393Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "moushunchen/twelve-seeds-three-melons": {
+  "id": null,
+  "ref": "moushunchen/twelve-seeds-three-melons",
+  "title": "Twelve Seeds, Three Melons",
+  "author": "moushun chen",
+  "lastRunTime": "2026-08-19T07:38:20.490Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "dynamo14324/kaggriculture-advanced-ml-decision-framework": {
+  "id": null,
+  "ref": "dynamo14324/kaggriculture-advanced-ml-decision-framework",
+  "title": "Kaggriculture: Advanced ML & Decision Framework",
+  "author": "Yogesh Jadhav",
+  "lastRunTime": "2026-08-18T20:34:33.593Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "artemzapara/type-safety-with-pydantic-models": {
+  "id": null,
+  "ref": "artemzapara/type-safety-with-pydantic-models",
+  "title": "Type safety with Pydantic models",
+  "author": "Artem Zapara",
+  "lastRunTime": "2026-08-18T16:17:04.223Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "destbreso/dissecting-the-top-two": {
+  "id": null,
+  "ref": "destbreso/dissecting-the-top-two",
+  "title": "Dissecting the Top Two",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-18T15:26:29.720Z",
+  "totalVotes": 10,
+  "currentVersionNumber": null
+ },
+ "zaedradwan/notebookbbeb477a58": {
+  "id": null,
+  "ref": "zaedradwan/notebookbbeb477a58",
+  "title": "notebookbbeb477a58",
+  "author": " \u0632\u064a\u062f\u0631\u0636\u0648\u0627\u0646 \u0645\u062d\u0645\u062f \u0642\u0627\u064a\u062f",
+  "lastRunTime": "2026-08-18T14:38:59.957Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "keremelik/kaggriculture-paired-not-paper": {
+  "id": null,
+  "ref": "keremelik/kaggriculture-paired-not-paper",
+  "title": "Kaggriculture Paired Not Paper",
+  "author": "Kerem Celik",
+  "lastRunTime": "2026-08-18T09:25:50.247Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "keremelik/kaggriculture-two-fail-cells": {
+  "id": null,
+  "ref": "keremelik/kaggriculture-two-fail-cells",
+  "title": "Kaggriculture Two Fail Cells",
+  "author": "Kerem Celik",
+  "lastRunTime": "2026-08-18T09:25:43.750Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "keremelik/kaggriculture-cash-path-1327": {
+  "id": null,
+  "ref": "keremelik/kaggriculture-cash-path-1327",
+  "title": "Kaggriculture Cash Path 1327",
+  "author": "Kerem Celik",
+  "lastRunTime": "2026-08-18T09:25:36.020Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "holeneckles/notebooke394244546": {
+  "id": null,
+  "ref": "holeneckles/notebooke394244546",
+  "title": "notebooke394244546",
+  "author": "Hole Neckles",
+  "lastRunTime": "2026-08-18T05:48:27.247Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "tuannm3812/hierarchical-task-coordinator-htdc-v12": {
+  "id": null,
+  "ref": "tuannm3812/hierarchical-task-coordinator-htdc-v12",
+  "title": "Hierarchical Task Coordinator (HTDC) v12",
+  "author": "tuannm3812",
+  "lastRunTime": "2026-08-18T01:33:38.993Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "lucashmateo/kaggriculture-replays-no-oom-3-dataframes": {
+  "id": null,
+  "ref": "lucashmateo/kaggriculture-replays-no-oom-3-dataframes",
+  "title": "Kaggriculture Replays: No OOM, 3 DataFrames",
+  "author": "Lucas Henrique Mateo",
+  "lastRunTime": "2026-08-17T21:03:03.790Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "destbreso/what-is-fixed-what-emerged-and-how-you-can-tell": {
+  "id": null,
+  "ref": "destbreso/what-is-fixed-what-emerged-and-how-you-can-tell",
+  "title": "What is fixed, what emerged, and how you can tell",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-17T15:44:56.767Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "destbreso/kaggriculture-how-much-money-is-in-this-game": {
+  "id": null,
+  "ref": "destbreso/kaggriculture-how-much-money-is-in-this-game",
+  "title": "Kaggriculture: How much money is in this game?",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-17T15:44:54.300Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "destbreso/how-many-opponents-is-a-pool-of-forty": {
+  "id": null,
+  "ref": "destbreso/how-many-opponents-is-a-pool-of-forty",
+  "title": "How many opponents is a pool of forty?",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-17T15:44:52.143Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "jamesgambrah/kaggriculture-tournament-agent": {
+  "id": null,
+  "ref": "jamesgambrah/kaggriculture-tournament-agent",
+  "title": "kaggriculture-tournament-agent",
+  "author": "Dr. James Gambrah",
+  "lastRunTime": "2026-08-17T08:47:33.947Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "zakariajoudar/rule-based-agent-with-dynamic-ma": {
+  "id": null,
+  "ref": "zakariajoudar/rule-based-agent-with-dynamic-ma",
+  "title": "\ud83e\udd16Rule-Based Agent with Dynamic Ma",
+  "author": "zakaria joudar",
+  "lastRunTime": "2026-08-17T07:05:49.487Z",
+  "totalVotes": 10,
+  "currentVersionNumber": null
+ },
+ "boatlee/v20-adaptive-r1-multi-route-agent": {
+  "id": null,
+  "ref": "boatlee/v20-adaptive-r1-multi-route-agent",
+  "title": "V20-Adaptive-R1 | Multi-Route Agent",
+  "author": "boatlee",
+  "lastRunTime": "2026-08-17T06:51:32.957Z",
+  "totalVotes": 67,
+  "currentVersionNumber": null
+ },
+ "farhanabidtech786/kaggriculture-beginner-friendly": {
+  "id": null,
+  "ref": "farhanabidtech786/kaggriculture-beginner-friendly",
+  "title": "kaggriculture-beginner-friendly",
+  "author": "Farhan Abid",
+  "lastRunTime": "2026-08-16T08:40:45.297Z",
+  "totalVotes": 8,
+  "currentVersionNumber": null
+ },
+ "daisy023/kaggriculture-smart-farming-agent": {
+  "id": null,
+  "ref": "daisy023/kaggriculture-smart-farming-agent",
+  "title": "Kaggriculture Smart Farming Agent",
+  "author": "Dharshini",
+  "lastRunTime": "2026-08-16T07:20:11.303Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "ryanmyers03/kaggriculture-agent-v1": {
+  "id": null,
+  "ref": "ryanmyers03/kaggriculture-agent-v1",
+  "title": "Kaggriculture Agent v1",
+  "author": "Ryan Myers",
+  "lastRunTime": "2026-08-16T01:29:51.197Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "ronaldkwilson/measuring-is-the-hard-part": {
+  "id": null,
+  "ref": "ronaldkwilson/measuring-is-the-hard-part",
+  "title": "Measuring is the hard part",
+  "author": "Ronald K Wilson ",
+  "lastRunTime": "2026-08-15T17:15:22.817Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "pilkwang/kaggriculture-precomputed-schedule-policy": {
+  "id": null,
+  "ref": "pilkwang/kaggriculture-precomputed-schedule-policy",
+  "title": "Kaggriculture Precomputed Schedule Policy",
+  "author": "Pilkwang Kim",
+  "lastRunTime": "2026-08-15T13:16:50.113Z",
+  "totalVotes": 17,
+  "currentVersionNumber": null
+ },
+ "jamesgambrah/kaggriculture-tournament-agent-dr-james-gambrah": {
+  "id": null,
+  "ref": "jamesgambrah/kaggriculture-tournament-agent-dr-james-gambrah",
+  "title": "Kaggriculture Tournament Agent - Dr. James Gambrah",
+  "author": "Dr. James Gambrah",
+  "lastRunTime": "2026-08-15T09:49:12.447Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "msama01/kaggriculture-evaluation-agent-performance-analys": {
+  "id": null,
+  "ref": "msama01/kaggriculture-evaluation-agent-performance-analys",
+  "title": "Kaggriculture Evaluation: Agent Performance Analys",
+  "author": "Maram Ali",
+  "lastRunTime": "2026-08-15T09:14:48.443Z",
+  "totalVotes": 12,
+  "currentVersionNumber": null
+ },
+ "destbreso/kaggriculture-the-free-experiment-you-already-ran": {
+  "id": null,
+  "ref": "destbreso/kaggriculture-the-free-experiment-you-already-ran",
+  "title": "Kaggriculture: the free experiment you already ran",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-15T05:00:51.047Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "destbreso/kaggriculture-what-kind-of-game-is-this": {
+  "id": null,
+  "ref": "destbreso/kaggriculture-what-kind-of-game-is-this",
+  "title": "Kaggriculture: What kind of game is this?",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-15T05:00:48.673Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "destbreso/everyone-is-playing-the-same-opening": {
+  "id": null,
+  "ref": "destbreso/everyone-is-playing-the-same-opening",
+  "title": "Everyone is playing the same opening",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-15T02:33:13.573Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "destbreso/wins-not-money": {
+  "id": null,
+  "ref": "destbreso/wins-not-money",
+  "title": "Wins, not money",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-15T02:31:49.260Z",
+  "totalVotes": 11,
+  "currentVersionNumber": null
+ },
+ "destbreso/the-leaderboard-is-a-habitat-gradient": {
+  "id": null,
+  "ref": "destbreso/the-leaderboard-is-a-habitat-gradient",
+  "title": "The leaderboard is a habitat gradient",
+  "author": "destbreso",
+  "lastRunTime": "2026-08-15T00:17:56.033Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "reyhanksatria/best-market-agent-high-strategy": {
+  "id": null,
+  "ref": "reyhanksatria/best-market-agent-high-strategy",
+  "title": "best market agent - high strategy",
+  "author": "Reyhan Ksatria",
+  "lastRunTime": "2026-08-14T20:34:03.027Z",
+  "totalVotes": 18,
+  "currentVersionNumber": null
+ },
+ "nikital7/4000x-environment-speedup-kaggriculture": {
+  "id": null,
+  "ref": "nikital7/4000x-environment-speedup-kaggriculture",
+  "title": "4000x environment speedup | Kaggriculture",
+  "author": "Nikita Lugovoy",
+  "lastRunTime": "2026-08-14T18:49:22.867Z",
+  "totalVotes": 35,
+  "currentVersionNumber": null
+ },
+ "mansiaggarwal88/kaggriculture-local-agent-evaluation-harness": {
+  "id": null,
+  "ref": "mansiaggarwal88/kaggriculture-local-agent-evaluation-harness",
+  "title": "\ud83d\ude9c Kaggriculture: Local Agent Evaluation Harness",
+  "author": "Mansi Aggarwal",
+  "lastRunTime": "2026-08-14T16:24:26.363Z",
+  "totalVotes": 11,
+  "currentVersionNumber": null
+ },
+ "hussainbakhsh5/notebook372c7e8667": {
+  "id": null,
+  "ref": "hussainbakhsh5/notebook372c7e8667",
+  "title": "notebook372c7e8667",
+  "author": "Hussain Bakhsh",
+  "lastRunTime": "2026-08-14T10:24:00.783Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "juyhg65/65-notebookks": {
+  "id": null,
+  "ref": "juyhg65/65-notebookks",
+  "title": "65_notebookks",
+  "author": "juyhg65",
+  "lastRunTime": "2026-08-14T06:20:24.817Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "foysalemonshanto/read-the-market-choose-the-farm": {
+  "id": null,
+  "ref": "foysalemonshanto/read-the-market-choose-the-farm",
+  "title": "\u00f0\u0178\u0152\u00be Read the Market, Choose the Farm \u00f0\u0178\u201c\u02c6",
+  "author": "FOYSAL",
+  "lastRunTime": "2026-08-14T05:31:25.033Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "indarkarhana/rank-top10-read-the-market-choose-the-farm": {
+  "id": null,
+  "ref": "indarkarhana/rank-top10-read-the-market-choose-the-farm",
+  "title": "\ud83c\udf3e (Rank Top10)Read the Market, Choose the Farm \ud83d\udcc8",
+  "author": "Indar Karhana",
+  "lastRunTime": "2026-08-13T23:17:44.317Z",
+  "totalVotes": 71,
+  "currentVersionNumber": null
+ },
+ "sakhawathossen/kaggriculture-final-hybrid-champion": {
+  "id": null,
+  "ref": "sakhawathossen/kaggriculture-final-hybrid-champion",
+  "title": "Kaggriculture Final Hybrid Champion",
+  "author": "Sakhawat Hossen",
+  "lastRunTime": "2026-08-13T15:36:14.923Z",
+  "totalVotes": 9,
+  "currentVersionNumber": null
+ },
+ "sakhawathossen/hybrid-kaggriculture": {
+  "id": null,
+  "ref": "sakhawathossen/hybrid-kaggriculture",
+  "title": "Hybrid Kaggriculture ",
+  "author": "Sakhawat Hossen",
+  "lastRunTime": "2026-08-13T15:33:53.267Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "boatlee/v17-r1-rc2-high-score-10c-4s-market-storage": {
+  "id": null,
+  "ref": "boatlee/v17-r1-rc2-high-score-10c-4s-market-storage",
+  "title": "V17-R1-RC2 | High-Score 10C/4S Market & Storage",
+  "author": "boatlee",
+  "lastRunTime": "2026-08-13T14:30:27.723Z",
+  "totalVotes": 14,
+  "currentVersionNumber": null
+ },
+ "sushanthtiruvaipati/kaggriculture-barnyard-frontrun-v1": {
+  "id": null,
+  "ref": "sushanthtiruvaipati/kaggriculture-barnyard-frontrun-v1",
+  "title": "Kaggriculture Barnyard FrontRun v1",
+  "author": "Sushanth Tiruvaipati",
+  "lastRunTime": "2026-08-13T14:15:43.310Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "rajan1673/kagriculture": {
+  "id": null,
+  "ref": "rajan1673/kagriculture",
+  "title": "kagriculture ",
+  "author": "rajan jha",
+  "lastRunTime": "2026-08-13T12:01:10.870Z",
+  "totalVotes": 20,
+  "currentVersionNumber": null
+ },
+ "shorooghahmadi/kaggriculture-v3-agent": {
+  "id": null,
+  "ref": "shorooghahmadi/kaggriculture-v3-agent",
+  "title": "Kaggriculture v3 agent",
+  "author": "Shoroogh Ahmadi",
+  "lastRunTime": "2026-08-13T11:42:19.837Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "vishal567/why-tomatoes-lost-a-60-game-kaggriculture-agent": {
+  "id": null,
+  "ref": "vishal567/why-tomatoes-lost-a-60-game-kaggriculture-agent",
+  "title": "Why Tomatoes Lost: A 60-Game Kaggriculture Agent",
+  "author": "Vishal Khomane",
+  "lastRunTime": "2026-08-13T10:29:29.307Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "shashvatsingham/kaggriculture-a-robust-heuristic-farmer": {
+  "id": null,
+  "ref": "shashvatsingham/kaggriculture-a-robust-heuristic-farmer",
+  "title": "Kaggriculture: A Robust Heuristic Farmer",
+  "author": "Shashvat Singham",
+  "lastRunTime": "2026-08-13T08:39:21.613Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "amaterasuuuuu/shabby-farm": {
+  "id": null,
+  "ref": "amaterasuuuuu/shabby-farm",
+  "title": "Shabby Farm",
+  "author": "somewhereafter",
+  "lastRunTime": "2026-08-13T08:14:16.047Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "bruceqdu/two-reinforcement-learning-examples-from-kaito-v27": {
+  "id": null,
+  "ref": "bruceqdu/two-reinforcement-learning-examples-from-kaito-v27",
+  "title": "Two Reinforcement Learning Examples from Kaito V27",
+  "author": "Bruce",
+  "lastRunTime": "2026-08-13T05:12:49.433Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "dynamo14324/kaggriculture-reproducible-multi-worker-policy": {
+  "id": null,
+  "ref": "dynamo14324/kaggriculture-reproducible-multi-worker-policy",
+  "title": "Kaggriculture: Reproducible Multi-Worker Policy",
+  "author": "Yogesh Jadhav",
+  "lastRunTime": "2026-08-13T04:29:11.287Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "denizeryilmaz/v111-8c4s-economic-core-premium-lead": {
+  "id": null,
+  "ref": "denizeryilmaz/v111-8c4s-economic-core-premium-lead",
+  "title": "V111 | 8C4S Economic Core Premium Lead",
+  "author": "Deniz",
+  "lastRunTime": "2026-08-12T21:06:43.557Z",
+  "totalVotes": 67,
+  "currentVersionNumber": null
+ },
+ "ryuorlandotamin/kaggriculture-is-your-new-agent-actually-better": {
+  "id": null,
+  "ref": "ryuorlandotamin/kaggriculture-is-your-new-agent-actually-better",
+  "title": "Kaggriculture: Is Your New Agent Actually Better?",
+  "author": "Ryu Orlando Tamin",
+  "lastRunTime": "2026-08-12T16:35:54.717Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "cjlcjlcjl/kaggriculture-what-the-top-farms-do-a-live-meta": {
+  "id": null,
+  "ref": "cjlcjlcjl/kaggriculture-what-the-top-farms-do-a-live-meta",
+  "title": "Kaggriculture: What the Top Farms Do \u2014 a Live Meta",
+  "author": "Furina",
+  "lastRunTime": "2026-08-12T14:06:23.697Z",
+  "totalVotes": 75,
+  "currentVersionNumber": null
+ },
+ "boatlee/v16-rc5-r5a-high-score-8c-4s-recovery": {
+  "id": null,
+  "ref": "boatlee/v16-rc5-r5a-high-score-8c-4s-recovery",
+  "title": "V16-RC5-R5A | High-Score 8C/4S Recovery",
+  "author": "boatlee",
+  "lastRunTime": "2026-08-12T13:28:40.400Z",
+  "totalVotes": 51,
+  "currentVersionNumber": null
+ },
+ "shorooghahmadi/kaggriculture-v2-agent": {
+  "id": null,
+  "ref": "shorooghahmadi/kaggriculture-v2-agent",
+  "title": "Kaggriculture v2 agent",
+  "author": "Shoroogh Ahmadi",
+  "lastRunTime": "2026-08-12T11:38:19.293Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "boatlee/v16-rc5-high-score-8c-4s-premium-market-lead": {
+  "id": null,
+  "ref": "boatlee/v16-rc5-high-score-8c-4s-premium-market-lead",
+  "title": "V16-RC5 | High-Score 8C/4S Premium Market Lead",
+  "author": "boatlee",
+  "lastRunTime": "2026-08-12T10:25:26.987Z",
+  "totalVotes": 321,
+  "currentVersionNumber": null
+ },
+ "mansiaggarwal88/kaggriculture-build-your-first-farming-agent": {
+  "id": null,
+  "ref": "mansiaggarwal88/kaggriculture-build-your-first-farming-agent",
+  "title": "Kaggriculture: Build Your First Farming Agent",
+  "author": "Mansi Aggarwal",
+  "lastRunTime": "2026-08-12T09:30:57.877Z",
+  "totalVotes": 10,
+  "currentVersionNumber": null
+ },
+ "jeffmarcecadet/reverse-engineering-rank-5-thunder-thunder": {
+  "id": null,
+  "ref": "jeffmarcecadet/reverse-engineering-rank-5-thunder-thunder",
+  "title": "Reverse-Engineering Rank #5 (THUNDER THUNDER)",
+  "author": "Jeff Marc E. Cadet",
+  "lastRunTime": "2026-08-12T01:50:27.207Z",
+  "totalVotes": 13,
+  "currentVersionNumber": null
+ },
+ "ishivapatil/kaggriculture-cow-empire-v3": {
+  "id": null,
+  "ref": "ishivapatil/kaggriculture-cow-empire-v3",
+  "title": "Kaggriculture Cow Empire V3",
+  "author": "Shivangoudaa @medizys.com",
+  "lastRunTime": "2026-08-11T21:39:26.677Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "ishivapatil/kaggriculture-cow-empire-v4": {
+  "id": null,
+  "ref": "ishivapatil/kaggriculture-cow-empire-v4",
+  "title": "Kaggriculture Cow Empire V4",
+  "author": "Shivangoudaa @medizys.com",
+  "lastRunTime": "2026-08-11T21:39:16.547Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "ishivapatil/kaggriculture-mathematical-exploit-agent": {
+  "id": null,
+  "ref": "ishivapatil/kaggriculture-mathematical-exploit-agent",
+  "title": "Kaggriculture Mathematical Exploit Agent",
+  "author": "Shivangoudaa @medizys.com",
+  "lastRunTime": "2026-08-11T21:38:48.627Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "ishivapatil/kaggriculture-limit-breaker-agent": {
+  "id": null,
+  "ref": "ishivapatil/kaggriculture-limit-breaker-agent",
+  "title": "Kaggriculture Limit Breaker Agent",
+  "author": "Shivangoudaa @medizys.com",
+  "lastRunTime": "2026-08-11T21:38:41.840Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "ishivapatil/strict-future-meta-reset-v25-hardcoded-replay": {
+  "id": null,
+  "ref": "ishivapatil/strict-future-meta-reset-v25-hardcoded-replay",
+  "title": "Strict Future Meta Reset v25 (Hardcoded Replay)",
+  "author": "Shivangoudaa @medizys.com",
+  "lastRunTime": "2026-08-11T21:38:35.067Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "ishivapatil/adaptive-replay-agent-kaggriculture": {
+  "id": null,
+  "ref": "ishivapatil/adaptive-replay-agent-kaggriculture",
+  "title": "Adaptive Replay Agent Kaggriculture",
+  "author": "Shivangoudaa @medizys.com",
+  "lastRunTime": "2026-08-11T21:38:27.533Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "ishivapatil/kaggriculture-v27-midgame-meta-reset-thunder": {
+  "id": null,
+  "ref": "ishivapatil/kaggriculture-v27-midgame-meta-reset-thunder",
+  "title": "Kaggriculture v27 Midgame Meta Reset (THUNDER)",
+  "author": "Shivangoudaa @medizys.com",
+  "lastRunTime": "2026-08-11T21:38:20.503Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "saitejabandaruin/kaggriculture-ultimate-mega-ensemble-3000": {
+  "id": null,
+  "ref": "saitejabandaruin/kaggriculture-ultimate-mega-ensemble-3000",
+  "title": "Kaggriculture | Ultimate Mega-Ensemble 3000+",
+  "author": "Sai Teja Bandaru",
+  "lastRunTime": "2026-08-11T20:22:46.557Z",
+  "totalVotes": 25,
+  "currentVersionNumber": null
+ },
+ "saitejabandaruin/kaggriculture-pure-architecture-2600-elo-v3": {
+  "id": null,
+  "ref": "saitejabandaruin/kaggriculture-pure-architecture-2600-elo-v3",
+  "title": "Kaggriculture | Pure Architecture (2600+ Elo) V3",
+  "author": "Sai Teja Bandaru",
+  "lastRunTime": "2026-08-11T20:21:42.173Z",
+  "totalVotes": 30,
+  "currentVersionNumber": null
+ },
+ "maximolorenzoylosada/kaggriculture-what-a-turn-is-worth": {
+  "id": null,
+  "ref": "maximolorenzoylosada/kaggriculture-what-a-turn-is-worth",
+  "title": "Kaggriculture: What a Turn Is Worth",
+  "author": "maximo lorenzo y losada",
+  "lastRunTime": "2026-08-11T20:20:50.370Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "safwanahmadsaffi/kaggriculture-findings-from-zero-to-top-meta": {
+  "id": null,
+  "ref": "safwanahmadsaffi/kaggriculture-findings-from-zero-to-top-meta",
+  "title": "Kaggriculture: Findings from Zero to Top Meta",
+  "author": "Muhammad Safwan Ahmad Saffi",
+  "lastRunTime": "2026-08-11T20:00:38.637Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "mohitsongra/kaggriculture-getting-started": {
+  "id": null,
+  "ref": "mohitsongra/kaggriculture-getting-started",
+  "title": "Kaggriculture: Getting Started",
+  "author": "Mohit Songra",
+  "lastRunTime": "2026-08-11T17:30:56.043Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "llccqq624/kaggriculture-weedproof-clone-market": {
+  "id": null,
+  "ref": "llccqq624/kaggriculture-weedproof-clone-market",
+  "title": "Kaggriculture | Weedproof Clone Market",
+  "author": "Jiachen Li",
+  "lastRunTime": "2026-08-11T16:57:59.483Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "llccqq624/kaggriculture-dual-market-relay": {
+  "id": null,
+  "ref": "llccqq624/kaggriculture-dual-market-relay",
+  "title": "Kaggriculture | Dual Market Relay",
+  "author": "Jiachen Li",
+  "lastRunTime": "2026-08-11T16:57:58.807Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "sangitabannore/kaggriculture-sangita-jiwane-2": {
+  "id": null,
+  "ref": "sangitabannore/kaggriculture-sangita-jiwane-2",
+  "title": "Kaggriculture: Sangita Jiwane 2",
+  "author": "Sangita Bannore",
+  "lastRunTime": "2026-08-11T14:33:00.887Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "raykkretzschmar/kaggriculture-findings-from-zero-to-top-meta": {
+  "id": null,
+  "ref": "raykkretzschmar/kaggriculture-findings-from-zero-to-top-meta",
+  "title": "Kaggriculture: Findings from Zero to Top Meta",
+  "author": "Rayk Kretzschmar",
+  "lastRunTime": "2026-08-11T14:13:28.783Z",
+  "totalVotes": 203,
+  "currentVersionNumber": null
+ },
+ "nekkon/strawberry-pays-24x-what-the-price-table-says": {
+  "id": null,
+  "ref": "nekkon/strawberry-pays-24x-what-the-price-table-says",
+  "title": "Strawberry pays 24x what the price table says",
+  "author": "Luka Duvanov",
+  "lastRunTime": "2026-08-11T12:22:33.767Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "daniilkrasnovvv/kaggriculture-easy-bronse-in-lb-2628-2": {
+  "id": null,
+  "ref": "daniilkrasnovvv/kaggriculture-easy-bronse-in-lb-2628-2",
+  "title": "[Kaggriculture] Easy bronse in LB (2628.2)!",
+  "author": "Krasnov Daniil",
+  "lastRunTime": "2026-08-11T10:28:26.397Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "daniilkrasnovvv/notebook4": {
+  "id": null,
+  "ref": "daniilkrasnovvv/notebook4",
+  "title": "Notebook4",
+  "author": "Krasnov Daniil",
+  "lastRunTime": "2026-08-11T06:11:31.533Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "daniilkrasnovvv/notebook3": {
+  "id": null,
+  "ref": "daniilkrasnovvv/notebook3",
+  "title": "Notebook3",
+  "author": "Krasnov Daniil",
+  "lastRunTime": "2026-08-11T06:09:53.277Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "daniilkrasnovvv/notebook2": {
+  "id": null,
+  "ref": "daniilkrasnovvv/notebook2",
+  "title": "Notebook2",
+  "author": "Krasnov Daniil",
+  "lastRunTime": "2026-08-11T06:09:03.563Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "daniilkrasnovvv/farm-top-solution-in-lb": {
+  "id": null,
+  "ref": "daniilkrasnovvv/farm-top-solution-in-lb",
+  "title": "[Farm] Top solution in LB!",
+  "author": "Krasnov Daniil",
+  "lastRunTime": "2026-08-10T18:53:54.137Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "shivam2212/shiv17-5-turn-counter-relay": {
+  "id": null,
+  "ref": "shivam2212/shiv17-5-turn-counter-relay",
+  "title": "ShiV17 - 5 Turn Counter Relay",
+  "author": "Shivam_2212",
+  "lastRunTime": "2026-08-10T16:56:44.647Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "l4r3nn/kaggriculture-agent-v1": {
+  "id": null,
+  "ref": "l4r3nn/kaggriculture-agent-v1",
+  "title": "kaggriculture-agent-v1",
+  "author": "Ragheb haddara",
+  "lastRunTime": "2026-08-10T16:31:04.130Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "debmalya84/kaggriculture-episode-data-a-gentle-eda": {
+  "id": null,
+  "ref": "debmalya84/kaggriculture-episode-data-a-gentle-eda",
+  "title": "Kaggriculture Episode Data: A Gentle EDA",
+  "author": "Debmalya",
+  "lastRunTime": "2026-08-10T16:17:30.417Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "boatlee/v16-rc2-high-score-near-mirror-market-relay": {
+  "id": null,
+  "ref": "boatlee/v16-rc2-high-score-near-mirror-market-relay",
+  "title": "V16-RC2 | High-Score Near-Mirror Market Relay",
+  "author": "boatlee",
+  "lastRunTime": "2026-08-10T11:33:49.127Z",
+  "totalVotes": 82,
+  "currentVersionNumber": null
+ },
+ "themeend/177-180-fresh-top-30-v21-1-conditional-memory": {
+  "id": null,
+  "ref": "themeend/177-180-fresh-top-30-v21-1-conditional-memory",
+  "title": "177/180 Fresh Top-30 | v21.1 Conditional Memory",
+  "author": "Huy Hoang",
+  "lastRunTime": "2026-08-10T08:14:28.267Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "delayedkarma/whatwheatwrought-a-kaggriculture-tale": {
+  "id": null,
+  "ref": "delayedkarma/whatwheatwrought-a-kaggriculture-tale",
+  "title": "WhatWheatWrought: a Kaggriculture tale",
+  "author": "Panchajanya Banerjee (Pancham)",
+  "lastRunTime": "2026-08-10T05:48:48.413Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "kevin250304/kaggriculture-healthstone-route-20260810": {
+  "id": null,
+  "ref": "kevin250304/kaggriculture-healthstone-route-20260810",
+  "title": "Kaggriculture HealthStone route 20260810",
+  "author": "Yin Li",
+  "lastRunTime": "2026-08-10T05:01:19.207Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "rauffauzanrambe/kaggriculture-finding-conditional-fresh-vegetable": {
+  "id": null,
+  "ref": "rauffauzanrambe/kaggriculture-finding-conditional-fresh-vegetable",
+  "title": "Kaggriculture: Finding Conditional Fresh Vegetable",
+  "author": "Ra'uf Fauzan Rambe",
+  "lastRunTime": "2026-08-10T04:26:41.987Z",
+  "totalVotes": 9,
+  "currentVersionNumber": null
+ },
+ "kaitofukami/25-27-strict-future-v27-midgame-meta-reset": {
+  "id": null,
+  "ref": "kaitofukami/25-27-strict-future-v27-midgame-meta-reset",
+  "title": "25/27 Strict-Future | v27 Midgame Meta Reset",
+  "author": "Kaito Fukami",
+  "lastRunTime": "2026-08-10T02:07:31.557Z",
+  "totalVotes": 214,
+  "currentVersionNumber": null
+ },
+ "kiykhoi/kaggriculture-agents": {
+  "id": null,
+  "ref": "kiykhoi/kaggriculture-agents",
+  "title": "kaggriculture-agents",
+  "author": "Kh\u00f4i Tr\u01b0\u01a1ng",
+  "lastRunTime": "2026-08-10T01:10:13.973Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "tetsutani/fork-of-adaptive-farming-strategy-for-kaggricult": {
+  "id": null,
+  "ref": "tetsutani/fork-of-adaptive-farming-strategy-for-kaggricult",
+  "title": "Fork of \ud83c\udf3eAdaptive Farming Strategy for Kaggricult",
+  "author": "tetsu2131",
+  "lastRunTime": "2026-08-09T23:59:11.557Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "prvsiyan/kaggriculture-baseline": {
+  "id": null,
+  "ref": "prvsiyan/kaggriculture-baseline",
+  "title": "Kaggriculture Baseline",
+  "author": "prvsiyan",
+  "lastRunTime": "2026-08-09T21:39:58.700Z",
+  "totalVotes": 13,
+  "currentVersionNumber": null
+ },
+ "muneeb2405/kaggriculture-cow-ranch-with-fertilizer-probe": {
+  "id": null,
+  "ref": "muneeb2405/kaggriculture-cow-ranch-with-fertilizer-probe",
+  "title": "Kaggriculture cow ranch with fertilizer probe",
+  "author": "Muneeb ul Hassan",
+  "lastRunTime": "2026-08-09T20:59:02.970Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "olegmelnik/kaggriculture-c68-thunder-adaptive": {
+  "id": null,
+  "ref": "olegmelnik/kaggriculture-c68-thunder-adaptive",
+  "title": "Kaggriculture C68 Thunder Adaptive",
+  "author": "Oleg Melnik",
+  "lastRunTime": "2026-08-09T20:08:07.900Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "olegmelnik/kaggriculture-v26-seat-portfolio": {
+  "id": null,
+  "ref": "olegmelnik/kaggriculture-v26-seat-portfolio",
+  "title": "Kaggriculture v26 Seat Portfolio",
+  "author": "Oleg Melnik",
+  "lastRunTime": "2026-08-09T20:04:43.823Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "dariushafshar/beating-your-own-best-agent-is-the-wrong-test": {
+  "id": null,
+  "ref": "dariushafshar/beating-your-own-best-agent-is-the-wrong-test",
+  "title": "Beating Your Own Best Agent Is The Wrong Test",
+  "author": "Dariush Afshar",
+  "lastRunTime": "2026-08-09T17:05:04.907Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "bielabs/base-data-structures-for-kaggriculture": {
+  "id": null,
+  "ref": "bielabs/base-data-structures-for-kaggriculture",
+  "title": "Base Data Structures for Kaggriculture",
+  "author": "Biel ABS",
+  "lastRunTime": "2026-08-09T16:20:39.907Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "revanthtambisetty/two-private-bots-beating-kaggriculture-meta": {
+  "id": null,
+  "ref": "revanthtambisetty/two-private-bots-beating-kaggriculture-meta",
+  "title": "Two Private Bots Beating Kaggriculture Meta",
+  "author": "Revanth Tambisetty",
+  "lastRunTime": "2026-08-09T13:14:47.310Z",
+  "totalVotes": 15,
+  "currentVersionNumber": null
+ },
+ "blacklions/kaggriculture": {
+  "id": null,
+  "ref": "blacklions/kaggriculture",
+  "title": "Kaggriculture",
+  "author": "\u9648\u8000\u6d0b",
+  "lastRunTime": "2026-08-09T11:05:51.050Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "blacklions/kaggriculture-v20-adaptive-queue-public-experiment": {
+  "id": null,
+  "ref": "blacklions/kaggriculture-v20-adaptive-queue-public-experiment",
+  "title": "Kaggriculture v20 Adaptive Queue Public Experiment",
+  "author": "\u9648\u8000\u6d0b",
+  "lastRunTime": "2026-08-09T09:27:41.730Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "kaiwalyaatulraut/kaggriculture-solution": {
+  "id": null,
+  "ref": "kaiwalyaatulraut/kaggriculture-solution",
+  "title": "Kaggriculture Solution",
+  "author": "KAIWALYA RAUT",
+  "lastRunTime": "2026-08-09T09:03:29.903Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "koushikrudra/kaggriculture-preempt-h6": {
+  "id": null,
+  "ref": "koushikrudra/kaggriculture-preempt-h6",
+  "title": "Kaggriculture Preempt H6",
+  "author": "Koushik Rudra",
+  "lastRunTime": "2026-08-09T04:39:25.323Z",
+  "totalVotes": 10,
+  "currentVersionNumber": null
+ },
+ "dariushafshar/agent-tuned-for-a-dead-game": {
+  "id": null,
+  "ref": "dariushafshar/agent-tuned-for-a-dead-game",
+  "title": "Agent Tuned For A Dead Game",
+  "author": "Dariush Afshar",
+  "lastRunTime": "2026-08-09T04:29:35.337Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "revanthtambisetty/kaggriculture-economy-mechanics": {
+  "id": null,
+  "ref": "revanthtambisetty/kaggriculture-economy-mechanics",
+  "title": "Kaggriculture Economy: Mechanics",
+  "author": "Revanth Tambisetty",
+  "lastRunTime": "2026-08-09T04:06:24.110Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "kathimunishwar/kaggriculture-replay-agent": {
+  "id": null,
+  "ref": "kathimunishwar/kaggriculture-replay-agent",
+  "title": "Kaggriculture replay agent",
+  "author": "Kathi Munishwar",
+  "lastRunTime": "2026-08-09T03:33:47.240Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "semalytics/kaggriculture-melon-first-strategy-v6b": {
+  "id": null,
+  "ref": "semalytics/kaggriculture-melon-first-strategy-v6b",
+  "title": "Kaggriculture: Melon-First Strategy (V6b)",
+  "author": "David Pedersen",
+  "lastRunTime": "2026-08-08T23:04:39.697Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "romanrozen/strong-barnyard-economist": {
+  "id": null,
+  "ref": "romanrozen/strong-barnyard-economist",
+  "title": "[STRONG] Barnyard Economist ",
+  "author": "Roman Rozen",
+  "lastRunTime": "2026-08-08T19:42:21.387Z",
+  "totalVotes": 66,
+  "currentVersionNumber": null
+ },
+ "rubenmaya/pruebas": {
+  "id": null,
+  "ref": "rubenmaya/pruebas",
+  "title": "pruebas",
+  "author": "Ruben Maya",
+  "lastRunTime": "2026-08-08T18:54:04.753Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "dariushafshar/care-is-a-4-2x-multiplier-animal-economics": {
+  "id": null,
+  "ref": "dariushafshar/care-is-a-4-2x-multiplier-animal-economics",
+  "title": "CARE Is a 4.2x Multiplier: Animal Economics",
+  "author": "Dariush Afshar",
+  "lastRunTime": "2026-08-08T18:26:55.520Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "anshu042006/kaggriculture": {
+  "id": null,
+  "ref": "anshu042006/kaggriculture",
+  "title": "Kaggriculture",
+  "author": "Anshu@rana",
+  "lastRunTime": "2026-08-08T17:56:45.490Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "secretiveplotter1863/kaggleculture": {
+  "id": null,
+  "ref": "secretiveplotter1863/kaggleculture",
+  "title": "KaggleCulture",
+  "author": "Secretive",
+  "lastRunTime": "2026-08-08T17:51:17.450Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "junaid512/kaggriculture-v01-drip": {
+  "id": null,
+  "ref": "junaid512/kaggriculture-v01-drip",
+  "title": "Kaggriculture \u2014 v01 \u201cDrip\u201d",
+  "author": "Muhammad Junaid",
+  "lastRunTime": "2026-08-08T17:23:01.243Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "dariushafshar/the-engine-changed-under-us": {
+  "id": null,
+  "ref": "dariushafshar/the-engine-changed-under-us",
+  "title": "The Engine Changed Under Us",
+  "author": "Dariush Afshar",
+  "lastRunTime": "2026-08-08T15:53:46.617Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "dariushafshar/who-actually-buys-your-crops": {
+  "id": null,
+  "ref": "dariushafshar/who-actually-buys-your-crops",
+  "title": "Who Actually Buys Your Crops",
+  "author": "Dariush Afshar",
+  "lastRunTime": "2026-08-08T15:53:32.047Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "andrewsokolovsky/kaggriculture": {
+  "id": null,
+  "ref": "andrewsokolovsky/kaggriculture",
+  "title": "Kaggriculture",
+  "author": "Andrey Naymushin",
+  "lastRunTime": "2026-08-08T14:15:23.683Z",
+  "totalVotes": 16,
+  "currentVersionNumber": null
+ },
+ "yhay81/your-seed-does-not-fix-the-town": {
+  "id": null,
+  "ref": "yhay81/your-seed-does-not-fix-the-town",
+  "title": "Your seed does not fix the town",
+  "author": "Yusuke Hayashi",
+  "lastRunTime": "2026-08-08T12:08:19.480Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "boatlee/four-quadrant-route-breakdown-and-feasibility": {
+  "id": null,
+  "ref": "boatlee/four-quadrant-route-breakdown-and-feasibility",
+  "title": "Four-Quadrant Route: Breakdown and Feasibility",
+  "author": "boatlee",
+  "lastRunTime": "2026-08-08T08:15:32.447Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "boatlee/84-84-base-public-holdout-v14-clone-preemption": {
+  "id": null,
+  "ref": "boatlee/84-84-base-public-holdout-v14-clone-preemption",
+  "title": "84/84 Base+Public Holdout | V14 Clone Preemption",
+  "author": "boatlee",
+  "lastRunTime": "2026-08-08T06:59:31.603Z",
+  "totalVotes": 181,
+  "currentVersionNumber": null
+ },
+ "weijunguo/kaggriculture-reproducible-local-benchmark": {
+  "id": null,
+  "ref": "weijunguo/kaggriculture-reproducible-local-benchmark",
+  "title": "Kaggriculture: Reproducible Local Benchmark",
+  "author": "Weijun Guo",
+  "lastRunTime": "2026-08-08T03:20:39.040Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c31-kaito-v22-official-1-32-6": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c31-kaito-v22-official-1-32-6",
+  "title": "Kaggriculture C31 Kaito v22 Official 1.32.6",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-08T02:40:46.537Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "indarkarhana/kaggriculture-verified-route-replay-2948-9": {
+  "id": null,
+  "ref": "indarkarhana/kaggriculture-verified-route-replay-2948-9",
+  "title": "Kaggriculture | Verified Route Replay (2948.9)",
+  "author": "Indar Karhana",
+  "lastRunTime": "2026-08-07T19:51:05.350Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c30-pr1394-activation-control": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c30-pr1394-activation-control",
+  "title": "Kaggriculture C30 PR1394 Activation Control",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-07T18:11:42.413Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c29-exact-byte-replica-c": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c29-exact-byte-replica-c",
+  "title": "Kaggriculture C29 Exact Byte Replica C",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-07T17:03:27.250Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "akhileshgodugu/strong-statr-barnyard-economist": {
+  "id": null,
+  "ref": "akhileshgodugu/strong-statr-barnyard-economist",
+  "title": "[STRONG STATR] Barnyard Economist ",
+  "author": "Akhilesh godugu",
+  "lastRunTime": "2026-08-07T16:32:49.667Z",
+  "totalVotes": 11,
+  "currentVersionNumber": null
+ },
+ "indarkarhana/what-your-kaggriculture-benchmark-isn-t-measuring": {
+  "id": null,
+  "ref": "indarkarhana/what-your-kaggriculture-benchmark-isn-t-measuring",
+  "title": "What Your Kaggriculture Benchmark Isn't Measuring",
+  "author": "Indar Karhana",
+  "lastRunTime": "2026-08-07T16:21:47.387Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c28-exact-byte-replica-b": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c28-exact-byte-replica-b",
+  "title": "Kaggriculture C28 Exact Byte Replica B",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-07T15:47:01.113Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c27-exact-byte-control": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c27-exact-byte-control",
+  "title": "Kaggriculture C27 Exact Byte Control",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-07T14:49:41.667Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c26-kaito-v23-dual-regime": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c26-kaito-v23-dual-regime",
+  "title": "Kaggriculture C26 Kaito v23 Dual Regime",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-07T14:09:15.543Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "bnzn261029/visible-state-all-router-over-seven-public-syouya": {
+  "id": null,
+  "ref": "bnzn261029/visible-state-all-router-over-seven-public-syouya",
+  "title": "Visible-state all router over seven public Syouya",
+  "author": "bsenst",
+  "lastRunTime": "2026-08-07T12:38:17.293Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "iamsdt/kaggriculture-from-the-source-price-clock-trap": {
+  "id": null,
+  "ref": "iamsdt/kaggriculture-from-the-source-price-clock-trap",
+  "title": "Kaggriculture from the source: price, clock & trap",
+  "author": "Shudipto Trafder",
+  "lastRunTime": "2026-08-07T10:56:45.813Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "lucifer19/kaggriculture-night-harvest": {
+  "id": null,
+  "ref": "lucifer19/kaggriculture-night-harvest",
+  "title": "\ud83c\udf3e\ud83d\ude9cKaggriculture: Night Harvest",
+  "author": "Agent Trainer",
+  "lastRunTime": "2026-08-07T07:50:20.830Z",
+  "totalVotes": 45,
+  "currentVersionNumber": null
+ },
+ "shrutikondabathula/submission-v1-ipynb": {
+  "id": null,
+  "ref": "shrutikondabathula/submission-v1-ipynb",
+  "title": "submission_v1.ipynb",
+  "author": "Shruti Kondabathula",
+  "lastRunTime": "2026-08-07T05:19:20.747Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "rahuljiwane/kaggriculture-rahul-jiwane": {
+  "id": null,
+  "ref": "rahuljiwane/kaggriculture-rahul-jiwane",
+  "title": "Kaggriculture: Rahul Jiwane",
+  "author": "Rahul Jiwane",
+  "lastRunTime": "2026-08-06T15:36:11.977Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "dimong4/kaggriculture": {
+  "id": null,
+  "ref": "dimong4/kaggriculture",
+  "title": "Kaggriculture",
+  "author": "Dmitry Belan",
+  "lastRunTime": "2026-08-06T14:52:35.457Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "shrutikondabathula/submission-ipynb": {
+  "id": null,
+  "ref": "shrutikondabathula/submission-ipynb",
+  "title": "submission.ipynb",
+  "author": "Shruti Kondabathula",
+  "lastRunTime": "2026-08-06T14:46:13.520Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "desyatio/93-wr-vs-kaito-s-v21-1-local-tuning-experiment": {
+  "id": null,
+  "ref": "desyatio/93-wr-vs-kaito-s-v21-1-local-tuning-experiment",
+  "title": "93% WR vs Kaito's v21.1 | Local Tuning Experiment",
+  "author": "Desyat IO",
+  "lastRunTime": "2026-08-06T14:01:38.833Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "shorooghahmadi/kaggriculture-agent-v2": {
+  "id": null,
+  "ref": "shorooghahmadi/kaggriculture-agent-v2",
+  "title": "kaggriculture-agent-v2",
+  "author": "Shoroogh Ahmadi",
+  "lastRunTime": "2026-08-06T11:22:27.200Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "ravi123a321at/177-180-fresh-top-30-v21-1-conditional-memory": {
+  "id": null,
+  "ref": "ravi123a321at/177-180-fresh-top-30-v21-1-conditional-memory",
+  "title": "177/180 Fresh Top-30 | v21.1 Conditional Memory",
+  "author": "Ravindra",
+  "lastRunTime": "2026-08-06T10:39:24.337Z",
+  "totalVotes": 18,
+  "currentVersionNumber": null
+ },
+ "stanislavilin2026ai/notebook0651235510": {
+  "id": null,
+  "ref": "stanislavilin2026ai/notebook0651235510",
+  "title": "notebook0651235510",
+  "author": "Stanislav Ilin",
+  "lastRunTime": "2026-08-06T10:08:39.723Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "nekkon/the-strawberry-field-is-worth-3-847": {
+  "id": null,
+  "ref": "nekkon/the-strawberry-field-is-worth-3-847",
+  "title": "The strawberry field is worth $3,847",
+  "author": "Luka Duvanov",
+  "lastRunTime": "2026-08-06T10:01:16.287Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "llccqq624/kaggriculture-top-5-meta-ensemble": {
+  "id": null,
+  "ref": "llccqq624/kaggriculture-top-5-meta-ensemble",
+  "title": "Kaggriculture Top-5 Meta Ensemble",
+  "author": "Jiachen Li",
+  "lastRunTime": "2026-08-06T09:45:08.567Z",
+  "totalVotes": 12,
+  "currentVersionNumber": null
+ },
+ "boatlee/v13-r3-top-meta-order-safe-premium-control": {
+  "id": null,
+  "ref": "boatlee/v13-r3-top-meta-order-safe-premium-control",
+  "title": "V13-R3 | Top-Meta Order-Safe Premium Control",
+  "author": "boatlee",
+  "lastRunTime": "2026-08-06T08:14:29.773Z",
+  "totalVotes": 19,
+  "currentVersionNumber": null
+ },
+ "fleongg/kaggriculture-public-2830-4-v21-1-no-preemption": {
+  "id": null,
+  "ref": "fleongg/kaggriculture-public-2830-4-v21-1-no-preemption",
+  "title": "Kaggriculture Public 2830.4 | v21.1 No-Preemption",
+  "author": "fle3n",
+  "lastRunTime": "2026-08-06T08:02:30.953Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "drashtisingh14/novabyte-kaggriculture": {
+  "id": null,
+  "ref": "drashtisingh14/novabyte-kaggriculture",
+  "title": "NovaByte_Kaggriculture",
+  "author": "Drashti singh",
+  "lastRunTime": "2026-08-06T06:11:36.180Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "web3cainiao/kaggriculture-v21-tactical-memory": {
+  "id": null,
+  "ref": "web3cainiao/kaggriculture-v21-tactical-memory",
+  "title": "Kaggriculture v21 Tactical Memory",
+  "author": "webcainiao",
+  "lastRunTime": "2026-08-06T04:54:45.720Z",
+  "totalVotes": 13,
+  "currentVersionNumber": null
+ },
+ "kaitofukami/177-180-fresh-top-30-v21-1-conditional-memory": {
+  "id": null,
+  "ref": "kaitofukami/177-180-fresh-top-30-v21-1-conditional-memory",
+  "title": "177/180 Fresh Top-30 | v21.1 Conditional Memory",
+  "author": "Kaito Fukami",
+  "lastRunTime": "2026-08-06T04:28:18.623Z",
+  "totalVotes": 105,
+  "currentVersionNumber": null
+ },
+ "moncefelm/kaggriculture-getting-started": {
+  "id": null,
+  "ref": "moncefelm/kaggriculture-getting-started",
+  "title": "Kaggriculture: Getting Started",
+  "author": "moncef elm",
+  "lastRunTime": "2026-08-05T20:15:49.060Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "titakongolo/notebook-kaggriculture-replay-lab-en": {
+  "id": null,
+  "ref": "titakongolo/notebook-kaggriculture-replay-lab-en",
+  "title": "Notebook_Kaggriculture Replay Lab_EN.",
+  "author": "Tita Kongolo",
+  "lastRunTime": "2026-08-05T17:43:22.427Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "titakongolo/notebook-kaggriculture-replay-lab-fr": {
+  "id": null,
+  "ref": "titakongolo/notebook-kaggriculture-replay-lab-fr",
+  "title": "Notebook_Kaggriculture Replay Lab_FR.",
+  "author": "Tita Kongolo",
+  "lastRunTime": "2026-08-05T17:40:54.503Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "aanaakaliil/notebook858a103738": {
+  "id": null,
+  "ref": "aanaakaliil/notebook858a103738",
+  "title": "notebook858a103738",
+  "author": "Aanaa Kaliil",
+  "lastRunTime": "2026-08-05T15:26:32.397Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "timmass2/the-kaggriculture-market-end-to-end": {
+  "id": null,
+  "ref": "timmass2/the-kaggriculture-market-end-to-end",
+  "title": "The Kaggriculture Market, End to End",
+  "author": "Timass",
+  "lastRunTime": "2026-08-05T13:49:47.660Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "shorooghahmadi/kaggriculture-economics-farm-manager": {
+  "id": null,
+  "ref": "shorooghahmadi/kaggriculture-economics-farm-manager",
+  "title": "kaggriculture-economics-farm-manager",
+  "author": "Shoroogh Ahmadi",
+  "lastRunTime": "2026-08-05T07:36:51.990Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "kaitofukami/159-160-vs-frontier-v20-weed-slip-recovery": {
+  "id": null,
+  "ref": "kaitofukami/159-160-vs-frontier-v20-weed-slip-recovery",
+  "title": "159/160 vs Frontier | v20 WEED-Slip Recovery",
+  "author": "Kaito Fukami",
+  "lastRunTime": "2026-08-05T07:18:54.393Z",
+  "totalVotes": 76,
+  "currentVersionNumber": null
+ },
+ "varshakattimani/building-a-kaggriculture-ai-agent": {
+  "id": null,
+  "ref": "varshakattimani/building-a-kaggriculture-ai-agent",
+  "title": "Building a Kaggriculture AI Agent",
+  "author": "Varsha Kattimani",
+  "lastRunTime": "2026-08-05T07:04:13.187Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "dedquoc/kaggriculture-zero-drought-crop-protection": {
+  "id": null,
+  "ref": "dedquoc/kaggriculture-zero-drought-crop-protection",
+  "title": "Kaggriculture-Zero-Drought Crop Protection",
+  "author": "De DQ",
+  "lastRunTime": "2026-08-05T05:06:04.087Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "dreldirdirifadol/dirdiri-3": {
+  "id": null,
+  "ref": "dreldirdirifadol/dirdiri-3",
+  "title": "Dirdiri-3",
+  "author": "Dr.Eldirdiri Fadol ",
+  "lastRunTime": "2026-08-05T04:52:40.137Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c25-exact-final-quota-control": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c25-exact-final-quota-control",
+  "title": "Kaggriculture C25 Exact Final Quota Control",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-05T03:07:51.347Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c24-exact-dynamic-rating-control": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c24-exact-dynamic-rating-control",
+  "title": "Kaggriculture C24 Exact Dynamic Rating Control",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-05T01:51:30.087Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c23-exact-reproducibility-control": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c23-exact-reproducibility-control",
+  "title": "Kaggriculture C23 Exact Reproducibility Control",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-05T01:23:33.627Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c22-exact-reproducibility-control": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c22-exact-reproducibility-control",
+  "title": "Kaggriculture C22 Exact Reproducibility Control",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-05T01:07:30.987Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "bruceqdu/my-2026-08-04-high-score-pipeline": {
+  "id": null,
+  "ref": "bruceqdu/my-2026-08-04-high-score-pipeline",
+  "title": "My 2026-08-04 High-Score Pipeline",
+  "author": "Bruce",
+  "lastRunTime": "2026-08-04T22:58:15.920Z",
+  "totalVotes": 60,
+  "currentVersionNumber": null
+ },
+ "sidhaarthshree/a-reactive-agent-with-optimal-task": {
+  "id": null,
+  "ref": "sidhaarthshree/a-reactive-agent-with-optimal-task",
+  "title": "A Reactive Agent with Optimal Task ",
+  "author": "SIDHAARTH SHREE",
+  "lastRunTime": "2026-08-04T22:39:35.903Z",
+  "totalVotes": 8,
+  "currentVersionNumber": null
+ },
+ "merkiraz/counter-cyclical-orchard": {
+  "id": null,
+  "ref": "merkiraz/counter-cyclical-orchard",
+  "title": "Counter-Cyclical Orchard",
+  "author": "\u00f6mer kiraz",
+  "lastRunTime": "2026-08-04T20:32:02.070Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "iamsdt/kaggriculture-what-a-farmer-turn-is-worth": {
+  "id": null,
+  "ref": "iamsdt/kaggriculture-what-a-farmer-turn-is-worth",
+  "title": "Kaggriculture: what a farmer-turn is worth",
+  "author": "Shudipto Trafder",
+  "lastRunTime": "2026-08-04T19:24:22.880Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "jessiegrubaugh/notebook8094709aea": {
+  "id": null,
+  "ref": "jessiegrubaugh/notebook8094709aea",
+  "title": "notebook8094709aea",
+  "author": "Jessie Grubaugh",
+  "lastRunTime": "2026-08-04T18:49:24.120Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "seyamalam/kaggriculture-open-source-agent": {
+  "id": null,
+  "ref": "seyamalam/kaggriculture-open-source-agent",
+  "title": "Kaggriculture Open Source Agent",
+  "author": "Touhidul Alam Seyam",
+  "lastRunTime": "2026-08-04T17:20:27.550Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "ocean240812/kaggriculture-strategy-guide": {
+  "id": null,
+  "ref": "ocean240812/kaggriculture-strategy-guide",
+  "title": "Kaggriculture Strategy Guide",
+  "author": "ocean240812",
+  "lastRunTime": "2026-08-04T15:33:44.360Z",
+  "totalVotes": 14,
+  "currentVersionNumber": null
+ },
+ "ocean240812/kaggriculture-complete-eda-baseline-agent": {
+  "id": null,
+  "ref": "ocean240812/kaggriculture-complete-eda-baseline-agent",
+  "title": "Kaggriculture \u2014 Complete EDA + Baseline Agent",
+  "author": "ocean240812",
+  "lastRunTime": "2026-08-04T13:18:04.597Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "alexkulll/kaggriculture": {
+  "id": null,
+  "ref": "alexkulll/kaggriculture",
+  "title": "kaggriculture",
+  "author": "Alexey Kuleshov",
+  "lastRunTime": "2026-08-04T11:31:24.210Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "jek1wantaufik/building-a-kaggriculture-ai-agent": {
+  "id": null,
+  "ref": "jek1wantaufik/building-a-kaggriculture-ai-agent",
+  "title": "Building a Kaggriculture AI Agent",
+  "author": "Jeki Wan Taufik",
+  "lastRunTime": "2026-08-04T07:09:58.897Z",
+  "totalVotes": 79,
+  "currentVersionNumber": null
+ },
+ "romantamrazov/kaggriculture-hamburger": {
+  "id": null,
+  "ref": "romantamrazov/kaggriculture-hamburger",
+  "title": "Kaggriculture | Hamburger \ud83c\udf54",
+  "author": "Roman Tamrazov",
+  "lastRunTime": "2026-08-04T06:55:18.630Z",
+  "totalVotes": 130,
+  "currentVersionNumber": null
+ },
+ "nishchaljainds/kaggriculture-full-engine-teardown-my-agent": {
+  "id": null,
+  "ref": "nishchaljainds/kaggriculture-full-engine-teardown-my-agent",
+  "title": "Kaggriculture: full engine teardown + my agent",
+  "author": "nishchal jain",
+  "lastRunTime": "2026-08-04T04:33:53.787Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "boatlee/kaggriculture-v7-replay-diagnosis-v8-selection": {
+  "id": null,
+  "ref": "boatlee/kaggriculture-v7-replay-diagnosis-v8-selection",
+  "title": "Kaggriculture: V7 Replay Diagnosis & V8 Selection",
+  "author": "boatlee",
+  "lastRunTime": "2026-08-04T04:18:29.673Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "navazshfathi/notebook198200c757": {
+  "id": null,
+  "ref": "navazshfathi/notebook198200c757",
+  "title": "notebook198200c757",
+  "author": "navazsh fathi",
+  "lastRunTime": "2026-08-03T17:54:16.033Z",
+  "totalVotes": 57,
+  "currentVersionNumber": null
+ },
+ "techabinesh/competition-launch-kaggriculture": {
+  "id": null,
+  "ref": "techabinesh/competition-launch-kaggriculture",
+  "title": "Competition Launch: Kaggriculture",
+  "author": "Abinesh M",
+  "lastRunTime": "2026-08-03T17:08:58.437Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "blacklions/kaggriculture-v19-frontier-public-experiment": {
+  "id": null,
+  "ref": "blacklions/kaggriculture-v19-frontier-public-experiment",
+  "title": "Kaggriculture v19 Frontier Public Experiment",
+  "author": "\u9648\u8000\u6d0b",
+  "lastRunTime": "2026-08-03T15:31:11.363Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "kaitofukami/v15-top5-robust-market-gate": {
+  "id": null,
+  "ref": "kaitofukami/v15-top5-robust-market-gate",
+  "title": "v15: Top5 Robust Market Gate",
+  "author": "Kaito Fukami",
+  "lastRunTime": "2026-08-03T13:09:29.587Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "boatlee/kaggriculture-near-mirror-episode-diagnosis": {
+  "id": null,
+  "ref": "boatlee/kaggriculture-near-mirror-episode-diagnosis",
+  "title": "Kaggriculture: Near-Mirror Episode Diagnosis",
+  "author": "boatlee",
+  "lastRunTime": "2026-08-03T10:09:55.440Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "joshiannu/notebook3c11abab9f": {
+  "id": null,
+  "ref": "joshiannu/notebook3c11abab9f",
+  "title": "notebook3c11abab9f",
+  "author": "Annu Joshi",
+  "lastRunTime": "2026-08-03T07:16:18.780Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c14-late-crop-weed-recovery": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c14-late-crop-weed-recovery",
+  "title": "Kaggriculture C14 Late Crop Weed Recovery",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-03T07:10:50.950Z",
+  "totalVotes": null,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c13-licensed-hand-ablation": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c13-licensed-hand-ablation",
+  "title": "Kaggriculture C13 Licensed Hand Ablation",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-03T06:21:22.807Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c12-rayk-public-delta-schema-safe": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c12-rayk-public-delta-schema-safe",
+  "title": "Kaggriculture C12 Rayk Public Delta Schema Safe",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-03T06:06:28.500Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c11-moon-sales-schema-safe": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c11-moon-sales-schema-safe",
+  "title": "Kaggriculture C11 Moon Sales Schema Safe",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-03T05:13:31.477Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "sidhaarthshree/the-complete-getting-started-guide": {
+  "id": null,
+  "ref": "sidhaarthshree/the-complete-getting-started-guide",
+  "title": " The Complete Getting-Started Guide",
+  "author": "SIDHAARTH SHREE",
+  "lastRunTime": "2026-08-03T04:19:20.893Z",
+  "totalVotes": 17,
+  "currentVersionNumber": null
+ },
+ "sidhaarthshree/kaggriculture-the-scarcity-rancher": {
+  "id": null,
+  "ref": "sidhaarthshree/kaggriculture-the-scarcity-rancher",
+  "title": "Kaggriculture: The Scarcity Rancher",
+  "author": "SIDHAARTH SHREE",
+  "lastRunTime": "2026-08-03T03:59:34.410Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "blacklions/kaggriculture-v18-public-experiment": {
+  "id": null,
+  "ref": "blacklions/kaggriculture-v18-public-experiment",
+  "title": "Kaggriculture v18 Public Experiment",
+  "author": "\u9648\u8000\u6d0b",
+  "lastRunTime": "2026-08-03T00:33:43.697Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "blacklions/kaggriculture-v17-public-experiment": {
+  "id": null,
+  "ref": "blacklions/kaggriculture-v17-public-experiment",
+  "title": "Kaggriculture v17 Public Experiment",
+  "author": "\u9648\u8000\u6d0b",
+  "lastRunTime": "2026-08-03T00:29:34.147Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "blacklions/kaggriculture-v16-public-experiment": {
+  "id": null,
+  "ref": "blacklions/kaggriculture-v16-public-experiment",
+  "title": "Kaggriculture v16 Public Experiment",
+  "author": "\u9648\u8000\u6d0b",
+  "lastRunTime": "2026-08-03T00:21:50.837Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "blacklions/kaggriculture-v15-public-experiment": {
+  "id": null,
+  "ref": "blacklions/kaggriculture-v15-public-experiment",
+  "title": "Kaggriculture v15 Public Experiment",
+  "author": "\u9648\u8000\u6d0b",
+  "lastRunTime": "2026-08-02T20:57:04.390Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "blacklions/kaggriculture-v14-public-experiment": {
+  "id": null,
+  "ref": "blacklions/kaggriculture-v14-public-experiment",
+  "title": "Kaggriculture v14 Public Experiment",
+  "author": "\u9648\u8000\u6d0b",
+  "lastRunTime": "2026-08-02T19:09:30.797Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "blacklions/kaggriculture-v12-public-experiment": {
+  "id": null,
+  "ref": "blacklions/kaggriculture-v12-public-experiment",
+  "title": "Kaggriculture v12 Public Experiment",
+  "author": "\u9648\u8000\u6d0b",
+  "lastRunTime": "2026-08-02T18:49:33.650Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "prvsiyan/kaggle-frontier-lab-strategy-improvement": {
+  "id": null,
+  "ref": "prvsiyan/kaggle-frontier-lab-strategy-improvement",
+  "title": "Kaggle Frontier Lab | Strategy Improvement",
+  "author": "prvsiyan",
+  "lastRunTime": "2026-08-02T18:49:18.977Z",
+  "totalVotes": 61,
+  "currentVersionNumber": null
+ },
+ "blacklions/kaggriculture-v11-public-experiment": {
+  "id": null,
+  "ref": "blacklions/kaggriculture-v11-public-experiment",
+  "title": "Kaggriculture v11 Public Experiment",
+  "author": "\u9648\u8000\u6d0b",
+  "lastRunTime": "2026-08-02T18:41:28.510Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "blacklions/kaggriculture-v9-public-experiment": {
+  "id": null,
+  "ref": "blacklions/kaggriculture-v9-public-experiment",
+  "title": "Kaggriculture v9 Public Experiment",
+  "author": "\u9648\u8000\u6d0b",
+  "lastRunTime": "2026-08-02T18:26:29.720Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "blacklions/kaggriculture-v7-public-experiment": {
+  "id": null,
+  "ref": "blacklions/kaggriculture-v7-public-experiment",
+  "title": "Kaggriculture v7 Public Experiment",
+  "author": "\u9648\u8000\u6d0b",
+  "lastRunTime": "2026-08-02T18:10:58.493Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "blacklions/kaggriculture-v1": {
+  "id": null,
+  "ref": "blacklions/kaggriculture-v1",
+  "title": " Kaggriculture v1",
+  "author": "\u9648\u8000\u6d0b",
+  "lastRunTime": "2026-08-02T15:00:10.210Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "emanuellcs/kaggriculture-agent": {
+  "id": null,
+  "ref": "emanuellcs/kaggriculture-agent",
+  "title": "Kaggriculture Agent",
+  "author": "Emanuel L\u00e1zaro",
+  "lastRunTime": "2026-08-02T14:53:34.850Z",
+  "totalVotes": 12,
+  "currentVersionNumber": null
+ },
+ "pavloivanin/kaggriculture-baseline": {
+  "id": null,
+  "ref": "pavloivanin/kaggriculture-baseline",
+  "title": "\ud83c\udf3e Kaggriculture Baseline",
+  "author": "Pavlo Ivanin",
+  "lastRunTime": "2026-08-02T11:43:15.337Z",
+  "totalVotes": 19,
+  "currentVersionNumber": null
+ },
+ "pengwang91/wide-sigma-cma-tuned-scenario-aware-submitted": {
+  "id": null,
+  "ref": "pengwang91/wide-sigma-cma-tuned-scenario-aware-submitted",
+  "title": "Wide-Sigma CMA Tuned Scenario-Aware (submitted)",
+  "author": "Peng Wang",
+  "lastRunTime": "2026-08-02T05:41:46.640Z",
+  "totalVotes": 12,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c10-conservative-probe-router": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c10-conservative-probe-router",
+  "title": "Kaggriculture C10 Conservative Probe Router",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-02T01:56:53.673Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c09-dynamic-shed": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c09-dynamic-shed",
+  "title": "Kaggriculture C09 Dynamic Shed",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-02T01:36:10.500Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c08-schema-safe-89308208": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c08-schema-safe-89308208",
+  "title": "Kaggriculture C08 Schema-Safe 89308208",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-02T01:10:00.863Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c07-public-v12-tape": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c07-public-v12-tape",
+  "title": "Kaggriculture C07 Public V12 Tape",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-02T00:53:17.153Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c06-scenario-fertilizer": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c06-scenario-fertilizer",
+  "title": "Kaggriculture C06 Scenario Fertilizer",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-02T00:38:34.867Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "prvsiyan/kaggriculture-frontier-lab-high-score-visuals": {
+  "id": null,
+  "ref": "prvsiyan/kaggriculture-frontier-lab-high-score-visuals",
+  "title": "Kaggriculture Frontier Lab | High-Score + Visuals",
+  "author": "prvsiyan",
+  "lastRunTime": "2026-08-01T10:39:07.037Z",
+  "totalVotes": 56,
+  "currentVersionNumber": null
+ },
+ "biohack44/kaggriculture": {
+  "id": null,
+  "ref": "biohack44/kaggriculture",
+  "title": "Kaggriculture",
+  "author": "Emre Cirak",
+  "lastRunTime": "2026-08-01T10:35:46.303Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c05-mid-herd-10": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c05-mid-herd-10",
+  "title": "Kaggriculture C05 Mid Herd 10",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-01T09:28:46.407Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "makimakiai/kaggriculture-carrot-fleet-simple-python-baseline": {
+  "id": null,
+  "ref": "makimakiai/kaggriculture-carrot-fleet-simple-python-baseline",
+  "title": "Kaggriculture Carrot Fleet: Simple Python Baseline",
+  "author": "MakiMakiAi",
+  "lastRunTime": "2026-08-01T07:12:11.083Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c04-target-herd-15": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c04-target-herd-15",
+  "title": "Kaggriculture C04 Target Herd 15",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-01T06:24:59.667Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "avikdas567/kaggriculture-microeconomic-dynamic-policy-engine": {
+  "id": null,
+  "ref": "avikdas567/kaggriculture-microeconomic-dynamic-policy-engine",
+  "title": "Kaggriculture: Microeconomic Dynamic Policy Engine",
+  "author": "Avik Das",
+  "lastRunTime": "2026-08-01T06:06:43.200Z",
+  "totalVotes": 18,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c03-target-herd-14": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c03-target-herd-14",
+  "title": "Kaggriculture C03 Target Herd 14",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-01T06:00:32.937Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c02-core-3-cow-1-sheep": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c02-core-3-cow-1-sheep",
+  "title": "Kaggriculture C02 Core 3 Cow 1 Sheep",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-01T05:47:40.643Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "beicicc/kaggriculture-c01-scenario-v7-reproduction": {
+  "id": null,
+  "ref": "beicicc/kaggriculture-c01-scenario-v7-reproduction",
+  "title": "Kaggriculture C01 Scenario v7 Reproduction",
+  "author": "Kun Zhang",
+  "lastRunTime": "2026-08-01T05:37:29.057Z",
+  "totalVotes": 1,
+  "currentVersionNumber": null
+ },
+ "mtoshidesu/testkaggriculture-hamburger": {
+  "id": null,
+  "ref": "mtoshidesu/testkaggriculture-hamburger",
+  "title": "TestKaggriculture | Hamburger \ud83c\udf54",
+  "author": "m-toshi desu",
+  "lastRunTime": "2026-08-01T05:17:29.793Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "mtoshidesu/testkaggriculture-getting-started": {
+  "id": null,
+  "ref": "mtoshidesu/testkaggriculture-getting-started",
+  "title": "TestKaggriculture: Getting Started",
+  "author": "m-toshi desu",
+  "lastRunTime": "2026-08-01T03:23:50.560Z",
+  "totalVotes": 7,
+  "currentVersionNumber": null
+ },
+ "alexandergremyakov/harvest-pulse-goose-dividend-v2": {
+  "id": null,
+  "ref": "alexandergremyakov/harvest-pulse-goose-dividend-v2",
+  "title": "Harvest Pulse | Goose Dividend | v2",
+  "author": "Alexander Gremyakov",
+  "lastRunTime": "2026-07-31T22:05:54.090Z",
+  "totalVotes": 26,
+  "currentVersionNumber": null
+ },
+ "nursrijan/kaggriculture-market-economics-game-theory": {
+  "id": null,
+  "ref": "nursrijan/kaggriculture-market-economics-game-theory",
+  "title": "Kaggriculture Market Economics Game Theory",
+  "author": "Nur Srijan",
+  "lastRunTime": "2026-07-31T19:56:46.913Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "nursrijan/kaggriculture-starter-agent-strategy": {
+  "id": null,
+  "ref": "nursrijan/kaggriculture-starter-agent-strategy",
+  "title": "Kaggriculture: Starter Agent & Strategy",
+  "author": "Nur Srijan",
+  "lastRunTime": "2026-07-31T19:46:15.623Z",
+  "totalVotes": 5,
+  "currentVersionNumber": null
+ },
+ "llccqq624/kaggriculture-adaptive-barnyard-portfolio": {
+  "id": null,
+  "ref": "llccqq624/kaggriculture-adaptive-barnyard-portfolio",
+  "title": "Kaggriculture: Adaptive Barnyard Portfolio",
+  "author": "Jiachen Li",
+  "lastRunTime": "2026-07-31T17:24:27.007Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "llccqq624/kaggriculture-counter-cycle-ranch": {
+  "id": null,
+  "ref": "llccqq624/kaggriculture-counter-cycle-ranch",
+  "title": "Kaggriculture: Counter-Cycle Ranch",
+  "author": "Jiachen Li",
+  "lastRunTime": "2026-07-31T17:24:26.167Z",
+  "totalVotes": 3,
+  "currentVersionNumber": null
+ },
+ "llccqq624/kaggriculture-replay-data-miner": {
+  "id": null,
+  "ref": "llccqq624/kaggriculture-replay-data-miner",
+  "title": "Kaggriculture Replay Data Miner",
+  "author": "Jiachen Li",
+  "lastRunTime": "2026-07-31T17:01:15.810Z",
+  "totalVotes": 11,
+  "currentVersionNumber": null
+ },
+ "llccqq624/kaggriculture-opening-book-first-48-turns": {
+  "id": null,
+  "ref": "llccqq624/kaggriculture-opening-book-first-48-turns",
+  "title": "Kaggriculture Opening Book: First 48 Turns",
+  "author": "Jiachen Li",
+  "lastRunTime": "2026-07-31T17:01:11.693Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "llccqq624/kaggriculture-market-weather-report": {
+  "id": null,
+  "ref": "llccqq624/kaggriculture-market-weather-report",
+  "title": "Kaggriculture Market Weather Report",
+  "author": "Jiachen Li",
+  "lastRunTime": "2026-07-31T17:01:07.553Z",
+  "totalVotes": 6,
+  "currentVersionNumber": null
+ },
+ "llccqq624/did-my-farm-make-the-highlight-reel": {
+  "id": null,
+  "ref": "llccqq624/did-my-farm-make-the-highlight-reel",
+  "title": "Did My Farm Make the Highlight Reel?",
+  "author": "Jiachen Li",
+  "lastRunTime": "2026-07-31T17:01:02.507Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "llccqq624/kaggriculture-market-aware-crop-mix": {
+  "id": null,
+  "ref": "llccqq624/kaggriculture-market-aware-crop-mix",
+  "title": "Kaggriculture: Market-Aware Crop Mix",
+  "author": "Jiachen Li",
+  "lastRunTime": "2026-07-31T16:41:03.177Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "llccqq624/kaggriculture-melon-rush-baseline": {
+  "id": null,
+  "ref": "llccqq624/kaggriculture-melon-rush-baseline",
+  "title": "Kaggriculture: Melon Rush Baseline",
+  "author": "Jiachen Li",
+  "lastRunTime": "2026-07-31T16:40:57.200Z",
+  "totalVotes": 4,
+  "currentVersionNumber": null
+ },
+ "vivienjz/new-benchmark-task-8c8d4": {
+  "id": null,
+  "ref": "vivienjz/new-benchmark-task-8c8d4",
+  "title": "New Benchmark Task 8c8d4",
+  "author": "Vivien Jiaqian Zhu \u6731\u5609\u5029",
+  "lastRunTime": "2026-07-31T15:29:31.347Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "vivienjz/notebook492ceda025": {
+  "id": null,
+  "ref": "vivienjz/notebook492ceda025",
+  "title": "notebook492ceda025",
+  "author": "Vivien Jiaqian Zhu \u6731\u5609\u5029",
+  "lastRunTime": "2026-07-31T15:26:09.630Z",
+  "totalVotes": 2,
+  "currentVersionNumber": null
+ },
+ "chaitanyajamble/kaggriculture": {
+  "id": null,
+  "ref": "chaitanyajamble/kaggriculture",
+  "title": "Kaggriculture",
+  "author": "Chaitanya Jamble",
+  "lastRunTime": "2026-07-31T05:41:39.657Z",
+  "totalVotes": 17,
+  "currentVersionNumber": null
+ },
+ "mpwolke/doomed-kaggleculture-harvest": {
+  "id": null,
+  "ref": "mpwolke/doomed-kaggleculture-harvest",
+  "title": "Doomed KaGGLEculture Harvest",
+  "author": "Mar\u00edlia Prata",
+  "lastRunTime": "2026-07-31T01:39:26.660Z",
+  "totalVotes": 24,
+  "currentVersionNumber": null
+ },
+ "bovard/kaggriculture-getting-started": {
+  "id": null,
+  "ref": "bovard/kaggriculture-getting-started",
+  "title": "Kaggriculture: Getting Started",
+  "author": "Bovard Doerschuk-Tiberi",
+  "lastRunTime": "2026-07-30T21:04:39.087Z",
+  "totalVotes": 1226,
+  "currentVersionNumber": null
+ },
+ "dheerajkannaujiya/start-with-basic": {
+  "id": null,
+  "ref": "dheerajkannaujiya/start-with-basic",
+  "title": "Start_with_Basic",
+  "author": "\u13f0\ud800\udf42\u13a7",
+  "lastRunTime": "2026-07-30T17:28:37.327Z",
+  "totalVotes": 15,
+  "currentVersionNumber": null
+ },
+ "ektarr/diversified-scheduler-baseline-kaggriculture": {
+  "id": null,
+  "ref": "ektarr/diversified-scheduler-baseline-kaggriculture",
+  "title": "Diversified Scheduler Baseline | Kaggriculture",
+  "author": "Maxim",
+  "lastRunTime": "2026-07-30T17:12:53.980Z",
+  "totalVotes": 22,
+  "currentVersionNumber": null
+ }
+}

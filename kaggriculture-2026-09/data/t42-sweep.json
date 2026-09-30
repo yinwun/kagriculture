@@ -1,0 +1,255 @@
+{
+ "champion": "data/candidate/pi_stack/main.py",
+ "champion_sha256": "65962e928b0712946e1bacb929b4fb919a7231f34e1bc99c7e350d4e2755f317",
+ "screen_panel": "16400-16429",
+ "confirm_panel": "16500-16529",
+ "screen": {
+  "t42_ctl": {
+   "delta": 0.0,
+   "t": 0.0,
+   "wins": 4,
+   "losses": 4,
+   "errors": 0,
+   "cand_exceptions": 0,
+   "cand_diag": {
+    "race_tried": 35450,
+    "race_eval": 36723,
+    "race_implied": 29551,
+    "forward_orders": 1439,
+    "forward_units": 6978,
+    "race_considered": 1273,
+    "race_reorders": 224,
+    "race_gain": 12009,
+    "RACE_race_clone_turns": 28560,
+    "RACE_race_horizon_turns": 28560,
+    "RACE_race_mirror": 60,
+    "RACE_cs_rewrites": 50,
+    "RACE_cs_credit": 472,
+    "RACE_cs_sold": 406
+   }
+  },
+  "t42_guard": {
+   "delta": 0.13333333333333333,
+   "t": 1.0,
+   "wins": 4,
+   "losses": 4,
+   "errors": 0,
+   "cand_exceptions": 0,
+   "cand_diag": {
+    "race_tried": 35450,
+    "race_eval": 36723,
+    "race_implied": 29554,
+    "forward_orders": 1439,
+    "forward_units": 6978,
+    "race_considered": 1273,
+    "race_reorders": 224,
+    "race_gain": 12009,
+    "RACE_race_clone_turns": 28560,
+    "RACE_race_horizon_turns": 28560,
+    "RACE_race_mirror": 60,
+    "RACE_cs_rewrites": 50,
+    "RACE_cs_credit": 472,
+    "RACE_cs_sold": 406,
+    "forward_overflow_units": 3,
+    "forward_overflow_orders": 3
+   }
+  },
+  "t42_guard_wide": {
+   "delta": 0.0,
+   "t": 0.0,
+   "wins": 4,
+   "losses": 4,
+   "errors": 0,
+   "cand_exceptions": 0,
+   "cand_diag": {
+    "race_tried": 35450,
+    "race_eval": 36723,
+    "race_implied": 29554,
+    "forward_orders": 1439,
+    "forward_units": 6978,
+    "race_considered": 1273,
+    "race_reorders": 224,
+    "race_gain": 12009,
+    "RACE_race_clone_turns": 28560,
+    "RACE_race_horizon_turns": 28560,
+    "RACE_race_mirror": 60,
+    "RACE_cs_rewrites": 50,
+    "RACE_cs_credit": 472,
+    "RACE_cs_sold": 406,
+    "forward_overflow_units": 3,
+    "forward_overflow_orders": 3
+   }
+  },
+  "t42_guard_nof": {
+   "delta": 0.0,
+   "t": 0.0,
+   "wins": 4,
+   "losses": 4,
+   "errors": 0,
+   "cand_exceptions": 0,
+   "cand_diag": {
+    "race_tried": 35450,
+    "race_eval": 36723,
+    "race_implied": 29551,
+    "forward_orders": 1439,
+    "forward_units": 6978,
+    "race_considered": 1273,
+    "race_reorders": 224,
+    "race_gain": 12009,
+    "RACE_race_clone_turns": 28560,
+    "RACE_race_horizon_turns": 28560,
+    "RACE_race_mirror": 60,
+    "RACE_cs_rewrites": 50,
+    "RACE_cs_credit": 472,
+    "RACE_cs_sold": 406,
+    "forward_overflow_units": 3,
+    "forward_overflow_orders": 3
+   }
+  },
+  "t42_guard3": {
+   "delta": 2.5,
+   "t": 1.0894211177099153,
+   "wins": 8,
+   "losses": 4,
+   "errors": 0,
+   "cand_exceptions": 0,
+   "cand_diag": {
+    "race_tried": 35423,
+    "race_eval": 36699,
+    "race_implied": 29561,
+    "forward_orders": 1439,
+    "forward_units": 6975,
+    "race_considered": 1276,
+    "race_reorders": 224,
+    "race_gain": 12009,
+    "forward_overflow_units": 205,
+    "forward_overflow_orders": 89,
+    "RACE_race_clone_turns": 28560,
+    "RACE_race_horizon_turns": 28560,
+    "RACE_race_mirror": 60,
+    "RACE_cs_rewrites": 50,
+    "RACE_cs_credit": 472,
+    "RACE_cs_sold": 406
+   }
+  },
+  "t42_wool48": {
+   "delta": 0.06666666666666667,
+   "t": 0.6260126930757011,
+   "wins": 4,
+   "losses": 6,
+   "errors": 0,
+   "cand_exceptions": 0,
+   "cand_diag": {
+    "race_tried": 35433,
+    "race_eval": 36706,
+    "race_implied": 29551,
+    "forward_orders": 1439,
+    "forward_units": 7002,
+    "race_considered": 1273,
+    "race_reorders": 224,
+    "race_gain": 12009,
+    "RACE_race_clone_turns": 28560,
+    "RACE_race_horizon_turns": 28560,
+    "RACE_race_mirror": 60,
+    "RACE_cs_rewrites": 50,
+    "RACE_cs_credit": 472,
+    "RACE_cs_sold": 406
+   }
+  },
+  "t42_late12": {
+   "delta": -51.733333333333334,
+   "t": -2.628653039809088,
+   "wins": 25,
+   "losses": 33,
+   "errors": 0,
+   "cand_exceptions": 0,
+   "cand_diag": {
+    "race_tried": 35568,
+    "race_eval": 36906,
+    "race_implied": 29536,
+    "forward_orders": 1458,
+    "forward_units": 5867,
+    "race_considered": 1338,
+    "race_reorders": 241,
+    "race_gain": 13499,
+    "RACE_race_clone_turns": 28560,
+    "RACE_race_horizon_turns": 28560,
+    "RACE_race_mirror": 60,
+    "RACE_cs_rewrites": 50,
+    "RACE_cs_credit": 472,
+    "RACE_cs_sold": 406
+   }
+  },
+  "t42_melon": {
+   "delta": 0.0,
+   "t": 0.0,
+   "wins": 4,
+   "losses": 4,
+   "errors": 0,
+   "cand_exceptions": 0,
+   "cand_diag": {
+    "race_tried": 35450,
+    "race_eval": 36723,
+    "race_implied": 29551,
+    "forward_orders": 1439,
+    "forward_units": 6978,
+    "race_considered": 1273,
+    "race_reorders": 224,
+    "race_gain": 12009,
+    "RACE_race_clone_turns": 28560,
+    "RACE_race_horizon_turns": 28560,
+    "RACE_race_mirror": 60,
+    "RACE_cs_rewrites": 50,
+    "RACE_cs_credit": 472,
+    "RACE_cs_sold": 406
+   }
+  }
+ },
+ "built": {
+  "t42_ctl": {
+   "path": "data/candidate/t42_ctl/main.py",
+   "sha256": "17fe37877ab2f56b6e7bdbbf8ff4d6f30c2511e7b8af98247aa377e039f966b5"
+  },
+  "t42_guard": {
+   "path": "data/candidate/t42_guard/main.py",
+   "sha256": "b60431327619327650909272ea4dc25d249ab55b7fbe81468e0f96d4a1a744b5"
+  },
+  "t42_guard_wide": {
+   "path": "data/candidate/t42_guard_wide/main.py",
+   "sha256": "9b2a422af3f73b1bbc008a62f2aaeefc5d12e1e4ecd2d8bae2b76c487a646806"
+  },
+  "t42_guard_nof": {
+   "path": "data/candidate/t42_guard_nof/main.py",
+   "sha256": "13307f232f17fc3b3108c87098daab8238594a4483d29d1ab37045d3e8ef4c4b"
+  },
+  "t42_guard3": {
+   "path": "data/candidate/t42_guard3/main.py",
+   "sha256": "518f36cbcd5665b31443308eba9b7c5e96a16e53bd3c646806eb35c06ffe6178"
+  },
+  "t42_wool48": {
+   "path": "data/candidate/t42_wool48/main.py",
+   "sha256": "df163d943812a6c305efe44eaadf4912a96dc86a6469f93d8f1fd423f94e166e"
+  },
+  "t42_late12": {
+   "path": "data/candidate/t42_late12/main.py",
+   "sha256": "147b18ac71bcf1fc3502a2bafb651bae459351f0e904786044c8a9b210803958"
+  },
+  "t42_melon": {
+   "path": "data/candidate/t42_melon/main.py",
+   "sha256": "1c9b00121a04a8d64b8b8bfa699999f0a1229b31b2457938003bdbb089d5c719"
+  }
+ },
+ "best": {
+  "name": "t42_guard3",
+  "sha256": "518f36cbcd5665b31443308eba9b7c5e96a16e53bd3c646806eb35c06ffe6178",
+  "screen_delta": 2.5,
+  "screen_t": 1.0894211177099153,
+  "confirm_delta": 5.766666666666667,
+  "confirm_t": 1.8079204151178536,
+  "confirm_wl": [
+   9,
+   1
+  ]
+ },
+ "verdict": "NO EDGE: champion stays"
+}

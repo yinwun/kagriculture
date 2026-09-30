@@ -1,0 +1,245 @@
+{
+ "label": "shep_v_cap8",
+ "cand": "data/candidate/shep_v_cap8/main.py",
+ "base": "data/candidate/shep_v_cap2/main.py",
+ "seeds": [
+  11100,
+  11129
+ ],
+ "games": 60,
+ "delta": 909.0,
+ "t": 13.379898817082047,
+ "wins": 60,
+ "losses": 0,
+ "cand_wallet": 99421.0,
+ "base_wallet": 98512.0,
+ "errors": 0,
+ "cand_exceptions": 0,
+ "base_exceptions": 0,
+ "cand_mech": {
+  "PASS": 30244,
+  "CMD": 239480,
+  "MKT_BUY_PRODUCT": 4412,
+  "MKT_SELL": 21107,
+  "MKT_BUY_SEED": 10930,
+  "MOVE": 175620,
+  "MKT_HIRE": 16380,
+  "MKT_BUY_ANIMAL": 726,
+  "PICKUP": 12140,
+  "BUILD_PASTURE": 944,
+  "PLACE": 6238,
+  "PLANT": 14377,
+  "CARE": 24822,
+  "WATER": 66204,
+  "FEED": 20230,
+  "COLLECT_FERTILIZER": 22820,
+  "HARVEST": 29122,
+  "DROP": 2878,
+  "MKT_BUY_LAND": 130,
+  "DIG": 2261,
+  "BUILD_COOP": 232,
+  "FERTILIZE": 6968
+ },
+ "base_mech": {
+  "PASS": 30244,
+  "CMD": 239480,
+  "MKT_BUY_PRODUCT": 4412,
+  "MKT_SELL": 23769,
+  "MKT_BUY_SEED": 10930,
+  "MOVE": 175620,
+  "MKT_HIRE": 16380,
+  "MKT_BUY_ANIMAL": 726,
+  "PICKUP": 12140,
+  "BUILD_PASTURE": 944,
+  "PLACE": 6238,
+  "PLANT": 14377,
+  "CARE": 24822,
+  "WATER": 66204,
+  "FEED": 20230,
+  "COLLECT_FERTILIZER": 22820,
+  "HARVEST": 29122,
+  "DROP": 2878,
+  "MKT_BUY_LAND": 130,
+  "DIG": 2261,
+  "BUILD_COOP": 232,
+  "FERTILIZE": 6968
+ },
+ "cand_diag": {
+  "race_tried": 37261,
+  "race_eval": 38022,
+  "race_implied": 35089,
+  "forward_orders": 5824,
+  "forward_units": 21623,
+  "race_considered": 761,
+  "RACE_race_clone_turns": 28560,
+  "RACE_race_horizon_turns": 28560,
+  "RACE_race_mirror": 60,
+  "race_reorders": 70,
+  "race_gain": 1843
+ },
+ "base_diag": {
+  "race_tried": 37768,
+  "race_eval": 38583,
+  "race_implied": 34660,
+  "forward_orders": 11238,
+  "forward_units": 17173,
+  "race_considered": 815,
+  "RACE_race_clone_turns": 28560,
+  "RACE_race_horizon_turns": 28560,
+  "RACE_race_mirror": 60,
+  "race_reorders": 80,
+  "race_gain": 1895
+ },
+ "per_seed": [
+  {
+   "seed": 11100,
+   "delta": 1659.0,
+   "n": 2
+  },
+  {
+   "seed": 11101,
+   "delta": 651.0,
+   "n": 2
+  },
+  {
+   "seed": 11102,
+   "delta": 1117.0,
+   "n": 2
+  },
+  {
+   "seed": 11103,
+   "delta": 799.0,
+   "n": 2
+  },
+  {
+   "seed": 11104,
+   "delta": 1534.0,
+   "n": 2
+  },
+  {
+   "seed": 11105,
+   "delta": 1508.0,
+   "n": 2
+  },
+  {
+   "seed": 11106,
+   "delta": 1137.0,
+   "n": 2
+  },
+  {
+   "seed": 11107,
+   "delta": 870.0,
+   "n": 2
+  },
+  {
+   "seed": 11108,
+   "delta": 783.0,
+   "n": 2
+  },
+  {
+   "seed": 11109,
+   "delta": 581.0,
+   "n": 2
+  },
+  {
+   "seed": 11110,
+   "delta": 442.0,
+   "n": 2
+  },
+  {
+   "seed": 11111,
+   "delta": 1098.0,
+   "n": 2
+  },
+  {
+   "seed": 11112,
+   "delta": 829.0,
+   "n": 2
+  },
+  {
+   "seed": 11113,
+   "delta": 850.0,
+   "n": 2
+  },
+  {
+   "seed": 11114,
+   "delta": 1002.0,
+   "n": 2
+  },
+  {
+   "seed": 11115,
+   "delta": 804.0,
+   "n": 2
+  },
+  {
+   "seed": 11116,
+   "delta": 1077.0,
+   "n": 2
+  },
+  {
+   "seed": 11117,
+   "delta": 699.0,
+   "n": 2
+  },
+  {
+   "seed": 11118,
+   "delta": 1253.0,
+   "n": 2
+  },
+  {
+   "seed": 11119,
+   "delta": 689.0,
+   "n": 2
+  },
+  {
+   "seed": 11120,
+   "delta": 1200.0,
+   "n": 2
+  },
+  {
+   "seed": 11121,
+   "delta": 948.0,
+   "n": 2
+  },
+  {
+   "seed": 11122,
+   "delta": 893.0,
+   "n": 2
+  },
+  {
+   "seed": 11123,
+   "delta": 526.0,
+   "n": 2
+  },
+  {
+   "seed": 11124,
+   "delta": 108.0,
+   "n": 2
+  },
+  {
+   "seed": 11125,
+   "delta": 296.0,
+   "n": 2
+  },
+  {
+   "seed": 11126,
+   "delta": 468.0,
+   "n": 2
+  },
+  {
+   "seed": 11127,
+   "delta": 1550.0,
+   "n": 2
+  },
+  {
+   "seed": 11128,
+   "delta": 842.0,
+   "n": 2
+  },
+  {
+   "seed": 11129,
+   "delta": 1057.0,
+   "n": 2
+  }
+ ]
+}

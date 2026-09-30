@@ -1,0 +1,237 @@
+{
+ "label": "kaggriculture-20",
+ "cand": "data/cand/kaggriculture-2026-v1-extracted-main.py",
+ "base": "data/candidate/shep_v_cap24/main.py",
+ "seeds": [
+  13000,
+  13029
+ ],
+ "games": 60,
+ "delta": -3663.4333333333334,
+ "t": -6.205174669468258,
+ "wins": 2,
+ "losses": 58,
+ "cand_wallet": 91669.61666666667,
+ "base_wallet": 95333.05,
+ "errors": 0,
+ "cand_exceptions": 0,
+ "base_exceptions": 0,
+ "cand_mech": {
+  "PASS": 29890,
+  "CMD": 239638,
+  "MKT_BUY_PRODUCT": 4172,
+  "MKT_SELL": 25492,
+  "MOVE": 177008,
+  "MKT_HIRE": 16440,
+  "MKT_BUY_ANIMAL": 722,
+  "PICKUP": 12070,
+  "BUILD_PASTURE": 882,
+  "PLACE": 6146,
+  "CARE": 25056,
+  "MKT_BUY_SEED": 11106,
+  "PLANT": 14457,
+  "WATER": 67886,
+  "FEED": 19990,
+  "COLLECT_FERTILIZER": 22572,
+  "HARVEST": 29066,
+  "DROP": 2842,
+  "MKT_BUY_LAND": 134,
+  "BUILD_COOP": 270,
+  "FERTILIZE": 6360,
+  "DIG": 2151
+ },
+ "base_mech": {
+  "PASS": 30710,
+  "CMD": 239556,
+  "MKT_BUY_PRODUCT": 4436,
+  "MKT_SELL": 20404,
+  "MKT_BUY_SEED": 11041,
+  "MOVE": 176474,
+  "MKT_HIRE": 16430,
+  "MKT_BUY_ANIMAL": 724,
+  "PICKUP": 12098,
+  "BUILD_PASTURE": 874,
+  "PLACE": 6158,
+  "PLANT": 14439,
+  "CARE": 24476,
+  "WATER": 66734,
+  "FEED": 19508,
+  "COLLECT_FERTILIZER": 22470,
+  "HARVEST": 29444,
+  "DROP": 2890,
+  "MKT_BUY_LAND": 132,
+  "DIG": 2243,
+  "BUILD_COOP": 280,
+  "FERTILIZE": 7232
+ },
+ "cand_diag": {},
+ "base_diag": {
+  "race_tried": 37509,
+  "race_eval": 38307,
+  "race_implied": 33065,
+  "forward_orders": 4739,
+  "forward_units": 23871,
+  "race_considered": 798,
+  "RACE_race_clone_turns": 12864,
+  "RACE_race_horizon_turns": 12864,
+  "RACE_race_lost_races": 38,
+  "RACE_race_escalations": 38,
+  "race_reorders": 92,
+  "race_gain": 2732,
+  "RACE_cs_rewrites": 36,
+  "RACE_cs_credit": 348,
+  "RACE_cs_sold": 232
+ },
+ "per_seed": [
+  {
+   "seed": 13000,
+   "delta": -5296.0,
+   "n": 2
+  },
+  {
+   "seed": 13001,
+   "delta": -3837.0,
+   "n": 2
+  },
+  {
+   "seed": 13002,
+   "delta": -789.0,
+   "n": 2
+  },
+  {
+   "seed": 13003,
+   "delta": -613.0,
+   "n": 2
+  },
+  {
+   "seed": 13004,
+   "delta": -4414.0,
+   "n": 2
+  },
+  {
+   "seed": 13005,
+   "delta": -6902.0,
+   "n": 2
+  },
+  {
+   "seed": 13006,
+   "delta": -4991.0,
+   "n": 2
+  },
+  {
+   "seed": 13007,
+   "delta": -3902.0,
+   "n": 2
+  },
+  {
+   "seed": 13008,
+   "delta": -2299.0,
+   "n": 2
+  },
+  {
+   "seed": 13009,
+   "delta": -3797.0,
+   "n": 2
+  },
+  {
+   "seed": 13010,
+   "delta": -1954.0,
+   "n": 2
+  },
+  {
+   "seed": 13011,
+   "delta": -4860.0,
+   "n": 2
+  },
+  {
+   "seed": 13012,
+   "delta": -2547.0,
+   "n": 2
+  },
+  {
+   "seed": 13013,
+   "delta": -728.0,
+   "n": 2
+  },
+  {
+   "seed": 13014,
+   "delta": -3702.0,
+   "n": 2
+  },
+  {
+   "seed": 13015,
+   "delta": -3360.0,
+   "n": 2
+  },
+  {
+   "seed": 13016,
+   "delta": -772.0,
+   "n": 2
+  },
+  {
+   "seed": 13017,
+   "delta": -7659.0,
+   "n": 2
+  },
+  {
+   "seed": 13018,
+   "delta": -191.0,
+   "n": 2
+  },
+  {
+   "seed": 13019,
+   "delta": -1975.0,
+   "n": 2
+  },
+  {
+   "seed": 13020,
+   "delta": -2784.0,
+   "n": 2
+  },
+  {
+   "seed": 13021,
+   "delta": -14466.0,
+   "n": 2
+  },
+  {
+   "seed": 13022,
+   "delta": -4129.0,
+   "n": 2
+  },
+  {
+   "seed": 13023,
+   "delta": -8542.0,
+   "n": 2
+  },
+  {
+   "seed": 13024,
+   "delta": -9258.0,
+   "n": 2
+  },
+  {
+   "seed": 13025,
+   "delta": -2983.0,
+   "n": 2
+  },
+  {
+   "seed": 13026,
+   "delta": -1602.0,
+   "n": 2
+  },
+  {
+   "seed": 13027,
+   "delta": -1388.0,
+   "n": 2
+  },
+  {
+   "seed": 13028,
+   "delta": 1700.0,
+   "n": 2
+  },
+  {
+   "seed": 13029,
+   "delta": -1863.0,
+   "n": 2
+  }
+ ]
+}

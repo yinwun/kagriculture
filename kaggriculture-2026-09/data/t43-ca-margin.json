@@ -1,0 +1,92 @@
+{
+  "champion": "data/candidate/pi_stack/main.py",
+  "champion_sha256": "65962e928b0712946e1bacb929b4fb919a7231f34e1bc99c7e350d4e2755f317",
+  "anchor": "_CA_MARGIN = -22.0",
+  "screen_panel": "18000-18029",
+  "confirm_panel": "18100-18129",
+  "variants": [
+    {
+      "ca_margin": -15.0,
+      "path": "data/candidate/pi_cam15p0/main.py",
+      "sha256": "45d398ffd789022bda1654fb094e60289215f164879c87a05bdafcb95a5708d3",
+      "screen_delta": -64.2,
+      "screen_t": -1.8386914301766601,
+      "screen_wl": [
+        19,
+        25
+      ],
+      "errors": 0
+    },
+    {
+      "ca_margin": -22.0,
+      "path": "data/candidate/pi_cam22p0/main.py",
+      "sha256": "65962e928b0712946e1bacb929b4fb919a7231f34e1bc99c7e350d4e2755f317",
+      "screen_delta": 0.0,
+      "screen_t": 0.0,
+      "screen_wl": [
+        3,
+        3
+      ],
+      "errors": 0
+    },
+    {
+      "ca_margin": -30.0,
+      "path": "data/candidate/pi_cam30p0/main.py",
+      "sha256": "6a3900c8c8b456cb620f619bde9ee618748d04deb7284a492897270710061e77",
+      "screen_delta": 7.3,
+      "screen_t": 0.5437657026699168,
+      "screen_wl": [
+        25,
+        21
+      ],
+      "errors": 0
+    },
+    {
+      "ca_margin": -40.0,
+      "path": "data/candidate/pi_cam40p0/main.py",
+      "sha256": "a9035df8c46624e27772cf097cbb8597d0fdca602419c2f93d14812fb37d17ff",
+      "screen_delta": -28.0,
+      "screen_t": -0.4431209196479615,
+      "screen_wl": [
+        18,
+        38
+      ],
+      "errors": 0
+    },
+    {
+      "ca_margin": -55.0,
+      "path": "data/candidate/pi_cam55p0/main.py",
+      "sha256": "3f0d573cb67b83d484666293f4a18a976e4b4a6b3cd5f32ab58af6a74b003daa",
+      "screen_delta": -425.3666666666667,
+      "screen_t": -3.7162953464670423,
+      "screen_wl": [
+        9,
+        47
+      ],
+      "errors": 0
+    },
+    {
+      "ca_margin": -70.0,
+      "path": "data/candidate/pi_cam70p0/main.py",
+      "sha256": "6a191c66dc6dd36484a2cf2b379fcc4e412dcd977902547ae7593d4c8479a172",
+      "screen_delta": -1549.4333333333334,
+      "screen_t": -3.300697973257701,
+      "screen_wl": [
+        5,
+        55
+      ],
+      "errors": 0
+    }
+  ],
+  "best": {
+    "ca_margin": -30.0,
+    "sha256": "6a3900c8c8b456cb620f619bde9ee618748d04deb7284a492897270710061e77",
+    "confirm_delta": 11.3,
+    "confirm_t": 0.3514710542566411,
+    "confirm_wl": [
+      28,
+      28
+    ]
+  },
+  "verdict": "NO EDGE: champion stays"
+}

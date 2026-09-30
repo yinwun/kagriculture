@@ -1,0 +1,673 @@
+[
+ {
+  "notebook": "data/frontier4/nb/31415926535897932384626433832795058202884197169399/31415926535897932384626433832795058202884197169399.ipynb",
+  "stem": "31415926535897932384626433832795058202884197169399",
+  "chars": 887753,
+  "vnums_md": [
+   "54",
+   "76",
+   "78"
+  ],
+  "declared_sha256": null,
+  "how": "str:AGENT_B64:b64",
+  "out": "data/frontier4/main/31415926535897932384626433832795058202884197169399-main.py",
+  "bytes": 1196118,
+  "sha256": "836cbfb633583890728cfd3a67e22a53bee95616edb6363798e0d28c774dc527",
+  "compile": "OK",
+  "route_blobs": [
+   [
+    "54fe156ea7206e38",
+    "ROUTE TABLE routes=41 actions=3982"
+   ]
+  ],
+  "embedded_blobs": [
+   "54fe156ea7206e38"
+  ],
+  "source_vnums_head": [
+   "25",
+   "27",
+   "28",
+   "31",
+   "39"
+  ],
+  "blob_is_ours": true,
+  "status": "runnable"
+ },
+ {
+  "notebook": "data/frontier4/nb/a-song-of-ice-and-fire-fixed-flexible/a-song-of-ice-and-fire-fixed-flexible.ipynb",
+  "stem": "a-song-of-ice-and-fire-fixed-flexible",
+  "chars": 707924,
+  "vnums_md": [],
+  "declared_sha256": "12ad317ecac6c07fb2c2e10bf4820ecd1fd4551a5a36aa0e34ab93b2c33c2693",
+  "how": "str:PAYLOAD_B85:b85",
+  "out": "data/frontier4/main/a-song-of-ice-and-fire-fixed-flexible-main.py",
+  "bytes": 897851,
+  "sha256": "12ad317ecac6c07fb2c2e10bf4820ecd1fd4551a5a36aa0e34ab93b2c33c2693",
+  "declared_match": true,
+  "compile": "OK",
+  "route_blobs": [
+   [
+    "54fe156ea7206e38",
+    "ROUTE TABLE routes=41 actions=3982"
+   ]
+  ],
+  "embedded_blobs": [
+   "54fe156ea7206e38"
+  ],
+  "source_vnums_head": [
+   "25",
+   "27",
+   "28",
+   "31",
+   "39"
+  ],
+  "blob_is_ours": true,
+  "status": "runnable"
+ },
+ {
+  "notebook": "data/frontier4/nb/cha22-agent/cha22-agent.ipynb",
+  "stem": "cha22-agent",
+  "chars": 530755,
+  "vnums_md": [
+   "13",
+   "35"
+  ],
+  "how": "agent-cell",
+  "out": "data/frontier4/main/cha22-agent-main.py",
+  "bytes": 523984,
+  "sha256": "bc8a25629ec8517c6dda52000da63afd088ccf4d8db401f1819e75059134f51b",
+  "compile": "OK",
+  "route_blobs": [],
+  "embedded_blobs": [],
+  "source_vnums_head": [
+   "25",
+   "27",
+   "28",
+   "31",
+   "39"
+  ],
+  "blob_is_ours": false,
+  "status": "runnable"
+ },
+ {
+  "notebook": "data/frontier4/nb/demand-preserving-turn-sale-timing/demand-preserving-turn-sale-timing.ipynb",
+  "stem": "demand-preserving-turn-sale-timing",
+  "chars": 866441,
+  "vnums_md": [],
+  "declared_sha256": "55be5d5f124c8daaaa63c1a29ba4aab096004909666f04748007603c67b7d2a8",
+  "how": "str:ARCHIVE_B85:b85",
+  "out": "data/frontier4/main/demand-preserving-turn-sale-timing-main.py",
+  "bytes": 1196081,
+  "sha256": "55be5d5f124c8daaaa63c1a29ba4aab096004909666f04748007603c67b7d2a8",
+  "declared_match": true,
+  "compile": "OK",
+  "route_blobs": [
+   [
+    "54fe156ea7206e38",
+    "ROUTE TABLE routes=41 actions=3982"
+   ]
+  ],
+  "embedded_blobs": [
+   "54fe156ea7206e38"
+  ],
+  "source_vnums_head": [
+   "25",
+   "27",
+   "28",
+   "31",
+   "39"
+  ],
+  "blob_is_ours": true,
+  "status": "runnable"
+ },
+ {
+  "notebook": "data/frontier4/nb/farmer-john-and-the-idle-seller/farmer-john-and-the-idle-seller.ipynb",
+  "stem": "farmer-john-and-the-idle-seller",
+  "chars": 820794,
+  "vnums_md": [],
+  "how": "joined:ARCHIVE_PARTS:b85",
+  "out": "data/frontier4/main/farmer-john-and-the-idle-seller-main.py",
+  "bytes": 1148715,
+  "sha256": "03165654e70bd04479a1db776f58146531c320e622db09b9e59ae0a4353c7b82",
+  "compile": "OK",
+  "route_blobs": [
+   [
+    "54fe156ea7206e38",
+    "ROUTE TABLE routes=41 actions=3982"
+   ]
+  ],
+  "embedded_blobs": [
+   "54fe156ea7206e38"
+  ],
+  "source_vnums_head": [
+   "25",
+   "27",
+   "28",
+   "31",
+   "39"
+  ],
+  "blob_is_ours": true,
+  "status": "runnable"
+ },
+ {
+  "notebook": "data/frontier4/nb/farmer-john-and-the-wheat-seller/farmer-john-and-the-wheat-seller.ipynb",
+  "stem": "farmer-john-and-the-wheat-seller",
+  "chars": 245514,
+  "vnums_md": [],
+  "declared_sha256": "a91efdd0fb1c96f7342e89e59217e72764160fcebac5f0de5c9ea6c6b775e788",
+  "how": "str:SOURCE_B85:b85",
+  "out": "data/frontier4/main/farmer-john-and-the-wheat-seller-main.py",
+  "bytes": 505779,
+  "sha256": "a91efdd0fb1c96f7342e89e59217e72764160fcebac5f0de5c9ea6c6b775e788",
+  "declared_match": true,
+  "compile": "OK",
+  "route_blobs": [
+   [
+    "54fe156ea7206e38",
+    "ROUTE TABLE routes=41 actions=3982"
+   ]
+  ],
+  "embedded_blobs": [
+   "54fe156ea7206e38"
+  ],
+  "source_vnums_head": [
+   "25",
+   "27",
+   "28",
+   "31",
+   "39"
+  ],
+  "blob_is_ours": true,
+  "status": "runnable"
+ },
+ {
+  "notebook": "data/frontier4/nb/god-s-mode-hacked-stores/god-s-mode-hacked-stores.ipynb",
+  "stem": "god-s-mode-hacked-stores",
+  "chars": 957852,
+  "vnums_md": [],
+  "how": null,
+  "status": "no-runnable-source"
+ },
+ {
+  "notebook": "data/frontier4/nb/graph-reinforcement-learning/graph-reinforcement-learning.ipynb",
+  "stem": "graph-reinforcement-learning",
+  "chars": 97561,
+  "vnums_md": [
+   "16"
+  ],
+  "declared_sha256": null,
+  "how": "str:BASE_SOURCE_B85:b85",
+  "out": "data/frontier4/main/graph-reinforcement-learning-main.py",
+  "bytes": 18946,
+  "sha256": "f029fa0cb66a9eb509afbe44e3f59b800332d0419db91607183410e4089c4d19",
+  "compile": "OK",
+  "route_blobs": [
+   [
+    "c51facaac9f0dd27",
+    "not-JSON (UnicodeDecodeError)"
+   ]
+  ],
+  "embedded_blobs": [
+   "c51facaac9f0dd27"
+  ],
+  "source_vnums_head": [
+   "16"
+  ],
+  "blob_is_ours": false,
+  "status": "runnable"
+ },
+ {
+  "notebook": "data/frontier4/nb/kaggricult-man-reverse-engineering/kaggricult-man-reverse-engineering.ipynb",
+  "stem": "kaggricult-man-reverse-engineering",
+  "chars": 11553,
+  "vnums_md": [],
+  "how": null,
+  "status": "no-runnable-source"
+ },
+ {
+  "notebook": "data/frontier4/nb/kaggriculture-2026-v1/kaggriculture-2026-v1.ipynb",
+  "stem": "kaggriculture-2026-v1",
+  "chars": 305241,
+  "vnums_md": [],
+  "how": "writefile",
+  "out": "data/frontier4/main/kaggriculture-2026-v1-main.py",
+  "bytes": 299347,
+  "sha256": "dc5433c7996f3f18bc766083a3b6b0ef22ba290cf917fd680ee41c62b8de734d",
+  "compile": "OK",
+  "route_blobs": [
+   [
+    "5df1c84699004845",
+    "dict keys=['base', 'patches']"
+   ]
+  ],
+  "embedded_blobs": [
+   "5df1c84699004845"
+  ],
+  "source_vnums_head": [
+   "25",
+   "27",
+   "28",
+   "31"
+  ],
+  "blob_is_ours": false,
+  "status": "runnable"
+ },
+ {
+  "notebook": "data/frontier4/nb/kaggriculture-agent-lab-copy-replay-compare/kaggriculture-agent-lab-copy-replay-compare.ipynb",
+  "stem": "kaggriculture-agent-lab-copy-replay-compare",
+  "chars": 12103,
+  "vnums_md": [],
+  "how": null,
+  "status": "no-runnable-source"
+ },
+ {
+  "notebook": "data/frontier4/nb/kaggriculture-autonomous-ai-farming-agent/kaggriculture-autonomous-ai-farming-agent.ipynb",
+  "stem": "kaggriculture-autonomous-ai-farming-agent",
+  "chars": 887185,
+  "vnums_md": [
+   "56"
+  ],
+  "declared_sha256": null,
+  "how": "str:_PAYLOAD:b64",
+  "out": "data/frontier4/main/kaggriculture-autonomous-ai-farming-agent-main.py",
+  "bytes": 1067635,
+  "sha256": "2993cf9241b467bbfa317cf8ba13216f4f2b49070c5632984eb2704eb88a2435",
+  "compile": "OK",
+  "route_blobs": [
+   [
+    "54fe156ea7206e38",
+    "ROUTE TABLE routes=41 actions=3982"
+   ]
+  ],
+  "embedded_blobs": [
+   "54fe156ea7206e38"
+  ],
+  "source_vnums_head": [
+   "25",
+   "27",
+   "28",
+   "31",
+   "39"
+  ],
+  "blob_is_ours": true,
+  "status": "runnable"
+ },
+ {
+  "notebook": "data/frontier4/nb/kaggriculture-hack/kaggriculture-hack.ipynb",
+  "stem": "kaggriculture-hack",
+  "chars": 320362,
+  "vnums_md": [
+   "234",
+   "31",
+   "34",
+   "35",
+   "36",
+   "37",
+   "38"
+  ],
+  "how": "writefile",
+  "out": "data/frontier4/main/kaggriculture-hack-main.py",
+  "bytes": 299348,
+  "sha256": "a2047ebd8ca5720221e1421529655d9c67a7b2fedb74e874c7d3c55a8970ac7e",
+  "compile": "OK",
+  "route_blobs": [
+   [
+    "5df1c84699004845",
+    "dict keys=['base', 'patches']"
+   ]
+  ],
+  "embedded_blobs": [
+   "5df1c84699004845"
+  ],
+  "source_vnums_head": [
+   "25",
+   "27",
+   "28",
+   "31"
+  ],
+  "blob_is_ours": false,
+  "status": "runnable"
+ },
+ {
+  "notebook": "data/frontier4/nb/kaggriculture-harvest-ledger/kaggriculture-harvest-ledger.ipynb",
+  "stem": "kaggriculture-harvest-ledger",
+  "chars": 825656,
+  "vnums_md": [
+   "84",
+   "85"
+  ],
+  "how": "main.py",
+  "out": "data/frontier4/main/kaggriculture-harvest-ledger-main.py",
+  "bytes": 1197325,
+  "sha256": "8cffc452c3023082f261d66ec068d8a285a3febea5d4d56de2b13792e2086d5e",
+  "compile": "OK",
+  "route_blobs": [
+   [
+    "54fe156ea7206e38",
+    "ROUTE TABLE routes=41 actions=3982"
+   ]
+  ],
+  "embedded_blobs": [
+   "54fe156ea7206e38"
+  ],
+  "source_vnums_head": [
+   "25",
+   "27",
+   "28",
+   "31",
+   "39"
+  ],
+  "blob_is_ours": true,
+  "status": "runnable"
+ },
+ {
+  "notebook": "data/frontier4/nb/kaggriculture-master-engine-v3/kaggriculture-master-engine-v3.ipynb",
+  "stem": "kaggriculture-master-engine-v3",
+  "chars": 529195,
+  "vnums_md": [
+   "224",
+   "231",
+   "233",
+   "234",
+   "34",
+   "35"
+  ],
+  "how": "agent-cell",
+  "out": "data/frontier4/main/kaggriculture-master-engine-v3-main.py",
+  "bytes": 523906,
+  "sha256": "dc04c0862e4d70c62ccc4dd356292f9aa8e187c2fadde537867013b3eacdacad",
+  "compile": "OK",
+  "route_blobs": [],
+  "embedded_blobs": [],
+  "source_vnums_head": [
+   "25",
+   "27",
+   "28",
+   "31",
+   "39"
+  ],
+  "blob_is_ours": false,
+  "status": "runnable"
+ },
+ {
+  "notebook": "data/frontier4/nb/kaggriculture-master-engine-v53e01d74d8f/kaggriculture-master-engine-v53e01d74d8f.ipynb",
+  "stem": "kaggriculture-master-engine-v53e01d74d8f",
+  "chars": 332188,
+  "vnums_md": [
+   "224",
+   "231",
+   "233",
+   "234",
+   "34",
+   "35"
+  ],
+  "how": "writefile",
+  "out": "data/frontier4/main/kaggriculture-master-engine-v53e01d74d8f-main.py",
+  "bytes": 311246,
+  "sha256": "708c7485fa964853b193f175dcd83020602c005e159ce82e38dc350b22e970c8",
+  "compile": "OK",
+  "route_blobs": [
+   [
+    "5df1c84699004845",
+    "dict keys=['base', 'patches']"
+   ]
+  ],
+  "embedded_blobs": [
+   "5df1c84699004845"
+  ],
+  "source_vnums_head": [
+   "25",
+   "27",
+   "28",
+   "31"
+  ],
+  "blob_is_ours": false,
+  "status": "runnable"
+ },
+ {
+  "notebook": "data/frontier4/nb/kaggriculture-multi-route-farming-agent/kaggriculture-multi-route-farming-agent.ipynb",
+  "stem": "kaggriculture-multi-route-farming-agent",
+  "chars": 61382,
+  "vnums_md": [],
+  "declared_sha256": null,
+  "how": "str:_PAYLOAD:b64",
+  "out": "data/frontier4/main/kaggriculture-multi-route-farming-agent-main.py",
+  "bytes": 75090,
+  "sha256": "489f5d197527f107027626cce79d850fd2ca90edd43d94384b849b6511e27bdb",
+  "compile": "OK",
+  "route_blobs": [],
+  "embedded_blobs": [],
+  "source_vnums_head": [
+   "62"
+  ],
+  "blob_is_ours": false,
+  "status": "runnable"
+ },
+ {
+  "notebook": "data/frontier4/nb/kaggriculture-population-robust-economy/kaggriculture-population-robust-economy.ipynb",
+  "stem": "kaggriculture-population-robust-economy",
+  "chars": 637098,
+  "vnums_md": [],
+  "how": "joined:MAIN_BLOB:b85",
+  "out": "data/frontier4/main/kaggriculture-population-robust-economy-main.py",
+  "bytes": 813203,
+  "sha256": "3ec06d07c1076dd8fdfe444cb5e19f1789f1e4f8d66597db3b3f70a5e80895fc",
+  "compile": "OK",
+  "route_blobs": [
+   [
+    "54fe156ea7206e38",
+    "ROUTE TABLE routes=41 actions=3982"
+   ]
+  ],
+  "embedded_blobs": [
+   "54fe156ea7206e38"
+  ],
+  "source_vnums_head": [],
+  "blob_is_ours": true,
+  "status": "runnable"
+ },
+ {
+  "notebook": "data/frontier4/nb/kaggriculture-top-2-master-engine-v4/kaggriculture-top-2-master-engine-v4.ipynb",
+  "stem": "kaggriculture-top-2-master-engine-v4",
+  "chars": 824980,
+  "vnums_md": [
+   "25",
+   "39",
+   "47",
+   "48"
+  ],
+  "how": "main.py",
+  "out": "data/frontier4/main/kaggriculture-top-2-master-engine-v4-main.py",
+  "bytes": 1196118,
+  "sha256": "63dde9e4f73eb6c4c60cd453d085c17f4fec7110a6d52a2946b20e7ddb9f32bc",
+  "compile": "OK",
+  "route_blobs": [
+   [
+    "54fe156ea7206e38",
+    "ROUTE TABLE routes=41 actions=3982"
+   ]
+  ],
+  "embedded_blobs": [
+   "54fe156ea7206e38"
+  ],
+  "source_vnums_head": [
+   "25",
+   "27",
+   "28",
+   "31",
+   "39"
+  ],
+  "blob_is_ours": true,
+  "status": "runnable"
+ },
+ {
+  "notebook": "data/frontier4/nb/kaggriculture-ttv1/kaggriculture-ttv1.ipynb",
+  "stem": "kaggriculture-ttv1",
+  "chars": 823837,
+  "vnums_md": [],
+  "how": "main.py",
+  "out": "data/frontier4/main/kaggriculture-ttv1-main.py",
+  "bytes": 1196118,
+  "sha256": "63dde9e4f73eb6c4c60cd453d085c17f4fec7110a6d52a2946b20e7ddb9f32bc",
+  "compile": "OK",
+  "route_blobs": [
+   [
+    "54fe156ea7206e38",
+    "ROUTE TABLE routes=41 actions=3982"
+   ]
+  ],
+  "embedded_blobs": [
+   "54fe156ea7206e38"
+  ],
+  "source_vnums_head": [
+   "25",
+   "27",
+   "28",
+   "31",
+   "39"
+  ],
+  "blob_is_ours": true,
+  "status": "runnable"
+ },
+ {
+  "notebook": "data/frontier4/nb/kaggriculture-utils-v1/kaggriculture-utils-v1.ipynb",
+  "stem": "kaggriculture-utils-v1",
+  "chars": 11553,
+  "vnums_md": [],
+  "how": null,
+  "status": "no-runnable-source"
+ },
+ {
+  "notebook": "data/frontier4/nb/kaggriculture-version-31-26-09-bronze-going-up/kaggriculture-version-31-26-09-bronze-going-up.ipynb",
+  "stem": "kaggriculture-version-31-26-09-bronze-going-up",
+  "chars": 325319,
+  "vnums_md": [
+   "30",
+   "31",
+   "39",
+   "45",
+   "56"
+  ],
+  "how": "writefile",
+  "out": "data/frontier4/main/kaggriculture-version-31-26-09-bronze-going-up-main.py",
+  "bytes": 299347,
+  "sha256": "dc5433c7996f3f18bc766083a3b6b0ef22ba290cf917fd680ee41c62b8de734d",
+  "compile": "OK",
+  "route_blobs": [
+   [
+    "5df1c84699004845",
+    "dict keys=['base', 'patches']"
+   ]
+  ],
+  "embedded_blobs": [
+   "5df1c84699004845"
+  ],
+  "source_vnums_head": [
+   "25",
+   "27",
+   "28",
+   "31"
+  ],
+  "blob_is_ours": false,
+  "status": "runnable"
+ },
+ {
+  "notebook": "data/frontier4/nb/kaggriculture-what-2600-farms-do-differently/kaggriculture-what-2600-farms-do-differently.ipynb",
+  "stem": "kaggriculture-what-2600-farms-do-differently",
+  "chars": 80419,
+  "vnums_md": [],
+  "how": null,
+  "status": "no-runnable-source"
+ },
+ {
+  "notebook": "data/frontier4/nb/pioneers-of-kaggle-town-candidate-2/pioneers-of-kaggle-town-candidate-2.ipynb",
+  "stem": "pioneers-of-kaggle-town-candidate-2",
+  "chars": 927773,
+  "vnums_md": [],
+  "how": null,
+  "status": "no-runnable-source"
+ },
+ {
+  "notebook": "data/frontier4/nb/the-2965-master-hybrid-engine/the-2965-master-hybrid-engine.ipynb",
+  "stem": "the-2965-master-hybrid-engine",
+  "chars": 887694,
+  "vnums_md": [
+   "54",
+   "78",
+   "79"
+  ],
+  "declared_sha256": null,
+  "how": "str:AGENT_B64:b64",
+  "out": "data/frontier4/main/the-2965-master-hybrid-engine-main.py",
+  "bytes": 1196118,
+  "sha256": "63dde9e4f73eb6c4c60cd453d085c17f4fec7110a6d52a2946b20e7ddb9f32bc",
+  "compile": "OK",
+  "route_blobs": [
+   [
+    "54fe156ea7206e38",
+    "ROUTE TABLE routes=41 actions=3982"
+   ]
+  ],
+  "embedded_blobs": [
+   "54fe156ea7206e38"
+  ],
+  "source_vnums_head": [
+   "25",
+   "27",
+   "28",
+   "31",
+   "39"
+  ],
+  "blob_is_ours": true,
+  "status": "runnable"
+ },
+ {
+  "notebook": "data/frontier4/nb/the-shepherds-ledger-herd-safe-sovereign/the-shepherds-ledger-herd-safe-sovereign.ipynb",
+  "stem": "the-shepherds-ledger-herd-safe-sovereign",
+  "chars": 714637,
+  "vnums_md": [
+   "13",
+   "50"
+  ],
+  "declared_sha256": null,
+  "how": "str:AGENT_B64:b64",
+  "out": "data/frontier4/main/the-shepherds-ledger-herd-safe-sovereign-main.py",
+  "bytes": 897884,
+  "sha256": "1eb0938d1a032e6189f5c08963cb2114ce71166942dd97727cccd405a002d2ee",
+  "compile": "OK",
+  "route_blobs": [
+   [
+    "54fe156ea7206e38",
+    "ROUTE TABLE routes=41 actions=3982"
+   ]
+  ],
+  "embedded_blobs": [
+   "54fe156ea7206e38"
+  ],
+  "source_vnums_head": [
+   "25",
+   "27",
+   "28",
+   "31",
+   "39"
+  ],
+  "blob_is_ours": true,
+  "status": "runnable"
+ },
+ {
+  "notebook": "data/frontier4/nb/top10-replay-dataset-archive/top10-replay-dataset-archive.ipynb",
+  "stem": "top10-replay-dataset-archive",
+  "chars": 30503,
+  "vnums_md": [],
+  "how": null,
+  "status": "no-runnable-source"
+ },
+ {
+  "notebook": "data/frontier4/nb/x-ray-your-agent/x-ray-your-agent.ipynb",
+  "stem": "x-ray-your-agent",
+  "chars": 92267,
+  "vnums_md": [],
+  "how": null,
+  "status": "no-runnable-source"
+ }
+]

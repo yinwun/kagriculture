@@ -1,0 +1,79 @@
+{
+  "champion": "data/candidate/pi_stack/main.py",
+  "champion_sha256": "65962e928b0712946e1bacb929b4fb919a7231f34e1bc99c7e350d4e2755f317",
+  "screen_panel": "15000-15029",
+  "confirm_panel": "15100-15129",
+  "variants": [
+    {
+      "drain_mult": 1.0,
+      "path": "data/candidate/pi_dm1p0/main.py",
+      "sha256": "37db5119a18acbf0fc914be01064de99ec60e1c305e6772d83ac467f7df48254",
+      "screen_delta": -458.45,
+      "screen_t": -9.13791427606815,
+      "screen_wl": [
+        3,
+        57
+      ],
+      "errors": 0
+    },
+    {
+      "drain_mult": 2.0,
+      "path": "data/candidate/pi_dm2p0/main.py",
+      "sha256": "efffa7b16b9c386200620500c3469c6a17b1020921b656ebcce8ca25bb9894f2",
+      "screen_delta": -421.8,
+      "screen_t": -9.057115032357284,
+      "screen_wl": [
+        3,
+        57
+      ],
+      "errors": 0
+    },
+    {
+      "drain_mult": 8.0,
+      "path": "data/candidate/pi_dm8p0/main.py",
+      "sha256": "f349c34eba50d0c03194bee8e6ec24e798fa20c71b56fd2addcd8c8ffe7b702e",
+      "screen_delta": -160.16666666666666,
+      "screen_t": -5.953073423632512,
+      "screen_wl": [
+        9,
+        51
+      ],
+      "errors": 0
+    },
+    {
+      "drain_mult": 12.0,
+      "path": "data/candidate/pi_dm12p0/main.py",
+      "sha256": "7cfd4593e4647dbe6414a24e6ec87fd1ddadb2e372825efb98b3896450f32655",
+      "screen_delta": -34.61666666666667,
+      "screen_t": -2.4451216369732482,
+      "screen_wl": [
+        19,
+        39
+      ],
+      "errors": 0
+    },
+    {
+      "drain_mult": 48.0,
+      "path": "data/candidate/pi_dm48p0/main.py",
+      "sha256": "9678ecdab95e2c879bb595ad700c05ff34f9adfffd04de1439ae8139ed451ef2",
+      "screen_delta": -3.5,
+      "screen_t": -2.0616132644711205,
+      "screen_wl": [
+        8,
+        14
+      ],
+      "errors": 0
+    }
+  ],
+  "best": {
+    "drain_mult": 48.0,
+    "sha256": "9678ecdab95e2c879bb595ad700c05ff34f9adfffd04de1439ae8139ed451ef2",
+    "confirm_delta": -4.333333333333333,
+    "confirm_t": -2.6894015608696344,
+    "confirm_wl": [
+      11,
+      21
+    ]
+  },
+  "verdict": "NO EDGE: champion stays"
+}
